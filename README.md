@@ -9,9 +9,8 @@ Tujuan dari repositori ini adalah:
 3. Menyediakan antarmuka visual (dashboard web) yang dinamis untuk melihat, mencari, menyortir, dan mem-filter data yang sudah ditarik secara offline.
 
 ## ✨ Fitur Utama
-- **Scraper Spesifik (Surabaya/Kustom)** (`scrape_dapo.py`): Mengambil data sekolah secara rinci untuk wilayah spesifik dan menyimpan hasilnya dalam bentuk CSV, Excel (dengan multi-sheet), dan JSON.
-- **Scraper Nasional** (`scrape_indonesia.py`): Mengambil data dari tingkat Provinsi, Kabupaten, Kecamatan, hingga Sekolah untuk seluruh Indonesia. Mendukung fitur *resume* apabila proses terhenti di tengah jalan. Data disusun secara rapi di dalam folder terstruktur per provinsi.
-- **Generator Web Dashboard** (`generate_web.py`): Membaca file JSON hasil ekstraksi, mengubahnya menjadi HTML dashboard statis yang cantik dengan styling moderen, dan langsung menjalankannya di localhost. Terdapat fitur filter (Jenjang, Kecamatan, Status) dan *search*.
+- **Scraper Nasional** (`scrape_indonesia.py`): Mengambil data dari tingkat Provinsi, Kabupaten, Kecamatan, hingga Sekolah untuk seluruh Indonesia. Mendukung fitur *resume* apabila proses terhenti di tengah jalan. Data disusun secara rapi di dalam folder terstruktur per provinsi. Anda juga dapat menentukan argumen untuk scraping spesifik provinsi tertentu.
+- **Generator Web Dashboard** (`generate_web.py`): Bertindak sebagai *local API server* yang membaca file CSV raksasa hasil ekstraksi dengan efisien, serta menyajikan HTML dashboard yang cantik dengan styling moderen, dan langsung menjalankannya di localhost. Terdapat fitur filter berjenjang (Provinsi, Kabupaten, Kecamatan, Jenjang Pendidikan, Status) dan kolom *search*.
 
 ## ⚙️ Persyaratan (Requirements)
 Pastikan Anda memiliki Python 3.x terinstal. Kemudian instal *library* tambahan yang dibutuhkan:
@@ -21,15 +20,8 @@ pip install requests pandas openpyxl
 
 ## 🚀 Cara Penggunaan
 
-### 1. Scraping Data Spesifik (Contoh: Kota Surabaya)
-Jika Anda hanya ingin mengambil data sekolah untuk satu daerah tertentu, Anda dapat mengedit variabel `TARGET_PROVINSI` dan `TARGET_KABUPATEN` di dalam `scrape_dapo.py`, lalu jalankan:
-```bash
-python scrape_dapo.py
-```
-Output berupa file `.csv`, `.xlsx`, dan `.json` akan tersimpan di dalam folder `output/`.
-
-### 2. Scraping Data Skala Nasional (Seluruh Indonesia)
-Script ini dirancang untuk mengambil data se-Indonesia. Proses ini memakan waktu yang cukup lama. Hasil data akan disimpan berjenjang di dalam folder `output_indonesia/` per provinsi dan kebupaten, serta satu CSV gabungan raksasa.
+### 1. Scraping Data Skala Nasional (Seluruh Indonesia)
+Script ini dirancang untuk mengambil data se-Indonesia. Proses ini memakan waktu yang cukup lama. Hasil data akan disimpan berjenjang di dalam folder `output_indonesia/` per provinsi dan kabupaten, serta satu CSV gabungan raksasa.
 ```bash
 # Menjalankan scraping seluruh Indonesia
 python scrape_indonesia.py
@@ -41,12 +33,12 @@ python scrape_indonesia.py --resume
 python scrape_indonesia.py --provinsi "Prov. Jawa Timur"
 ```
 
-### 3. Menjalankan Dashboard Web Interaktif
-Setelah Anda memiliki data berupa `.json` di dalam folder `output/` (hasil dari `scrape_dapo.py`), jalankan perintah ini untuk melihat data tersebut dalam bentuk web (tabel interaktif):
+### 2. Menjalankan Dashboard Web Interaktif
+Setelah Anda memiliki data berupa file `data_sekolah_indonesia.csv` di dalam folder `output_indonesia/` (hasil dari `scrape_indonesia.py`), jalankan perintah ini untuk melihat data tersebut dalam bentuk web:
 ```bash
 python generate_web.py
 ```
-Aplikasi akan secara otomatis membukakan browser (biasanya http://localhost:8000) yang menampilkan data dengan visual yang menarik, lengkap dengan statistik, dan fitur *searching* & filter.
+Aplikasi akan secara otomatis membukakan browser (biasanya http://localhost:8000) yang menampilkan data dengan visual bergaya premium *glassmorphism*, lengkap dengan statistik agregat yang dinamis dan fitur filter wilayah.
 
 ## ⚠️ Disklaimer
 - Repository ini dibuat untuk tujuan pembelajaran dan riset data publik.
