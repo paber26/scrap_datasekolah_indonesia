@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 149 BENGKULU UTARA,10700191,SD,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,11,1,172,10,12,0,1,13,15 Apr 2026 22:25:26,9C5D7044AECE1CA37370
+SDN 150 BENGKULU UTARA,10700135,SD,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,10,2,104,6,6,0,1,27,28 Apr 2026 16:26:09,5B2613757AF8F8C0E5E8
+SDN 151 BENGKULU UTARA,10700146,SD,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,8,3,75,6,6,0,1,15,02 May 2026 12:15:02,E79381F0985F16AAF4A5
+SDN 152 BENGKULU UTARA,10700446,SD,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,8,4,100,6,8,0,1,24,25 Apr 2026 22:25:13,E065A0CC312D54F15EA1
+SDN 153 BENGKULU UTARA,69863215,SD,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,8,2,143,6,10,0,1,31,30 Apr 2026 20:00:05,0B25C6E3FF6DD5EF9649
+SDN 154 BENGKULU UTARA,10702945,SD,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,10,1,71,6,6,0,1,14,06 Mar 2026 05:06:49,6E82035A7FAA4B654F27
+SDN 155 BENGKULU UTARA,69774942,SD,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,9,6,96,6,6,0,1,16,01 Mar 2026 00:57:17,6AEFAD109394F313F4A8
+SMPN 43 BENGKULU UTARA,10702889,SMP,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,21,4,168,7,7,2,1,32,28 Apr 2026 09:51:44,EB2A5A45A6974085BAED
+SMPN 44 BENGKULU UTARA,69830362,SMP,Negeri,Kec. Tanjungagung Palik,260125,Kab. Bengkulu Utara,260100,Prov. Bengkulu,260000,14,4,106,5,3,2,1,30,27 Apr 2026 09:08:43,0E9192DD4F7192D557E7

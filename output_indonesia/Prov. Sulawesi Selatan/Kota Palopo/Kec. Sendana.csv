@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 33 KALUKU LAJUK,40307860,SD,Negeri,Kec. Sendana,196207,Kota Palopo,196200,Prov. Sulawesi Selatan,190000,8,3,185,7,8,0,1,15,08 Apr 2026 09:19:31,414DB2B8F716CA34A555
+SD NEGERI 37 MAWA,40307887,SD,Negeri,Kec. Sendana,196207,Kota Palopo,196200,Prov. Sulawesi Selatan,190000,7,4,150,6,8,0,1,20,27 Apr 2026 13:06:09,0BBA7BAB60A570026C0C
+SD NEGERI 56 BULANTUA,40307909,SD,Negeri,Kec. Sendana,196207,Kota Palopo,196200,Prov. Sulawesi Selatan,190000,9,3,124,6,6,0,1,16,20 Apr 2026 13:42:27,516E920019B514F9DA6C
+SD NEGERI 58 TANDUNG,40310302,SD,Negeri,Kec. Sendana,196207,Kota Palopo,196200,Prov. Sulawesi Selatan,190000,9,2,33,6,6,0,1,34,08 Apr 2026 13:33:46,FDBB14B65449224EF993
+SMPS ISLAM TERPADU WAHDAH ISLAMIYAH,69789045,SMP,Swasta,Kec. Sendana,196207,Kota Palopo,196200,Prov. Sulawesi Selatan,190000,13,1,182,7,6,1,1,24,27 Apr 2026 12:48:17,8EB61705C9CA6A690698
+SMAS ISLAM TERPADU WAHDAH ISLAMIYAH PALOPO,70007183,SMA,Swasta,Kec. Sendana,196207,Kota Palopo,196200,Prov. Sulawesi Selatan,190000,6,2,65,3,6,0,1,17,27 Apr 2026 09:50:58,563344CF90AA4314BE6A
+SMKN 5 PALOPO,69882347,SMK,Negeri,Kec. Sendana,196207,Kota Palopo,196200,Prov. Sulawesi Selatan,190000,16,4,68,9,6,0,1,21,28 Apr 2026 12:19:11,0DEEC6E3000BB0510EF0

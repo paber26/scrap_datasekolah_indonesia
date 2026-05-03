@@ -1,0 +1,16 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES RAANAN BARU,40102238,SD,Negeri,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,9,0,38,6,6,0,1,60,02 May 2026 19:35:00,140C846D7B6FC959C98C
+SD INPRES TONDEI,40102255,SD,Negeri,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,93,6,6,0,1,9,23 Apr 2026 10:38:54,0C91E2A4B632B9D86E45
+SD NEGERI PELITA,40101859,SD,Negeri,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,19,6,6,0,0,18,23 Apr 2026 17:07:59,36DF7199068BD555D0B5
+SD NEGERI TOYOPON,40101891,SD,Negeri,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,2,69,6,6,0,1,13,12 Apr 2026 15:24:31,0C78251ED81F6C455EA7
+SD GMIM RAANAN BARU,40102133,SD,Swasta,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,110,6,6,1,1,15,20 Apr 2026 10:14:56,542BB30681CD8E3F8DCC
+SD GMIM TONDEI,40102275,SD,Swasta,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,2,119,6,6,0,0,23,12 Apr 2026 17:36:38,BEA09CAF88E09BCBB797
+SD GP RAANAN BARU,40102265,SD,Swasta,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,83,6,7,0,1,31,13 Apr 2026 07:25:22,38AC8C7122D874D25ED0
+SD GP TONDEI,40102269,SD,Swasta,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,0,64,6,6,0,0,18,07 Mar 2026 12:43:39,B5077A2F8382447B8600
+SD KATOLIK ST PETRUS KEROIT,40102193,SD,Swasta,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,110,6,6,0,0,7,16 Apr 2026 18:18:35,2FD48AF95E7258304CB1
+SMP NEGERI 1 MOTOLING BARAT,40102067,SMP,Negeri,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,11,1,112,5,6,2,1,124,02 May 2026 01:47:29,0665A37B4C5AD7E1C78F
+SMP NEGERI 2 MOTOLING BARAT (SATAP),40103855,SMP,Negeri,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,33,3,3,1,1,13,25 Apr 2026 10:59:47,4118DD61F05B35A63070
+SMP KATOLIK HATI KUDUS KEROIT,40103861,SMP,Swasta,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,57,3,5,0,0,9,29 Apr 2026 21:18:20,0A681C7BB18D646EF407
+SMP KRISTEN TONDEI,40102038,SMP,Swasta,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,11,3,138,6,6,1,1,31,10 Mar 2026 08:37:02,B5F993A15EC2C15A0894
+SMA NEGERI 1 MOTOLING BARAT,40103905,SMA,Negeri,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,24,6,55,3,8,2,1,33,22 Apr 2026 08:35:32,2CD641860C8A33E58A2C
+SMKN 1 MOTOLING BARAT,40103899,SMK,Negeri,Kec. Motoling Barat,170520,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,13,3,71,6,6,1,1,18,27 Apr 2026 07:56:16,CDD0990388D1A07F1E00

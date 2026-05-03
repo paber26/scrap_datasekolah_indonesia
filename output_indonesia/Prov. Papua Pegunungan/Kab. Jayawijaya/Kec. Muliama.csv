@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES HOLKIMA,60301406,SD,Negeri,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,1,87,6,6,1,1,14,21 Apr 2026 11:23:38,D942E6087C09D24A3700
+SD INPRES MULIAMA,60301439,SD,Negeri,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,10,3,144,6,7,1,1,19,22 Apr 2026 08:32:33,96D7A5EC2958AEE03863
+SD INPRES NANTU,60301443,SD,Negeri,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,10,1,211,8,6,0,0,16,15 Apr 2026 17:45:31,A8DB3566BDE16D7A9889
+SD NEGERI BANUA KOREM,69965881,SD,Negeri,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,5,1,162,6,3,0,0,9,21 Apr 2026 11:55:51,72C5B29CFC2390D56B62
+SD KRISTEN BALIEM TERPADU,69727942,SD,Swasta,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,7,1,218,8,6,0,0,8,27 Jan 2026 12:53:36,FDEA137F82BD2CB46A81
+SD YPPK ASOLOGAIMA,60301528,SD,Swasta,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,3,1,155,7,6,0,0,9,22 Apr 2026 11:15:05,B10763A07C6E49C8A363
+SD YPPK ST YOHANES YORNA WOGI,60301548,SD,Swasta,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,3,1,123,6,7,0,1,13,24 Apr 2026 07:33:24,3647CAA1944DFD54A10F
+SMP KRISTEN BALIEM TERPADU,60301553,SMP,Swasta,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,5,1,184,5,4,0,1,19,02 Feb 2026 18:47:01,6B3FD51D3CC04D9E6EF2
+SMA KRISTEN BALIEM TERPADU,60303506,SMA,Swasta,Kec. Muliama,380132,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,12,1,195,5,5,1,1,22,14 Apr 2026 20:28:54,C3D3CA8DB6A18BE1B8BC

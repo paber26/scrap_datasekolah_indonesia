@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES DIGIKEBO,60301732,SD,Negeri,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,7,1,544,16,14,0,1,83,01 May 2026 17:42:27,DF8E4C35052D7FC15ACA
+SD NEGERI BOGIYATEGI,60303612,SD,Negeri,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,5,1,293,10,9,1,0,8,30 Apr 2026 11:59:37,1044748D3239844B0E6A
+SD YAKBADO WIDIWIYAI KOGEGU,69975352,SD,Swasta,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,18,0,404,12,6,0,0,39,02 May 2026 16:29:31,0637ECA186CFED1E22D6
+SD YPPGI MATADI,60301836,SD,Swasta,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,1,1,329,12,6,1,1,8,28 Apr 2026 14:34:15,3DDBC21A086F3B1E50A4
+SD YPPGI PUWETA,60301839,SD,Swasta,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,9,2,363,11,11,0,1,50,30 Apr 2026 07:08:13,031DAB99CBB6C1D25927
+SD YPPK ITOUDA,60301847,SD,Swasta,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,5,1,289,9,9,1,1,31,01 May 2026 22:37:42,11629CD735C1046433FC
+SD YPPK POUWOUDA,60301853,SD,Swasta,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,9,1,599,18,15,0,0,25,02 May 2026 19:06:34,F9B7C65472520D8A3EA3
+SD YPPK UDEKEBO,60301861,SD,Swasta,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,8,1,386,12,6,1,1,32,30 Apr 2026 11:46:59,719920BE03557BC33F2C
+SMP NEGERI 1 KAMU SELATAN,60302967,SMP,Negeri,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,8,1,390,14,16,3,3,97,01 May 2026 03:44:24,F231E3ED6EC600C66756
+SMP NEGERI 2 KAMU SELATAN,60304163,SMP,Negeri,Kec. Kamu Selatan,360607,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,12,1,277,8,9,1,1,99,30 Apr 2026 13:40:14,716C9A916C302BAD6B16

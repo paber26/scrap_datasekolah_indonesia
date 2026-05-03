@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SELAYAR,60100780,SD,Negeri,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,11,1,67,6,7,1,1,18,10 Apr 2026 11:32:06,DBB60BD46C53D71D3D62
+SD NEGERI INPRES RUMADIAN,60103254,SD,Negeri,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,10,0,111,6,6,1,1,15,02 Apr 2026 14:16:24,682FA65CA865302C2503
+SD NEGERI OHOILUK,60100755,SD,Negeri,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,8,1,18,6,4,0,1,29,11 Apr 2026 08:40:13,B0C5EAA88EF20603BFC3
+SD NASKAT DEBUT,60100910,SD,Swasta,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,6,0,113,6,6,0,1,27,15 Apr 2026 05:54:02,14483CFB9431797BF567
+SD NASKAT DON BOSCO NGILNGOF,60100874,SD,Swasta,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,7,1,113,6,6,0,1,21,17 Apr 2026 06:33:24,B3823EA19A46FF1EC644
+SD NASKAT NAMAR,60100892,SD,Swasta,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,6,1,112,6,6,0,1,14,14 Apr 2026 20:05:10,248F463B8BC54670FF77
+SD NASKAT NGAYUB,60100873,SD,Swasta,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,6,1,45,6,6,0,1,4,03 Mar 2026 05:00:28,EC16B4189B1FE8956E28
+SD NASKAT OHOILILIR,60100875,SD,Swasta,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,3,1,46,6,6,1,1,4,31 Jan 2026 20:41:49,E11CD3FA1ABAC4FD5C02
+SMP NEGERI 1 KEI KECIL,60103293,SMP,Negeri,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,18,2,93,4,8,2,1,15,17 Apr 2026 11:38:32,36E9BB94245BDAFCBCDA
+SMP NEGERI 9 KEI KECIL,60103305,SMP,Negeri,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,14,1,71,4,4,2,0,31,14 Apr 2026 11:59:57,4CB8F2252D2E6E6094BB
+SMA Negeri 12 Maluku Tenggara,70061052,SMA,Negeri,Kec. Manyeuw,210214,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,0,0,0,0,0,0,0,0,,32A99E09229CE4CF7133

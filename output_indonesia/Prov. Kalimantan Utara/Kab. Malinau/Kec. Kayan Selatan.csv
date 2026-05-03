@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 KAYAN SELATAN,30400492,SD,Negeri,Kec. Kayan Selatan,340110,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,16,1,89,6,6,0,1,16,12 Apr 2026 06:58:24,749BC0A8523EF59AA1C3
+SD NEGERI 002 KAYAN SELATAN,30400520,SD,Negeri,Kec. Kayan Selatan,340110,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,14,1,33,6,6,0,0,17,06 Apr 2026 21:18:07,31762542CC061C6C7245
+SD NEGERI 003 KAYAN SELATAN,30400508,SD,Negeri,Kec. Kayan Selatan,340110,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,11,3,49,6,6,0,1,24,29 Apr 2026 09:59:05,997375388B7B295DADAB
+SD NEGERI 004 KAYAN SELATAN,30400526,SD,Negeri,Kec. Kayan Selatan,340110,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,9,1,32,6,6,0,1,5,03 Feb 2026 07:32:59,DA0F4190F833E16161DC
+SMP NEGERI 1 KAYAN SELATAN,30402820,SMP,Negeri,Kec. Kayan Selatan,340110,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,14,4,43,3,5,1,1,13,06 Mar 2026 11:03:52,A296465F3F9B136EDE02
+SMP NEGERI 2 KAYAN SELATAN,69992043,SMP,Negeri,Kec. Kayan Selatan,340110,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,10,2,12,3,3,0,0,27,02 Mar 2026 15:49:23,798EF374F50B6FE2BE52
+SMP NEGERI 3 KAYAN SELATAN,69967962,SMP,Negeri,Kec. Kayan Selatan,340110,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,12,1,48,3,3,1,1,34,30 Apr 2026 00:24:18,0F6EAFA8E7BCE4B4C215
+SMA NEGERI 9 MALINAU,69822475,SMA,Negeri,Kec. Kayan Selatan,340110,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,18,5,66,4,4,0,1,25,23 Apr 2026 12:51:38,27CF83780668A6B5C6FA

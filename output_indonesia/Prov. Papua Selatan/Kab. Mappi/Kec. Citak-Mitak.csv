@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ABAU,60303104,SD,Negeri,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,6,1,154,10,10,0,0,32,24 Jan 2026 19:15:45,F02BD9A48C5E3B17CFE0
+SD INPRES BIDNEW,60303113,SD,Negeri,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,6,2,219,10,6,0,1,7,13 Feb 2026 14:17:56,61DAA65801AC766003E3
+SD INPRES EPEM,60303118,SD,Negeri,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,4,3,139,7,3,0,0,26,19 Apr 2026 11:00:08,33E65011E568B0D3AB8A
+SD INPRES KUMASMA,60303138,SD,Negeri,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,6,1,241,10,3,0,0,15,10 Mar 2026 17:30:44,ADA40A1B859896D7B4E7
+SD INPRES TAMANIM,60303154,SD,Negeri,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,14,2,259,11,8,1,0,25,03 Mar 2026 17:22:54,915A3F5E2320E5DE2CED
+SD YPPGI SENGGO,60303187,SD,Swasta,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,1,2,80,6,6,0,0,15,04 Feb 2026 14:43:49,D9DEEE98B0AC910E2D32
+SD YPPK ST.YOSEPH SENGGO,69899153,SD,Swasta,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,2,1,249,10,6,1,1,10,23 Mar 2026 08:40:08,075395B3B1FD8EB7F661
+SMPN I CITAK MITAK,60303249,SMP,Negeri,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,23,2,600,19,15,4,1,29,24 Apr 2026 17:30:45,02E272A8F51E4248A8D4
+SMAN I CITAK MITAK,60304943,SMA,Negeri,Kec. Citak-Mitak,370303,Kab. Mappi,370300,Prov. Papua Selatan,370000,22,4,528,16,11,1,1,193,24 Apr 2026 20:10:56,57F974D540B45E4C8F11

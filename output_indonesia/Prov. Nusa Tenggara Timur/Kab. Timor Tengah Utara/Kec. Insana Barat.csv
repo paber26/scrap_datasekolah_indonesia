@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BAAT,50301148,SD,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,1,105,6,6,0,1,20,01 May 2026 23:13:06,FEE214350BA0C9362994
+SD NEGERI BESTOBE,69820117,SD,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,1,73,6,3,0,1,15,04 Mar 2026 09:25:54,2D809AFF82F5B1ACBA36
+SD NEGERI FATUALAM,50307343,SD,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,0,75,6,6,0,1,33,06 Apr 2026 22:19:46,3BD9917DE4B0D7593FA4
+SD NEGERI NUNUFAFI,50300948,SD,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,2,92,6,6,0,1,20,20 Apr 2026 08:48:29,CB5A6644726A5E4F296D
+SD NEGERI SANAM,50301028,SD,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,4,119,6,13,0,2,20,08 Apr 2026 20:27:05,55A313C4E773A74D9C36
+SD NEGERI SUSPINI,50307362,SD,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,2,164,7,6,0,1,17,09 Apr 2026 10:41:18,FA6232544D5559D38672
+SD KATOLIK BESTOBE,50301125,SD,Swasta,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,0,92,6,6,0,1,16,09 Apr 2026 02:51:30,1C14C8706B86739E241D
+SD KATOLIK TUAMAU,50301166,SD,Swasta,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,2,100,6,9,0,2,37,07 Feb 2026 17:52:54,258389403867D446BFDB
+SDK FATUALAM,50301108,SD,Swasta,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,1,82,6,6,0,1,13,07 Apr 2026 20:15:08,9BCD7BFEB6D02B0C6BB1
+SDK LANSESE,50301060,SD,Swasta,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,5,3,139,7,7,0,1,12,17 Apr 2026 17:59:03,76030078AA690361CE7D
+SDK MAMSENA 1,50301058,SD,Swasta,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,6,4,100,6,7,0,1,24,07 Apr 2026 09:15:45,37561C158193647F1D5E
+SDK MAMSENA 2,50301059,SD,Swasta,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,3,140,7,4,0,1,50,27 Apr 2026 10:35:06,5D49CB9DD6871C060E30
+SMP NEGERI 2 INSANA,50307395,SMP,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,23,4,142,6,9,2,1,14,15 Apr 2026 19:56:57,418D859B2ED2766BEF9A
+SMP NEGERI NUNUFAFI,69728408,SMP,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,15,5,131,6,5,2,2,21,20 Apr 2026 10:42:58,B70BE7599506C224D369
+SMP NEGERI SANAM,50307405,SMP,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,17,1,136,6,8,1,1,35,12 Mar 2026 08:19:05,DCD5D14544071EE03FD1
+SMP SATAP NEGERI SUSPINI,69992646,SMP,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,15,1,79,3,3,2,1,24,23 Apr 2026 11:38:10,44AB1F46D68F4FBCFE86
+SMAN INSANA BARAT,69728423,SMA,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,27,5,226,9,11,1,1,26,27 Apr 2026 08:52:26,3D45FD81FC43B4F8D760
+SMK NEGERI INSANA BARAT TUAMAU,69900339,SMK,Negeri,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,24,5,104,7,5,1,1,17,24 Apr 2026 08:43:30,F87AD00E8C6346705190
+SEKOLAH MENENGAH KEJURUAN (SMK) SURYA KASIH,70035286,SMK,Swasta,Kec. Insana Barat,240420,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,14,1,26,5,9,0,1,22,25 Apr 2026 07:18:16,A50FCBDE0207D45147B6

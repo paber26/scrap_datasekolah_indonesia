@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 AIR PURA,10302051,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,12,3,100,6,6,0,1,18,30 Apr 2026 17:05:43,7BD202B85160B3FE527E
+SDN 02 AIRPURA,10302045,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,4,173,8,7,0,1,16,23 Apr 2026 13:36:33,39C4AF96A849994496E1
+SDN 03 AIR PURA,10302061,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,19,3,223,12,10,0,1,16,06 Apr 2026 22:12:34,89199B1E568E8B77945B
+SDN 04 AIR PURA,10302064,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,20,5,330,15,8,0,1,45,21 Apr 2026 02:18:58,8FEA0B47837B3ABB10DB
+SDN 05 AIRPURA,10302072,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,15,5,258,11,10,0,1,34,24 Apr 2026 18:41:34,47FB851771B9E208C629
+SDN 06 AIRPURA,10302247,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,15,3,177,8,6,0,1,15,11 Apr 2026 13:54:57,4CD977BD2D66A4445021
+SDN 07 AIRPURA,10302168,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,21,3,263,12,7,0,1,18,14 Apr 2026 16:39:30,B8ACD376ED17DC65CC91
+SDN 08 AIRPURA,10302151,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,3,148,7,7,0,1,34,12 Apr 2026 17:19:13,4B11538F237977F7104F
+SDN 09 AIRPURA,10308225,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,19,4,268,13,9,0,0,15,02 May 2026 09:39:18,5B7F2BA0EB34A17A863D
+SDN 10 AIRPURA,10302179,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,10,4,96,6,6,0,1,22,13 Apr 2026 18:14:25,FB2BD0865393E94C505B
+SDN 11 AIRPURA,10301919,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,13,3,141,8,6,0,1,21,10 Apr 2026 16:43:56,E81AD1E347C61C39425D
+SDN 12 AIRPURA,10301911,SD,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,10,4,140,6,6,0,1,9,13 Apr 2026 17:08:51,3E9E494E789F667961F3
+SMP N 5 AIR PURA,10310783,SMP,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,4,75,3,4,2,1,14,04 Mar 2026 08:52:19,3D80C6A1A1E63DF495CE
+SMP NEGERI 1 AIRPURA,10301970,SMP,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,25,8,239,9,12,2,1,35,27 Apr 2026 17:27:22,30D3A090AAA54D5B7EF1
+SMP NEGERI 2 AIRPURA,10301961,SMP,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,25,8,251,10,10,1,1,19,12 Apr 2026 11:36:12,79E71BD3FE5ED6162F65
+SMP NEGERI 3 AIRPURA,10308253,SMP,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,13,3,62,3,3,1,1,27,03 Apr 2026 20:55:22,C1E893016F9EAACBC199
+SMP NEGERI 4 AIR PURA,10310576,SMP,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,19,6,127,6,6,1,1,26,12 Mar 2026 19:49:02,F92A1EC603912D9AB532
+SMP Perguruan Islam Ar Risalah 2,70045778,SMP,Swasta,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,1,91,4,4,1,1,17,13 Mar 2026 12:24:26,301511A35CE517811928
+SMAN 1 AIR PURA,10308265,SMA,Negeri,Kec. Air Pura,080615,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,44,15,506,16,17,3,2,26,17 Apr 2026 10:02:58,9893730E911C2582B242

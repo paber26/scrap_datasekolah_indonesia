@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES HAMBAWUTANG,50303879,SD,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,1,144,8,7,0,1,24,12 Apr 2026 21:38:40,070DEE43281ED3365EA9
+SD INPRES KAKAHA,50303837,SD,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,8,3,64,6,7,0,1,53,18 Apr 2026 10:05:14,C5F422734B1CA741BC52
+SD NEGERI KABANDA,50303705,SD,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,8,4,111,6,6,0,1,22,01 May 2026 09:19:55,75B19C7A2062F2F713C0
+SD NEGERI KAKAHA,50303716,SD,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,5,2,112,6,6,1,1,29,04 Apr 2026 04:37:45,2CFB9E726CC6F1B9EC9F
+SD NEGERI PRAIWITU,50303707,SD,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,4,75,6,8,1,1,20,11 Apr 2026 00:58:31,76FFA4E2CD5FAE6F1130
+SD NEGERI PRAURAMING,50305744,SD,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,4,2,36,6,7,0,0,25,17 Apr 2026 10:41:55,3D6FCB0BBBF05C61D2BF
+SD KATOLIK MARADA MBALAR,50303885,SD,Swasta,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,0,101,6,6,0,0,49,05 Mar 2026 09:56:24,AA3A6FAD59C8E8052FA6
+SD MASEHI WAIRUNU,53303173,SD,Swasta,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,2,84,6,6,0,1,6,23 Apr 2026 21:36:23,DFF0B0B8C90E5C52D019
+SMP NEGERI 1 NGADU NGALA,69893046,SMP,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,6,125,6,6,0,1,16,15 Apr 2026 09:34:21,EA2982EF1490235681A6
+SMP NEGERI SATAP KAKAHA,50305752,SMP,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,9,5,135,6,7,1,1,19,07 Mar 2026 06:24:33,36A9C7534779B533E4D2
+SMA NEGERI 1 NGADU NGALA,70051099,SMA,Negeri,Kec. Ngadu Ngala,241218,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,9,3,143,6,6,0,1,15,18 Apr 2026 07:53:23,0F61B6B90D1585001A64

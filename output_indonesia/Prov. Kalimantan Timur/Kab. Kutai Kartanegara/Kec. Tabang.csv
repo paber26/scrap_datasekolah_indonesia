@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 TABANG,30404939,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,9,3,62,6,6,0,0,42,09 Apr 2026 23:59:40,3676C93661643812F0E8
+SD NEGERI 002 TABANG,30404946,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,7,1,103,6,6,0,0,23,22 Apr 2026 08:44:04,88BC50610B25DECDA0C0
+SD NEGERI 003 TABANG,30404954,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,9,2,112,6,6,0,1,21,14 Apr 2026 06:13:52,2D19994ED450C869EA55
+SD NEGERI 004 TABANG,30404961,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,8,0,62,6,7,0,2,17,28 Apr 2026 12:13:41,31DC74D2297EE3946839
+SD NEGERI 005 TABANG,30404968,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,15,1,157,10,19,0,0,15,02 May 2026 12:55:03,2792C9AA8C6434DAD746
+SD NEGERI 006 TABANG,30404975,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,11,2,112,6,11,0,0,19,08 Apr 2026 12:01:50,7F586F67866BCAC04859
+SD NEGERI 007 TABANG,30404982,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,10,1,162,6,7,0,1,19,02 May 2026 09:16:22,4D809E5807F768DCEE65
+SD NEGERI 008 TABANG,30404988,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,7,1,79,6,6,0,1,18,30 Apr 2026 13:05:28,088473300C06DAF0E43B
+SD NEGERI 009 TABANG,30404995,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,10,0,52,6,6,0,0,9,10 Mar 2026 10:27:50,FA8EA8882E8EAED79E02
+SD NEGERI 010 TABANG,30405004,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,9,1,65,6,6,0,0,24,20 Mar 2026 07:53:15,C1C9390433097938F4FA
+SD NEGERI 011 TABANG,30405011,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,11,3,122,6,6,1,1,71,02 May 2026 16:59:29,92A64F13F2C358721701
+SD NEGERI 012 TABANG,30405019,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,7,0,18,6,6,0,0,15,24 Apr 2026 05:58:41,59266705D8E729BD896F
+SD NEGERI 013 TABANG,30405026,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,12,0,55,6,6,0,2,17,10 Apr 2026 07:52:56,613BAA89AB4F37CB666D
+SD NEGERI 014 TABANG,30405033,SD,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,7,0,98,6,9,0,0,13,09 Apr 2026 11:40:53,FEEFB1CA1CE93BD917BA
+SMP NEGERI 1 TABANG,30400260,SMP,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,19,4,292,10,10,2,1,40,01 May 2026 11:48:05,F7BF680DDCA0B8C7BDC3
+SMP NEGERI 2 TABANG,30400236,SMP,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,16,6,199,8,7,1,1,24,15 Apr 2026 07:44:47,B038FE7B6A48F5238371
+SMP NEGERI 3 TABANG,70040423,SMP,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,4,0,49,3,3,0,0,58,19 Apr 2026 19:39:51,2DCE411046BC2CE449B7
+SMA NEGERI 1 TABANG,30405336,SMA,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,20,8,267,9,9,3,1,41,31 Jan 2026 06:54:55,21C9D3F200B9B561ED81
+SMA Negeri 2 Tabang,69988481,SMA,Negeri,Kec. Tabang,160218,Kab. Kutai Kartanegara,160200,Prov. Kalimantan Timur,160000,18,4,120,5,5,2,1,33,07 Apr 2026 20:00:59,EBBC994447C84E310EB7

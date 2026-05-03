@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 LAMBING,30406599,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,10,7,115,6,7,0,1,28,26 Apr 2026 18:52:35,F61E2C408DC7E08595C3
+SD NEGERI 003 MUARA LAWA,30400651,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,13,3,162,7,7,0,1,18,22 Apr 2026 09:15:44,4DD7B73D845715720D99
+SD NEGERI 004 MUARA LAWA,30400717,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,13,1,179,9,6,0,1,44,02 May 2026 11:56:01,B30756FE7D8F7DD7B14A
+SD NEGERI 005 MUARA LAWA,30400713,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,9,5,39,6,6,0,1,21,18 Apr 2026 08:45:59,886D09294F38FCEC3DCF
+SD NEGERI 006 MUARA LAWA,30406713,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,8,0,73,6,6,0,0,18,19 Apr 2026 18:50:52,ABB58C11FAE56E00B178
+SD NEGERI 007 MUARA LAWA,30406741,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,10,1,32,6,6,0,0,9,25 Apr 2026 19:09:22,8DB09E0191A50F2B777A
+SD NEGERI 008 MUARA LAWA,30400690,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,14,2,80,6,13,0,1,11,06 Mar 2026 16:16:48,0BF5BD063FA23CCCBA84
+SD NEGERI 009 MUARA LAWA,30406770,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,7,3,22,6,6,0,0,4,04 Feb 2026 13:25:34,EB6F5DD78F25A7378C49
+SD NEGERI 010 MUARA LAWA,30400687,SD,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,7,3,113,7,9,0,1,16,30 Apr 2026 11:45:20,F3BF616EE08B4AA93A1B
+SMP NEGERI 1 MUARA LAWA,30400614,SMP,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,26,1,332,11,14,2,1,30,29 Apr 2026 18:34:52,8F12A19E05FBEB4174C3
+SMAN 1 MUARA LAWA,30400562,SMA,Negeri,Kec. Muara Lawa,160905,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,19,9,315,10,9,2,1,52,28 Apr 2026 12:54:53,CD5D529348A62AEA6E68

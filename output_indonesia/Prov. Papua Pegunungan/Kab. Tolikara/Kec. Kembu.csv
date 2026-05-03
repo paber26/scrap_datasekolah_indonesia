@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI KAGINERI,60302737,SD,Negeri,Kec. Kembu,380404,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,5,1,97,6,6,0,0,15,16 Apr 2026 10:56:53,D92E79867B896008F742
+SD LENTERA HARAPAN MAMIT,69966242,SD,Swasta,Kec. Kembu,380404,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,14,1,228,11,12,1,1,19,29 Apr 2026 07:25:43,4C067345ECBD457FFE25
+SD YPPGI MAMIT,60302266,SD,Swasta,Kec. Kembu,380404,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,6,2,143,8,6,0,1,51,28 Apr 2026 05:52:20,80DE2DC2E20AFEFE893D
+SMP NEGERI KEMBU,60302270,SMP,Negeri,Kec. Kembu,380404,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,9,1,211,6,6,0,1,47,30 Apr 2026 15:33:50,8895E860DED71A47A815
+SMP LENTERA HARAPAN MAMIT,70002375,SMP,Swasta,Kec. Kembu,380404,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,0,1,91,3,4,2,1,9,05 Mar 2026 05:56:13,86F9E2B2CC684727A569
+SMA NEGERI KEMBU,69945773,SMA,Negeri,Kec. Kembu,380404,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,11,1,147,5,5,0,4,72,24 Apr 2026 19:51:10,44207F8F6FABF167A0EF

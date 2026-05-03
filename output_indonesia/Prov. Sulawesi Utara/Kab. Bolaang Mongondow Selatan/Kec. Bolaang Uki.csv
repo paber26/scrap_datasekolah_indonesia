@@ -1,0 +1,25 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 MOLIBAGU,40100118,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,1,99,6,6,1,1,18,10 Apr 2026 08:58:31,52354C83D93BC577202A
+SD NEGERI 1 SALONGO,40100481,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,18,1,124,12,13,0,1,53,16 Apr 2026 12:20:39,92E65EFBA8B217BFE1B3
+SD NEGERI 1 TABILAA,40100180,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,10,1,48,6,7,0,1,16,21 Apr 2026 10:16:02,0CA0833C56971BDBCBB0
+SD NEGERI 1 TOLONDADU,40100183,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,1,68,6,6,0,1,19,07 Apr 2026 04:55:33,24218A1B1E968F627674
+SD NEGERI 2 MOLIBAGU,40100611,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,1,61,6,6,0,1,11,14 Apr 2026 07:45:46,01E60DF1A8854328585E
+SD NEGERI 2 SALONGO,40100649,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,3,99,6,8,1,1,6,01 Apr 2026 22:24:57,5DD9191E5F61945B6BB5
+SD NEGERI 2 TABILAA,40100658,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,2,60,6,6,0,1,24,06 Mar 2026 08:14:39,680466FEEE5020918893
+SD NEGERI 2 TOLONDADU,40100646,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,2,79,6,6,0,1,39,29 Apr 2026 07:52:04,51CC001819B1743E64AC
+SD NEGERI 3 MOLIBAGU,40100190,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,3,97,6,6,0,1,28,23 Apr 2026 23:08:20,6585A29D91A5E046D5B6
+SD NEGERI DUDEPO,40100140,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,1,146,7,6,0,1,31,23 Apr 2026 06:32:36,41959DCE7B15071B1BAD
+SD NEGERI PINOLANTUNGAN,40100204,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,9,4,84,6,6,0,1,17,13 Apr 2026 18:50:47,FED532E0F9374557A1B1
+SD NEGERI POPODU,40100351,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,3,73,6,9,0,1,12,27 Apr 2026 06:40:34,C63562500047AF0E5F1E
+SD NEGERI SALONGO TIMUR,70061703,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,0,0,0,0,0,0,0,0,,AEB5B1D6ED259439A55A
+SD NEGERI SOGUO,40100388,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,10,2,94,6,6,0,1,7,27 Apr 2026 06:52:41,31B72AF291576E098948
+SD NEGERI SONDANA,40100363,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,10,2,96,6,6,0,1,12,27 Feb 2026 08:49:17,EB49584AB1E69BD00D26
+SD NEGERI TANGAGAH,40100364,SD,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,2,75,6,6,0,1,19,21 Apr 2026 10:17:28,BAC31F39931CD1CF3E5C
+SD COKROAMINOTO TOLUAYA,40100571,SD,Swasta,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,1,32,5,7,0,1,12,12 Mar 2026 15:14:25,56684205698FACBC7F06
+SD MUHAMMADIYAH MOLIBAGU,40100549,SD,Swasta,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,9,2,68,6,6,1,1,49,27 Apr 2026 08:02:01,1D31818C7B6D11FA63A7
+SMP NEGERI MOLIBAGU,40100402,SMP,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,33,6,381,14,17,2,1,97,20 Apr 2026 13:38:52,2E35B61063DD02597A26
+SMP NEGERI TANGAGAH,40105223,SMP,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,4,51,3,6,2,1,26,16 Apr 2026 13:57:10,9CBC9F710E5F62048D94
+SMP COKROAMINOTO SALONGO,40100423,SMP,Swasta,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,6,4,76,3,6,2,1,33,03 Apr 2026 16:35:47,4329939911A409720C41
+SMP MUHAMMADIYAH MOLIBAGU,69772561,SMP,Swasta,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,7,1,22,3,4,2,1,27,09 Apr 2026 21:29:57,31DCCBEAADB8964F7846
+SMA NEGERI 1 BOLAANG UKI,40100319,SMA,Negeri,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,32,5,575,18,19,5,1,28,28 Apr 2026 07:56:10,0D69198478E384941C41
+SMK S COKROAMINOTO SALONGO,69754524,SMK,Swasta,Kec. Bolaang Uki,171201,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,2,114,12,16,5,1,22,29 Apr 2026 21:33:24,DE4C853460E5B00C1C3D

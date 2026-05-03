@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LANGGIKIMA,40403920,SD,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,17,1,231,11,6,0,1,41,01 May 2026 10:00:34,83CFFFA5459A9F16B6BB
+SD NEGERI 2 LANGGIKIMA,40403887,SD,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,13,1,181,8,6,0,1,12,27 Apr 2026 15:40:57,E2810A1F78D77FC303D8
+SD NEGERI 3 LANGGIKIMA,40403895,SD,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,8,2,111,6,6,1,1,23,04 Mar 2026 23:01:09,57CAE8AAAE55753D1926
+SD NEGERI 4 LANGGIKIMA,40403901,SD,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,134,6,6,0,1,21,04 Mar 2026 22:26:39,A61627BC74EDE20428C3
+SD NEGERI 5 LANGGIKIMA,40403880,SD,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,11,1,97,6,6,1,1,21,14 Apr 2026 12:35:08,AAEBFD1FA2946C327EB2
+SD NEGERI 6 LANGGIKIMA,40404821,SD,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,125,6,6,0,1,31,27 Apr 2026 13:04:11,5C0E3B7F131A0CEF02AD
+SD NEGERI 7 LANGGIKIMA,40404822,SD,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,66,6,6,0,1,13,03 Feb 2026 21:16:28,5502DE01E08A2168FFE2
+SMP NEGERI 1 LANGGIKIMA,40403962,SMP,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,15,2,139,6,9,1,1,55,28 Apr 2026 21:04:32,98E39D068275B26DA510
+SMP NEGERI SATAP 2 LANGGIKIMA,40404825,SMP,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,41,3,3,1,1,24,22 Apr 2026 20:14:34,CB5C37C18442982FF5C9
+SMP NEGERI SATAP 3 LANGGIKIMA,40404827,SMP,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,11,2,102,3,5,1,1,24,03 Mar 2026 19:12:46,42478837719805D8CF7C
+SMAN 1 LANGGIKIMA,40404671,SMA,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,16,2,274,10,9,3,1,23,20 Apr 2026 12:22:19,7AA60CD8FAA378905BF2
+SMKN 3 KONAWE UTARA,69900197,SMK,Negeri,Kec. Langgikima,200901,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,6,1,32,4,3,0,1,8,20 Apr 2026 09:00:27,282D457E817EC23AE949

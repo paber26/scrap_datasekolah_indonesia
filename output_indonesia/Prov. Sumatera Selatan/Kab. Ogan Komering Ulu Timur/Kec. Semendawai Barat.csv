@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 ADU MANIS,10606349,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,8,3,83,6,7,0,0,5,28 Jan 2026 08:59:13,0ABBD6CD6CEA0A384BBA
+SD NEGERI 01 BETUNG,10606080,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,16,1,238,13,11,0,0,18,30 Apr 2026 12:09:00,59FDD4402B9B825A3FEE
+SD NEGERI 01 KANGKUNG,10606100,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,14,7,193,11,12,0,1,10,02 Apr 2026 20:33:28,C03C5C403B29E2B09F62
+SD NEGERI 01 MENANGA,10606122,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,12,5,220,10,8,1,1,15,05 Apr 2026 19:14:08,E0E1E93F9BAF0C6F254D
+SD NEGERI 01 TANJUNG KUKUH,10606173,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,8,4,63,6,6,0,1,12,18 Apr 2026 09:10:03,CFCDF933F952E7CB0F21
+SD NEGERI 02 BETUNG,10606289,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,9,0,76,6,6,0,0,12,04 Apr 2026 10:06:58,C57E6C8DC1AA933F3B97
+SD NEGERI 02 KANGKUNG,10606215,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,8,5,109,6,6,0,0,10,08 Apr 2026 19:54:07,59BC66AA4612642E1878
+SD NEGERI 02 TANJUNG KUKUH,10606272,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,10,2,175,8,5,0,1,10,10 Apr 2026 09:19:57,4E3402AAC07C1AABD33F
+SD NEGERI 04 MENANGA,10606331,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,11,3,188,10,8,0,0,10,25 Apr 2026 09:03:29,AF0FAADD8EFBBB50F9B3
+SD NEGERI SUKA NEGERI,10644920,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,21,6,279,13,15,0,1,5,24 Feb 2026 08:04:31,13F60368CB593326C9A2
+SD NEGERI TANJUNG REJO,10606460,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,9,2,93,6,5,0,0,6,04 Mar 2026 16:14:45,5D8F08E06E317884C492
+SDN 02 MENANGA*,10606231,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,8,4,69,6,6,0,0,20,10 Apr 2026 15:27:20,611C886CAB754A7E7591
+SDN 03 MENANGA *,10606306,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,8,5,159,6,6,0,0,12,29 Apr 2026 08:40:09,3204501FBD2C018C2145
+SDN BETUNG TIMUR,10606139,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,8,2,90,6,5,0,1,12,01 May 2026 12:03:40,AF11E0D5F0088635872A
+SDN TANJUNG MAS,10606174,SD,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,8,4,102,6,6,0,1,21,30 Apr 2026 18:48:27,8C500EF1C0DD00DC278C
+SMP NEGERI 02 SEMENDAWAI BARAT,10603319,SMP,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,22,13,272,10,12,2,1,29,30 Apr 2026 12:11:25,8419BCE58F9270BE249C
+SMPN 01 SEMENDAWAI BARAT *,10603323,SMP,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,31,8,484,16,25,1,1,31,23 Apr 2026 11:02:08,ADC7D0717328442C96EC
+SMPN 3 SEMENDAWAI BARAT *,10646487,SMP,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,12,2,80,4,4,1,1,24,02 May 2026 07:29:22,BA2B58B805300885BDEC
+SMAN 1 SEMENDAWAI BARAT,10606484,SMA,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,36,3,473,15,15,5,1,27,25 Apr 2026 11:00:27,EBB31695DA06F9F80522
+SMAN 2 SEMENDAWAI BARAT,10608897,SMA,Negeri,Kec. Semendawai Barat,110814,Kab. Ogan Komering Ulu Timur,110800,Prov. Sumatera Selatan,110000,31,3,420,13,16,2,1,14,13 Apr 2026 11:17:03,CF7386BD71AA5B729210

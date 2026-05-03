@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 PINOGU,40500898,SD,Negeri,Kec. Pinogu,300418,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,2,100,7,9,0,1,13,25 Apr 2026 09:46:34,6A338A342C641EA3C190
+SDN 2 PINOGU,40500983,SD,Negeri,Kec. Pinogu,300418,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,3,69,6,6,1,1,15,02 Mar 2026 09:21:25,A8032F542CA3F8A40C08
+SMP NEGERI 1 PINOGU,40500893,SMP,Negeri,Kec. Pinogu,300418,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,11,2,62,3,4,1,1,13,27 Apr 2026 07:46:52,F37B6DD57736E5F074A4
+SMA NEGERI 1 PINOGU,69877616,SMA,Negeri,Kec. Pinogu,300418,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,10,2,40,3,3,0,1,20,29 Apr 2026 17:37:45,7DAA71A2460A9AE5F50F

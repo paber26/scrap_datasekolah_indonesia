@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPT SDN 1 SANGALLA UTARA,40306679,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,9,1,58,6,9,0,1,13,07 Apr 2026 11:10:48,673BC1E598E93D84021A
+UPT SDN 2 SANGALLA UTARA,40309386,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,7,1,37,6,7,0,0,11,15 Apr 2026 17:25:08,A23F94898ACDFB8DC17A
+UPT SDN 3 SANGALLA UTARA,40309487,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,8,2,83,6,6,0,1,19,30 Apr 2026 11:48:59,7E35F8BAD3F2A72D4EAD
+UPT SDN 4 SANGALLA UTARA,40306594,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,10,2,143,7,7,0,1,18,28 Apr 2026 08:51:00,B1389F87D556248101B8
+UPT SDN 5 SANGALLA UTARA,40306757,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,9,2,105,6,6,0,1,16,24 Apr 2026 09:13:37,83B69A470209C0DD6468
+UPT SDN 6 SANGALLA UTARA,40306759,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,9,4,92,6,8,0,1,13,30 Apr 2026 12:50:31,66D2799040BE4986FD94
+UPT SDN 7 SANGALLA UTARA,40306760,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,7,3,56,6,5,0,3,34,10 Apr 2026 07:50:21,8C67389C536A2F7F9D6D
+UPT SDN 8 SANGALLA UTARA,40306762,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,9,3,66,6,7,0,1,18,16 Apr 2026 21:11:15,1F619CC41D1084C8667D
+UPT SDN 9 SANGALLA UTARA,40306708,SD,Negeri,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,10,1,59,6,8,0,1,18,15 Apr 2026 06:47:11,0112F17D76FCA1447E8E
+SMP KATOLIK SANGALLA,40306537,SMP,Swasta,Kec. Sangalla Utara,191817,Kab. Tana Toraja,191800,Prov. Sulawesi Selatan,190000,13,4,214,9,9,2,0,36,15 Apr 2026 07:34:55,E3FC99E5A897F7B56208

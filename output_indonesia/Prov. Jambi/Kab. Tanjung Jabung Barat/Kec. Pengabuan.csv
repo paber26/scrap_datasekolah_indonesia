@@ -1,0 +1,35 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 011 Tanjung Jabung Barat,10502079,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,11,3,155,8,8,0,1,16,07 Apr 2026 23:41:03,C91367F8FFB9DAF8C0F8
+SD Negeri 018 Tanjung Jabung Barat,10501790,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,11,4,176,9,13,1,1,19,23 Apr 2026 09:28:51,361EF91E29211A50CCAE
+SD Negeri 025 Tanjung Jabung Barat,10501797,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,8,0,96,6,7,0,0,14,16 Apr 2026 10:28:05,408B69366F7072BED426
+SD Negeri 026 Tanjung Jabung Barat,10501798,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,8,3,148,6,9,0,1,6,17 Apr 2026 09:02:01,A058317377B52D65F81D
+SD Negeri 032 Tanjung Jabung Barat,10501776,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,6,2,79,6,9,0,0,40,06 Apr 2026 22:54:02,3F1873541629E2208F90
+SD Negeri 043 Tanjung Jabung Barat,10501816,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,8,2,76,6,6,0,0,8,06 Feb 2026 12:19:06,4C4405197D9DED1D41B9
+SD Negeri 053 Tanjung Jabung Barat,10501826,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,0,82,6,7,0,0,6,27 Mar 2026 08:34:33,57E8364C85F5F4953FFD
+SD Negeri 062 Tanjung Jabung Barat,10501809,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,3,84,6,6,0,0,16,23 Apr 2026 09:32:49,6203C5AAE1D7F575CDCC
+SD Negeri 074 Tanjung Jabung Barat,10501739,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,9,2,79,6,6,0,0,5,02 Mar 2026 21:18:26,018B5027AA219361F757
+SD Negeri 075 Tanjung Jabung Barat,10501740,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,1,46,6,4,0,0,7,02 Apr 2026 06:24:15,EB7F8CB8A19F1D689F13
+SD Negeri 076 Tanjung Jabung Barat,10501742,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,2,93,6,6,0,1,12,22 Apr 2026 07:34:37,62F2D4AC13C9F70B2EE3
+SD Negeri 077 Tanjung Jabung Barat,10501743,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,3,90,6,4,0,0,22,13 Apr 2026 20:32:19,191B778234E12C355EF9
+SD Negeri 083 Tanjung Jabung Barat,10501722,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,6,2,91,6,6,0,0,6,21 Apr 2026 19:08:02,BCDC73817A9059EE9020
+SD Negeri 084 Tanjung Jabung Barat,10501723,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,8,0,93,6,6,0,1,16,29 Apr 2026 16:16:41,AE6C5432C837A5E9F741
+SD Negeri 094 Tanjung Jabung Barat,10501747,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,2,128,6,7,0,0,9,06 Apr 2026 09:28:08,ED604C16101C61E51A17
+SD Negeri 095 Tanjung Jabung Barat,10501761,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,9,2,74,6,6,0,1,21,27 Apr 2026 16:03:46,667B35DCB34D6281519D
+SD Negeri 103 Tanjung Jabung Barat,10501769,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,1,29,6,4,0,0,6,18 Jan 2026 20:32:09,F2175D36BAD2AEBAC1F6
+SD Negeri 107 Tanjung Jabung Barat,10501759,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,9,3,174,9,8,0,1,23,07 Apr 2026 00:40:06,27B6FA5B599206FC7F9D
+SD Negeri 108 Tanjung Jabung Barat,10501748,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,8,2,151,8,8,0,1,18,28 Apr 2026 10:10:09,FD0DBB991652886F5D9A
+SD Negeri 109 Tanjung Jabung Barat,10501749,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,6,1,65,6,6,0,1,11,05 Mar 2026 08:36:59,4DB99966870FBE934E58
+SD Negeri 110 Tanjung Jabung Barat,10501750,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,4,1,77,6,3,1,2,12,14 Apr 2026 20:19:03,C544B620E033B534E1DE
+SD Negeri 116 Tanjung Jabung Barat,10501756,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,1,42,6,6,0,1,3,28 Jan 2026 22:04:37,E7FE04F2D3AEF80B4E55
+SD Negeri 121 Tanjung Jabung Barat,10501882,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,9,0,35,6,6,0,0,4,09 Feb 2026 10:43:33,3B552390C10808645644
+SD Negeri 132 Tanjung Jabung Barat,10501897,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,1,53,6,3,0,0,12,06 Apr 2026 11:04:37,26EC4C9CB25F9FAD5281
+SD Negeri 144 Tanjung Jabung Barat,10501895,SD,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,0,52,6,3,0,0,7,02 Mar 2026 10:45:24,51D0E8A7F0707B7DB26E
+SMP Negeri 05 Tanjung Jabung Barat,10501876,SMP,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,12,5,106,5,10,2,1,18,25 Apr 2026 10:33:30,9F9C314B6879C55D0290
+SMP Negeri 21 Tanjung Jabung Barat,10505072,SMP,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,10,1,61,3,5,1,1,18,12 Apr 2026 18:14:37,1F4CF48329218B50E0E3
+SMP Negeri 25 Tanjung Jabung Barat,10505069,SMP,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,9,3,42,3,3,1,1,33,21 Apr 2026 08:40:42,D941CFCCDA4FE214B763
+SMP Negeri 32 Tanjung Jabung Barat,10505126,SMP,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,8,4,50,3,3,1,1,9,05 Mar 2026 08:46:32,DB213A2F1DA8214EC243
+SMP Negeri 48 Tanjung Jabung Barat,10507368,SMP,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,9,1,67,3,3,0,0,7,04 Mar 2026 09:45:10,2F0F60BD19B1C7D6A58A
+SMAN 14 TANJUNG JABUNG  BARAT,69727090,SMA,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,10,4,89,4,7,1,1,11,19 Apr 2026 20:05:35,8D2E5E07C621A329333E
+SMAN 5 TANJUNG JABUNG  BARAT,10501834,SMA,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,23,6,292,11,14,4,1,30,28 Apr 2026 12:24:48,32F372829242F3C1C0A9
+SMA YAYASAN TITIAN ILMU PENGABUAN,70014097,SMA,Swasta,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,8,3,71,3,3,0,1,1,11 Apr 2026 10:19:26,E3FBFA15D1ECD4B9A0BD
+SMKN 8 TANJUNG JABUNG BARAT,69786909,SMK,Negeri,Kec. Pengabuan,100402,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,14,3,168,9,5,1,0,12,25 Apr 2026 09:46:17,3621AD1B47B0BB1C3C03

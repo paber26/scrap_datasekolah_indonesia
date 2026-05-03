@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI METTO,60302086,SD,Negeri,Kec. Ki,370219,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,5,2,144,6,6,0,1,38,24 Apr 2026 19:20:47,5E8F51D42CC85FF0F240
+SD NEGERI MIE 1,60302087,SD,Negeri,Kec. Ki,370219,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,7,3,199,7,8,0,0,55,27 Apr 2026 20:54:20,D8B5C57129F6C5115013
+SD NEGERI MIE 2 HOBUNANGGE,60302088,SD,Negeri,Kec. Ki,370219,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,3,1,119,7,13,0,0,24,01 May 2026 06:52:51,E20B335554019EA2FE16
+SMP NEGERI UJUNG KIA,69946394,SMP,Negeri,Kec. Ki,370219,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,8,2,61,3,3,1,1,42,16 Apr 2026 07:52:31,2F535C9B68A4D91CCBC0

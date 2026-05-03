@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 LETUNG,11002362,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,16,10,192,8,9,0,1,30,28 Apr 2026 09:28:28,1CBA34A0AEA456B85E82
+SDN 002 REWAK,11001188,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,8,12,6,6,1,1,11,10 Apr 2026 10:15:46,FD75C09508C60FA80EEE
+SDN 003 MAMPOK,11001199,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,8,75,6,6,0,1,12,04 Mar 2026 09:46:22,A188C4996DF2AF7558D2
+SDN 004 LETUNG,11001313,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,12,9,153,8,7,0,1,19,29 Apr 2026 14:52:21,40EE300895A4CBDB00EC
+SDN 005 LEMBAH REWAK,11001322,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,8,60,6,6,0,1,12,15 Apr 2026 10:43:41,AC285983689DF40E7F49
+SDN 006 LETUNG,11001336,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,10,11,126,6,6,0,1,18,09 Apr 2026 04:29:32,2D6C53D0130644CA1AA3
+SDN 007 PULAU DARAK,11001340,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,4,4,7,3,6,0,0,18,10 Apr 2026 10:49:38,28CF532FA71DD8D9FB82
+SDN 008 AIR BIRU,69787047,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,6,33,6,7,1,1,13,02 Apr 2026 19:23:59,642BDB8748588D3AD8F1
+SDN 009 LANDAK,69787045,SD,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,9,81,6,6,0,1,12,27 Apr 2026 17:04:23,02E4EEE9AE5BCD3F3166
+SMPN 1 JEMAJA,11000323,SMP,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,21,6,234,9,9,3,1,20,21 Apr 2026 13:39:53,917387AA536A42D5D507
+SMPN 2 LEMBAH REWAK,69911390,SMP,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,13,3,63,3,5,1,1,23,15 Apr 2026 11:17:39,FCE24B91FBEAF399BC6C
+SMAN 1 JEMAJA,11002044,SMA,Negeri,Kec. Jemaja,310501,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,22,9,372,12,13,9,1,39,27 Apr 2026 22:17:14,A598AAFA0F6C2C2B2EEB

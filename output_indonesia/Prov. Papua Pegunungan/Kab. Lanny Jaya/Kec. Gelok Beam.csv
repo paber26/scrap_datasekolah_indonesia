@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES GUNA,60301403,SD,Negeri,Kec. Gelok Beam,380729,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,7,1,248,8,6,0,0,25,30 Apr 2026 04:40:47,B4AF9D2122D119B03827
+SD Negeri Juta,70041895,SD,Negeri,Kec. Gelok Beam,380729,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,3,1,0,0,0,0,0,0,,2E9A9967ECE5BC20DB90
+SD Negeri Pirambor,69938711,SD,Negeri,Kec. Gelok Beam,380729,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,8,1,210,8,6,0,0,3,01 May 2026 14:37:23,95723BB44BAFB3DAAFD0
+SMP Negeri Gelok Beam,69981785,SMP,Negeri,Kec. Gelok Beam,380729,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,376,11,10,0,1,23,02 May 2026 10:05:28,CD7B6D6E1E03482A5267

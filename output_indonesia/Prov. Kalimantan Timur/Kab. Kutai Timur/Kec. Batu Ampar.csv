@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 BATU AMPAR,30400830,SD,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,7,3,66,6,6,0,0,13,08 Apr 2026 09:59:22,F5680EC4A3657BB114B4
+SDN 002 BATU AMPAR,30400883,SD,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,6,5,31,6,12,0,1,6,03 Apr 2026 22:54:04,F5A70B350BE755737E92
+SDN 003 BATU AMPAR,30400887,SD,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,15,8,267,12,12,0,1,1,02 Apr 2026 11:55:20,8C4A9C8EAC3FF5636BA5
+SDN 004 BATU AMPAR,30400741,SD,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,7,4,119,6,6,0,1,18,29 Apr 2026 08:00:40,A962D881525C5285A836
+SDN 005 BATU AMPAR,30400864,SD,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,6,3,72,6,6,0,0,9,31 Mar 2026 13:46:16,F49D8F6571AC4B832CD0
+SDN 006 BATU AMPAR,69888440,SD,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,12,3,238,12,14,0,1,15,22 Apr 2026 11:48:26,03DC8ECE51184B2433F2
+SDN 007 BATU AMPAR,69986509,SD,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,11,4,179,10,12,0,0,9,30 Apr 2026 07:25:44,E70B19B8674A4CF8BC50
+SMP NEGERI 1 BATU AMPAR,30404407,SMP,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,12,6,154,6,10,1,1,14,27 Apr 2026 08:38:19,EC111476276854962602
+SMP NEGERI 2 BATU AMPAR,69812099,SMP,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,7,4,104,4,4,1,1,7,13 Apr 2026 08:03:05,FA873CB42C8B5BED70F2
+SMAN 1 BATU AMPAR,30404439,SMA,Negeri,Kec. Batu Ampar,161018,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,17,6,152,6,8,5,1,1,16 Apr 2026 05:04:12,FF4E39E0C5F70E57919D

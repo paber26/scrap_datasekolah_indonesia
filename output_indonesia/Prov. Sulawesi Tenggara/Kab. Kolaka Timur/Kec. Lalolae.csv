@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 KEISIO,40401640,SD,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,9,1,113,6,9,0,1,40,28 Apr 2026 18:49:55,122B1D6632980E29467B
+SD NEGERI 1 LALOLAE,40401737,SD,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,8,2,108,6,8,1,0,17,05 Apr 2026 01:44:19,BE08D991D36482FFF248
+SD NEGERI 1 LALOSINGI,40401752,SD,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,9,1,62,6,7,0,0,16,06 Mar 2026 08:01:39,95D2535198D6360EB734
+SD NEGERI 1 TALODO,40401601,SD,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,8,3,68,6,6,0,1,13,04 Apr 2026 09:09:30,DC9C3946A18FD1E69992
+SD NEGERI 1 WESALO,40401488,SD,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,7,2,56,6,6,0,1,21,27 Apr 2026 08:34:17,37518B493251386BD323
+SD NEGERI 2 KEISIO,40403435,SD,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,8,2,84,6,6,0,0,20,07 Mar 2026 17:38:01,679EFC02222BB8D35074
+SMP NEGERI 1 LALOLAE,40401552,SMP,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,14,3,158,6,9,2,1,57,05 Apr 2026 22:44:50,5D4DBC292FEC2F0FA7F2
+SMP NEGERI Satu Atap 1 Lalolae,40405693,SMP,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,12,1,44,3,4,1,1,20,30 Mar 2026 09:55:05,28D58EC94C36FA7C11EE
+SMA NEGERI 1 LALOLAE,69830521,SMA,Negeri,Kec. Lalolae,201115,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,17,3,147,6,7,2,1,37,29 Apr 2026 15:52:19,CD00B9A84CA7DAD1B099

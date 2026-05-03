@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 TANTARINGIN,30302987,SD,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,6,3,49,6,6,0,1,9,04 Apr 2026 08:20:18,9BD53D102B1A36DE9F70
+SD NEGERI 2 TANTARINGIN,30302988,SD,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,2,175,7,6,1,1,13,23 Apr 2026 08:04:47,14F89A2D7042F5C0EC32
+SD NEGERI MADANG,30303141,SD,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,1,71,6,6,0,2,12,11 Apr 2026 09:25:22,4170C563D2C9EEFDD19B
+SD NEGERI MANDUIN,30303144,SD,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,2,99,6,6,0,1,19,02 Apr 2026 06:27:44,A7BA8A28FB5CCA5C1D9E
+SD NEGERI MANTUIL,30302912,SD,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,9,1,70,6,6,0,1,32,01 May 2026 17:27:31,D338A3F1028A71716B58
+SD NEGERI MURUNG KARANGAN,30302902,SD,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,1,44,6,6,0,1,13,27 Apr 2026 08:17:05,9A2876E52934A62B425F
+SDN PADANGIN,30302931,SD,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,1,24,6,6,0,1,12,31 Mar 2026 18:38:45,4CA1FE8E069C7A526B5F
+SMP NEGERI 1 MUARA HARUS,30305409,SMP,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,3,89,3,6,3,1,21,23 Apr 2026 20:02:57,D00BAE37AAA3D9CA90DC
+SMP NEGERI 2 MUARA HARUS,30305483,SMP,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,3,36,3,3,1,1,14,05 Mar 2026 05:52:25,4C85DEDB27C832CEFA41
+SMAN 1 MUARA HARUS,30303011,SMA,Negeri,Kec. Muara Harus,150804,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,18,7,87,3,12,5,1,22,30 Apr 2026 07:19:15,5E1A939815C73DBBAD3C

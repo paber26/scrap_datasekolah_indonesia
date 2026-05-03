@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 SELAT NASIK,10900497,SD,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,3,123,6,8,0,1,13,06 Apr 2026 09:51:14,58A16C6B4304FB3CF8D3
+SD NEGERI 2 SELAT NASIK,10900543,SD,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,7,3,70,6,6,0,1,13,30 Apr 2026 18:10:15,C5249B80A9D85509D7C7
+SD NEGERI 3 SELAT NASIK,10900414,SD,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,3,59,6,6,0,1,13,30 Apr 2026 08:59:25,BF40DAA544AFAE77C3BB
+SD NEGERI 4 SELAT NASIK,10900411,SD,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,7,2,65,6,6,0,1,9,28 Apr 2026 10:00:49,778C9389AE859A1A5D28
+SD NEGERI 5 SELAT NASIK,10901439,SD,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,5,2,75,6,6,1,1,11,30 Apr 2026 10:56:25,217AF01A2E11C8209AB0
+SD NEGERI 6 SELAT NASIK,10900389,SD,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,6,3,75,6,4,0,1,15,13 Apr 2026 10:17:31,7A78954ACBF2B693ADE4
+SD NEGERI 8 SELAT NASIK,10900447,SD,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,3,2,6,5,2,0,1,18,08 Apr 2026 13:09:18,4339B81F42355E340C4A
+SMP N 1 SELAT NASIK,10900421,SMP,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,11,8,152,6,9,2,1,54,26 Apr 2026 13:42:56,65F9DD37888CA0B0DD49
+SMP N 2 SELAT NASIK,10901377,SMP,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,5,2,34,3,3,0,1,15,10 Apr 2026 00:24:36,37AF29B993554DB65F9E
+SMKN 1 SELAT NASIK,10901376,SMK,Negeri,Kec. Selat Nasik,290209,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,12,8,153,6,6,2,1,16,28 Apr 2026 11:37:55,F21BEF1C44F4FFE4399E

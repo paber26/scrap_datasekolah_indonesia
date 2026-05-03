@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 WAWONII BARAT,40400330,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,10,1,143,7,9,0,0,8,08 Apr 2026 01:53:04,D743287BE5202429E972
+SD NEGERI 10 WAWONII BARAT,69986216,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,8,1,69,6,6,0,0,11,05 Mar 2026 15:10:32,7948B3D116ABC45A55EB
+SD NEGERI 2 WAWONII BARAT,40400526,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,18,2,295,12,12,1,1,26,23 Apr 2026 20:44:10,79A0F60D5522DEF08A81
+SD NEGERI 3 WAWONII BARAT,40403098,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,8,1,130,6,6,0,1,18,29 Apr 2026 23:43:12,A01DFD31E63BF276A30B
+SD NEGERI 4 WAWONII BARAT,40400177,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,10,1,178,7,7,0,1,31,07 Apr 2026 06:08:49,FF7E60DD16BA22D4D9A9
+SD NEGERI 5 WAWONII BARAT,40400305,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,10,1,109,6,6,0,1,31,29 Apr 2026 16:23:04,F13F9ABBF81A2A40E64A
+SD NEGERI 6 WAWONII BARAT,40400159,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,10,2,71,6,6,0,1,9,28 Feb 2026 20:54:19,C8033689B30A966B9743
+SD NEGERI 7 WAWONII BARAT,40400169,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,8,1,101,6,6,0,1,20,04 Mar 2026 07:20:10,5A5A1FFB92DF9C8985BA
+SD NEGERI 8 WAWONII BARAT,40400168,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,8,1,89,6,6,0,1,13,15 Apr 2026 09:31:10,8433B1C49662A7206D14
+SD NEGERI 9 WAWONII BARAT,40400170,SD,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,13,1,172,9,8,3,1,20,06 Mar 2026 09:15:52,6DB5816617D73D0B6079
+SMP NEGERI 1 WAWONII BARAT,40400230,SMP,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,26,2,338,12,16,2,1,82,01 May 2026 19:41:21,3C4D6E8F96AEB60F989F
+SMP NEGERI 2 WAWONII BARAT,40404239,SMP,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,12,5,68,3,7,2,1,59,01 May 2026 18:31:20,C5FA4EE641A5E0663E3B
+SMP NEGERI 3 WAWONII BARAT,40404084,SMP,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,14,2,37,3,3,0,0,49,16 Apr 2026 22:13:53,E380A76F17A2BA7821F2
+SMP NEGERI 4 WAWONII BARAT,69931771,SMP,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,10,2,30,3,3,1,0,52,12 Apr 2026 20:19:01,09E8FDCB1C78D6C333B7
+SMAN 1 WAWONII,40400243,SMA,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,28,1,415,13,14,5,1,17,22 Apr 2026 11:16:11,A40487CC8B534A36FB63
+SMKN 1 KONAWE KEPULAUAN,40403669,SMK,Negeri,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,21,4,54,6,10,7,1,19,30 Apr 2026 11:20:19,41C263197FE1A54D0584
+SMKS KESEHATAN WAWONII,69763255,SMK,Swasta,Kec. Wawonii Barat,201201,Kab. Konawe Kepulauan,201200,Prov. Sulawesi Tenggara,200000,5,1,41,3,3,1,1,20,20 Apr 2026 17:53:58,6D136EC4308627B762A1

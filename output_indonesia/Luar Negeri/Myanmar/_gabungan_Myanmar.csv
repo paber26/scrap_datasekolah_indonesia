@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SEKOLAH SI YANGON TINGKAT SD,90101029,SD,Negeri,Yangon,350501,Myanmar,350500,Luar Negeri,350000,0,0,13,6,8,1,1,6,31 Mar 2026 13:54:49,A03CAB4A8501E7119D73
+SEKOLAH SI YANGON TINGKAT SMP,90101030,SMP,Negeri,Yangon,350501,Myanmar,350500,Luar Negeri,350000,4,1,6,3,5,2,1,5,31 Mar 2026 15:01:25,0AD2C8B900F4439990E0
+SEKOLAH SI YANGON TINGKAT SMA,90101031,SMA,Negeri,Yangon,350501,Myanmar,350500,Luar Negeri,350000,3,1,4,3,6,2,1,8,31 Mar 2026 15:40:10,286DC9EC67B680BEA899

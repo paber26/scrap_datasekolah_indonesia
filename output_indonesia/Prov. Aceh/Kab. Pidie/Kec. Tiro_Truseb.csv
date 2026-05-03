@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD N DAYA BLANG KEUDAH,10100850,SD,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,13,4,122,6,6,0,1,17,05 Apr 2026 09:23:31,3DAEB09A0C1A0F20746A
+SD N LHOK IGEUH,10100473,SD,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,13,3,111,6,6,0,1,30,28 Apr 2026 11:35:30,63C1F87A99447132C48C
+SD N TRUSEB,10100584,SD,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,10,3,147,6,6,0,1,29,12 Apr 2026 13:10:05,3E5E9945FC61DFFCA27E
+SD NEGERI BLANG KEUDAH,10100817,SD,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,9,3,59,6,6,0,1,57,30 Apr 2026 21:59:27,92EFFD7016464B74CF21
+SD NEGERI KAREUNG,10100438,SD,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,11,2,43,6,8,0,1,22,02 May 2026 08:26:25,69F94A9DF76E00A82521
+SD NEGERI PULO TAMBO,10100400,SD,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,12,2,53,6,6,0,1,14,20 Apr 2026 02:37:27,EBCFA1F43464A420661A
+SD NEGERI TIRO,10100596,SD,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,17,5,213,10,9,0,1,18,13 Apr 2026 10:48:11,32D7AA17AB8A266A53A6
+SD NEGERI TRIENG JUDO,10100583,SD,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,15,1,51,6,6,0,1,21,07 Apr 2026 21:23:26,D1C6507BA142B0FB768B
+SMP N 1 TIRO,10100514,SMP,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,19,8,101,4,7,2,1,87,02 May 2026 19:31:59,93B3F7883FF86B43741A
+SMP NEGERI 2 TIRO,10108239,SMP,Negeri,Kec. Tiro/Truseb,060209,Kab. Pidie,060200,Prov. Aceh,060000,17,3,23,3,3,1,1,54,23 Apr 2026 09:55:55,B19563FC4A122ADBF2A2

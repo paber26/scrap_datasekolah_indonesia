@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES EYAGITAIDA,60302295,SD,Negeri,Kec. Topiyai,360323,Kab. Paniai,360300,Prov. Papua Tengah,360000,7,1,390,13,6,1,1,12,17 Apr 2026 04:05:45,DD386C890AD8362AE545
+SD YPPGI EYAGITAIDA,60302362,SD,Swasta,Kec. Topiyai,360323,Kab. Paniai,360300,Prov. Papua Tengah,360000,9,1,332,12,6,2,0,84,29 Apr 2026 21:43:00,2450233EFF3297C4E028
+SD YPPGI OBAIPUGAIDA,60302377,SD,Swasta,Kec. Topiyai,360323,Kab. Paniai,360300,Prov. Papua Tengah,360000,11,1,287,11,6,0,1,45,30 Apr 2026 16:45:47,B0B5A3DC2432198798B7
+SMP YPPGI SATAP SILAS OBAIPUGAIDA,69992050,SMP,Swasta,Kec. Topiyai,360323,Kab. Paniai,360300,Prov. Papua Tengah,360000,13,1,428,12,6,0,0,144,02 May 2026 16:35:34,83EB6A8CCB564A76F944

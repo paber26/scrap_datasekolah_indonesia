@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 TALAO,10306894,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,8,1,149,8,6,0,2,13,10 Apr 2026 22:58:47,BB1775AC1F98C29C28F6
+SD NEGERI 02 SUNGAI KUNYIT,10306898,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,8,1,63,6,7,0,2,16,04 Apr 2026 04:37:29,D042C967C71512A909AD
+SD NEGERI 03 SUNGAI TAKUAK,10306902,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,9,1,176,7,8,1,1,9,04 Apr 2026 08:37:15,8FC891759622E81C1880
+SD NEGERI 04 SUNGAI GADIANG,10306906,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,10,1,203,9,12,0,1,20,17 Apr 2026 09:47:46,98780912E0D2773A69DB
+SD NEGERI 05 SUNGAI SUNGKAI,10306911,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,8,1,163,8,9,0,1,21,29 Apr 2026 14:57:40,675A28E531D012D0B7A0
+SD NEGERI 06 TALUNAN BARU,10306914,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,8,0,137,6,9,0,1,1,05 Apr 2026 01:39:43,1E445FC7FC5F1A455245
+SD NEGERI 07 MERCU,10306919,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,7,1,150,6,7,0,1,10,02 Apr 2026 12:31:33,5B1113E8A21A6E8F0341
+SD NEGERI 08 KURNIA MAJU,10306921,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,6,1,93,6,6,0,1,8,02 May 2026 07:42:19,AED8654B13ECE96F400C
+SD NEGERI 09 TALUNAN INDAH SEPAKAT,10306926,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,7,1,72,6,6,0,1,21,29 Apr 2026 20:28:08,1C6614EC700E1685C12A
+SD NEGERI 10 LOG BATU SANDI,70057083,SD,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,5,1,99,6,6,0,0,56,21 Apr 2026 10:34:54,E86EEFEF6A0800F51903
+SD BPSJ SS II,70015389,SD,Swasta,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,16,3,213,10,8,0,2,25,16 Apr 2026 12:13:02,AB981CCB360652DC9CF4
+SD YPTSS SUNGAI KUNYIT,10306945,SD,Swasta,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,29,5,470,19,20,0,1,42,23 Apr 2026 15:20:59,0360D484AD4109381887
+SD01 YTKA,10306944,SD,Swasta,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,15,2,341,13,13,0,3,21,21 Apr 2026 09:46:45,127B45747348998583A1
+SMP NEGERI 08 SOLOK SELATAN,10303384,SMP,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,11,2,221,8,11,2,1,10,06 Apr 2026 16:15:16,EFA4EF23411F6E2CBED4
+SMP NEGERI 20 SOLOK SELATAN,10306964,SMP,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,7,2,193,7,7,1,1,17,21 Apr 2026 18:34:56,80880EB38AB4CCFB7AB4
+SMP NEGERI 26 SOLOK SELATAN,10308330,SMP,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,9,1,74,3,6,2,1,18,03 Mar 2026 10:04:22,C828F11F423D769F61FA
+SMP YTKA,10303378,SMP,Swasta,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,14,3,220,8,11,3,1,46,18 Apr 2026 10:04:33,ABEEC2611F3009BFEC78
+SMAN 11 SOLOK SELATAN,69946860,SMA,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,16,3,108,6,6,1,1,20,24 Apr 2026 14:15:25,6A786E20E4CB21C7BB25
+SMKN 2 SOLOK SELATAN,10306967,SMK,Negeri,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,19,6,125,8,8,3,1,14,29 Apr 2026 13:14:25,4183F581A587DE6CAAEF
+SMKS YTKA SOLOK SELATAN,10308852,SMK,Swasta,Kec. Sangir Balai Janggo,081107,Kab. Solok Selatan,081100,Prov. Sumatera Barat,080000,15,3,217,9,9,1,1,15,29 Apr 2026 09:28:43,E2EA2FA7D509B75E07F7

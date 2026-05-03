@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 PUNGGALUKU,40400359,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,3,60,6,6,1,0,25,20 Apr 2026 11:18:57,CC15916F398C2B03A20E
+SD NEGERI 1 WALAY,40400494,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,15,8,158,8,7,1,1,59,29 Apr 2026 12:54:37,C10BF9121BA0C7D6D550
+SD NEGERI 2 PUNGGALUKU,40400442,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,2,64,6,5,0,1,27,01 May 2026 16:29:00,BEB1CD170F31FCD70F10
+SD NEGERI 2 WALAY,40400467,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,3,139,7,6,0,1,31,22 Apr 2026 04:44:56,B872AFE09EF07AD7DA6E
+SD NEGERI ABUKI,40400173,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,3,110,6,6,0,1,16,29 Apr 2026 10:39:01,7E9D76087A18D0E655E5
+SD NEGERI ANGGORO,40404730,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,13,4,78,6,6,0,1,24,21 Apr 2026 18:07:42,9E0F3CD7D235A69A2720
+SD NEGERI ASOLU,40400193,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,4,155,9,6,0,1,65,29 Apr 2026 18:02:28,129BCB2B0A87F525F33B
+SD NEGERI KUMAPO,40400133,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,6,57,6,6,1,1,30,21 Apr 2026 19:13:30,336EB9B7C22FD64EE942
+SD NEGERI SAMBEANI,40400278,SD,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,5,156,8,6,0,1,34,27 Apr 2026 14:44:17,BB838848F8A549992DBC
+SMP NEGERI 1 ABUKI,40400221,SMP,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,21,9,187,9,13,1,1,36,01 May 2026 14:29:01,69919535765957C6359E
+SMP NEGERI 3 ABUKI,40400269,SMP,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,15,6,137,6,7,1,1,61,28 Apr 2026 17:18:12,D22E057F2BC99F0FF068
+SMAN 1 ABUKI,40402857,SMA,Negeri,Kec. Abuki,200118,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,28,18,307,10,10,3,1,48,29 Apr 2026 16:26:47,5706D2515ABF4FD567C2

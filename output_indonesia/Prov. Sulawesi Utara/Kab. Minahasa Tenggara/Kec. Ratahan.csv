@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES LOWU,40101922,SD,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,1,120,7,6,0,0,8,03 Mar 2026 07:47:25,0CD135E24EAD9EEBBED8
+SD INPRES RASI,40101953,SD,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,9,1,124,6,6,0,1,16,03 Mar 2026 07:54:21,CF418A070A48EC2B024B
+SD INPRES TOSURAYA,40101875,SD,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,1,111,6,6,1,1,5,03 Mar 2026 17:57:38,2FBFAF3D8CBE50E92E3C
+SD NEGERI 1 RATAHAN,40102246,SD,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,9,1,141,6,6,0,1,21,09 Apr 2026 09:52:05,11EBB29D3C44D04A36C2
+SD NEGERI 2 RATAHAN,40102249,SD,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,15,0,217,11,8,1,1,26,30 Apr 2026 22:35:48,4BE1F71959D647DAC104
+SD ADVENT RATAHAN,40102162,SD,Swasta,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,2,138,6,6,0,0,16,22 Apr 2026 09:14:49,5C671FEB54D508F00560
+SD GMIM Lowu Utara,69962187,SD,Swasta,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,6,1,30,6,9,0,0,13,14 Apr 2026 19:38:25,FF38A3C5DE96823295A7
+SD GMIM RASI,40102110,SD,Swasta,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,0,79,6,6,0,1,22,13 Apr 2026 20:28:39,F5FCE6430FC14D4C96A8
+SD GMIM RATAHAN,40102112,SD,Swasta,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,2,192,7,7,0,1,10,18 Mar 2026 14:58:21,F349BC776A344DA5722B
+SMP NEGERI 1 RATAHAN,40101977,SMP,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,24,3,338,12,25,2,1,64,28 Apr 2026 11:13:08,831F115263E5DBB0FF5A
+SMP NEGERI 6 RATAHAN,40103657,SMP,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,11,2,101,5,5,1,0,18,10 Mar 2026 14:38:46,9AD66B8B46C71FF8BE5D
+SMP ADVENT RATAHAN,40101911,SMP,Swasta,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,5,1,72,3,5,1,1,14,17 Apr 2026 06:56:46,C3CD1C506D32FCD24E24
+SMA NEGERI 1 RATAHAN,40101997,SMA,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,37,4,611,19,20,5,1,29,30 Apr 2026 09:26:28,6E6E7701011004769249
+SMAN 2 RATAHAN,40102003,SMA,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,15,2,224,8,14,5,3,26,30 Apr 2026 10:44:21,E51DDB5219A19744A78D
+SMAS ADVENT RATAHAN,40102019,SMA,Swasta,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,2,63,3,4,2,1,16,03 Mar 2026 10:53:26,E3593FFDAB0D6ED8534A
+SMKN 1 RATAHAN,40103665,SMK,Negeri,Kec. Ratahan,171004,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,62,8,681,33,23,1,1,142,28 Apr 2026 18:51:26,C0FC1D4A8D9E52C405C6

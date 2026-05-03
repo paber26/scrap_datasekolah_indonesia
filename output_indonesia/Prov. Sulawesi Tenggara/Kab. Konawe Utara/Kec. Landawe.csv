@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LANDAWE,40403898,SD,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,11,1,31,6,6,0,1,11,13 Apr 2026 12:47:51,C9DDE2C657139B4BC9A0
+SD NEGERI 2 LANDAWE,40404965,SD,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,7,2,95,6,6,1,1,17,23 Apr 2026 10:51:36,E6474A3ACD10CA517B78
+SD NEGERI 3 LANDAWE,40403877,SD,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,65,6,6,0,1,22,12 Apr 2026 06:10:30,496312A390D2A0691D27
+SD NEGERI 4 LANDAWE,40403899,SD,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,48,6,6,0,1,23,12 Apr 2026 19:11:03,503A11D7183B406C885B
+SD NEGERI 5 LANDAWE,40403881,SD,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,11,1,50,6,6,0,1,16,29 Jan 2026 20:11:39,1AD52DBAAFACAEA27A46
+SD NEGERI 6 LANDAWE,40405240,SD,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,8,1,40,6,6,0,1,4,06 Apr 2026 07:56:25,7347E59E7F4D72326205
+SD NEGERI 7 LANDAWE,40405744,SD,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,8,1,40,6,6,0,1,22,27 Apr 2026 20:29:27,0F76D5B3AD0F159B6E27
+SMP NEGERI 1 LANDAWE,40403966,SMP,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,16,2,133,6,7,2,1,51,06 Mar 2026 14:26:00,B2F0C4F55CCE7679D108
+SMP NEGERI SATAP 5 LANDAWE,69752731,SMP,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,8,2,18,3,4,1,1,30,27 Apr 2026 14:08:29,EFA5AF84B02B6BBCEDDB
+SMAN 1 LANDAWE,69888827,SMA,Negeri,Kec. Landawe,200911,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,10,1,88,4,6,2,1,22,28 Apr 2026 11:28:26,9459648EAB378349A6A3

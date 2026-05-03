@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI WILAS,30303226,SD,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,7,2,88,6,6,0,0,17,03 Mar 2026 07:38:19,E81B7F5EA254B7F753ED
+SDN MANGGA,30303542,SD,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,1,69,6,6,0,0,6,10 Feb 2026 06:10:59,2FE9DC7D7AAD2152EB91
+SDN PUDI,30303482,SD,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,10,1,118,6,7,0,1,9,13 Feb 2026 20:47:40,5489734AE1B345639695
+SDN PUDI SEBERANG,30303483,SD,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,1,90,6,6,0,0,22,14 Apr 2026 09:32:11,1220935134E939152450
+SDN SUNGAI HANYAR,30303277,SD,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,10,0,36,6,6,0,1,15,05 Apr 2026 22:55:47,B1696A3CFF1DB12FBD1D
+SDN SUNGAI SELUANG,30303268,SD,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,1,75,6,6,0,0,7,15 Apr 2026 09:09:16,224A4EE741F5B5A06328
+SDN TANJUNG MAHKOTA,30303207,SD,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,11,1,67,6,7,0,1,23,14 Apr 2026 08:23:49,C5E0439FEC511A6949A8
+SMP NEGERI 1 KELUMPANG UTARA,30303356,SMP,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,12,5,182,6,7,2,1,15,27 Feb 2026 06:32:23,402EE25ED1A40C861912
+SMP NEGERI 2 KELUMPANG UTARA,30313824,SMP,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,1,62,3,3,1,1,26,28 Apr 2026 08:42:33,05373182CC4156078F1F
+SMAN 1 KELUMPANG UTARA,30311501,SMA,Negeri,Kec. Kelumpang Utara,150917,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,11,4,145,6,9,3,1,18,29 Apr 2026 10:43:39,95E4872CCE031DB6DDE1

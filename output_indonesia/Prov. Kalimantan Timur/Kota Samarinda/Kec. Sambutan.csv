@@ -1,0 +1,31 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 001 Sambutan,30401310,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,29,3,512,18,9,0,1,1,01 May 2026 07:37:58,B3F61108CB6FD8536554
+SD Negeri 002 Sambutan,30400936,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,23,4,459,18,8,0,1,28,21 Apr 2026 10:20:58,B94FD3B1C0F10A3073C9
+SD Negeri 003 Sambutan,30400929,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,8,3,146,6,6,0,1,60,16 Apr 2026 13:25:39,115715101D8D5E5F2F8C
+SD Negeri 004 Sambutan,30400920,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,29,7,546,20,11,0,1,27,02 May 2026 10:56:34,0ED077184111C503ABA5
+SD Negeri 005 Sambutan,30402991,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,24,3,467,16,8,1,1,64,04 Apr 2026 09:46:03,4BA48FC806E7BE8BE943
+SD Negeri 006 Sambutan,30400925,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,13,4,205,10,8,0,1,20,11 Apr 2026 07:52:26,5C0E26BD5D311C3B5C54
+SD Negeri 007 Sambutan,30400939,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,10,5,198,8,8,0,1,49,29 Apr 2026 06:22:02,D366B0B6A0FCF19A2C89
+SD Negeri 008 Sambutan,30402992,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,14,1,274,10,6,0,1,28,02 May 2026 13:03:17,40CC3227917DA787483E
+SD Negeri 009 Sambutan,30400958,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,15,3,223,11,8,0,1,30,15 Apr 2026 10:23:11,65DF785523CAE771EF09
+SD Negeri 010 Sambutan,30400951,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,17,3,342,12,6,0,1,22,02 Apr 2026 11:20:19,F449B6000273E88B77C2
+SD Negeri 011 Sambutan,30400949,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,17,2,311,12,9,0,1,12,05 Apr 2026 14:54:55,2C477C0EB963F6AE8AF1
+SD Negeri 012 Sambutan,30400942,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,12,2,187,8,6,0,1,14,24 Feb 2026 23:21:44,A9ADCB308151A04A75FA
+SD Negeri 013 Sambutan,30400944,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,17,4,318,12,10,0,2,14,16 Apr 2026 09:57:20,03E1A28B7FA51FB30DCD
+SD Negeri 014 Sambutan,30400946,SD,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,17,2,290,12,9,0,1,25,29 Apr 2026 08:54:08,B2E0240D9F79DE37562C
+SD IT Al Anshar Samarinda,30407325,SD,Swasta,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,5,2,151,6,12,0,1,7,20 Feb 2026 11:58:21,6A9628F366001ECFD443
+SD Nasional Tiga Bahasa,30405645,SD,Swasta,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,10,5,126,6,6,1,1,40,11 Mar 2026 08:55:15,B7EB29845A57C89A0CBE
+SD Normal Islam 2 Samarinda,70050113,SD,Swasta,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,6,5,99,5,6,1,1,9,05 Mar 2026 11:18:24,BA1253A8D607EE2810C6
+SD Terpadu Madina Samarinda,30407404,SD,Swasta,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,18,4,359,14,12,1,1,15,02 May 2026 06:59:48,026A6F7B01E392E952F4
+SMP Negeri 17 Samarinda,30401010,SMP,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,29,10,523,18,14,3,1,47,30 Apr 2026 09:28:46,B6F82672F07317995AC1
+SMP Negeri 23 Samarinda,30401028,SMP,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,20,3,299,11,13,3,1,43,13 Apr 2026 08:07:56,46E69F1BA26ECBC389FE
+SMP Negeri 32 Samarinda,30401038,SMP,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,22,5,406,12,10,0,1,14,22 Apr 2026 05:37:02,45264A36597871446BBE
+SMP Negeri 41 Samarinda,30405607,SMP,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,13,2,108,5,7,1,1,1,17 Apr 2026 14:46:08,8A605B0096C67C2EB2D8
+SMP Negeri 9 Samarinda,30401048,SMP,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,47,10,956,33,33,2,1,30,30 Apr 2026 07:24:55,7E60D3209ED148B26D55
+SMP Nasional Tiga Bahasa,69889039,SMP,Swasta,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,7,2,61,3,4,3,1,25,27 Apr 2026 09:34:19,E66C48E94A23D92EAF56
+SMA Negeri 11 Samarinda,30401068,SMA,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,46,18,732,20,21,4,1,52,28 Apr 2026 07:00:41,9F68F48635B792B79271
+SMA Negeri 15 Samarinda,30404551,SMA,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,20,7,283,9,9,1,1,15,29 Apr 2026 13:47:38,19C78A51132A7E754AB0
+SMK Negeri 20 Samarinda,30404180,SMK,Negeri,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,58,15,1041,34,22,4,1,51,23 Apr 2026 19:35:00,37BF8072505DE7E0160D
+SMK Integral Hidayatullah,69830684,SMK,Swasta,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,2,1,26,3,3,1,1,5,27 Feb 2026 20:34:22,BB3DE8C248E88437E6D6
+SMKS Miftahul Ulum Samarinda,30401085,SMK,Swasta,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,10,3,81,6,6,2,1,39,01 May 2026 10:26:31,0C8B9111700C4C6FD906
+SMKS PGRI 5 SAMARINDA,30401078,SMK,Swasta,Kec. Sambutan,166007,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,3,5,11,3,7,1,1,23,28 Apr 2026 06:59:58,DA3F5255803F96381B8D

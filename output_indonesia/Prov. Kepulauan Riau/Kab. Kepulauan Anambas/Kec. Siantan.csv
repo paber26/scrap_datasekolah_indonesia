@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 TAREMPA,11001164,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,16,6,269,10,8,0,1,26,30 Apr 2026 07:29:03,82828707FED9A7E1002E
+SDN 002 TAREMPA,11001301,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,18,10,261,12,12,0,1,40,27 Apr 2026 08:48:04,874201EE254C837A6052
+SDN 003 TAREMPA,11001344,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,6,132,6,6,0,0,17,30 Apr 2026 07:36:56,A4E4608FF9F94872B424
+SDN 004 BUKIT TAMBUN,11001315,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,12,3,130,6,6,0,1,12,03 Mar 2026 19:24:17,999404AA5C6CF25D10E0
+SDN 005 ANTANG,11001329,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,7,133,6,6,1,1,16,28 Apr 2026 08:51:54,5C7BB9D84E5865CBCA73
+SDN 006 TANJUNG,11001349,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,4,95,6,6,0,1,16,16 Apr 2026 10:22:00,34AD78F57CE98D8EAF56
+SDN 007 SEDAK,11001361,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,10,4,35,6,6,0,0,9,14 Apr 2026 10:49:06,C3970F52488D602182D3
+SDN 008 DUSUN,11001363,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,5,120,6,5,0,1,10,04 Mar 2026 20:29:07,0621E9BA2EC93C0F8092
+SDN 009 REKAM,69787022,SD,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,2,17,6,4,0,1,11,21 Apr 2026 11:54:50,AF27868879FF6082A3D3
+SD Tahfidz Quran Insan Utama,69980056,SD,Swasta,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,4,87,6,6,0,0,52,29 Apr 2026 10:57:38,FEE704098FD912C23733
+SMPN 1 SIANTAN,11000326,SMP,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,18,7,170,7,9,2,1,18,27 Apr 2026 09:47:03,7802DF2F922C58E0AF8B
+SMPN 2 SIANTAN,11000330,SMP,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,24,5,271,9,9,2,2,30,22 Apr 2026 09:42:06,DC995022DC92EA866B23
+SMPN 3 SEDAK,11002504,SMP,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,2,13,3,3,1,1,16,21 Apr 2026 14:40:47,F1BFC7C329B400871018
+SMPN 4 DUSUN,11003257,SMP,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,7,61,3,5,1,1,31,07 Apr 2026 14:58:24,0A84DAAC2DEC490754D6
+SMPN 5 BUKIT TAMBUN,69734125,SMP,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,12,6,85,3,3,2,1,14,30 Mar 2026 15:28:07,59CA935A7B930166B233
+SMP KHAIRA UMMAH ISLAMIC BOARDING SCHOOL,69734124,SMP,Swasta,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,3,59,3,3,1,1,20,21 Apr 2026 07:00:55,D15FA8262D4E1FEB1342
+SMAN 1 SIANTAN,11000321,SMA,Negeri,Kec. Siantan,310503,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,28,9,516,16,25,4,1,59,19 Apr 2026 19:27:52,117E2796A03805A98329

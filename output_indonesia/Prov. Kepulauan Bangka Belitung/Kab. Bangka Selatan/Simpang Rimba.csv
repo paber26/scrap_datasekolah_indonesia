@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 SIMPANG RIMBA,10900897,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,14,3,261,12,11,0,1,11,27 Apr 2026 09:17:37,8CFC83834F3E17B396FE
+SD NEGERI 10 SIMPANG RIMBA,10900902,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,12,4,268,11,9,0,1,22,10 Apr 2026 07:39:21,EA287DB7CCF8A2179DB5
+SD NEGERI 11 SIMPANG RIMBA,10900905,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,11,4,342,12,12,0,1,16,14 Apr 2026 07:12:05,B4375DFBEF33AA24FEF5
+SD NEGERI 12 SIMPANG RIMBA,70002634,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,8,4,157,6,3,1,1,11,31 Mar 2026 07:49:18,864E1D7219837569988F
+SD NEGERI 2 SIMPANG RIMBA,10900935,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,10,5,218,9,7,0,1,21,07 Apr 2026 02:19:25,948CC90380104F864ACE
+SD NEGERI 3 SIMPANG RIMBA,10900854,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,14,4,234,12,12,0,1,13,15 Apr 2026 00:14:57,3CB62C16ACE8213A8A44
+SD NEGERI 4 SIMPANG RIMBA,10900863,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,7,3,139,6,6,0,1,15,14 Apr 2026 21:06:20,828DF797B07B7A3E3F1D
+SD NEGERI 5 SIMPANG RIMBA,10900843,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,10,5,183,8,9,0,1,18,14 Apr 2026 08:34:11,C265BDD7782AEDBEA80D
+SD NEGERI 6 SIMPANG RIMBA,10900844,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,16,6,347,14,15,0,1,8,10 Feb 2026 09:27:57,A0199E6E9D25FC753934
+SD NEGERI 7 SIMPANG RIMBA,10900881,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,11,5,218,9,13,0,1,8,22 Apr 2026 10:41:26,D1217F54942931259B9B
+SD NEGERI 8 SIMPANG RIMBA,10900884,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,21,7,492,17,17,0,1,19,07 Apr 2026 10:40:06,EE3DA98BE715F97ABAA2
+SD NEGERI 9 SIMPANG RIMBA,10900891,SD,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,16,4,306,13,13,0,2,27,30 Apr 2026 08:06:14,05A73D49A01CE73CBF33
+SMP NEGERI 1 SIMPANG RIMBA,10900874,SMP,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,18,9,323,11,13,2,1,15,27 Apr 2026 12:33:44,3439A8ED154BB5DE146F
+SMP NEGERI 2 SIMPANG RIMBA,10901359,SMP,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,10,7,189,7,8,3,1,18,14 Apr 2026 13:26:54,0D1578A61A10AA72F2FC
+SMP NEGERI 3 SIMPANG RIMBA,10901478,SMP,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,13,5,203,7,9,2,1,26,02 Apr 2026 10:31:47,FABA7D66F8725223AE46
+SMP IT PONDOK TAHFIDZ QURAN,70002023,SMP,Swasta,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,14,2,200,7,9,0,1,9,11 Apr 2026 07:08:26,A4DF73A4822EC66A30DA
+SMAN 1 SIMPANG RIMBA,10901411,SMA,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,27,11,477,15,15,4,1,33,13 Apr 2026 16:09:31,684657B66D7B074429B6
+SMA AL FATIH,70055222,SMA,Swasta,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,3,2,31,1,1,0,0,4,09 Apr 2026 11:00:15,9D22E347D49A33415262
+SMK NEGERI 1 SIMPANG RIMBA,69899944,SMK,Negeri,Simpang Rimba,290502,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,16,10,173,8,9,1,1,26,30 Apr 2026 09:21:24,93F04D5520F0372C68BA

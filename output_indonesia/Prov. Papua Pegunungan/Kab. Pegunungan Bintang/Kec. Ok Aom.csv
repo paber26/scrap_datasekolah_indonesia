@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ABODING,60300966,SD,Negeri,Kec. Ok Aom,380216,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,10,0,96,6,6,0,0,14,26 Mar 2026 11:18:15,8A2D184DC078695EE2F3
+SD INPRES BULANGKOP,60302158,SD,Negeri,Kec. Ok Aom,380216,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,12,1,158,9,9,0,0,22,28 Jan 2026 08:15:05,27A6AD7031E51625EE1E
+SD INPRES YUMAKOT,60302807,SD,Negeri,Kec. Ok Aom,380216,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,3,1,7,6,6,0,0,4,27 Jan 2026 21:03:27,FF59B128E01AF83E4218
+SMP NEGERI BULANGKOP,69725977,SMP,Negeri,Kec. Ok Aom,380216,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,4,0,141,5,3,0,1,37,27 Apr 2026 19:30:47,F35BE90676632AB77959

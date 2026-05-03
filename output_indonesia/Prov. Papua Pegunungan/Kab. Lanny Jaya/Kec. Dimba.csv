@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES DIMBA,60301393,SD,Negeri,Kec. Dimba,380705,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,8,1,258,13,6,0,0,14,28 Apr 2026 18:59:54,CF937D2446C2741D5615
+SD NEGERI KULUGOME,60303519,SD,Negeri,Kec. Dimba,380705,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,5,1,321,10,10,0,0,2,22 Apr 2026 08:56:20,8CAF9A355A4B433EC733
+SMP NEGERI 1 DIMBA,60303550,SMP,Negeri,Kec. Dimba,380705,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,14,1,284,10,8,1,0,40,23 Apr 2026 18:55:40,A7DE432860AA9612066B

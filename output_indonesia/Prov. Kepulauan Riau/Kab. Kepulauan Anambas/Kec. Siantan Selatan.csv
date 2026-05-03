@@ -1,0 +1,16 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 TELAGA,69821187,SD,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,6,5,36,6,6,0,1,17,07 Apr 2026 09:51:44,60AB7938362349B61FD9
+SDN 002 KIABU,11001306,SD,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,6,79,6,7,0,1,17,28 Apr 2026 11:17:04,D0BCBD9D6FDCDE12514A
+SDN 003 MENGKAIT,11001324,SD,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,5,5,89,6,6,1,1,11,27 Apr 2026 08:45:47,D453905D845F7662E03B
+SDN 004 GENTING,11001352,SD,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,5,70,6,6,0,1,43,09 Apr 2026 08:56:43,EE6BB1C47C9A4409BFA2
+SDN 005 LINGAI,11001356,SD,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,6,5,25,6,6,0,1,8,03 Mar 2026 22:01:55,517A4BD47B9C3DC72E85
+SDN 006 TELAGA KECIL,11001377,SD,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,3,5,18,6,6,0,1,12,12 Mar 2026 10:22:22,21385730205B2BABFB32
+SDN 007 LINGAI BESAR,11003253,SD,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,6,1,10,5,3,0,0,36,25 Apr 2026 11:24:18,98F6B8E51C301D30182A
+SDN 008 HARUNG HIJAU,69734123,SD,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,3,54,6,6,0,1,12,08 Apr 2026 14:00:30,F24D9F5178E53887D232
+SMPN 1 KIABU,11003023,SMP,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,7,6,33,3,3,1,1,14,12 Mar 2026 08:53:20,B7D14AC8FF687C8174EC
+SMPN 2 MENGKAIT,11002507,SMP,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,6,4,49,3,6,2,2,13,04 Feb 2026 12:51:28,5DA6553D3D8C3E9E268F
+SMPN 3 TELAGA,11003259,SMP,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,5,20,3,4,1,1,23,07 Apr 2026 22:05:05,9045703F3496194D6E5D
+SMPN 4 GENTING,11003258,SMP,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,6,33,3,4,1,1,37,28 Apr 2026 10:06:57,F4C082F66A57FDB885E9
+SMPN 5 HARUNG HIJAU,69856269,SMP,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,10,5,29,3,3,1,1,11,20 Feb 2026 20:19:23,0ACAA1142E5FEB6DEE3F
+SMPN 6 LINGAI,69912913,SMP,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,4,2,17,3,3,1,1,42,20 Apr 2026 22:22:35,97FD9D7D1581CD1C6572
+SMK NEGERI 4 ANAMBAS,69973863,SMK,Negeri,Kec. Siantan Selatan,310505,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,4,19,5,6,1,1,23,13 Apr 2026 12:10:46,03342C819E31362F6D6B

@@ -1,0 +1,16 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BANGUN HARJA,30203139,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,9,1,117,6,7,0,1,13,29 Jan 2026 19:03:34,55C0C5DB24A8C32E6678
+SD NEGERI 1 HALIMAUNG JAYA,30203108,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,6,1,65,6,6,0,0,11,30 Apr 2026 16:54:02,80AD03A8D2EE8BF0BE36
+SD NEGERI 1 KARTIKA BHAKTI,30203112,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,9,3,84,6,6,0,2,17,27 Apr 2026 10:34:17,9F25A70EA0D879FAFC60
+SD NEGERI 1 MEKAR INDAH,30203115,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,8,2,33,6,9,0,1,7,24 Apr 2026 19:20:27,98197DBC36F6E0E64260
+SD NEGERI 1 PEMATANG PANJANG,30203151,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,10,2,122,7,7,0,1,9,10 Apr 2026 22:22:03,6DD5177CE26BB8593FC5
+SD NEGERI 1 SUNGAI BAKAU,30203168,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,11,1,152,7,10,0,1,58,25 Apr 2026 17:51:40,55DF1C2B582C09657BD4
+SD NEGERI 2 KARTIKA BHAKTI,30203146,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,9,2,80,6,6,0,1,10,05 Apr 2026 19:00:00,C2F66AA87FC6B5260A61
+SD NEGERI 2 MEKAR INDAH,30203149,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,10,0,28,6,8,0,1,2,27 Feb 2026 04:17:04,7A2FD243CBC37E87F709
+SD NEGERI 2 PEMATANG PANJANG,30203049,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,13,3,138,6,8,0,1,7,28 Apr 2026 10:12:30,DE7EBA979802468A66DF
+SD NEGERI 3 PEMATANG PANJANG,30203055,SD,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,10,2,103,6,10,0,1,11,23 Apr 2026 09:41:13,2D26CF9B3FA08FEC1CA8
+SMP NEGERI 1 SERUYAN HILIR TIMUR,30203079,SMP,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,19,3,173,7,14,1,1,15,17 Apr 2026 07:45:23,C3C7569C9211271C2A0F
+SMP NEGERI 2 SERUYAN HILIR TIMUR,30203082,SMP,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,10,2,66,3,8,3,1,27,23 Apr 2026 08:58:34,16FA718300DDA05DB6FC
+SMP NEGERI 3 SERUYAN HILIR TIMUR,69947716,SMP,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,8,1,53,3,3,1,1,8,04 Mar 2026 19:58:09,1DE20CDF204822A330FC
+SMP NEGERI 4 SERUYAN HILIR TIMUR,70031727,SMP,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,13,2,59,3,3,0,0,17,28 Apr 2026 10:04:30,4A3668ABA58BA8BCDA49
+SMAN 2 KUALA PEMBUANG,30203844,SMA,Negeri,Kec. Seruyan Hilir Timur,140706,Kab. Seruyan,140700,Prov. Kalimantan Tengah,140000,26,7,337,12,16,5,1,26,30 Apr 2026 21:08:32,488EAD0E43BE47B14F2A

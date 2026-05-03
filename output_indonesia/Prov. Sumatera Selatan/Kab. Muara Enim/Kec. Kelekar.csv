@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 KELEKAR,10645330,SD,Negeri,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,4,168,7,7,0,1,17,07 Mar 2026 09:17:20,D71FE54FBFA642A2B46E
+SDN 2 KELEKAR,10645315,SD,Negeri,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,10,5,187,8,8,0,1,13,07 Apr 2026 16:06:56,44F488E0D159153C4E38
+SDN 3 KELEKAR,10645314,SD,Negeri,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,8,4,168,6,6,0,1,26,07 Apr 2026 10:13:30,E068CFA86763E2A3F7DA
+SDN 4 KELEKAR,10645326,SD,Negeri,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,7,127,6,6,1,1,35,02 May 2026 08:06:15,1E37F6B210CA327BBD8C
+SDN 5 KELEKAR,10645316,SD,Negeri,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,8,4,119,6,6,0,1,14,25 Apr 2026 08:00:45,617D86D1B2A91DC9982E
+SDN 6 KELEKAR,10645961,SD,Negeri,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,3,70,6,7,0,1,51,20 Apr 2026 11:02:20,772EAF094222AE632522
+SMPN 1 KELEKAR,10646151,SMP,Negeri,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,18,7,225,9,9,1,1,24,16 Apr 2026 23:02:33,299944557C651491D8DA
+SMP PGRI MENANTI,10645153,SMP,Swasta,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,7,1,29,3,3,0,1,49,02 May 2026 06:04:58,E70A92103605B4A229DB
+SMAN 1 KELEKAR,10645131,SMA,Negeri,Kec. Kelekar,110424,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,26,8,345,11,10,4,1,15,03 Mar 2026 09:48:57,757D140A8FAEB6B0E0B9

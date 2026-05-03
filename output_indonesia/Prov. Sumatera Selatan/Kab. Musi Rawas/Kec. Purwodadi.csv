@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 TRIKARYA,10602290,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,9,1,78,6,6,0,1,16,27 Apr 2026 10:31:37,399C0BEE875F5786F666
+SDN 2 TRIKARYA,10602245,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,9,1,150,6,6,1,1,18,15 Apr 2026 11:14:36,E13C0A3DA0166EA52411
+SDN BANGUNSARI,10601926,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,8,2,87,6,6,0,1,15,31 Mar 2026 23:42:35,25FD3C914FB00A349EC5
+SDN KARYADADI,10644781,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,8,1,126,6,8,0,1,34,06 Apr 2026 10:07:17,32932293B5056BF50677
+SDN KERTOSARI,10601834,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,8,1,104,6,7,0,1,11,18 Apr 2026 08:41:56,394C0F890BB06D23AA88
+SDN MANGUNHARJO,10601877,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,9,2,101,6,6,1,1,30,03 Mar 2026 07:52:50,B9511AE0A95ACBB5D7D0
+SDN MARDIHARJO,10601878,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,8,2,139,6,6,0,1,29,06 Apr 2026 11:01:36,782FEAE2B43754814866
+SDN PAGERSARI,10601863,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,8,0,79,6,6,0,1,15,07 Apr 2026 22:01:22,7F6CC0B37C05F89CBBB5
+SDN PURWAKARYA,10602027,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,7,1,58,6,6,0,1,17,13 Apr 2026 11:22:32,FA97613EAA02F6210108
+SDN PURWODADI,10602028,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,9,3,140,6,7,3,1,45,02 Apr 2026 06:27:09,DB3BB70E0BF4A35C6B41
+SDN REJOSARI,10602032,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,6,1,106,6,9,0,1,23,30 Apr 2026 13:57:08,1BF46AA13DBAA33C0632
+SDN RINGIN REJO,10602035,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,7,1,48,6,6,0,1,52,10 Apr 2026 17:43:44,C61B0566002692A274CB
+SDN SADARKARYA,10644782,SD,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,8,1,83,6,6,0,1,4,10 Mar 2026 11:43:06,EF9E99D1FF98261B6217
+SMPN O MANGUN HARJO,10610330,SMP,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,28,7,415,14,14,2,1,27,06 Apr 2026 09:43:06,C161ECACA9C56FE73875
+SMPN PURWODADI,10610331,SMP,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,24,8,389,14,18,2,1,7,06 Mar 2026 11:19:14,A15C5AED154CC2690EBC
+SMP PLUS AN-NASHIR,70057426,SMP,Swasta,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,0,0,0,0,0,0,0,0,,FBD67B7FCE11C5B3BD82
+SMPS AL-AZHAAR,69775717,SMP,Swasta,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,8,1,54,3,4,1,2,10,31 Mar 2026 16:46:49,606160E3147CFE7A527B
+SMAN PURWODADI,10610291,SMA,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,52,10,818,24,24,5,1,16,10 Apr 2026 23:20:51,21A42EC49E4301694A11
+SMK Negeri Purwodadi,70004607,SMK,Negeri,Kec. Purwodadi,110611,Kab. Musi Rawas,110600,Prov. Sumatera Selatan,110000,24,5,432,13,9,1,1,8,04 Mar 2026 11:49:37,DD164AB910080D9F0598

@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES PICUAN,40102241,SD,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,3,97,6,6,0,1,7,05 Mar 2026 07:52:47,CB8BFA84315D449C2652
+SD INPRES TOKIN,40102231,SD,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,13,2,32,6,6,0,0,7,04 Mar 2026 00:30:55,41EB58846F6323F6693B
+SD INPRES WANGA,40102302,SD,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,9,1,52,6,6,0,0,11,26 Feb 2026 07:09:00,AFD94A7D499A0C65AC3A
+SD NEGERI KARIMBOW,40101868,SD,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,3,85,6,6,0,1,22,28 Apr 2026 17:34:11,D8CA3C77CE486362DC06
+SD GMIM 1 WANGA,40102178,SD,Swasta,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,54,6,6,0,0,23,09 Apr 2026 18:17:45,E9620FA02D023BEADEF3
+SD GMIM 2 WANGA,40102170,SD,Swasta,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,9,1,62,6,6,0,1,9,14 Apr 2026 19:51:39,6E10C2BF523C7E72A841
+SD GMIM KARIMBOW,40102176,SD,Swasta,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,1,45,6,6,0,1,42,04 Mar 2026 18:24:03,EFD0CADDBA82A34CA6E8
+SD GMIM PICUAN,40102108,SD,Swasta,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,1,83,6,6,0,0,13,17 Apr 2026 08:28:27,8C67F15B98D1D895EC87
+SD GMIM TOKIN,40102259,SD,Swasta,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,9,1,82,6,6,1,1,11,13 Feb 2026 10:50:47,3D55103E708B6C041AF9
+SD GP TOKIN,40102140,SD,Swasta,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,97,6,6,0,0,6,11 Mar 2026 09:58:45,15C2C47949933A422F64
+SD LPM PICUAN SATU,69991232,SD,Swasta,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,13,1,109,6,4,0,0,22,10 Mar 2026 14:16:26,424BF55368CBB8D72156
+SMP NEGERI 1 MOTOLING TIMUR,40102077,SMP,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,14,1,83,3,6,2,1,21,01 Apr 2026 01:30:49,1767DCC1B8F39254E90F
+SMP NEGERI 2 MOTOLING TIMUR,40102079,SMP,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,12,4,121,6,5,0,2,22,24 Mar 2026 17:37:09,79A77CD35DBDA573DAAB
+SMP NEGERI 3 MOTOLING TIMUR,40103858,SMP,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,11,2,74,3,6,2,1,32,29 Apr 2026 23:33:58,9EA9B01765EF7EFDC97A
+SMP NASIONAL KARIMBOW,40102030,SMP,Swasta,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,2,52,3,3,1,1,58,28 Apr 2026 13:10:15,F408DA85412AABCDBFF5
+SMA NEGERI 1 MOTOLING TIMUR,69849599,SMA,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,19,4,78,3,4,3,1,21,10 Apr 2026 07:01:01,49144605E6BB3CEED352
+SMK NEGERI 1 MOTOLING TIMUR,40102016,SMK,Negeri,Kec. Motoling Timur,170521,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,30,8,197,15,18,5,1,28,20 Apr 2026 12:23:31,2BFA69F9ADA5337C8281

@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 BINTAN PESISIR,11001901,SD,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,11,4,179,9,13,0,1,1,04 Mar 2026 21:18:56,1DE8CC846BE1751E0310
+SD NEGERI 002 BINTAN PESISIR,11001908,SD,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,11,2,197,9,12,0,0,11,30 Apr 2026 07:46:44,D83BB13A6FDCA946CF24
+SD NEGERI 003 BINTAN PESISIR,11001931,SD,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,6,1,32,6,6,0,1,13,30 Apr 2026 05:55:08,E36D36918EAFEF199C44
+SD NEGERI 004 BINTAN PESISIR,11001946,SD,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,11,1,108,10,9,0,1,22,27 Apr 2026 09:47:17,4BBE8CC5DBB35DAC8054
+SD NEGERI 005 BINTAN PESISIR,11001949,SD,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,8,2,112,6,6,0,1,19,04 Apr 2026 18:12:20,AF15EF355003E4630046
+SD NEGERI 006 BINTAN PESISIR,11001940,SD,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,7,0,60,6,8,0,1,10,03 Mar 2026 10:25:28,ABA9ADC2FD03D0161689
+SMP NEGERI 18 BINTAN,11001968,SMP,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,9,2,127,6,8,1,1,10,06 Apr 2026 13:47:30,BEA19419CBA5165A6475
+SMP NEGERI 19 BINTAN,11002001,SMP,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,11,2,183,6,6,3,1,36,24 Apr 2026 10:53:13,8267A31DD92C9AD34FE2
+SMP NEGERI 22 SATU ATAP MAPUR,11002482,SMP,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,8,1,37,3,3,2,1,11,13 Apr 2026 11:02:47,B56C09A7864DF8B685C8
+SMAN 1 BINTAN PESISIR,11002484,SMA,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,14,4,99,4,6,4,1,21,23 Apr 2026 13:20:06,70CE34DCA7AF64E114E5
+SMAN 2 BINTAN PESISIR,69953268,SMA,Negeri,Kec. Bintan Pesisir,310108,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,14,6,100,4,6,3,1,18,22 Apr 2026 17:22:40,3C57A4B70B941A683DEF

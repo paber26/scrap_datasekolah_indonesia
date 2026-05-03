@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Batuwarno,20311615,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,49,6,6,0,1,12,04 Apr 2026 09:01:08,E72E56C1524005FEB1D0
+SD Negeri 1 Kudi,20311395,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,59,6,6,0,1,5,02 Mar 2026 08:43:34,185C131773CB89F585A1
+SD Negeri 1 Ronggojati,20311810,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,85,6,6,0,1,29,21 Apr 2026 19:49:50,2721795405155257E479
+SD Negeri 1 Selopuro,20311783,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,69,6,7,0,0,15,05 Apr 2026 20:01:24,D0797038716B6ED1C224
+SD Negeri 1 Sendangsari,20311807,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,42,6,6,0,1,14,29 Apr 2026 13:16:38,1B062283F47742D1F8F9
+SD Negeri 1 Sumberagung,20311754,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,40,6,6,0,1,16,10 Apr 2026 04:58:58,9D2B87D08AA533C48018
+SD Negeri 1 Sumberejo,20310896,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,67,6,6,0,1,10,07 Apr 2026 12:46:48,F4D8E04C7140FA101F29
+SD Negeri 1 Tegiri,20311771,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,51,6,6,1,1,19,04 Apr 2026 11:44:11,5B892C4E82FDC5FEA50D
+SD Negeri 2 Batuwarno,20311861,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,45,6,6,0,1,11,04 Apr 2026 09:57:08,72538A7D528C11531024
+SD Negeri 2 Ronggojati,20310918,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,47,6,6,0,1,36,04 Apr 2026 20:39:02,14FBE4727D2B23674737
+SD Negeri 2 Selopuro,20310927,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,24,6,6,0,1,8,20 Apr 2026 08:39:52,B4C6B743F5638D65CF15
+SD Negeri 2 Sendangsari,20310931,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,40,6,6,0,1,31,02 May 2026 08:15:00,43AC8B9E49A5F532003C
+SD Negeri 2 Sumberagung,20310894,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,62,6,6,1,1,17,05 Mar 2026 10:06:11,0C753B9EF89D59A65EFF
+SD Negeri 2 Sumberejo,20340951,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,0,30,6,6,0,1,8,06 Apr 2026 11:03:29,E74E626FC8B560E3523A
+SD Negeri 3 Kudi,20310810,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,53,6,6,0,1,15,14 Apr 2026 11:06:29,B7D250947AC9F360AE9C
+SD Negeri 3 Tegiri,20310868,SD,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,88,6,6,0,1,18,21 Apr 2026 19:27:19,A43431D8BA322906207C
+SMP NEGERI 1 BATUWARNO,20311028,SMP,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,21,10,344,12,16,3,2,41,22 Apr 2026 08:03:01,F771AF6EBF8B6A7CEB65
+SMP NEGERI 2 BATUWARNO,20311228,SMP,Negeri,Kec. Batuwarno,031205,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,10,3,102,5,8,1,1,23,15 Apr 2026 11:35:01,2506972B70D9313145A8

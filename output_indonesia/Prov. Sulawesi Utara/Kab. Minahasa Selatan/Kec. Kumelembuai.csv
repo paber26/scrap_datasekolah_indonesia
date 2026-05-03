@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KUMELEMBUAI,40102242,SD,Negeri,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,1,45,6,7,0,0,19,22 Apr 2026 20:33:26,C01FE0EDF51896E6F8F5
+SD INPRES MAKASILI,40102235,SD,Negeri,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,66,6,6,0,1,5,30 Jan 2026 19:17:32,3A3E6DED61E47B62B8CB
+SD INPRES MALOLA,40102245,SD,Negeri,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,63,6,6,0,1,20,15 Apr 2026 19:58:19,62BFADD40FAD8FD76D6A
+SD NEGERI KUMELEMBUAI,40101862,SD,Negeri,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,1,53,6,7,0,1,22,15 Apr 2026 14:25:38,D44C62E6BB72EEF8D9B5
+SD GMIM KUMELEMBUAI,40102144,SD,Swasta,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,60,6,6,0,1,22,29 Apr 2026 14:52:22,41C03A7425DE70123CC0
+SD GMIM MAKASILI,40102083,SD,Swasta,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,9,1,64,6,6,0,0,18,23 Apr 2026 08:49:22,06D18DEB0DE9B45BED44
+SD GMIM MALOLA,40102086,SD,Swasta,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,1,86,6,6,0,1,40,15 Apr 2026 10:58:22,717E17C6C990A00A9E81
+SD GP KUMELEMBUAI,40102260,SD,Swasta,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,48,6,6,0,1,19,15 Apr 2026 15:36:52,8D20185D54080999D118
+SMP NEGERI 1 KUMELEMBUAI,40102068,SMP,Negeri,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,12,5,101,5,8,2,1,26,23 Apr 2026 09:12:54,EC79ECE3FCF719B01794
+SMP NEGERI 2 KUMELEMBUAI,40102062,SMP,Negeri,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,13,5,72,3,4,2,1,28,29 Apr 2026 15:04:16,A165435A05DF8F0950FB
+SMP NEGERI 3 KUMELEMBUAI  (SATU ATAP),40103841,SMP,Negeri,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,12,3,64,3,3,0,1,45,23 Apr 2026 19:14:17,B92D618B4145FE4DA1CF
+SMA NEGERI 1 KUMELEMBUAI,40103903,SMA,Negeri,Kec. Kumelembuai,170515,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,17,8,131,5,7,4,1,31,27 Apr 2026 06:24:58,E85C0DDB2400B479B70A

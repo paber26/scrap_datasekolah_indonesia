@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Danasari,20303619,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,2,108,6,6,0,0,12,30 Apr 2026 18:28:58,D8E8E63B09905953F5EE
+SD Negeri 1 Jingkang,20303679,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,2,101,6,7,0,1,13,03 Mar 2026 19:43:15,F2A7D86465632066BE34
+SD NEGERI 1 KARANGJAMBU,20303653,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,8,2,187,8,9,0,1,11,02 Apr 2026 20:36:14,0A63F645562F8F41A5F3
+SD Negeri 1 Purbasari,20303586,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,2,106,6,6,0,1,10,08 Apr 2026 22:16:20,E9216D40EC0B91F90B5D
+SD Negeri 1 Sanguwatang,20303570,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,11,1,234,9,10,0,1,13,06 Apr 2026 09:35:44,A80F82664FDE86599113
+SD Negeri 1 Sirandu,20330993,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,2,176,6,6,0,1,21,04 Apr 2026 04:54:30,3D98251A3CF7318DDB1A
+SD NEGERI 2 DANASARI,20356151,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,2,135,6,6,1,1,20,30 Apr 2026 21:40:24,1FA1AF13F2EAE7657018
+SD Negeri 2 Jingkang,20303053,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,2,113,6,6,0,1,13,10 Apr 2026 10:37:54,163D8A08F5D9B82E1D03
+SD Negeri 2 Karangjambu,20356152,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,9,1,189,7,7,0,1,11,03 Apr 2026 06:16:51,C03311F1C5FC28D2E461
+SD Negeri 2 Purbasari,20302893,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,2,59,6,6,0,0,9,02 Apr 2026 09:19:03,C5636F90F3243A45070D
+SD Negeri 2 Sanguwatang,20302889,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,1,133,6,6,0,1,10,06 Apr 2026 08:03:48,96448DD329E7B5239579
+SD NEGERI 2 SIRANDU,20302951,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,3,69,6,6,0,1,7,02 May 2026 09:52:04,0B5AB42AC49C9433BBE0
+SD NEGERI 3 PURBASARI,20303219,SD,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,1,109,6,6,0,0,14,03 Apr 2026 06:56:10,7BDB0834FE068917B655
+SMP Negeri 1 Karangjambu,20303086,SMP,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,19,2,366,12,12,1,1,33,01 May 2026 23:27:32,B3DD83D482E7D23493BC
+SMP Negeri 2 Karangjambu,20356156,SMP,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,11,4,142,6,6,3,1,22,09 Apr 2026 10:20:53,156864537D194FFCE10C
+SMP Negeri 3 Satu Atap Karangjambu,20356162,SMP,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,2,73,3,4,2,1,20,15 Apr 2026 20:30:33,B0B218479212CEB0D8BF
+SMP Negeri 4 Satu Atap Karangjambu,20356169,SMP,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,4,113,4,4,1,1,27,27 Apr 2026 12:03:37,F470EED41D1E1E156C6E
+SMK NEGERI 1 KARANGJAMBU,20356183,SMK,Negeri,Kec. Karangjambu,030317,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,15,8,279,10,10,1,1,50,27 Apr 2026 08:59:31,CA52003816E02E41DB90

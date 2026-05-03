@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SABUDOM,60300776,SD,Negeri,Kec. Padua,370121,Kab. Merauke,370100,Prov. Papua Selatan,370000,5,1,125,6,3,0,0,21,15 Apr 2026 08:34:50,41CF9ADB09520E844115
+SD YPPK BAMOL,60300568,SD,Swasta,Kec. Padua,370121,Kab. Merauke,370100,Prov. Papua Selatan,370000,6,3,230,7,7,0,0,23,08 Apr 2026 12:43:40,B9CC8763286157C9FE51
+SD YPPK KALWA PADWA,60300584,SD,Swasta,Kec. Padua,370121,Kab. Merauke,370100,Prov. Papua Selatan,370000,1,1,275,8,8,0,1,48,12 Apr 2026 10:59:53,869F74B0CD1DC8F2C94B

@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES YALENGGA,60301484,SD,Negeri,Kec. Yalengga,380111,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,10,0,199,8,6,0,1,32,26 Apr 2026 17:56:05,1B532222C8C9BBF4E027
+SD YPPK ST ANTONIUS PILIMO,60301542,SD,Swasta,Kec. Yalengga,380111,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,5,1,168,6,6,0,0,2,21 Jan 2026 04:09:36,0212FBB92E8E86057AF3
+SMPN YALENGGA,60301577,SMP,Negeri,Kec. Yalengga,380111,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,11,1,172,6,4,0,3,13,01 May 2026 11:12:21,23170AD9AF96EEFA58A6
+SMA NEGERI YALENGGA,70005571,SMA,Negeri,Kec. Yalengga,380111,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,8,0,145,6,1,0,0,32,25 Apr 2026 17:15:24,B07689530178BB97083D

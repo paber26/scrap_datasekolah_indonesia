@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 LAHAM,30406618,SD,Negeri,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,9,10,62,6,8,0,2,26,30 Apr 2026 07:53:33,E9F209DAF37F6D5A72B0
+SD NEGERI 003 LONG GELAWANG,30406694,SD,Negeri,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,9,3,59,6,6,0,1,15,28 Apr 2026 16:00:08,2AF67BE4FE8A1131E759
+SDN 002 MUARA RATAH,30402130,SD,Negeri,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,10,7,116,6,6,0,1,31,28 Apr 2026 11:08:07,C69D7E43F3001E2BA5C5
+SDN 004 Nyaribungan,69886888,SD,Negeri,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,5,9,33,6,6,0,1,24,01 May 2026 18:34:15,ABD51F6A8738F7F9D7BF
+SD FANGIONO VII LAHAM,70060895,SD,Swasta,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,2,1,47,2,2,0,0,20,30 Apr 2026 13:40:34,4BEDCA5AD6A92FD427C6
+SDK 9 WR SOEPRATMAN Laham,30402086,SD,Swasta,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,4,8,68,6,6,0,1,9,24 Apr 2026 20:09:04,A22230DE1B8449193001
+SMP NEGERI 1 LAHAM,30402368,SMP,Negeri,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,13,14,60,3,3,3,1,8,27 Apr 2026 08:18:04,3105CF3A795637EC4AF5
+SMPN 2 Laham,69924926,SMP,Negeri,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,9,2,32,3,3,2,1,10,18 Mar 2026 15:12:53,223DB97F52B465250B0C
+SMA SWASTA MAHAKAM,30402379,SMA,Swasta,KEC. LAHAM,161222,Kab. Mahakam Ulu,161200,Prov. Kalimantan Timur,160000,2,9,0,0,0,0,0,0,,918BB4D094922D24EF6F

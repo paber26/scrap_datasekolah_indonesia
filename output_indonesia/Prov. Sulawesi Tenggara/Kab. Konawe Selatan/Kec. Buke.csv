@@ -1,0 +1,23 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BUKE,40401842,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,2,139,6,6,0,1,10,19 Mar 2026 06:58:07,875EEB96F3855AC4E128
+SD NEGERI 10 BUKE,40402102,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,1,97,6,6,0,1,20,19 Apr 2026 09:36:37,CFEBA08A080FCD6DAD29
+SD NEGERI 11 BUKE,40402061,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,2,67,6,6,0,0,10,09 Feb 2026 10:45:23,1867A6133926E27602D9
+SD NEGERI 12 BUKE,40401824,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,2,123,6,6,0,1,33,30 Apr 2026 09:09:54,F8A6546BF7A1E360A9BF
+SD NEGERI 13 BUKE,40401843,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,6,2,44,6,6,0,1,14,30 Mar 2026 07:39:25,FCE4EC83C1C8D335A835
+SD NEGERI 14 BUKE,40402090,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,1,64,6,6,0,2,16,06 Apr 2026 08:08:50,41AD0D37F5066DEA9C50
+SD NEGERI 15 BUKE,40405063,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,6,1,38,6,3,0,0,7,16 Apr 2026 10:24:42,5BED762913AA75D17F66
+SD NEGERI 16 BUKE,40405150,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,5,1,43,6,7,0,0,17,15 Apr 2026 19:46:29,7F5C35F4D96758BB37C6
+SD NEGERI 2 BUKE,40401926,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,11,1,148,7,7,0,1,13,06 Mar 2026 08:58:18,A58DC9F137C62DDD5DF5
+SD NEGERI 3 BUKE,40402086,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,3,76,6,6,0,1,7,16 Apr 2026 10:43:41,0FD8E06C514E824B3C58
+SD NEGERI 4 BUKE,40402070,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,2,127,7,6,0,1,8,16 Apr 2026 08:09:54,47338C77C5AED1B896AD
+SD NEGERI 5 BUKE,40401957,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,4,107,6,6,0,1,16,02 Apr 2026 10:18:45,168C45D51E20E104CA2D
+SD NEGERI 6 BUKE,40402097,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,1,113,6,6,0,1,1,15 Apr 2026 22:00:10,61B7BF2A0F3CDC73E86A
+SD NEGERI 7 BUKE,40401958,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,1,28,6,6,0,1,2,26 Jan 2026 20:17:16,46240172C2B983E55033
+SD NEGERI 8 BUKE,40401936,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,1,64,6,6,0,1,14,19 Apr 2026 07:54:31,63A8F6288565227A75FA
+SD NEGERI 9 BUKE,40405105,SD,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,6,2,24,6,6,0,0,7,30 Apr 2026 20:00:08,194031001DD34BE27CD9
+SMP NEGERI 13 KONAWE SELATAN,40403324,SMP,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,19,5,219,9,12,2,1,31,25 Apr 2026 10:21:20,4D79E4075DA44A6CF3A4
+SMP NEGERI 44 KONAWE SELATAN,40404811,SMP,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,1,67,3,3,1,1,30,28 Apr 2026 04:52:40,F111222344405C2C9738
+SMP Integral Minhajut Thullab,69900363,SMP,Swasta,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,2,140,6,6,0,0,17,07 Apr 2026 17:49:30,E86BFDD3004CC9A835D3
+SMP Swasta Islam Al Irsyad,69985081,SMP,Swasta,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,2,1,14,3,3,2,0,16,28 Apr 2026 13:13:06,28A937EFC4BEE26296A0
+SMA Integral Minhajut Thullab,69864688,SMA,Swasta,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,4,1,72,3,3,0,0,17,29 Apr 2026 07:38:53,134FFF804A6D2A98CA04
+SMKN 3 KONAWE SELATAN,40404850,SMK,Negeri,Kec. Buke,200513,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,14,3,213,8,10,1,1,20,30 Apr 2026 15:42:15,CF7233730CDEEA83D034

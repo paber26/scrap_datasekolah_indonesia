@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BAI,40100589,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,11,1,87,6,6,0,1,16,02 Mar 2026 10:12:39,4DDE84A2BC65B3DF0D7E
+SD NEGERI 1 IYOK,69728222,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,9,6,78,6,6,0,1,20,01 Apr 2026 06:29:26,970A89C565F6D05B6603
+SD NEGERI 1 NUANGAN,40100171,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,9,3,105,6,6,0,1,38,30 Apr 2026 16:49:13,BE0129B663256AD8B01D
+SD NEGERI 1 NUANGAN 1,40100486,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,13,3,176,8,10,0,1,23,01 May 2026 04:53:21,11B312C2BD4D982F2413
+SD NEGERI ATOGA,40100237,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,10,3,100,6,6,0,1,16,31 Mar 2026 07:35:27,BF054313947AB5E17A37
+SD NEGERI I LOYOW,40100266,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,10,2,81,6,6,0,1,11,02 Mar 2026 09:26:07,0386C2A321E7373BC850
+SD NEGERI IDUMUN,40100187,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,9,3,77,6,6,0,1,14,13 Mar 2026 23:47:21,9BCE291532E7DE0EA151
+SD NEGERI JIKO BELANGA,40100158,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,8,1,80,6,6,0,1,32,24 Apr 2026 07:20:43,7539CD67A6A6EC3DB76C
+SD NEGERI MATABULU,40103425,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,8,11,175,9,9,0,1,63,05 Mar 2026 22:09:18,2A49A6A294A175E70183
+SDN 1 JIKO,40100613,SD,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,10,1,115,6,6,0,0,13,28 Apr 2026 10:19:59,912581C3601D531567D1
+SMP NEGERI 1 NUANGAN,40100300,SMP,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,13,3,143,6,9,3,1,19,23 Apr 2026 06:35:19,915BBD4B3395B7121AB1
+SMP NEGERI 2 NUANGAN,40100331,SMP,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,20,3,137,6,8,2,1,50,02 May 2026 12:58:01,697EAC24941F0CFD5D44
+SMP SATAP Bai,69728224,SMP,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,10,3,34,3,3,2,1,23,10 Apr 2026 08:11:58,4667C0307C81D6527E28
+SMPN SATAP Jiko Blanga,69728228,SMP,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,12,1,39,3,3,1,1,30,29 Apr 2026 08:59:41,4D569CACEA28573E9F49
+SMPN SATAP Matabulu,40103435,SMP,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,13,5,92,5,5,2,1,58,22 Apr 2026 10:21:50,D713C7AFC2F7132048DC
+SMPN SATAP MOLOBOG,69760803,SMP,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,14,3,74,3,4,1,1,17,29 Apr 2026 08:10:09,D399BE36ED1CFA3A0149
+SMK NEGERI 2 NUANGAN,69956470,SMK,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,12,2,75,6,3,1,1,18,28 Apr 2026 06:37:13,4013D1887374D63685FF
+SMKN NUANGAN,69728234,SMK,Negeri,Kec. Nuangan,171102,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,11,2,173,8,7,1,1,22,17 Apr 2026 15:56:09,F53293AA933BEAA38088

@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BOGONUK,60302201,SD,Negeri,Kec. Bogonuk,380443,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,4,1,227,10,7,0,0,56,02 May 2026 18:03:10,79AB45D6D443DDA0934C
+SD NEGERI TOLINERI,60302740,SD,Negeri,Kec. Bogonuk,380443,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,7,1,270,10,8,0,0,28,26 Apr 2026 13:13:09,36D2FF95CA34F0E952FF
+SMP NEGERI BOGONUK,70054451,SMP,Negeri,Kec. Bogonuk,380443,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,1,0,95,3,3,0,0,41,19 Apr 2026 19:54:49,8902FC21296F2E6E7076

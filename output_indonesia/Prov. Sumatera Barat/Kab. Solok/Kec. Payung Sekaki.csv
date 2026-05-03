@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD N 01 SIRUKAM,10301641,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,9,3,108,6,6,0,0,18,25 Apr 2026 11:13:39,F24BFF6ED62BDEE55DCA
+SD N 02 SUPAYANG,10301674,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,8,1,151,7,7,0,1,6,02 Mar 2026 11:04:56,0AC870C29EB2BB32EE59
+SD N 03 AIE LUO,10301669,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,8,3,69,6,6,0,1,14,07 Apr 2026 19:50:50,01BAC5A89ED9C7D12823
+SD N 04 KIPEK AIE LUO,10301635,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,8,2,64,6,6,0,1,36,10 Apr 2026 16:50:38,DEA5BB37F6D68CAEF11E
+SD N 05 SIRUKAM,10301614,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,9,3,157,7,6,0,1,35,13 Apr 2026 20:26:12,35390400F5EEB359562B
+SD N 06 SIRUKAM,10301616,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,9,3,71,6,6,0,1,21,30 Apr 2026 19:26:17,C61C23D3296B61D6A6F2
+SD N 07 SIRUKAM,10301739,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,7,3,130,6,7,0,1,8,02 Apr 2026 08:27:55,83E778C54B36A2C2E0AC
+SD N 08 SUPAYANG,10301731,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,9,3,123,6,7,0,1,20,02 May 2026 10:27:53,A8180FDFEBE9C8FF89F4
+SD N 09 SIRUKAM,10301765,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,8,1,100,6,7,0,1,13,14 Mar 2026 08:49:42,86E3F23B223F711E3FA2
+SD N 10 SIRUKAM,69934137,SD,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,7,1,31,6,5,0,0,11,28 Apr 2026 14:39:16,2D6DBAC7F3158EFC9139
+SMP N 1 PAYUNG SEKAKI,10301511,SMP,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,15,5,201,8,11,2,1,42,18 Apr 2026 09:02:51,1F754609D9AA2610689D
+SMP N 2 PAYUNG SEKAKI,10307819,SMP,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,8,3,22,3,3,1,1,10,02 May 2026 08:20:45,F58E8EDB39A499241AD0
+SMP N 3 PAYUNG SEKAKI,10308162,SMP,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,9,3,88,3,6,1,1,9,09 Mar 2026 10:09:35,E183FAFB41B1D444E302
+SMAN 1 PAYUNG SEKAKI,10308150,SMA,Negeri,Kec. Payung Sekaki,080406,Kab. Solok,080400,Prov. Sumatera Barat,080000,20,3,253,8,14,4,1,30,02 May 2026 08:59:57,873E904AB6D52C3C50D5

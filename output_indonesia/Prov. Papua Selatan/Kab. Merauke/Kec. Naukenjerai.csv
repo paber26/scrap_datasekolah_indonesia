@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KONDO,60300671,SD,Negeri,Kec. Naukenjerai,370112,Kab. Merauke,370100,Prov. Papua Selatan,370000,8,1,79,6,6,0,0,10,11 Apr 2026 20:10:48,E5DCBD8ED27D7EE0C190
+SD YPK KULER,69727979,SD,Swasta,Kec. Naukenjerai,370112,Kab. Merauke,370100,Prov. Papua Selatan,370000,9,3,106,6,6,0,1,6,29 Jan 2026 21:51:00,502DE9EE1F6C883BF25D
+SD YPK ONGGAYA,60300737,SD,Swasta,Kec. Naukenjerai,370112,Kab. Merauke,370100,Prov. Papua Selatan,370000,7,1,37,6,6,0,1,56,01 May 2026 07:53:33,52F5D110E14854EC1B54
+SD YPK TOMER,60300574,SD,Swasta,Kec. Naukenjerai,370112,Kab. Merauke,370100,Prov. Papua Selatan,370000,7,1,80,6,4,0,1,17,26 Apr 2026 10:18:45,D4317003FFB6F3EF3C01
+SD YPK TOMERAU,60300573,SD,Swasta,Kec. Naukenjerai,370112,Kab. Merauke,370100,Prov. Papua Selatan,370000,4,2,52,6,7,1,1,9,05 Mar 2026 02:55:22,7B96D586122BD79D95F9
+SMP YPK TOMER,60300647,SMP,Swasta,Kec. Naukenjerai,370112,Kab. Merauke,370100,Prov. Papua Selatan,370000,9,1,158,6,7,1,1,17,19 Apr 2026 04:19:53,9772E023FED735F8E5DA
+SMK Negeri 11 Agribisnis dan Agroteknologi Merauke,60302728,SMK,Negeri,Kec. Naukenjerai,370112,Kab. Merauke,370100,Prov. Papua Selatan,370000,17,2,89,6,6,3,1,13,15 Apr 2026 06:22:18,2D7E9BE35B05496F5FBB

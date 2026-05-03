@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 PULAU PINANG,10601415,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,3,49,6,9,0,1,22,11 Apr 2026 17:59:52,F58E366ECC1560D42FD6
+SDN 2 PULAU PINANG,10601125,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,2,79,6,8,1,1,17,18 Mar 2026 04:21:41,98C3B2FD0F25017249CC
+SDN 3 PULAU PINANG,10646080,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,2,42,6,6,0,1,27,14 Apr 2026 10:20:55,316414BAE6E7D6CA4375
+SDN 4 PULAU PINANG,10601431,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,10,2,154,6,14,0,0,26,28 Apr 2026 09:20:09,45777B93AB7B0915D257
+SDN 5 PULAU PINANG,10601108,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,3,98,6,6,0,1,49,28 Apr 2026 10:55:04,CBC087AB0C46F888F4EE
+SDN 6 PULAU PINANG,10601416,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,13,4,53,6,6,0,0,57,28 Apr 2026 09:50:04,79B5250ED67A328B0532
+SDN 7 PULAU PINANG,10601175,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,6,2,77,6,8,0,1,28,10 Apr 2026 23:56:31,EF9A7D0DDA3902324C86
+SDN 8 PULAU PINANG,10643870,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,2,90,6,6,0,1,42,29 Apr 2026 14:25:01,64125D8795F7994E8DDA
+SDN 9 PULAU PINANG,10601719,SD,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,1,57,6,6,0,1,32,08 Apr 2026 03:04:07,FE218A3846E09A98F121
+SD IT IBNU UMAR,70053514,SD,Swasta,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,10,2,28,2,6,0,0,29,27 Apr 2026 09:35:04,0561CB3E634964574A56
+SMPN 1 PULAU PINANG,10601388,SMP,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,26,6,292,11,11,2,1,31,30 Apr 2026 14:45:27,0CC3ED2175B0F46F5E51
+SMAN 1 PULAU PINANG,10644267,SMA,Negeri,Kec. Pulau Pinang,110505,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,34,7,317,11,15,4,1,21,30 Apr 2026 14:33:25,47056C9BFFB95252F2C3

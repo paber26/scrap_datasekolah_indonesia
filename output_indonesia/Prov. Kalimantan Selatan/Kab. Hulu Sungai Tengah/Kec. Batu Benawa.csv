@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 ALUAN,30302269,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,9,3,86,6,6,1,1,17,22 Apr 2026 08:01:30,6489D6E062A68C9D0A5C
+SD NEGERI 1 BAKTI,30302273,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,3,91,6,6,1,1,11,07 Apr 2026 10:18:01,E93D514650341B3018A9
+SD NEGERI 1 MURUNG A,30302419,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,7,1,81,6,7,0,0,27,14 Apr 2026 21:29:48,CF076387E6F43548B1E2
+SD NEGERI 1 PAGAT,30302421,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,2,90,6,6,0,1,16,02 May 2026 09:15:26,019847FD01D6E995623F
+SD NEGERI 2 ALUAN,30302332,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,3,75,6,6,0,1,14,10 Apr 2026 09:00:40,8B3CABAC7C33DD8F68BA
+SD NEGERI 2 BAKTI,30302326,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,7,2,35,6,6,0,0,11,04 Mar 2026 12:04:02,47ECFCD0C52009058FEA
+SD NEGERI 2 KAHAKAN,30302364,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,2,61,6,6,0,1,10,30 Apr 2026 08:27:28,B3E308BA12EC647CE6A8
+SD NEGERI 2 MURUNG A,30302089,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,2,82,6,6,0,1,11,06 Apr 2026 21:57:20,266EFD71849FD1D6F785
+SD NEGERI 2 PAGAT,30302091,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,7,3,123,6,7,0,1,13,28 Apr 2026 07:54:00,1F96CF8C83B512967258
+SD NEGERI 3 MURUNG A,30302039,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,3,58,6,6,0,0,14,03 Mar 2026 09:05:56,4267BA3F62D687F74BAE
+SD NEGERI ALUAN BESAR,30302076,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,1,42,6,6,0,1,45,29 Apr 2026 07:06:56,1B527A84157C48FF727B
+SD NEGERI ALUAN MATI,30302077,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,7,3,110,6,6,0,1,19,17 Apr 2026 07:34:34,3207ABE5E08E6FCE92F6
+SD NEGERI BARU,30302064,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,3,137,6,6,0,1,17,08 Apr 2026 06:35:40,85AB6214C220B4E3DCE1
+SD NEGERI HALIAU,30302190,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,7,3,94,6,6,1,1,10,06 Apr 2026 13:44:55,67F5283A258382F8B0F9
+SD NEGERI KAHAKAN KALIBARU,30302183,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,16,4,288,12,12,0,1,17,13 Apr 2026 08:23:45,63F6C666D2ADA9BC1B38
+SD NEGERI LAYUH,30302199,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,7,3,35,6,6,0,1,20,08 Apr 2026 08:53:05,78F2F38DFE1A4ADB5760
+SD NEGERI PANTAI BATUNG,30302203,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,4,129,6,6,0,1,8,08 Apr 2026 20:15:02,BAA40B9999F30A47BF28
+SD NEGERI PAYA BESAR,30302206,SD,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,3,126,6,6,0,0,19,07 Mar 2026 08:04:45,DCE1B9BDB61EDE3E6416
+SMP NEGERI 5 HULU SUNGAI TENGAH,30302167,SMP,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,15,3,143,6,9,2,1,17,29 Apr 2026 17:53:00,94EC4831D72018B1522F
+SMKN 2 BARABAI,30311683,SMK,Negeri,Kec. Batu Benawa,150602,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,40,26,594,19,15,4,1,46,29 Apr 2026 10:56:21,E22CF8345B9DB408BEDC

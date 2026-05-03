@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MANEP SIMINI,60303745,SD,Negeri,Kec. Jetsy,370413,Kab. Asmat,370400,Prov. Papua Selatan,370000,3,1,163,8,6,0,1,28,30 Apr 2026 15:05:39,175AD3B736264ED0B19C
+SD NEGERI PAU,60303635,SD,Negeri,Kec. Jetsy,370413,Kab. Asmat,370400,Prov. Papua Selatan,370000,5,1,72,6,6,0,1,36,03 Apr 2026 10:39:17,236FE63918F19709F86F
+SD YPPK STA. AGNES AMBOREP,60303641,SD,Swasta,Kec. Jetsy,370413,Kab. Asmat,370400,Prov. Papua Selatan,370000,3,1,149,6,6,0,0,38,30 Apr 2026 08:38:13,B8D05F748C699F1BF049
+SD YPPK WARSE,60303645,SD,Swasta,Kec. Jetsy,370413,Kab. Asmat,370400,Prov. Papua Selatan,370000,4,1,300,11,6,0,0,34,16 Apr 2026 08:04:15,F4CA55A4CD963C15EAE3

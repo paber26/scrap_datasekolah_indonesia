@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 LONG MESANGAT,30400899,SD,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,10,5,84,7,9,0,1,23,14 Apr 2026 08:14:38,2ED8F70CD52FFAE9CE06
+SDN 002 LONG MESANGAT,30400746,SD,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,9,4,148,6,9,0,1,13,27 Apr 2026 08:39:40,4DF2152E481D0821044C
+SDN 003 LONG MESANGAT,30404384,SD,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,9,5,169,6,8,0,1,46,23 Apr 2026 07:26:29,7C2D03F3C0EFEC2D163A
+SDN 004 LONG MESANGAT,30404385,SD,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,8,3,70,6,6,0,1,13,05 Mar 2026 09:29:46,C997138CF9DBA43363E9
+SDN 005 LONG MESANGAT,30400802,SD,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,14,5,249,11,9,0,1,13,29 Apr 2026 09:08:02,520A7D6834B89C5FC509
+SDN 006 LONG MESANGAT,30400797,SD,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,10,4,142,7,7,0,1,24,02 May 2026 10:35:23,71F3F90BAAAAF0ABF9F1
+SDN 007 LONG MESANGAT,30404386,SD,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,8,3,69,6,6,0,0,10,30 Apr 2026 09:04:37,573F030AA02CA28EEE2D
+SMP NEGERI 1 LONG MESANGAT,30404412,SMP,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,11,7,223,9,9,2,1,14,27 Apr 2026 12:34:45,3567CC46A4A611831AE3
+SMP NEGERI 2 LONG MESANGAT,69812100,SMP,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,9,5,115,5,6,2,1,28,27 Apr 2026 08:01:52,CA5833774DB1F30AFF0A
+SMAN 1 LONG MESANGAT,30405823,SMA,Negeri,Kec. Long Mesangat,161019,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,21,8,268,9,11,5,1,21,16 Apr 2026 07:47:11,369DD54A7EA03B9B8356

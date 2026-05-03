@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 IDI TUNONG,10101781,SD,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,24,2,363,14,9,0,1,27,30 Apr 2026 14:32:50,8B4D939E021A68B6199A
+SDN 2 IDI TUNONG,10101812,SD,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,12,2,96,6,6,0,1,20,14 Apr 2026 17:32:57,E718C40F361D7218A4FF
+SDN 3 IDI TUNONG,10102076,SD,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,10,3,70,6,7,0,0,22,21 Apr 2026 20:27:27,3A475043AFA84741F9B3
+SDN ALUE KUMBANG,69786523,SD,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,13,3,107,6,5,0,0,30,06 Apr 2026 14:04:39,E8FB864FA722A7224A19
+SDN ALUE LHOK,10102063,SD,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,14,3,149,8,6,0,1,106,23 Apr 2026 11:06:17,DD2949D536912CF07705
+SDN SEUNEUBOK BUYA,69786522,SD,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,14,3,63,6,5,0,0,11,30 Apr 2026 18:37:55,4638D13C3863D9C35D9B
+SMPN 1 IDI TUNONG,10110421,SMP,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,21,8,118,6,6,2,2,14,27 Apr 2026 10:53:55,3541690DDCF16BFE63B1
+SMPN 2 IDI TUNONG,69726332,SMP,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,14,3,92,4,4,0,1,21,25 Apr 2026 11:04:35,9EDDAACDA738E9E96E39
+SMP IT-BABUT TAQWA,70056940,SMP,Swasta,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,7,2,19,1,1,0,0,26,30 Apr 2026 22:14:07,E9F221ADA09E03EBEA87
+SMA NEGERI 1 IDI TUNONG,10111344,SMA,Negeri,Kec. Idi Tunong,060423,Kab. Aceh Timur,060400,Prov. Aceh,060000,26,8,293,11,16,4,1,30,08 Apr 2026 11:34:16,5C35EA828633FBB3E938

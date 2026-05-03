@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BENBAN,69872343,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,6,3,66,6,6,0,0,6,15 Mar 2026 12:00:32,FA9ECEE2A0C39659CB2C
+SD INPRES BITBAN,60302154,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,2,1,103,6,6,0,0,8,20 Mar 2026 00:28:34,A62D2B265C92078E1164
+SD INPRES BORBAN,60300993,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,9,2,89,6,6,0,0,5,11 Mar 2026 14:10:01,6A75A2B0C1359207A287
+SD INPRES DUMPASIK,70038244,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,4,0,31,3,3,0,0,7,29 Apr 2026 17:34:09,5BFCC74EEC0AA5135BCA
+SD INPRES KIRIMU,60302162,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,7,1,159,7,6,1,1,12,14 Apr 2026 16:22:57,5E4D921DF1F763C4C312
+SD INPRES MARKUM,69991620,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,4,0,65,6,3,0,0,2,20 Jan 2026 19:49:18,B7701131A8F7B3AFB5B4
+SD INPRES OMLYOM,69991550,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,7,0,141,8,10,0,0,27,30 Apr 2026 18:31:06,A3D3EEE1C9F04EC3ABCD
+SD INPRES PEDAM,69991619,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,6,0,60,6,3,0,0,5,15 Mar 2026 10:35:29,048A6D59391FA2CCC935
+SD INPRES SABIN,60302169,SD,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,4,1,109,6,8,0,0,8,29 Apr 2026 17:42:42,6FF059C5FE1A92E12DD2
+SD YPPGI OKBAB,60302809,SD,Swasta,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,2,3,68,6,6,0,0,11,24 Apr 2026 14:37:29,0793D7F54D8CB132347B
+SD YPPGI YAPIL,60302812,SD,Swasta,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,0,1,67,6,6,0,0,14,22 Apr 2026 19:58:09,F88380EBAB67C8C974B2
+SMP NEGERI OKBAB,69899896,SMP,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,15,0,308,9,6,0,1,11,19 Apr 2026 09:20:37,5428F2280D2DC1366773
+SMP YPPGI OKBAB,69728007,SMP,Swasta,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,0,1,91,4,3,0,0,13,24 Apr 2026 13:06:50,3A7728354F08B11FC3CB
+SMA NEGERI OKBAB,70040672,SMA,Negeri,Kec. Okbab,380225,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,8,0,115,6,2,0,0,36,01 May 2026 17:56:00,1F7A81C328F6CF10E1DB

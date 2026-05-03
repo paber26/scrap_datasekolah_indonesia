@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BANYU HIRANG,30302845,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,6,1,22,6,6,0,1,8,04 Apr 2026 18:07:18,1694D784C00871F26522
+SD NEGERI CANGKERING,30302836,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,1,40,6,6,0,1,18,30 Apr 2026 09:25:53,030A4A2F6BEBD0223B03
+SD NEGERI ILIR MESJID,30302758,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,2,48,6,6,0,1,11,01 May 2026 10:04:06,7D47ACE6F6D27A452E5E
+SD NEGERI JUMBA 1,30302775,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,3,53,6,11,0,1,13,30 Apr 2026 13:43:25,0A151341464FE460C1C3
+SD NEGERI JUMBA 2,30302791,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,1,55,6,6,0,1,16,01 May 2026 20:24:12,8F68F3284A95B41CDDEF
+SD NEGERI KAYAKAH,30302788,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,1,66,6,6,0,1,15,09 Apr 2026 04:17:04,8B493C3084434E4EDF32
+SD NEGERI KOTA RAJA,30302782,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,2,40,6,6,0,1,13,01 May 2026 19:36:01,5A9B20F57559DBEF0C0B
+SD NEGERI MURUNG PANGGANG,30302519,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,9,1,28,6,6,0,0,15,08 Apr 2026 04:58:44,70CF34394C7A75D76748
+SD NEGERI PADANG TANGGUL,30302518,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,3,62,6,6,0,1,7,03 Apr 2026 05:08:51,436CA4272D97C0BD49A5
+SD NEGERI PANYIURAN 2,30302425,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,3,110,6,6,0,1,14,02 Apr 2026 11:03:29,0A4DA96DE3DFB4ADA8AA
+SD NEGERI PULAU TAMBAK,30302470,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,3,54,6,6,1,1,7,21 Apr 2026 09:53:39,1224ED9FCC877E0940A6
+SD NEGERI TELAGA HANYAR,30302618,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,1,63,6,6,0,1,8,02 Apr 2026 16:13:24,50F6F40A00565B993B52
+SD NEGERI TELAGA SARI,30302621,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,1,48,6,7,0,1,15,04 Apr 2026 04:49:58,08F92DBC8442254D3478
+SD NEGERI TELAGA SILABA,30302622,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,1,40,6,6,0,1,8,29 Apr 2026 07:47:22,2A3DF9718F0E6203E7A1
+SD NEGERI TELUK BARU,30302623,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,0,28,6,6,0,1,27,02 Apr 2026 07:41:46,40054ADCD452C1932878
+SD NEGERI UJUNG MURUNG,30302553,SD,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,2,45,6,6,0,1,5,25 Apr 2026 08:14:51,619B571F9EB0D30C24C8
+SMP NEGERI 1 AMUNTAI SELATAN,30302559,SMP,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,10,4,65,3,4,3,1,14,02 Apr 2026 07:45:30,0378B665111B225C8963
+SMP NEGERI 2 AMUNTAI SELATAN,30302583,SMP,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,12,4,97,5,6,2,1,14,02 Apr 2026 09:35:28,572693BF99E8DE4DA76D
+SMP NEGERI 3 AMUNTAI SELATAN,30312540,SMP,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,9,3,48,3,3,2,1,8,21 Apr 2026 07:48:04,2E30CF526DF19916DF97
+SMP NEGERI 4 AMUNTAI SELATAN,30302541,SMP,Negeri,Kec. Amuntai Selatan,150704,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,12,3,97,5,6,2,2,32,20 Apr 2026 09:34:44,655A41F69C00EB77A1E9

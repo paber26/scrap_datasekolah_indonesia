@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 KUAYAN,30100412,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,11,1,273,11,10,0,1,10,06 Apr 2026 08:35:48,CB0822C7DC0487BC8C26
+SDN 02 MENSEMAT,30100395,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,8,1,134,6,6,0,1,12,14 Apr 2026 19:49:37,73C8C409E470080C7EDD
+SDN 03 JIRAK,30100427,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,12,4,273,11,12,0,1,28,08 Mar 2026 15:54:48,D59BA57E6811252CA7CC
+SDN 04 TENGGULI,30100438,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,15,2,439,12,11,0,1,15,02 Apr 2026 12:25:45,9111EC75AB5073BAE943
+SDN 05 SEGERUNDING,30100626,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,4,1,53,6,5,0,1,21,02 Apr 2026 08:50:03,2E169169D9BAF0A4B8CE
+SDN 06 JAMBU,30100634,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,7,1,116,6,6,0,1,26,24 Apr 2026 21:40:30,E838A65D5AA846ED96FB
+SDN 07 SARANG BURUNG,30100621,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,5,2,55,6,3,0,1,36,27 Apr 2026 21:04:53,C52F28073800CD89ED79
+SDN 08 TENGGULI,30100646,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,5,4,215,7,7,0,1,22,22 Apr 2026 09:54:56,453A5045E7BCE04A70C2
+SDN 09 JIRAK,69963026,SD,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,7,2,88,6,5,0,0,14,23 Apr 2026 11:24:50,C94FC650A4B7049D1B5F
+SMPN 1 SAJAD,30106168,SMP,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,15,2,334,11,11,2,1,20,20 Apr 2026 06:50:58,2B1BED4A9D6B319633E0
+SMPN 2 SATU ATAP SAJAD,30107289,SMP,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,9,2,123,4,3,1,1,42,28 Apr 2026 10:34:03,8244D084A0968FFC2DB0
+SMPN 3 SAJAD,69964621,SMP,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,10,3,114,5,5,2,1,12,25 Feb 2026 12:57:18,E7FB1BB3023CDC5E1178
+SMAN 1 SAJAD,30108133,SMA,Negeri,Kec. Sajad,130114,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,28,4,393,13,10,3,1,16,20 Apr 2026 09:25:38,5476A6D2BE00AB05A185

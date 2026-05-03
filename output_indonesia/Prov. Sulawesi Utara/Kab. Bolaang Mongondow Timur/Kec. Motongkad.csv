@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 MOLOBOG TIMUR,70042537,SD,Negeri,Kec. Motongkad,171106,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,9,1,31,5,5,0,0,33,29 Apr 2026 21:46:24,CFBA66D9C67A6A26737D
+SD NEGERI 2 MOTONGKAD,69728221,SD,Negeri,Kec. Motongkad,171106,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,8,1,53,6,6,1,1,22,04 Mar 2026 20:38:02,05094E3ABA32A8131171
+SD NEGERI I MOLOBOG,40100493,SD,Negeri,Kec. Motongkad,171106,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,14,1,146,7,6,0,1,14,20 Apr 2026 11:03:58,46407A9632DB2E065EAB
+SD NEGERI I MOTONGKAD,40100503,SD,Negeri,Kec. Motongkad,171106,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,17,10,137,6,6,0,1,13,03 Mar 2026 09:19:35,F02247FB41B4ABEE0B98
+SD COKROAMINOTO MOTONGKAD,40100524,SD,Swasta,Kec. Motongkad,171106,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,9,1,131,7,8,0,3,9,02 Apr 2026 12:22:15,06B6DAD09B2BC50AAB3E
+SMP NEGERI SATU ATAP ATOGA,69728225,SMP,Negeri,Kec. Motongkad,171106,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,12,2,45,3,3,2,2,60,21 Apr 2026 22:54:05,B309181241AF63EF5E68
+SMP SATAP Jiko,69728227,SMP,Negeri,Kec. Motongkad,171106,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,11,0,37,3,3,1,1,61,30 Apr 2026 16:17:37,19F3D15C8B8CF4AF4853
+SMK N MOTONGKAD,40105169,SMK,Negeri,Kec. Motongkad,171106,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,24,3,156,12,12,1,1,19,10 Apr 2026 06:33:01,FD8579129FF3A15260AA

@@ -1,0 +1,30 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD N 129 OKU,10604901,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,20,3,270,13,13,1,1,44,28 Apr 2026 07:52:43,79A97BDED90828875A5F
+SD N 142 OKU,10604914,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,21,4,166,9,9,0,2,24,27 Apr 2026 14:03:27,28BF59263A7625E5AFC2
+SD N 143 OKU,10604915,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,10,3,131,6,6,1,1,19,30 Apr 2026 11:25:09,2C2DE426ED2DB8F8C9A0
+SD N 27 OKU,10604796,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,9,4,77,6,6,1,1,32,29 Apr 2026 06:43:25,8081215DEF3F89DB50C2
+SD N 28 OKU,10604797,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,13,1,83,6,7,0,1,11,07 Mar 2026 09:07:50,2A73799193A71E14463E
+SD N 29 OKU,10604798,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,18,2,178,9,10,0,1,31,10 Apr 2026 10:10:58,C8F413639F4BA3158F98
+SD N 30 OKU,10604799,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,10,5,133,6,9,0,1,24,27 Apr 2026 11:41:12,2222145585B20C285EEC
+SD N 33 OKU,10604802,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,15,1,143,6,12,1,1,25,28 Apr 2026 08:12:41,1052E67A53FDF3342949
+SD N 35 OKU,10604804,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,8,2,121,6,8,1,1,13,11 Apr 2026 09:54:30,2A01700F3BD424FF722C
+SD N 36 OKU,10604805,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,11,2,100,6,5,1,1,16,28 Apr 2026 08:24:33,63FDD881437BF66D256E
+SD N 37 OKU,10604806,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,11,3,113,6,5,2,1,44,30 Apr 2026 13:10:54,A6149151B12C517FA9D3
+SD N 40 OKU,10604809,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,10,1,39,6,6,0,0,11,20 Apr 2026 20:25:56,1C36938352FFCDB48783
+SD NEGERI 31 OKU,10604800,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,10,2,126,6,6,0,2,10,04 Mar 2026 10:16:45,22809899FCEF61417D3C
+SD NEGERI 34 OKU,10604803,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,14,2,149,8,9,1,1,18,29 Apr 2026 17:39:18,33D4D30D65CEEBD15CF0
+SDN 32 OKU,10604801,SD,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,10,2,126,6,7,1,1,10,06 Mar 2026 09:49:05,9779AD44CC915CBE7E31
+SD GLOBAL YAMTI SCHOOL,69950492,SD,Swasta,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,12,3,122,7,8,0,1,40,20 Apr 2026 12:28:18,1059805C3CF449D292E6
+SD IT AL-FATH,69883643,SD,Swasta,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,10,2,106,6,6,0,1,12,30 Jan 2026 19:46:49,BAF14199C2BF29EE59FE
+SMP N 14 OKU,10604673,SMP,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,31,14,317,10,13,1,1,57,02 May 2026 09:57:10,0404843A96D80C265941
+SMP N 25 OKU,10604686,SMP,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,23,7,250,9,9,1,1,48,03 Apr 2026 02:41:35,F59F8A8D73BFB0D1D231
+SMP N 3 OKU,10604696,SMP,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,40,8,556,18,21,1,1,30,02 May 2026 10:41:57,40AA144D238E343B88BC
+SMP NEGERI 50 SATAP OKU,60726492,SMP,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,15,4,148,5,3,1,1,36,30 Apr 2026 05:34:53,6F48C22ADAAEDF25CADF
+SMP IT Tahfizh Global Boarding School,70027602,SMP,Swasta,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,7,2,90,4,4,0,1,42,24 Apr 2026 08:36:19,DF96F8E4AE7AD2E8EE34
+SMP MUHAMMADIYAH LUBUK BANJAR,10604667,SMP,Swasta,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,9,2,87,3,3,2,0,11,07 Mar 2026 12:08:56,FF953FC19288042BC394
+SMP Plus Darul MubtadiIn,70043215,SMP,Swasta,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,10,1,222,6,6,0,0,49,23 Apr 2026 15:56:14,F348DDF1846ADEF94B06
+SMAN 14 OGAN KOMERING ULU,10646107,SMA,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,30,4,344,12,13,4,1,15,02 May 2026 10:49:32,E7C2532BE46C625BAC75
+SMAN 2 OGAN KOMERING ULU,10604724,SMA,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,56,9,835,24,19,3,1,54,28 Apr 2026 09:16:35,C824D99881D5EFE1A73C
+SMAS KURNIA JAYA BATUMARTA,10604716,SMA,Swasta,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,16,5,139,6,5,1,1,65,20 Apr 2026 23:03:48,096B225F42DF3DF0902F
+SMKN 4 OGAN KOMERING ULU,10604742,SMK,Negeri,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,43,8,695,24,13,5,1,26,22 Apr 2026 22:22:33,BC62573D0552BAFED92A
+SMK AL-HAIDAR BATUMARTA,70062137,SMK,Swasta,Kec. Lubuk Raja,110374,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,0,0,0,0,0,0,0,0,,2AD05028ED30C8A1DC36

@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 KASAI,30404500,SD,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,22,5,419,17,11,0,1,15,29 Apr 2026 12:59:35,40C2B8E0850BA77718EE
+SD NEGERI 001 PEGAT BATUMBUK,30404496,SD,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,11,5,132,10,18,0,2,82,21 Apr 2026 12:40:06,CD3F293142923ABCE3FE
+SD NEGERI 001 PULAU DERAWAN,30404482,SD,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,13,6,175,10,13,0,1,64,25 Apr 2026 09:48:34,C7B94EE5945DA38CDD88
+SD NEGERI 001 TANJUNG BATU,30404486,SD,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,28,4,497,21,21,0,2,26,30 Apr 2026 08:21:58,BE6A5F9391AD2FC7B307
+SD NEGERI 001 TELUK SEMANTING,30404321,SD,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,8,4,122,6,6,0,1,44,30 Apr 2026 17:28:01,B1019E62C08280C5EC0D
+SD NEGERI 002 TANJUNG BATU,30404336,SD,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,23,8,524,19,21,1,1,26,27 Apr 2026 11:05:37,94768B4C996A49FF0474
+SMP NEGERI 1 PULAU DERAWAN,30400367,SMP,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,23,5,410,14,14,2,1,24,27 Apr 2026 07:01:11,8034AD9A78AAB839E072
+SMP NEGERI 2 PULAU DERAWAN,30405578,SMP,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,13,4,97,5,3,2,1,19,29 Apr 2026 05:22:51,7ADDE848A69F9CB3F3BC
+SMP NEGERI 3 PULAU DERAWAN,30405589,SMP,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,12,5,159,6,6,1,1,40,01 May 2026 00:08:54,440C65A52650E27B31ED
+SMKN 3 BERAU,30404356,SMK,Negeri,Kec. Pulau Derawan,160304,Kab. Berau,160300,Prov. Kalimantan Timur,160000,36,14,400,15,24,5,1,15,30 Apr 2026 10:03:03,FED0CAA2A228661CDB7A

@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 SIOBAN,10303024,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,12,1,145,6,6,0,0,16,26 Apr 2026 22:01:02,9CF6DD8C8808A4751120
+SD NEGERI 02 NEMNEMLELEU,10303026,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,2,71,6,6,0,1,38,21 Apr 2026 10:49:00,1326CD5D81A74A8418BC
+SD NEGERI 03 BERIULOU,10303004,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,0,64,6,6,0,1,13,27 Apr 2026 16:01:10,B4D0459F9B2852F5A738
+SD NEGERI 04 BOSUA,10303009,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,9,1,63,6,6,0,1,12,11 Apr 2026 06:35:56,42982D107EAB3742759E
+SD NEGERI 06 SAUREINU,10303044,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,12,1,42,6,6,0,1,7,06 Mar 2026 09:29:26,6E9B95B0E437B6786638
+SD NEGERI 07 NEMNEMLELEU,10303048,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,9,1,51,6,6,0,1,16,15 Apr 2026 09:40:35,E842BCABDC89220BC6F3
+SD NEGERI 08 MATOBE,10303051,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,1,80,6,6,0,1,22,01 May 2026 19:40:27,7AE8EAEAE73E189736A9
+SD NEGERI 09 SAUREINU,10303031,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,2,86,6,8,0,1,28,29 Apr 2026 12:35:13,5816F57733A68C99B2BD
+SD NEGERI 10 MARA,10303033,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,14,0,48,6,6,0,1,36,23 Apr 2026 11:06:58,E83610973C0CD0D29BD8
+SD NEGERI 14 BOSUA,10302971,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,0,76,6,6,0,0,20,28 Apr 2026 09:47:10,0F999FEB65DD05896C1F
+SD NEGERI 19 MATOBE,10302990,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,7,3,50,6,6,0,1,27,07 Apr 2026 12:46:27,AD9B7E1AD8C2823A434B
+SD NEGERI 20 MARA,10302992,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,1,28,6,6,0,1,11,04 Mar 2026 08:32:36,8A684605679FC0D875A1
+SD NEGERI 25 BOSUA,69810014,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,3,64,6,6,0,1,24,28 Apr 2026 13:12:40,653A924CDB7EC33DDDFE
+SD NEGERI 27 BERIULOU,69984843,SD,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,2,42,6,6,0,0,14,29 Apr 2026 15:19:49,8970744EF515D7DAC41C
+SD SWASTA SANTO YOSEP,10309873,SD,Swasta,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,6,1,104,6,6,0,1,15,23 Apr 2026 07:38:19,0599BC619950BEE1875B
+SMP NEGERI 1 SIPORA,10302986,SMP,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,22,8,197,8,15,2,1,23,22 Apr 2026 08:09:26,75ED25F218A377A51414
+SMP NEGERI 2 SIPORA SELATAN,10309881,SMP,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,16,3,92,5,5,1,1,82,20 Apr 2026 15:32:06,1B372944EA59CAA1374D
+SMP NEGERI 3 SIPORA SELATAN,70013958,SMP,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,20,6,98,4,3,1,1,36,23 Apr 2026 12:10:02,1681C0CB59D838A93688
+SMAN 1 SIPORA,10302979,SMA,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,33,6,368,12,22,4,1,11,25 Apr 2026 10:35:10,34E641169B301FC3B021
+SMK NEGERI 1 KEPULAUAN MENTAWAI,69851452,SMK,Negeri,Kec. Sipora Selatan,081002,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,23,11,40,10,17,2,1,18,23 Apr 2026 16:31:33,E5CD4386D986763CB05F

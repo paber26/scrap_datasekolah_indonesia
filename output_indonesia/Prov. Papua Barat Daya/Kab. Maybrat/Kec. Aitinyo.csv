@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 112 KAMBUS KATO,60401649,SD,Negeri,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,8,0,31,6,6,0,0,231,24 Apr 2026 13:23:30,433E501356CEB43D429B
+SD INPRES 30 AITINYO,60401665,SD,Negeri,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,12,2,85,6,6,1,0,15,10 Apr 2026 21:28:36,B321A49ACC4B7E5A12A0
+SD NEGERI 7 AITINYO,60403814,SD,Negeri,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,12,1,67,6,6,0,1,22,26 Apr 2026 09:33:44,898B71F83D6CC6812AB6
+SD YPK AITINYO,69965216,SD,Swasta,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,8,1,99,6,7,0,0,21,28 Apr 2026 17:26:48,1BC1722AD06C989E26DD
+SD YPK ALFA YAKSORO,60401735,SD,Swasta,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,8,1,55,6,6,0,1,20,29 Apr 2026 19:14:46,DBE075D457294B36E3F2
+SD YPK KAMRO,60401705,SD,Swasta,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,4,1,37,6,6,0,1,12,29 Apr 2026 08:22:03,C0FDAEE1BEC94BE39702
+SMP NEGERI 1 AITINYO,60401761,SMP,Negeri,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,20,2,134,6,6,3,2,31,29 Apr 2026 13:21:36,5DB6255137BD23580AD3
+SMA NEGERI 1 AITINYO,60402072,SMA,Negeri,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,21,3,128,6,7,1,1,18,01 May 2026 23:17:36,A261451F2F3E6A1A1AC7
+SMA NEGERI 2 AITINYO BARAT,69980782,SMA,Negeri,Kec. Aitinyo,390106,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,19,1,37,5,3,2,1,20,29 Apr 2026 20:29:15,C9CDA22E85F52BDC6B98

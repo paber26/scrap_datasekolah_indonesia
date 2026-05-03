@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 SUMURI,60401901,SD,Negeri,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,12,2,110,6,7,0,0,7,07 Mar 2026 19:20:26,E7C6E83674944694E773
+SD NEGERI 2 SUMURI,60401903,SD,Negeri,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,9,0,100,6,6,0,0,13,24 Feb 2026 06:26:16,2B4F04A20D5FFE260E46
+SD YPK ONAR,60401937,SD,Swasta,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,5,0,61,6,6,0,0,5,03 Mar 2026 02:28:38,E4FD225EE62B830F61BC
+SD YPK SERITO,60401919,SD,Swasta,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,10,0,147,6,6,1,1,25,15 Apr 2026 14:40:52,512B63F2D717B9792991
+SD YPPK SAENGGA,60401931,SD,Swasta,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,6,0,150,6,6,0,1,14,25 Apr 2026 15:12:30,C0573EBA184AA34B4B31
+SD YPPK TOFOI,69728613,SD,Swasta,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,13,0,227,9,10,0,1,18,15 Apr 2026 18:43:58,D1552164B782585477E6
+SMP NEGERI 1 SUMURI,60401945,SMP,Negeri,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,17,1,130,6,8,1,1,17,17 Apr 2026 08:16:00,DA66FB93089620D0F017
+SMP STELLA MARIS TOFOI,60401951,SMP,Swasta,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,6,1,106,5,7,0,1,22,14 Apr 2026 21:11:35,374848532DC45F31A5E8
+SMP TAMAN BANGSA TOFOI,70009382,SMP,Swasta,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,6,2,21,3,3,0,0,11,24 Feb 2026 11:36:59,59F4E510DCAB7ECDED1A
+SMP YPK TANAH MERAH,60403497,SMP,Swasta,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,12,1,146,6,6,2,1,48,24 Apr 2026 10:18:19,87F496F520B3B9BEB7A3
+SMA NEGERI SAENGGA,69879191,SMA,Negeri,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,11,2,137,6,6,5,1,12,14 Feb 2026 11:25:18,21D26C79708EF67BFA8D
+SMA NEGERI TOFOI,60403662,SMA,Negeri,Kec. Sumuri,320403,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,18,2,154,6,9,2,1,13,28 Feb 2026 05:59:36,7F335B00C58E637AC4B4

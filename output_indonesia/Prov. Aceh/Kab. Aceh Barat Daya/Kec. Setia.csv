@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 SETIA,10104872,SD,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,12,2,176,6,6,0,1,48,25 Apr 2026 12:01:00,8874C31D054D504C2E38
+SD NEGERI 2 SETIA,10104970,SD,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,10,2,61,6,6,0,1,18,24 Apr 2026 23:09:35,4B648D5944C8DFFA2E3C
+SD NEGERI 3 SETIA,10104828,SD,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,15,0,132,6,6,0,1,31,16 Apr 2026 11:38:39,F69E9D4D65DCC7B32E64
+SD NEGERI 4 SETIA,10104886,SD,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,14,3,92,6,6,0,1,8,04 Apr 2026 11:09:33,F2582031B39B3B7F5A56
+SD NEGERI 5 SETIA,10104909,SD,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,11,2,104,6,7,0,1,13,14 Mar 2026 13:43:44,4E8E2337473C8081BB32
+SD NEGERI 6 SETIA,10104982,SD,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,12,1,65,6,6,0,1,20,28 Apr 2026 10:30:34,10B6F53D7B1DD0146D38
+SD NEGERI 7 SETIA,69787341,SD,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,13,1,76,6,6,0,1,20,29 Apr 2026 10:25:33,A3B7E75AC1D77BB69630
+SMP NEGERI 1 SETIA,10104857,SMP,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,28,6,217,9,15,3,1,52,25 Apr 2026 11:35:43,DED0EAEE512B6184340F
+SMA NEGERI 8 ACEH BARAT DAYA,10104837,SMA,Negeri,Kec. Setia,061708,Kab. Aceh Barat Daya,061700,Prov. Aceh,060000,16,8,115,6,9,1,1,18,21 Apr 2026 13:03:05,B0EF4F1381745C2D4E4E

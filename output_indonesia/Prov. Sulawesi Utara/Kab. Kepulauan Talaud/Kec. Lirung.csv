@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI INPRES 1279 SEREH,40101703,SD,Negeri,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,10,3,95,6,6,1,1,39,24 Apr 2026 21:17:29,4174416B88F769A3FF3A
+SD NEGERI INPRES LIRUNG,40101733,SD,Negeri,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,11,3,161,8,9,0,1,36,27 Apr 2026 11:27:55,77ABE931322E78579CBE
+SD NEGERI LIRUNG,40101707,SD,Negeri,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,9,2,107,6,6,0,1,18,18 Mar 2026 00:09:44,D486C4C4C817F46EC1BF
+SD NEGERI MUSI,40101714,SD,Negeri,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,8,2,70,6,6,1,1,15,30 Mar 2026 19:35:41,6F8EAFF037B5B1729A0A
+SD KATOLIK SANTU AGUSTINUS LIRUNG,40101801,SD,Swasta,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,9,1,55,6,6,0,1,38,24 Apr 2026 08:13:41,80F3E84714420697FACD
+SD KRISTEN WISONGKALAMATTA SEREH,40101839,SD,Swasta,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,8,1,91,6,6,0,1,18,23 Apr 2026 07:36:23,F33432F7B404A154AEE8
+SMP NEGERI 1 LIRUNG,40101744,SMP,Negeri,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,22,9,255,9,15,4,1,24,20 Apr 2026 19:46:32,2441D8871D6E36829297
+SMP NEGERI 5 LIRUNG,40103552,SMP,Negeri,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,11,4,71,3,6,1,1,13,01 Apr 2026 05:39:02,DF584515B4EAD6752E1D
+SMA NEGERI 1 LIRUNG,40101754,SMA,Negeri,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,27,9,274,9,23,6,1,38,20 Apr 2026 20:29:40,8385E0BD9ED598D27FC2
+SMKS KRISTEN LIRUNG,40101748,SMK,Swasta,Kec. Lirung,170402,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,11,5,57,11,10,2,1,22,30 Apr 2026 09:19:55,943C78B5166F60D0F219

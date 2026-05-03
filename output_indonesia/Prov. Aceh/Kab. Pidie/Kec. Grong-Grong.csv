@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD N GRONG-GRONG,10100459,SD,Negeri,Kec. Grong-Grong,060227,Kab. Pidie,060200,Prov. Aceh,060000,29,2,375,16,11,0,1,90,29 Apr 2026 22:52:48,07E68533F8E027E48C07
+SD NEGERI PANGGE PILOK,10100387,SD,Negeri,Kec. Grong-Grong,060227,Kab. Pidie,060200,Prov. Aceh,060000,12,3,116,6,8,0,1,39,02 May 2026 19:52:08,7427069060962F80D939
+SMP N 2 DELIMA,10100621,SMP,Negeri,Kec. Grong-Grong,060227,Kab. Pidie,060200,Prov. Aceh,060000,39,12,464,15,18,3,1,55,30 Apr 2026 15:09:27,77E943630BD24766E9E8
+SMP DARUSSALAMAH LAMPOH TUAH,70005991,SMP,Swasta,Kec. Grong-Grong,060227,Kab. Pidie,060200,Prov. Aceh,060000,12,3,195,7,7,0,0,17,02 May 2026 09:32:23,C0CE9F5B84CB4DB0765D
+SMP QARYATUL HUDA,70005986,SMP,Swasta,Kec. Grong-Grong,060227,Kab. Pidie,060200,Prov. Aceh,060000,14,5,139,6,8,1,1,17,26 Apr 2026 12:31:07,43382569F801C118ADE8
+SMA Negeri 1 Delima,10100545,SMA,Negeri,Kec. Grong-Grong,060227,Kab. Pidie,060200,Prov. Aceh,060000,42,6,464,14,15,5,1,46,28 Apr 2026 13:10:54,2BDEFC0774AEFF4BA0F1
+SMK Darussalamah Lampoh Tuah,70055134,SMK,Swasta,Kec. Grong-Grong,060227,Kab. Pidie,060200,Prov. Aceh,060000,5,2,42,1,1,0,0,25,02 May 2026 09:06:08,6B531BFF126C937E6EB5

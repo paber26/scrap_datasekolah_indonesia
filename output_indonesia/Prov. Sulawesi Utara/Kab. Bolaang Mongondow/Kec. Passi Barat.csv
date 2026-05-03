@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BILALANG,40100559,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,17,2,133,6,8,0,0,14,26 Apr 2026 17:16:01,59D8E01357C11B250D30
+SD NEGERI 1 MUNTOI,40100488,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,90,6,6,0,0,16,13 Apr 2026 07:31:08,17373935BF5CB5B9841B
+SD NEGERI 1 OTAM,40100469,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,13,0,81,6,6,0,1,15,06 Mar 2026 23:11:40,6D20CDBC41CB6B1D4E25
+SD NEGERI 1 PASSI,40100701,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,17,3,142,8,11,0,1,18,06 Mar 2026 03:00:24,DCED085B7CAC258A3ECD
+SD NEGERI 2 MUNTOI,40100605,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,0,77,6,6,0,1,7,21 Jan 2026 10:51:12,5A223FBFE53BBB30D0FE
+SD NEGERI 2 OTAM,40100591,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,13,3,132,6,6,0,1,13,13 Apr 2026 08:55:19,EE69FA4FC5CF3536B6A6
+SD NEGERI 2 PASSI,40100593,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,19,2,194,11,10,0,1,26,28 Apr 2026 15:57:37,EFCB5C37CEF490619ACB
+SD NEGERI 3 MUNTOI,40100196,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,86,6,6,0,2,13,13 Apr 2026 20:16:08,F4D66717324F67A11E55
+SD NEGERI BINTAU,40100246,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,16,1,74,6,6,0,0,22,29 Apr 2026 20:29:18,8AA0737DEA61A08D8463
+SD NEGERI BULUD,40100450,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,11,1,74,6,6,0,1,46,10 Mar 2026 12:59:45,BFE4BA0D53597296715E
+SD NEGERI LOBONG,40100164,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,15,2,159,9,6,0,1,10,05 Mar 2026 16:28:26,E0AB3CDD5D5037BF32DE
+SD NEGERI MANEMBO,40100188,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,1,59,6,6,1,1,10,11 Feb 2026 08:06:20,263BBD179675E5B7A541
+SD NEGERI POYUYANAN,40100353,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,98,6,6,0,0,15,13 Apr 2026 19:26:32,2D0041546FFF69F0BEE5
+SDN Wangga,40100698,SD,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,11,1,60,6,6,0,1,11,14 Apr 2026 18:59:29,55B2F0AD30EB4C6EA611
+SMP NEGERI 2 PASSI,40100304,SMP,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,18,1,118,6,9,1,1,30,07 Mar 2026 13:11:58,F501D7807CB4B516CC02
+SMP NEGERI 5 PASSI,40100334,SMP,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,14,4,52,3,6,1,1,18,13 Mar 2026 20:57:51,29D30E5A32D59F418032
+SMP NUSA ALAM CENDEKIA,70027768,SMP,Swasta,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,7,3,27,3,2,0,1,46,13 Apr 2026 19:45:09,107B6D9BA421EDAA6618
+SMP PGRI OTAM,40100396,SMP,Swasta,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,2,97,4,4,1,1,16,27 Apr 2026 09:29:52,1326036989D9F6663BC4
+SMAN 1 PASSI,40103447,SMA,Negeri,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,16,2,143,6,6,7,1,45,28 Apr 2026 11:22:11,A40233525D19C4CEA414
+SMKS NUSA ALAM CENDEKIA,70048947,SMK,Swasta,Kec. Passi Barat,170128,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,6,1,21,4,4,0,0,45,28 Apr 2026 04:42:15,449CD43D1921335EEA15

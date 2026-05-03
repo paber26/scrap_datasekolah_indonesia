@@ -1,0 +1,22 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 BINTAUNA,40100560,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,7,4,79,6,6,0,1,16,27 Apr 2026 12:03:49,BC40E0855774231B0804
+SDN 10 BINTAUNA,40100671,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,7,1,83,6,6,0,1,17,14 Apr 2026 09:06:25,98A7CD1B4CA2BB3553BB
+SDN 11 BINTAUNA,40100103,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,9,3,52,6,6,0,1,32,17 Apr 2026 07:34:36,0E04577D9D160CE965DF
+SDN 12 BINTAUNA,40100687,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,7,4,66,6,7,0,1,76,29 Apr 2026 11:03:21,0F0E2EA664F27FEDBDF2
+SDN 13 BINTAUNA,40100710,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,8,2,98,6,6,0,1,19,24 Apr 2026 07:31:09,2C529D426FB439A30BDC
+SDN 14 BINTAUNA,40100660,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,8,0,73,6,6,0,1,57,30 Apr 2026 09:30:37,BABA959AC9814B208C86
+SDN 15 BINTAUNA,40100639,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,8,1,74,6,6,0,1,50,29 Apr 2026 10:19:18,DC2CAA581056B3D2897F
+SDN 16 BINTAUNA,69965080,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,6,1,60,6,6,1,1,25,14 Apr 2026 11:42:41,2B2EABB591C24D6FD078
+SDN 2 BINTAUNA,40100112,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,8,2,99,6,8,1,1,16,22 Apr 2026 07:24:31,B794D30E941B71DE503A
+SDN 3 BINTAUNA,40100670,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,9,1,50,6,8,1,1,20,03 Apr 2026 18:43:20,247EEFE70C4993451D39
+SDN 4 BINTAUNA,40100561,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,8,3,136,6,8,0,1,30,16 Apr 2026 12:02:18,283918DD21E999F08833
+SDN 5 BINTAUNA,40100376,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,7,2,60,6,6,0,1,6,03 Mar 2026 07:40:07,5EA66B3B6339FE95156E
+SDN 6 BINTAUNA,40100105,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,9,2,59,6,7,0,1,17,22 Apr 2026 10:46:31,02094335A29B6157C04F
+SDN 7 BINTAUNA,40100181,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,8,2,59,6,6,0,1,30,06 Mar 2026 21:25:54,40C3C10528DCE8D4EBE0
+SDN 8 BINTAUNA,40100134,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,9,2,77,6,6,1,1,46,29 Apr 2026 08:37:27,7EF6ABDCC4C47431223D
+SDN 9 BINTAUNA,40100369,SD,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,8,1,94,6,6,0,1,38,24 Apr 2026 08:58:30,0821D862125F3863A26D
+SMP NEGERI 3 BOLAANG MONGONDOW UTARA,40100400,SMP,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,26,3,313,12,16,2,1,43,28 Apr 2026 10:11:04,E5435FA192D9E07428F2
+SMP NEGERI 7 BOLAANG MONGONDOW UTARA,40100294,SMP,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,15,3,137,6,9,3,1,46,30 Apr 2026 11:08:27,90438B45C5B23C86F950
+SMP NEGERI SATAP 17 BOLAANG MONGONDOW UTARA,40103433,SMP,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,10,1,25,3,3,1,1,9,07 Apr 2026 06:01:00,CC9240EE3232FB062D87
+SMA NEGERI 1 BINTAUNA,40100317,SMA,Negeri,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,44,12,671,21,20,8,1,65,28 Apr 2026 09:40:43,D8C0D26B8208E2ED71D6
+SMK PARAMITA BINTAUNA,69888829,SMK,Swasta,Kec. Bintauna,170801,Kab. Bolaang Mongondow Utara,170800,Prov. Sulawesi Utara,170000,16,3,195,14,11,1,0,64,16 Apr 2026 09:22:41,2E354B9360B39ED0F40D

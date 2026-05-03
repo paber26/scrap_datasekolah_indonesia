@@ -1,0 +1,23 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 HAMAK TIMUR,30301958,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,59,6,6,0,1,11,29 Apr 2026 07:18:00,B1B4D9CBFA6E86975B66
+SD NEGERI 1 HAMAK UTARA,30301959,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,0,44,6,6,0,1,11,29 Apr 2026 05:42:09,564EA2E3E90AB09FAEC8
+SD NEGERI 1 MANDALA,30301742,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,30,6,6,0,1,14,23 Apr 2026 10:23:47,745C2C5329EB683BC8BC
+SD NEGERI 1 PAKUAN,30301751,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,86,6,6,0,1,23,29 Apr 2026 08:05:01,F1F52212C5EB255CD2A1
+SD NEGERI 1 PANDULANGAN,30301673,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,43,6,6,0,1,9,14 Apr 2026 07:23:01,5342F1300D0895068478
+SD NEGERI 1 TANITI,30301839,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,4,41,6,6,0,1,9,04 Apr 2026 05:29:12,77073B474FA05AFFB940
+SD NEGERI 2 AMBUTUN,30301891,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,101,6,6,0,1,17,27 Apr 2026 09:51:26,4956DBAAA07F6B097BEC
+SD NEGERI 2 PANDULANGAN,30301674,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,1,58,6,6,0,1,26,15 Apr 2026 02:46:15,58D3D36CE27FCF401587
+SD NEGERI 2 RIAM TALO,30301664,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,26,6,6,0,0,18,03 Apr 2026 09:54:51,5ED672B0C633873F532C
+SD NEGERI 2 TANITI,30301840,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,1,39,6,6,0,1,10,05 Apr 2026 10:54:55,84FA072995FFB1C2FED2
+SD NEGERI 3 RIAM TALO,30301665,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,1,23,5,6,0,0,5,05 Mar 2026 16:53:15,3BBBA3C9679D9E19E072
+SD NEGERI BANUA HANYAR,30302014,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,44,6,6,0,1,5,12 Mar 2026 08:54:01,8F144D6572966E577743
+SD NEGERI GUMBIL,30302023,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,77,6,6,0,1,9,03 Feb 2026 12:47:17,C7007488FEEA3E5E91E0
+SD NEGERI HAMAK,30301957,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,1,22,6,6,0,1,6,13 Apr 2026 20:19:47,F9D5342B78611EE488C7
+SD NEGERI LOKBINUANG,30301708,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,32,6,6,0,1,40,30 Apr 2026 12:22:06,7BAFB20545D6B51F55E4
+SD NEGERI LONGAWANG,30301711,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,4,45,6,6,1,1,14,06 Apr 2026 11:07:51,DD6C900B10C2721FBD30
+SD NEGERI MASIMPAN,30301745,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,1,44,6,6,1,1,10,08 Apr 2026 09:12:23,EC8724659485AFA25CF3
+SD NEGERI TELAGA LANGSAT,30301825,SD,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,4,59,6,6,1,1,8,08 Apr 2026 14:40:28,7D0445476C39164FA623
+SMP NEGERI 1 TELAGA LANGSAT,30301790,SMP,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,16,6,661,20,22,2,1,37,02 May 2026 18:16:23,21566CF348189453BDA1
+SMP NEGERI 2 TELAGA LANGSAT,30301797,SMP,Negeri,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,11,3,45,3,3,1,1,12,07 Apr 2026 07:00:54,D5D5896F476C3037DB39
+SMP AL BALADUL AMIN,69867732,SMP,Swasta,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,10,1,269,10,3,1,1,9,20 Apr 2026 05:34:25,C1F3429FBA493E7814BF
+SMAS AL BALADUL AMIN,30314039,SMA,Swasta,Kec. Telaga Langsat,150503,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,12,4,227,8,6,5,1,15,02 May 2026 09:43:44,841631DEEF0F30BDA6CE

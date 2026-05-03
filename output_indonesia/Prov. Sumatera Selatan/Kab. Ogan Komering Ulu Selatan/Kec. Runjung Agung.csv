@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPT SD NEGERI 1 BUMI GENAP,10609974,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,13,4,149,6,8,0,1,25,03 Mar 2026 09:44:17,CD8B667D4D82FBAD7A6D
+UPT SD NEGERI 1 GEDUNG WANI,10609936,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,10,4,74,6,6,0,1,18,12 Mar 2026 11:49:49,517AE18DBE18823EBE6B
+UPT SD NEGERI 2 BUMI GENAP,10610309,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,4,4,13,4,6,0,0,7,10 Mar 2026 21:05:01,3A38BE889A36E14C9645
+UPT SD NEGERI 2 GEDUNG WANI,10609950,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,11,7,133,6,7,0,2,33,02 May 2026 17:38:14,2564DD8B0E374A620BDD
+UPT SD NEGERI 3 GEDUNG WANI,10609958,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,14,2,30,6,6,0,1,4,22 Apr 2026 08:37:15,032DEBEBA2E9A2818D70
+UPT SD NEGERI AIR BARU,10609970,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,10,3,89,6,8,0,1,15,23 Apr 2026 09:00:41,6B565F99BA696B6A7EEC
+UPT SD NEGERI GEDUNG NYAWA,10609978,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,8,7,88,6,6,0,1,15,04 Mar 2026 04:08:00,95B580153B928EC33F15
+UPT SD NEGERI KARANG ENDAH,10645719,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,12,5,61,6,6,0,1,17,07 Apr 2026 04:27:21,22043C26BC6915428D99
+UPT SD NEGERI MERPANG,10647832,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,11,2,59,6,4,0,1,15,31 Jan 2026 09:47:40,E1A9A17176D5F5E4BF74
+UPT SD NEGERI PENANGGUNGAN,10610016,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,14,10,105,6,6,0,1,18,13 Apr 2026 10:19:24,C2916AD368EDA1ED5ABB
+UPT SD NEGERI SURA,10610031,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,9,5,89,6,5,0,1,29,27 Apr 2026 11:18:31,6518FA622F60262483B3
+UPT SD NEGERI TANJUNG KURUNG,10610035,SD,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,12,9,148,7,6,0,1,9,28 Apr 2026 09:01:07,C575E6774C062D40F372
+UPT SMP NEGERI 1 RUNJUNG AGUNG,10603220,SMP,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,34,13,366,12,12,2,1,33,30 Apr 2026 20:05:41,EF27A020B4738EEF55FF
+UPT SMP NEGERI 2 RUNJUNG AGUNG,10648061,SMP,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,21,3,65,3,3,0,0,18,20 Apr 2026 12:51:34,9C353F54D14F8C33B19D
+SMP MUHAMMADIYAH 2 PENANGGUNGAN,10610245,SMP,Swasta,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,1,1,57,3,3,1,1,8,01 Feb 2026 01:40:52,1AB9C0D31F89208D9066
+SMAN 1 RUNJUNG AGUNG,10610273,SMA,Negeri,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,21,7,213,7,9,3,1,40,30 Apr 2026 11:34:39,3F6C97F286992FF63634
+SMAS MUHAMMADIYAH 3 PENANGGUNGAN,10644856,SMA,Swasta,Kec. Runjung Agung,110914,Kab. Ogan Komering Ulu Selatan,110900,Prov. Sumatera Selatan,110000,4,5,65,3,3,1,1,13,01 May 2026 15:45:31,EE45F2DC6E3E92023282

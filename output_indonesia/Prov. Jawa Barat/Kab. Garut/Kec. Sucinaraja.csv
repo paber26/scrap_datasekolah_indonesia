@@ -1,0 +1,28 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 Cigadog,20225784,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,5,2,192,6,6,1,1,33,09 Apr 2026 21:32:49,7A5EC3354E1CF9628B56
+SDN 1 Linggamukti,20226267,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,142,6,6,0,0,16,16 Apr 2026 08:49:36,236127FC1E5841AAE3E4
+SDN 1 Sadang,20226648,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,6,1,61,6,5,0,0,30,09 Apr 2026 06:03:36,C6404063393CD1213B68
+SDN 1 Sukalaksana,20226881,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,9,0,333,12,7,0,0,13,07 Apr 2026 11:27:14,4987AF10AC1A2494AE6E
+SDN 1 Sukaratu,20227016,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,3,1,132,6,9,0,1,15,04 Apr 2026 17:32:23,FCAB83D2EC02BD3AA178
+SDN 1 Tegalpanjang,20227112,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,7,1,231,6,6,0,1,23,10 Apr 2026 17:58:25,C6C8380355F7E17BBA7A
+SDN 1 Tenjonagara,20227124,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,4,1,174,6,5,0,1,23,28 Apr 2026 15:00:35,CAFC0C87EE17AFCF9C91
+SDN 2 Cigadog,20225786,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,3,2,79,6,6,0,1,11,05 Mar 2026 11:17:52,8F80BB6EC86D671E7CDC
+SDN 2 Linggamukti,20226268,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,4,1,94,6,6,0,1,22,06 Apr 2026 12:08:42,CA5834397DB8795EB476
+SDN 2 Sadang,20226649,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,7,1,109,6,6,0,1,16,17 Apr 2026 10:50:59,D5C3673038814C9DCA37
+SDN 2 Sukalaksana,20254094,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,4,1,166,7,6,0,1,10,06 Apr 2026 18:57:30,8DC51D7FBE62891ABC6A
+SDN 2 Sukaratu,20227017,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,3,1,181,6,6,0,0,13,23 Apr 2026 08:34:32,A359F0CC5ABECDCBB538
+SDN 2 Tegalpanjang,20227113,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,6,2,223,7,7,0,1,23,29 Apr 2026 08:06:07,ECE71FF01D394A0A8D34
+SDN 2 Tenjonagara,20227125,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,4,1,113,6,6,0,0,10,02 May 2026 08:36:07,F4B13DD6047D9095A252
+SDN 3 Linggamukti,20226269,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,135,6,6,0,0,28,08 Apr 2026 00:51:28,24C8225BD9A05B6D4DF7
+SDN 3 Tegalpanjang,20227114,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,5,2,109,6,9,0,1,20,09 Apr 2026 06:22:41,3AD401CA438F71054932
+SDN 3 Tenjonagara,20227126,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,3,3,97,6,6,0,1,25,02 May 2026 08:02:05,5781CB5D2298A722352E
+SDN 4 Linggamukti,20226270,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,6,1,225,6,6,0,1,22,11 Apr 2026 22:45:53,4408B04277F13FF327DA
+SDN 4 Tegalpanjang,20227115,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,108,6,6,0,0,8,13 Apr 2026 12:51:44,56067EE364D930A6906E
+SDN 5 Tegalpanjang,20227116,SD,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,7,1,138,6,6,0,1,10,10 Apr 2026 12:30:53,889DDB406D65B65D3592
+Sekolah Dasar Islam Terpadu Nurul Islam,70060502,SD,Swasta,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,0,0,0,0,0,0,0,0,,6FF5B2DAF9C556A049AD
+SMPN 1 Sucinaraja,20209391,SMP,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,22,8,401,14,21,2,1,46,02 May 2026 11:18:55,0466B4B950175147F8BF
+SMP ISLAM TERPADU NURUL ISLAM,20279899,SMP,Swasta,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,10,4,147,6,6,1,1,19,10 Apr 2026 13:47:03,EAF73115C85169C80951
+SMP PLUS AL FALAH SUCINARAJA,20227414,SMP,Swasta,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,8,2,58,3,5,1,0,35,29 Apr 2026 12:32:51,0CA7E6DF43A907EDBD1C
+SMAN 26 GARUT,20209351,SMA,Negeri,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,37,21,787,25,20,4,1,61,28 Apr 2026 09:04:17,4120700389DAF5BDDF53
+SMKS AL FALAH,20257268,SMK,Swasta,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,6,2,75,6,6,2,1,14,08 Apr 2026 00:19:16,5E2F82CF825431A07466
+SMKS PGRI WANARAJA,20209181,SMK,Swasta,Kec. Sucinaraja,021142,Kab. Garut,021100,Prov. Jawa Barat,020000,24,8,542,18,23,4,1,22,13 Apr 2026 12:30:52,893C6B378E2AD738AAD8

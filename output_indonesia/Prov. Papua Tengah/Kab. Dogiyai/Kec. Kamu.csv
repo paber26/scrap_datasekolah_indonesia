@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BUKAPA,60301782,SD,Negeri,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,9,2,367,12,12,0,0,79,01 May 2026 18:07:19,A276E9EC97E81C9D9FCA
+SD INPRES PONA,60301753,SD,Negeri,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,10,1,462,15,14,0,1,28,01 May 2026 11:37:05,E7D591F6DAD68A859623
+SD NEGERI MOANEMANI,60301803,SD,Negeri,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,10,1,403,14,12,0,0,53,30 Apr 2026 12:03:39,F123A1824DAA1FF9C92C
+SD YPPGI BUKAPA,60300821,SD,Swasta,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,7,1,200,10,7,0,1,18,28 Apr 2026 10:22:39,51B57F0655C9432017B5
+SD YPPK MAUWA,60301848,SD,Swasta,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,10,2,395,14,11,0,1,36,27 Apr 2026 06:52:56,CE0520B09D9C1E409DC9
+SD YPPK MOANEMANI,60301849,SD,Swasta,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,14,1,326,11,12,0,1,27,30 Apr 2026 13:23:31,04C77EEF2409C55952F8
+SMP NEGERI 1 KAMU,60301868,SMP,Negeri,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,26,5,414,14,19,3,1,33,24 Apr 2026 09:12:12,B181007F6580205CB90C
+SMP YPPK ST. FRANSISKUS MOANEMANI,60300805,SMP,Swasta,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,22,1,276,11,12,3,2,52,23 Apr 2026 15:39:58,745640791442993CB484
+SMAN 2 DOGIYAI,60304201,SMA,Negeri,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,20,1,489,13,13,1,1,35,01 May 2026 12:07:04,44210A5BA92F06F48B46
+SMK Negeri 1 Agribisnis Dan Agroteknologi Dogiyai,69880396,SMK,Negeri,Kec. Kamu,360601,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,21,4,120,6,9,5,1,98,01 May 2026 11:35:40,147E4FABF1B5D113F374

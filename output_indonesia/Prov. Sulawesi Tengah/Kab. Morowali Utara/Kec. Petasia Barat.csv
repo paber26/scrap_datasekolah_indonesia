@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES TIU,40202516,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,8,7,91,6,8,0,1,14,06 Mar 2026 00:41:56,83CAEE449BEAA6456A52
+SD NEGERI 1 ULU LAA,40204575,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,4,6,18,6,5,0,0,6,02 Apr 2026 07:07:43,D74F33D292CE899E0BB4
+SD Negeri 2 Moleono,69856879,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,8,4,15,6,2,0,0,36,08 Mar 2026 00:56:35,DBE2199A614A94F8F04E
+SD NEGERI MOLEONO,40202536,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,9,6,42,6,6,0,0,25,07 Mar 2026 07:55:15,17DA9E7BDA82C16D0E09
+SD NEGERI MONDOWE,40202549,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,12,4,57,6,6,0,1,6,22 Jan 2026 07:56:02,0584E94E61ACBAE8BAF1
+SD NEGERI ONE PUTE,40202564,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,8,2,84,6,7,0,1,40,04 Apr 2026 07:25:56,D8001C7A5E0918F8D99F
+SD Negeri Tadaku,69856880,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,7,5,20,6,6,0,0,29,06 Mar 2026 22:08:25,2C3B52F89B35011C57CF
+SD NEGERI TOGO MULYA,40202528,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,8,5,84,6,7,0,1,43,27 Apr 2026 09:40:33,4D4474D217A9FD2A7CE4
+SD NEGERI TONTOWEA,40202626,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,9,5,93,6,6,0,1,26,20 Apr 2026 07:38:43,C2DD9A97232E1244D4A5
+SD Negeri Ululaa,69856882,SD,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,5,5,26,6,6,0,1,7,04 Mar 2026 19:20:21,43D977C58B46B9EAEE0D
+SD GKST SAMPALOWO,40202721,SD,Swasta,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,5,1,54,6,6,0,1,16,13 Apr 2026 16:40:05,05B79435264F5D93AF77
+SD GKST TIU,40202722,SD,Swasta,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,7,0,101,6,8,0,1,11,28 Apr 2026 18:34:24,F1DEAE8F1D257C28C707
+SMP NEGERI 1 PETASIA BARAT,40202593,SMP,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,11,7,75,3,11,2,1,45,27 Apr 2026 11:02:27,8A9C4ADD0C389F123D2E
+SMP NEGERI 2 PETASIA BARAT SATU ATAP,60724751,SMP,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,10,5,41,3,3,1,0,15,28 Jan 2026 07:13:43,912CA7450E7C4A2BE600
+SMP Negeri 3 Petasia Barat Satu Atap,69772580,SMP,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,9,3,79,3,4,1,1,12,11 Apr 2026 11:56:13,FE12B750A6E67F363CEB
+SMP KRISTEN GKST TIU,40202588,SMP,Swasta,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,8,0,95,5,5,1,1,19,13 Apr 2026 06:42:54,7420FE8560F0C8DD996C
+SMKN 1 Petasia Barat,70003616,SMK,Negeri,Kec. Petasia Barat,181210,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,13,1,45,3,3,2,1,24,09 Apr 2026 22:39:45,90254F024062E2A46E3E

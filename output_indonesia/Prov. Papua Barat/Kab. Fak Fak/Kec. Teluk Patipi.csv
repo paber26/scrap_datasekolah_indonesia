@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES DEGEN,60401018,SD,Negeri,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,10,1,97,6,6,0,0,51,01 May 2026 20:25:56,69369E146E4DC930B957
+SD INPRES OFFIE,60401035,SD,Negeri,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,9,1,68,6,6,0,1,19,29 Apr 2026 20:00:50,488219CA40A805CDCFBE
+SD INPRES PATIPI PASIR,60403588,SD,Negeri,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,8,1,65,6,7,0,2,15,03 Mar 2026 19:34:00,E74EF565353F78762BAD
+SD INPRES PUAR,60401039,SD,Negeri,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,11,1,86,6,6,0,1,17,30 Apr 2026 16:44:52,2218D439012D310FC13C
+SD INPRES TIBATIBANANAM,60401091,SD,Negeri,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,8,1,98,6,6,0,1,27,02 May 2026 12:29:27,D03FD501784DB8303C48
+SD NEGERI PATIPI,60401089,SD,Negeri,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,9,1,29,6,6,0,0,9,06 Apr 2026 02:40:59,F228B085ED5309D08E1A
+SDN TETAR,69726929,SD,Negeri,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,10,2,99,6,6,0,0,28,02 May 2026 18:59:36,83D87B2D57B492DC1EAC
+SD YPK SUM,60401067,SD,Swasta,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,7,1,62,6,6,0,1,10,03 Mar 2026 18:48:21,FE790F73B6F591F04EE8
+SD YPPK ST YOHANES DON BOSCO US ADORA,60401080,SD,Swasta,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,5,2,90,6,6,0,1,7,06 Apr 2026 01:58:06,DC9EEFB4417435B73533
+SMP NEGERI 2 KOKAS,60401104,SMP,Negeri,Kec. Teluk Patipi,320107,Kab. Fak Fak,320100,Prov. Papua Barat,320000,12,7,182,6,7,2,1,45,09 Apr 2026 09:10:38,F3BEC2B02BFBFA8AE2E9

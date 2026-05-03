@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES JITA,60302832,SD,Negeri,Kec. Jita,360405,Kab. Mimika,360400,Prov. Papua Tengah,360000,12,1,182,10,10,0,1,28,23 Mar 2026 17:24:15,6A610D228D1F889ADD68
+SD INPRES SUMAPRO,60302834,SD,Negeri,Kec. Jita,360405,Kab. Mimika,360400,Prov. Papua Tengah,360000,8,1,197,8,7,0,0,23,07 Mar 2026 11:28:02,A6997D249A4470AE7D7C
+SD INPRES WAPU,60302867,SD,Negeri,Kec. Jita,360405,Kab. Mimika,360400,Prov. Papua Tengah,360000,8,1,95,7,6,0,0,11,12 Feb 2026 20:20:13,AF5162538374334BC11E
+SMP NEGERI JITA,60302877,SMP,Negeri,Kec. Jita,360405,Kab. Mimika,360400,Prov. Papua Tengah,360000,10,2,38,3,5,1,1,16,05 Mar 2026 09:59:25,646B4DC56A6E11D2B094

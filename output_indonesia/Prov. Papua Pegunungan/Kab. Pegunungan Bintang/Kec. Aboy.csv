@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ABOY,69725976,SD,Negeri,Kec. Aboy,380208,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,3,1,7,6,6,0,0,11,06 Feb 2026 19:51:49,F3C4AB9C5F872105C5C1
+SD INPRES LUBAN,69991547,SD,Negeri,Kec. Aboy,380208,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,5,0,64,6,6,0,0,4,20 Jan 2026 23:04:17,7FEE07BD2E8DD1FE739B
+SD MUTIARA SION PIPAL,70050273,SD,Swasta,Kec. Aboy,380208,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,2,1,81,6,5,0,0,1,20 Apr 2026 06:36:41,18804BE9496C539969E9
+SMP NEGERI ABOY,69899885,SMP,Negeri,Kec. Aboy,380208,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,5,1,61,3,3,0,0,9,19 Apr 2026 09:08:50,2B5FC2F4E43B3861852E

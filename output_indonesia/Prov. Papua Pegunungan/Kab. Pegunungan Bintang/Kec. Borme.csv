@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ARINA,69992715,SD,Negeri,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,3,1,126,7,6,0,0,6,19 Apr 2026 19:10:34,D9D3355298BD4FAA9FD4
+SD INPRES BORDAMBAN,60302156,SD,Negeri,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,4,2,47,5,2,0,0,3,24 Jan 2026 20:49:29,4A5B6E77478535188C6A
+SD INPRES OMBAN,60300974,SD,Negeri,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,11,0,27,6,6,0,0,9,19 Apr 2026 09:39:45,38023B6E62E9E203F406
+SD INPRES ONYA,69991618,SD,Negeri,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,6,0,71,6,3,0,0,5,12 Mar 2026 14:52:57,C1D79E833A6432925F54
+SD INPRES SIKIBUR,70056590,SD,Negeri,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,0,0,6,1,1,0,0,4,16 Mar 2026 19:53:54,971969049C56FFB5C9A1
+SD NEGERI BORME,60302157,SD,Negeri,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,6,1,350,14,12,3,1,17,30 Apr 2026 16:34:42,E230AA369509076EEB4D
+SD MUTIARA SION KWIME,70050275,SD,Swasta,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,6,1,160,8,3,0,0,6,24 Apr 2026 16:47:31,3DF1F55C0D85FB7C8D3B
+SMP NEGERI BORME,60302182,SMP,Negeri,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,8,1,237,7,9,1,2,18,29 Apr 2026 10:58:13,42B7C92E03A3B5A199CA
+SMA NEGERI BORME,69986461,SMA,Negeri,Kec. Borme,380206,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,10,2,156,5,9,3,1,15,20 Apr 2026 08:47:06,5C9A7A36959B2FC54997

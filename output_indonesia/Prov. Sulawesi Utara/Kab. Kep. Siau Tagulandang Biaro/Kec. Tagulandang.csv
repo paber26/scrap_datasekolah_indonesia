@@ -1,0 +1,22 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BOTO,40104724,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,8,1,47,6,6,0,1,10,18 Apr 2026 10:09:20,862F62E42C364FD3DE59
+SD NEGERI BUHIAS,40104725,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,8,3,121,6,6,1,1,8,17 Apr 2026 11:52:03,6F4525BEE6E04C84152C
+SD NEGERI INPRES BAHOI,40104728,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,5,1,71,6,6,0,1,13,23 Apr 2026 21:48:14,6D76CAD50D7D1EEC4CF3
+SD NEGERI INPRES BALEHUMARA,40104729,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,10,2,74,6,6,0,1,36,30 Apr 2026 06:48:02,0E3C0B9A27BA24111377
+SD NEGERI INPRES LAINGPATEHI,40104737,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,7,1,15,4,6,0,1,13,23 Apr 2026 08:59:10,F3296231E6C5321C98A8
+SD NEGERI INPRES LESAH,40104738,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,7,2,42,6,6,0,1,27,28 Apr 2026 10:46:28,25864906A81B69D37E8E
+SD NEGERI INPRES MAHANGIANG,40104740,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,10,1,70,6,6,0,1,36,08 Apr 2026 14:07:00,DF9F8693258EF6D6BA78
+SD NEGERI INPRES MOHONGSAWANG,40104742,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,6,1,53,6,6,0,1,9,30 Apr 2026 19:52:31,1F36F9504C96B96FA34E
+SD NEGERI LESAH RENDE,69989470,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,6,1,33,6,6,1,1,17,06 Mar 2026 08:29:31,2337FD0A83271C9D78B5
+SD NEGERI TULUSAN,40104749,SD,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,9,3,86,6,6,0,1,36,04 Mar 2026 18:56:48,4695334072818CC43F8A
+SD GMIST EFRATA HAASI,40104702,SD,Swasta,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,5,1,46,6,6,0,1,20,02 Apr 2026 22:41:46,ED45DE718C6AAE4726A1
+SD GMIST FILADELFIA MOHONGSAWANG,40104714,SD,Swasta,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,7,1,48,6,6,1,1,12,24 Apr 2026 07:13:37,3162517171617850001F
+SD GMIST NAZARET BAHOI TAGULANDANG,40104688,SD,Swasta,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,4,1,81,6,6,0,1,14,16 Apr 2026 09:52:48,C6F5477DE290DFC373EE
+SD GMIST PATMOS LAINGPATEHI,40104709,SD,Swasta,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,3,1,42,6,7,0,1,28,21 Apr 2026 06:59:05,4479B74699C2EBDA22DD
+SD GMIST SION LESAH,40104711,SD,Swasta,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,8,1,51,6,6,0,1,30,30 Apr 2026 07:39:08,8490281625A02FA2BC5A
+SD GMIST TORSINA MULENGEN,40104712,SD,Swasta,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,6,1,68,6,6,0,2,13,26 Feb 2026 10:29:49,96905C9B9DFC6BA21513
+SMP NEGERI 1 TAGULANDANG,40104758,SMP,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,26,2,339,12,18,4,1,98,10 Apr 2026 08:06:32,7FEDD07B794750583AF2
+SMP NEGERI 3 TAGULANDANG,40104769,SMP,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,16,1,134,6,6,5,1,34,27 Apr 2026 10:42:28,7CEABED4BB1782FFA83C
+SMP NEGERI 4 TAGULANDANG,40104772,SMP,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,8,1,14,2,4,2,1,12,15 Apr 2026 05:53:17,B40A66DB690C626FD643
+SMP NEGERI 5 TAGULANDANG,40104773,SMP,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,12,2,86,3,7,3,1,33,02 May 2026 03:38:01,9FA8E1C41BBBE2AF0C9E
+SMAN 1 TAGULANDANG,40104775,SMA,Negeri,Kec. Tagulandang,170908,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,36,3,511,15,23,7,1,27,27 Apr 2026 09:26:31,F8938BF6D83D1343D8FF

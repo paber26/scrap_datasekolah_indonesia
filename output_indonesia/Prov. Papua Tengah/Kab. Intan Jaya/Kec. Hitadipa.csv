@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI INPRES KULAPA,60304709,SD,Negeri,Kec. Hitadipa,360706,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,0,0,0,0,0,0,0,0,,5C4D5154BFBFA339B1B2
+SD NEGERI PUGISIGA,69981595,SD,Negeri,Kec. Hitadipa,360706,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,0,1,148,6,6,0,0,14,26 Apr 2026 08:07:23,643320791107FB0D54C4
+SD NEGERI SOANGGAMA,69787850,SD,Negeri,Kec. Hitadipa,360706,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,3,1,53,6,6,0,1,12,15 Apr 2026 08:25:48,2BC47D77EB43C7FD8011
+SD YPPGI HITADIPA,69787849,SD,Swasta,Kec. Hitadipa,360706,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,1,1,272,9,6,0,1,9,17 Apr 2026 19:05:15,4B7B9677B7B2037A16C8
+SMP YPPGI HITADIPA,60302451,SMP,Swasta,Kec. Hitadipa,360706,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,6,1,110,5,3,0,1,17,02 May 2026 11:51:31,771B9F7128248083D0EC

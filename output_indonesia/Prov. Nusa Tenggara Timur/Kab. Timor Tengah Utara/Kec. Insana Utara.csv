@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD KECIL MILI,69728333,SD,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,6,1,51,6,6,0,0,34,03 Mar 2026 10:06:57,7FD94911EFBC42B0DB5C
+SD NEGERI BOENTUNA,50300966,SD,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,4,155,8,9,0,1,50,16 Mar 2026 20:30:58,6F1CDD6AECC997511CDA
+SD NEGERI MANUFONU,50307356,SD,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,2,140,6,10,0,1,27,23 Apr 2026 08:38:36,8F40876EC583276C7081
+SD NEGERI NEOSMALELAT,50307358,SD,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,2,74,6,6,0,1,25,16 Apr 2026 13:43:08,ED17380926FA160E55FD
+SD NEGERI OESOKO,50301090,SD,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,1,159,8,9,0,1,15,07 Apr 2026 06:50:59,DF1CD9172D2AA2A5D69A
+SD NEGERI OESUSU,50300951,SD,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,3,174,7,8,0,1,13,24 Apr 2026 11:25:20,7C5AD9EF1928B69BAC30
+SD NEGERI TEMKUNA,50301047,SD,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,16,2,207,10,11,0,2,33,17 Apr 2026 10:53:26,1219F1EA3EA89EEDF9A8
+SD NEGERI USAPI BAKI,50706273,SD,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,13,1,102,6,6,0,1,8,22 Apr 2026 18:15:21,5BE2C8BAC5EA5DB3FDB3
+SD KATOLIK MISNOK,50306302,SD,Swasta,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,1,168,7,7,0,0,12,16 Feb 2026 08:08:42,759C5584FEA888229916
+SD KATOLIK OEKOLO,50301076,SD,Swasta,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,1,133,6,6,0,1,77,02 Apr 2026 16:12:32,E535543B8F67855F4B3A
+SD KATOLIK WINI,50306303,SD,Swasta,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,1,263,11,15,1,1,23,09 Apr 2026 11:37:49,70A6A7288A55B365632B
+SMP NEGERI WINI,50307408,SMP,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,24,4,219,8,9,2,1,15,13 Apr 2026 07:05:46,55970985D01DED33D8E5
+SMP SATAP NEGERI BOENTUNA,50307370,SMP,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,11,1,105,5,6,1,1,9,10 Apr 2026 17:47:32,A1066501A78E3FE2AC3D
+SMP SATAP NEGERI MANUFONU,69728411,SMP,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,15,2,95,4,4,1,1,11,26 Feb 2026 08:44:19,E7F1EE7EDD87A7180B73
+SMP SATAP NEGERI OESUSU,69728406,SMP,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,14,4,166,6,8,0,1,24,08 Apr 2026 09:35:49,1785917100C420A316D7
+SMPN SATAP OESOKO,69820123,SMP,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,13,3,87,3,4,2,1,19,22 Apr 2026 07:47:30,8D6E673D5A2DCAA17B69
+SMA NEGERI OEKOLO,69894295,SMA,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,22,3,185,6,6,4,1,31,23 Apr 2026 12:38:41,A27A16858804BAEA269C
+SMKN PERIKANAN WINI,50301010,SMK,Negeri,Kec. Insana Utara,240408,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,22,4,213,12,11,1,0,24,29 Apr 2026 10:17:57,E3E946E7B8C06FD7E619

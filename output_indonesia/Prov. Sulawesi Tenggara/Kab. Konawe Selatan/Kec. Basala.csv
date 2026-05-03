@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BASALA,40402005,SD,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,3,169,7,6,0,2,35,20 Apr 2026 07:23:11,FBB7EB7AC915467C60F9
+SD NEGERI 2 BASALA,40402152,SD,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,9,2,191,11,9,1,2,30,29 Apr 2026 09:27:18,1E342497390B614E6939
+SD NEGERI 3 BASALA,40401962,SD,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,2,78,6,6,0,1,12,07 Mar 2026 07:33:20,9B54D0C00FC5DD82C09D
+SD NEGERI 4 BASALA,40401828,SD,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,6,2,73,6,6,0,1,19,06 Apr 2026 16:57:29,F7AB6D6590E4ACA1073E
+SD NEGERI 5 BASALA,40401838,SD,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,5,2,72,6,6,0,1,34,29 Apr 2026 22:44:15,E23B485EC8E367DB1D0D
+SD NEGERI 6 BASALA,40403271,SD,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,6,1,44,6,6,1,1,20,06 Apr 2026 17:39:34,D2036D4EC60622043FBB
+SD NEGERI SATAP 17 KONAWE SELATAN,40401854,SD,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,0,96,6,6,0,1,8,03 Mar 2026 13:56:17,A292790223AAA863AC12
+SMP NEGERI 35 KONAWE SELATAN,40404805,SMP,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,16,5,260,10,15,1,2,16,01 May 2026 20:13:19,2005560E0CD2A480D2EE
+SMP NEGERI SATU ATAP 17 KONAWE SELATAN,40404783,SMP,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,10,1,28,3,3,1,2,27,19 Apr 2026 15:26:25,08B768869C87D78FBE39
+SMAN 16 KONAWE SELATAN,40404847,SMA,Negeri,Kec. Basala,200522,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,23,1,339,11,12,5,1,27,29 Apr 2026 10:30:17,E246929383BE65D1C975

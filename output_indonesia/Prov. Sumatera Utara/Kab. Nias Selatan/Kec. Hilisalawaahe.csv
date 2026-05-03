@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 071191 HILIADULO,10258116,SD,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,13,1,146,6,8,0,1,22,18 Apr 2026 00:37:17,FA42295985EE3CE3F6FC
+SD NEGERI 076720 MALUO,10258139,SD,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,22,1,165,10,10,0,1,48,28 Apr 2026 12:02:21,5ECBF03B92FFC4CB56BC
+SD NEGERI 076723 TALIO,10258142,SD,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,13,5,191,10,11,0,1,39,24 Apr 2026 11:10:40,166432E006C34261DF44
+SD NEGERI 078470 BERUA SIWALAWA,10258152,SD,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,6,4,43,6,6,0,0,32,24 Apr 2026 10:03:43,4C8D454F924163A6A3E7
+SD NEGERI 078545 UMBUASI,10260430,SD,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,8,1,86,6,6,0,1,20,31 Mar 2026 09:49:24,7D1663541D17761D5791
+SMP NEGERI 1 HILISALAWAAHE,10258217,SMP,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,21,1,280,10,10,1,0,21,14 Apr 2026 23:22:41,FA23A05360564F1035DF
+SMP NEGERI 2 HILISALAWAAHE,10261280,SMP,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,21,1,40,3,3,2,0,24,28 Apr 2026 21:20:53,4FA80FEC6427748A2B73
+SMP NEGERI 3 HILISALAWAAHE,69899618,SMP,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,9,1,45,3,3,2,1,12,04 Mar 2026 23:33:19,1F5EE8B66F7E3D5F095A
+SMA NEGERI 1 HILISALAWAAHE,69734112,SMA,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,23,5,187,6,10,3,1,8,18 Apr 2026 10:01:21,91F8EA89FE5D08420DFD
+SMA NEGERI 2 HILISALAWAAHE,69899845,SMA,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,14,2,43,3,3,1,1,16,02 Apr 2026 22:27:18,C375DF4FC72A7FDBA24B
+SMK NEGERI 1 HILISALAWAAHE,69947911,SMK,Negeri,Kec. Hilisalawaahe,071723,Kab. Nias Selatan,071700,Prov. Sumatera Utara,070000,20,1,93,6,7,1,1,25,22 Apr 2026 12:04:04,366CBD44D38C537153F9

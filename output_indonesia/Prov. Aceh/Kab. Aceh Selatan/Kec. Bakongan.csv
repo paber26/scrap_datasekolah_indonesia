@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BAKONGAN,10102837,SD,Negeri,Kec. Bakongan,060702,Kab. Aceh Selatan,060700,Prov. Aceh,060000,10,4,83,6,6,0,1,22,07 Mar 2026 23:53:28,6623349EF35C6D26BE85
+SD NEGERI 2 BAKONGAN,10102963,SD,Negeri,Kec. Bakongan,060702,Kab. Aceh Selatan,060700,Prov. Aceh,060000,12,3,161,6,6,0,1,14,29 Apr 2026 16:21:30,EB4E5F535F19DCF265D1
+SD NEGERI 3 BAKONGAN,10102973,SD,Negeri,Kec. Bakongan,060702,Kab. Aceh Selatan,060700,Prov. Aceh,060000,12,2,154,6,6,0,1,9,10 Apr 2026 10:01:24,1A915692060692C55E1E
+SD NEGERI UJONG PADANG,10102631,SD,Negeri,Kec. Bakongan,060702,Kab. Aceh Selatan,060700,Prov. Aceh,060000,12,3,127,6,6,1,1,14,23 Apr 2026 07:46:58,8596E826CA25CA5B9224
+SD NEGERI UJUNG MANGKI,10102621,SD,Negeri,Kec. Bakongan,060702,Kab. Aceh Selatan,060700,Prov. Aceh,060000,11,2,79,6,6,0,2,15,30 Apr 2026 21:50:47,D94C31443897A30528C4
+SMP NEGERI 1 BAKONGAN,10102709,SMP,Negeri,Kec. Bakongan,060702,Kab. Aceh Selatan,060700,Prov. Aceh,060000,20,11,245,10,12,2,1,27,02 May 2026 10:22:06,1859C0CACFECC91ABBEE
+SMA NEGERI 1 BAKONGAN,10102794,SMA,Negeri,Kec. Bakongan,060702,Kab. Aceh Selatan,060700,Prov. Aceh,060000,41,13,224,8,12,4,1,50,30 Apr 2026 02:23:20,4BB6CE60A3B54C735ECB

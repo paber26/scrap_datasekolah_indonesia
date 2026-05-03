@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BIAU,40500283,SD,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,8,2,133,6,6,1,1,9,04 Mar 2026 03:59:05,A2873E89509146B93778
+SD NEGERI 2 BIAU,40500554,SD,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,8,1,103,6,6,0,1,13,29 Apr 2026 08:11:08,AD29B72199E522C5EE20
+SD NEGERI 3 BIAU,40500544,SD,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,7,1,127,6,6,0,0,11,31 Mar 2026 17:44:23,256E3E345632D493C750
+SD NEGERI 4 BIAU,69860517,SD,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,8,1,91,6,7,0,1,11,02 Apr 2026 21:17:40,6ECDBB5812B0D9FFC9EE
+SD NEGERI 5 BIAU,40501801,SD,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,8,2,142,6,7,1,1,22,22 Apr 2026 09:52:39,278BFEFCB5CAD499A9A3
+SD NEGERI 6 BIAU,69873591,SD,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,1,2,5,3,6,0,0,8,03 Mar 2026 08:31:26,1FB42288AD455FBAE0EA
+SD NEGERI 7 BIAU,69873695,SD,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,7,2,57,6,5,1,0,6,05 Mar 2026 07:50:13,D3E825ED7934BB96D71E
+SMP NEGERI 1 BIAU,40500395,SMP,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,16,4,185,8,10,2,1,16,30 Apr 2026 18:18:57,74867A1C8672D3962263
+SMP NEGERI 2 BIAU,40501788,SMP,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,10,1,74,3,3,1,1,10,27 Apr 2026 15:32:44,E8A9B8A4CC1EA3628C9A
+SMA NEGERI 10 GORONTALO UTARA,69880251,SMA,Negeri,Kec. Biau,300511,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,16,4,216,7,10,4,1,17,18 Apr 2026 17:21:41,18FBB32562B5BB4442EB

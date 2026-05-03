@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES DETUENA,50302749,SD,Negeri,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,8,2,72,6,6,0,1,7,15 Apr 2026 07:40:00,D954286AE5FAE84DD475
+SD INPRES NUAMURI 2,50302702,SD,Negeri,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,3,130,6,6,0,1,40,18 Apr 2026 07:39:56,C4D69958E381D9A37B9C
+SD INPRES WOLOARA,50302827,SD,Negeri,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,0,104,6,9,1,1,16,10 Apr 2026 20:33:07,B053133C59EBD9905AD4
+SD NEGERI WOLOARA,50306096,SD,Negeri,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,8,3,61,6,5,0,0,50,04 Mar 2026 07:09:31,4617AD156019BC91BC02
+SD KATOLIK KOANARA,50302780,SD,Swasta,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,5,2,155,6,6,0,1,30,23 Apr 2026 09:20:17,3C858603F7D5CAF164AA
+SD KATOLIK NDUARIA,50302560,SD,Swasta,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,2,183,10,10,0,1,17,17 Apr 2026 09:45:09,9BB00B92F2B5F60573CE
+SD KATOLIK NUAMURI 1,50302595,SD,Swasta,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,3,1,128,6,6,0,1,11,14 Apr 2026 08:33:04,48C534814876A8858E72
+SD KATOLIK PEMO 1,50302590,SD,Swasta,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,4,1,51,4,9,1,1,26,12 Mar 2026 17:16:01,7F9332B9A6E9FE4CEE75
+SD KATOLIK WATURAKA,50302526,SD,Swasta,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,8,1,74,6,5,0,0,13,16 Apr 2026 13:22:52,A42C5C22B8DA5548D5AD
+SMP NEGERI SATU ATAP NUAMURI 2,50306097,SMP,Negeri,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,11,3,78,3,4,1,1,9,07 Feb 2026 10:20:30,9C9E4598E8DED2C8A085
+SMP NEGERI SATU ATAP WOLOARA,50305414,SMP,Negeri,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,3,131,5,8,0,1,1,16 Apr 2026 05:50:20,7DE844577ACA7C93CC2D
+SMP SWASTA KATOLIK MONI,50302636,SMP,Swasta,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,2,142,6,6,2,1,12,29 Apr 2026 10:12:58,DD84BC5B326D0B8279AE
+SMK NEGERI 7 ENDE,69903685,SMK,Negeri,Kec. Kelimutu,240915,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,30,2,108,9,9,1,1,13,12 Apr 2026 01:49:04,66EA9019FC499EAF26F6

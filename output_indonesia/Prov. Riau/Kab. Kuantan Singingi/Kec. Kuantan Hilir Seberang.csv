@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 KOTO RAJO,10494369,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,12,3,177,8,9,0,1,29,27 Apr 2026 12:00:16,65F149AAD123DA583244
+SD NEGERI 002 LUMBOK,10494370,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,11,2,67,6,6,0,0,26,20 Apr 2026 14:07:18,0679161F18CFC602CD94
+SD NEGERI 003 TANJUNG PUTUS,10403863,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,10,1,54,6,6,0,0,6,02 Mar 2026 09:51:00,518A40BF09159CAAFA01
+SD NEGERI 004 PELUKAHAN,10403858,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,9,1,80,6,6,0,1,21,30 Apr 2026 13:31:56,6B426486395A27E54CF7
+SD NEGERI 005 PULAU BERALO,10494376,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,14,2,167,9,10,0,1,39,07 Apr 2026 07:36:48,F5839F36AF7F3E763EA4
+SD NEGERI 006 SUNGAI SORIK,10494367,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,8,2,134,6,7,0,1,18,04 Apr 2026 05:20:38,FB095C02514662EA07F1
+SD NEGERI 007 PENGALIAN,10494378,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,8,2,68,6,6,0,0,14,03 Mar 2026 08:41:19,8704D706577ED8A0D602
+SD NEGERI 008 PULAU BARU,10494382,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,10,3,88,6,6,0,1,9,10 Apr 2026 10:08:09,BFB6771CA909CC1B2F7B
+SD NEGERI 009 PULAU KULUR,10494383,SD,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,11,1,85,6,8,0,1,24,03 Mar 2026 19:21:04,4F80A9C315B74043431A
+SD SWASTA CERENTI SUBUR,10494384,SD,Swasta,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,12,2,266,12,12,0,0,21,03 Mar 2026 22:58:34,70874CDC4086B340BBCE
+SMP NEGERI 1 KUANTAN HILIR SEBERANG,10403723,SMP,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,17,5,168,6,9,1,1,13,02 Apr 2026 18:30:48,CC164A0C6DF0E316DA5A
+SMP NEGERI 2 KUANTAN HILIR SEBERANG,10403736,SMP,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,27,6,281,10,10,3,1,21,21 Apr 2026 13:54:09,F25FC114448B25DA695F
+SMAN 1 KUANTAN HILIR SEBERANG,10494386,SMA,Negeri,Kec. Kuantan Hilir Seberang,091413,Kab. Kuantan Singingi,091400,Prov. Riau,090000,26,10,285,10,13,1,1,22,12 Mar 2026 10:00:42,E6A8431B666A7693C5C7

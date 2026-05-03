@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES WAICIMUNG,50304158,SD,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,6,103,6,10,0,1,14,13 Apr 2026 06:57:18,FC3C0A04AC666D7279ED
+SD INPRES YERARA,50304289,SD,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,0,56,6,6,0,1,15,10 Mar 2026 23:18:02,4F7AD9CDFE907C08BCBF
+SD NEGERI ALALA,69874381,SD,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,9,2,59,6,6,0,1,10,17 Apr 2026 13:44:27,9BA19EC7BE585F94DF95
+SD NEGERI ALANGA,50303944,SD,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,11,1,81,6,9,1,1,24,11 Apr 2026 09:09:30,1BB712D9E1D0A91AF403
+SD Negeri Holur Kambata,70009632,SD,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,1,84,6,7,0,0,21,30 Apr 2026 14:11:01,BFAD9193B031AFB2EB6A
+SD NEGERI PALETI,69874382,SD,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,6,4,51,6,6,0,1,11,30 Mar 2026 21:06:43,E6CE2904BCA7A1F77061
+SD Negeri Waikahomba,70009633,SD,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,3,60,6,6,0,1,1,06 Mar 2026 08:19:11,16E3980EC1A924294BCB
+SD Negeri Waimoru,60726631,SD,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,9,3,61,6,6,0,1,11,15 Apr 2026 08:45:15,214A608AB2B9C55FDBEF
+SD MASEHI BOLU BOKAT,50304231,SD,Swasta,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,7,3,84,6,6,0,1,8,12 Apr 2026 19:20:25,3C6E08BA41DD5521555F
+SD MASEHI LOWA,50304226,SD,Swasta,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,2,70,6,10,0,1,16,19 Apr 2026 21:01:31,AC700926616467D8CDF2
+SD MASEHI MANGGEWAR,50303952,SD,Swasta,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,6,3,162,6,12,0,1,20,28 Apr 2026 14:51:59,6625838360B03AC63BA9
+SD MASEHI WAIWAKUS,50304030,SD,Swasta,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,4,156,6,6,1,1,24,25 Apr 2026 08:53:31,9CF918C102B6FC920D5E
+SMP Negeri 1 Umbu Ratu Nggay Tengah,60726628,SMP,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,11,2,96,4,6,1,1,8,01 Mar 2026 16:30:51,F6BA84CFBB3CCCB572CA
+SMP NEGERI 2 UMBU RATU NGGAY,50308336,SMP,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,19,3,215,9,9,3,1,45,28 Apr 2026 19:52:16,8CD48A41AA40EC77A19C
+SMP NEGERI 2 UMBU RATU NGGAY BARAT,69903469,SMP,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,17,3,173,6,9,2,1,24,23 Apr 2026 18:14:19,3DA5E0311FBFB03F2C12
+SMP NEGERI 3 UMBU RATU NGGAY,50308339,SMP,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,13,3,94,5,7,1,1,32,07 Apr 2026 09:15:08,E2C8D157ABD45D8DEBA6
+SMA NEGERI 1 UMBU RATU NGGAY TENGAH,70054385,SMA,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,12,3,222,8,8,0,0,60,02 May 2026 14:21:55,2EC836B732759F50C4FD
+SMK NEGERI 1 UMBU RATU NGGAY TENGAH,70039100,SMK,Negeri,Kec. Umbu Ratu Nggay Tengah,241806,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,18,5,111,9,9,0,0,45,27 Apr 2026 11:04:04,99485FD94F8A2979B2AB

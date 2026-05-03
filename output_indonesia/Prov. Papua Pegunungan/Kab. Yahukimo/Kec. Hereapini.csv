@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI MUHUMU,70049056,SD,Negeri,Kec. Hereapini,380327,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,50,2,1,0,0,172,13 Feb 2026 04:57:28,6A370CF6B20B7E4B6F5F
+SD YPK PASIKNI,60303292,SD,Swasta,Kec. Hereapini,380327,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,2,1,152,10,7,0,1,108,02 May 2026 13:07:10,EE6F043F7DC8628571AF
+SDS ADVENT HOBUTONGGO,69974564,SD,Swasta,Kec. Hereapini,380327,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,2,2,119,7,6,0,1,9,24 Feb 2026 19:35:34,DCBFE60F8DFF7973111F
+SMP ADVENT HOBUTANGGEN,70011948,SMP,Swasta,Kec. Hereapini,380327,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,37,3,3,0,0,9,24 Feb 2026 19:18:58,2D645B21A6A865478A0A
+SMK ADVENT HOBUTANGGEN,70054467,SMK,Swasta,Kec. Hereapini,380327,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,16,3,3,1,0,11,16 Jan 2026 10:38:18,5606944A16C37FFEA6D5

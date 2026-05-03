@@ -1,0 +1,23 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Gendayakan,20311588,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,76,6,6,0,1,8,03 Mar 2026 10:57:04,88DDE1B86822351F4AE0
+SD Negeri 1 Gunturharjo,20311408,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,48,6,6,0,1,26,06 Apr 2026 09:00:56,3303B678F9DB9DD4C930
+SD Negeri 1 Johunut,20311418,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,45,6,6,0,1,11,06 Apr 2026 20:02:04,4063EA7CED67C760ED63
+SD Negeri 1 Ketos,20311384,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,39,6,7,0,0,7,07 Apr 2026 07:48:19,F780EF4055194EFB681C
+SD Negeri 1 Paranggupito,20311482,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,3,77,6,6,0,1,8,07 Apr 2026 10:07:44,4E0DFC5DC45E6A53787B
+SD Negeri 1 Sambiharjo,20311793,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,44,6,6,0,1,18,10 Apr 2026 05:14:24,A6277D798D308A60181D
+SD Negeri 2 Gendayakan,20311830,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,37,6,6,0,0,1,06 Apr 2026 12:49:43,2792DDCF1EEC1B967FCE
+SD Negeri 2 Gudangharjo,20311653,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,70,6,6,0,0,12,02 May 2026 12:14:18,E3F0420326F5B65E2FFC
+SD Negeri 2 Gunturharjo,20311683,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,1,49,6,6,0,0,6,06 Apr 2026 05:04:48,50BB7FF77C4B2E42D7F5
+SD Negeri 2 Johunut,20311628,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,36,6,6,0,1,16,13 Apr 2026 08:31:35,EEFCFD41F729474821A2
+SD Negeri 2 Ketos,20311644,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,63,6,6,0,1,14,02 Apr 2026 09:52:00,B0BF9559BCF37C7C59D4
+SD Negeri 2 Paranggupito,20311692,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,3,61,6,6,0,1,7,08 Apr 2026 22:16:19,C3B21DC1F858E769E00E
+SD Negeri 2 Sambiharjo,20310917,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,53,6,6,0,1,10,06 Apr 2026 15:15:39,6381F112B01ACEDC00D1
+SD Negeri 2 Songbledeg,20310884,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,48,6,6,0,1,18,02 Apr 2026 09:34:01,424025210A58C6039484
+SD Negeri 3 Gunturharjo,20310965,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,54,6,6,0,1,8,04 Apr 2026 10:30:50,BE1302A85271F0C7B094
+SD Negeri 3 Ketos,20310801,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,31,6,6,0,1,10,07 Apr 2026 13:00:00,42233111C1175794CDC2
+SD Negeri 3 Songbledeg,20310876,SD,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,47,6,6,0,1,10,24 Apr 2026 19:12:00,9208FC3642979DBB17C0
+SMP NEGERI 1 PARANGGUPITO,20311206,SMP,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,9,9,194,7,10,2,1,21,29 Apr 2026 11:35:49,D07B9B01B7C9DD2A6C2B
+SMP NEGERI 2 PARANGGUPITO,20311082,SMP,Negeri,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,12,8,177,7,9,2,1,15,10 Apr 2026 22:30:14,63FB5FC7B38F1B89A2A4
+SMP PANCASILA 13 PARANGGUPITO,20311018,SMP,Swasta,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,2,3,75,3,6,2,1,18,22 Apr 2026 10:40:33,CA4CD47A47A9F2E91A8B
+SMAS PANCASILA 3 PARANGGUPITO,20311311,SMA,Swasta,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,9,3,64,3,6,3,1,17,06 Mar 2026 10:19:33,F7D2A32407B5DEBEBA7A
+SMK PANCASILA 12 PARANGGUPITO,69874363,SMK,Swasta,Kec. Paranggupito,031202,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,5,118,6,7,1,1,18,16 Mar 2026 21:33:52,F889313288042EB43B82

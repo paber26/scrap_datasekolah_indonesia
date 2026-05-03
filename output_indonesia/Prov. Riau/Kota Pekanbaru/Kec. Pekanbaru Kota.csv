@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 125 PEKANBARU,10404243,SD,Negeri,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,11,3,176,7,6,1,1,19,20 Apr 2026 09:30:10,0D79585B52471FBEE774
+SD NEGERI 56 PEKANBARU,10404084,SD,Negeri,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,10,3,131,7,7,1,1,22,28 Apr 2026 07:59:32,33E5E056DBA30545B8E8
+SD NEGERI 71 PEKANBARU,10404099,SD,Negeri,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,10,4,98,6,6,1,1,14,07 Apr 2026 12:05:16,7A168730B69080C9F269
+SD AL-IRSYAD,10404092,SD,Swasta,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,6,1,0,0,0,0,0,0,,789E74E86E5F5255AF8E
+SD ANNUR,10404094,SD,Swasta,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,20,5,316,12,12,1,1,12,15 Apr 2026 16:53:09,A29BF407C6B3E7F538C6
+SD KEMALA BHAYANGKARI-1,10404427,SD,Swasta,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,8,3,82,6,6,2,1,9,05 Apr 2026 11:25:17,E680D520FAD57B395A09
+SD MUHAMMADIYAH 1,10404089,SD,Swasta,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,16,2,361,12,12,2,1,27,20 Apr 2026 13:16:53,3DD5E1A7135EE1E913A6
+SD SANTA MARIA,10404423,SD,Swasta,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,67,8,1147,38,40,2,1,33,10 Apr 2026 13:13:08,ECDF8E53BDA0487656AC
+SD YKWI 003,10404079,SD,Swasta,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,4,0,30,6,6,0,1,62,28 Apr 2026 08:39:58,874D53F22914D498DFA0
+SDIT BPMAA,10496503,SD,Swasta,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,17,1,270,12,12,2,1,12,29 Apr 2026 11:07:15,0D29B9D0B77FCC902225
+SMAS AN NUR,10404003,SMA,Swasta,Kec. Pekanbaru Kota,096005,Kota Pekanbaru,096000,Prov. Riau,090000,6,4,0,0,0,0,0,0,,46895E6BD8DEAF66ECB6

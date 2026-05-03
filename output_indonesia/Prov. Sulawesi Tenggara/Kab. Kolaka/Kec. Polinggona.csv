@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 PLASMA JAYA,40403402,SD,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,7,0,49,6,7,0,0,27,12 Mar 2026 08:40:14,B227EE6F9425EC643DF7
+SD NEGERI 1 POLINGGONA,40401707,SD,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,8,2,60,6,7,0,1,24,06 Apr 2026 07:59:25,F867D5B0306117D2E193
+SD NEGERI 1 PUUDONGI,40401706,SD,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,8,2,88,6,8,0,1,10,16 Apr 2026 07:38:59,C464B5827AF6A9515238
+SD NEGERI 1 TANGGEAU,40401726,SD,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,7,0,62,6,6,0,1,9,20 Apr 2026 04:24:37,5201355F3EEA96CF8B57
+SD NEGERI 1 Wulonggere,40401466,SD,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,9,1,86,6,7,0,1,27,27 Apr 2026 07:29:45,302DF161480AD39D6519
+SD NEGERI 2 POLINGGONA,40404070,SD,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,7,2,26,6,6,0,1,10,26 Apr 2026 14:00:38,82E042CCACAE37CCD421
+SDN 1 PONDOUWAE,40401571,SD,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,8,1,36,6,5,0,1,17,25 Apr 2026 16:30:39,B6710E7C2A11FB81A386
+SDS KITA YADIKA,40404274,SD,Swasta,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,7,1,148,6,6,0,1,28,27 Feb 2026 10:56:09,F0CCA899CD0E30F8F040
+SMP NEGERI 1 POLINGGONA,40403589,SMP,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,8,2,101,5,6,2,1,12,28 Feb 2026 10:02:28,F3D6DAB37FC7A8FD1DDE
+SMP NEGERI 2  POLINGGONA,40404265,SMP,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,8,1,71,3,5,1,1,21,24 Apr 2026 09:37:00,15395FFA8669E1A540E6
+SMKN 4 KOLAKA,40403570,SMK,Negeri,Kec. Polinggona,200422,Kab. Kolaka,200400,Prov. Sulawesi Tenggara,200000,20,1,120,9,13,3,1,28,28 Apr 2026 08:59:41,45CD7A747EE74CA687DA

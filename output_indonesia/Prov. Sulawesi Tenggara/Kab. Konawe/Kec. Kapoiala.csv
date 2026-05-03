@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 KAPOIALA,40400346,SD,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,4,105,6,6,0,1,36,23 Apr 2026 11:15:17,000B3D8682655CE41B3A
+SD NEGERI 1 MUARA SAMPARA,40400371,SD,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,4,106,6,6,0,1,12,02 May 2026 08:59:57,128AE9863F927B4C4762
+SD NEGERI 2 KAPOIALA,40400543,SD,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,3,86,6,3,0,0,24,14 Apr 2026 19:55:05,F9632099EB4A389ACD78
+SD NEGERI 2 MUARA SAMPARA,40400457,SD,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,8,3,68,6,6,0,0,13,13 Mar 2026 23:58:11,94CA09E551C0EFB8BBB1
+SD NEGERI LABOTOY,40400113,SD,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,7,6,72,6,6,1,1,17,20 Apr 2026 08:57:49,F79599797AF39B80CC19
+SD NEGERI LALIMBUE,40400104,SD,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,3,156,8,5,1,1,49,20 Apr 2026 09:29:35,E18BB7619193C032529A
+SD NEGERI LAMENDORA,40400136,SD,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,8,3,78,6,6,0,1,10,27 Apr 2026 16:41:28,5CF8AA18188229B670F2
+SMP SATU ATAP 1 KAPOIALA,69873989,SMP,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,14,5,20,3,3,1,1,14,11 Mar 2026 16:17:27,1B6CAF042CACEDEE3F26
+SMP SATU ATAP 2 KAPOIALA,40404248,SMP,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,3,15,3,4,1,1,63,28 Apr 2026 18:20:28,61546F9B75CA8C02DA9F
+SMP SATU ATAP 3 KAPOIALA,40405680,SMP,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,8,30,3,3,1,1,26,30 Apr 2026 14:25:00,52589CD9261E71C44CB2
+SMAN 1 KAPOIALA,40404159,SMA,Negeri,Kec. Kapoiala,200142,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,19,6,97,5,7,4,1,32,02 May 2026 08:00:35,ED5EE9739F71D6529E64

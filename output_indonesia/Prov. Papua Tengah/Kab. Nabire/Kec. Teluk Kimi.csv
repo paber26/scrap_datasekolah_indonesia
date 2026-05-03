@@ -1,0 +1,30 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri Alenggen Korowa,69758477,SD,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,1,80,6,5,0,1,21,23 Apr 2026 20:24:30,B3CE7B58A3907BFD048E
+SD Negeri Boratei,69758478,SD,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,1,93,6,6,0,0,26,10 Mar 2026 04:43:40,832BACD54E05B21315BA
+SD Negeri Inpres Kimi,60302760,SD,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,19,1,442,15,14,0,0,25,28 Apr 2026 04:22:22,EA624B13EFE5780CE245
+SD Negeri Inpres Rawawudo,60302768,SD,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,1,126,6,6,0,0,8,25 Apr 2026 05:02:43,5409FF15A7FB9FE59F2A
+SD Negeri Inpres Samabusa,60302769,SD,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,18,2,302,15,9,0,1,45,24 Apr 2026 07:09:17,D10EEA03D7F7981AA7CB
+SD Negeri Inpres Waharia,60301802,SD,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,1,103,6,6,0,0,7,25 Feb 2026 10:29:09,76BA6D18A46303872C31
+SD Advent 02 Samabusa,60301720,SD,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,5,1,62,6,6,0,1,13,10 Mar 2026 10:55:40,3388CEF0B3085349D8A6
+SD Bakidi Yasebaper,69893816,SD,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,6,3,260,11,7,0,0,62,23 Apr 2026 21:45:14,F558283D3FC1E38D0E26
+SD Integral Hidayatullah,60303606,SD,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,14,2,133,9,13,1,1,21,08 Apr 2026 03:46:07,02E8EC012D4C23A5A63B
+SD Kipang Sipur,60301775,SD,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,2,1,90,6,4,0,1,14,16 Apr 2026 08:38:08,E9EE2820B34A594D197A
+SD Pengharapan,69774766,SD,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,11,2,220,8,8,0,1,37,23 Apr 2026 08:34:30,92554F1FF38A4CF1309B
+SD YPBI Siloam Samabusa,60301811,SD,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,14,1,310,12,10,0,1,57,30 Apr 2026 08:42:37,C8E8850683611D6288B3
+SD YPK Johannes Calvin Samabusa,60301826,SD,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,1,122,6,7,0,1,18,29 Apr 2026 16:05:07,ECDE48582F1240D70F28
+SMP Negeri 6 Nabire,60302820,SMP,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,19,2,310,11,17,2,1,39,20 Apr 2026 09:37:15,6B07F74FD47734592508
+SMP Negeri 7 Nabire,60301882,SMP,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,18,3,196,6,9,2,1,27,29 Apr 2026 06:38:36,D585DB8ED0E49E1C5F4F
+SMP Advent 02 Air Mandidi Samabusa Nabire,69894048,SMP,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,2,30,3,3,0,0,49,24 Apr 2026 07:23:06,04EE84825B8E21A432F6
+SMP AN-NAS NABIRE,70059222,SMP,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,3,16,3,3,0,0,53,30 Apr 2026 11:29:53,7CC281A545FD9AA090BC
+SMP Bakidi Yasebaper,69858801,SMP,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,10,2,135,6,6,1,1,60,19 Apr 2026 21:59:32,8B01CD92A0461ABB19FF
+SMP Islam Terpadu Insan Mandiri,69982011,SMP,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,1,76,3,3,1,1,7,01 Apr 2026 03:57:50,2A31B06131398AE5D317
+SMP MEPA BOARDING SCHOOL NABIRE,70058391,SMP,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,5,34,1,2,2,1,78,28 Apr 2026 09:00:02,B5D113FF69FA8816D396
+SMP Pengharapan,69947824,SMP,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,5,2,53,3,3,2,1,63,23 Apr 2026 07:52:05,414A17CFEC655372260B
+SMP YPBI SION NABIRE,69758484,SMP,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,1,118,4,5,2,1,82,29 Apr 2026 10:23:11,2CA895BC2AFA45F60CDA
+SMA NEGERI MEEPAGO,70030169,SMA,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,17,1,77,4,6,3,1,28,08 Apr 2026 09:32:14,C73192926BC21298CE5F
+SMA BAKIDI YASEBAPER,70048701,SMA,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,5,1,144,4,3,0,0,21,13 Apr 2026 01:05:29,57403347771F79C57CCA
+SMA MEPA BOARDING SCHOOL NABIRE,70058392,SMA,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,11,4,33,1,1,2,1,57,28 Apr 2026 08:42:12,0BDF2461291583AE9290
+SMA Pengharapan,70006157,SMA,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,2,2,13,2,4,1,1,40,15 Apr 2026 09:12:09,9EB42F3418E09F8E25F9
+SMA YPBI Sion Nabire,60301900,SMA,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,15,5,177,6,8,2,1,20,27 Apr 2026 00:19:41,DACC20190C41354F8922
+"SMK Negeri 4 Teknologi, Informasi, Dan Komunikasi Nabire",60301907,SMK,Negeri,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,17,1,127,5,6,1,1,20,28 Apr 2026 09:34:19,86879862F390E09C9B8D
+SMKS BAKIDI Yasebaper Agribisnis Dan Agroteknologi Teluk Kimi Nabire,69965425,SMK,Swasta,Kec. Teluk Kimi,360109,Kab. Nabire,360100,Prov. Papua Tengah,360000,13,4,91,4,6,0,1,93,01 May 2026 23:16:36,6B3249516FDD410EC14E

@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES WAREN I,60303353,SD,Negeri,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,22,1,344,14,15,1,1,40,23 Apr 2026 10:34:36,0DA66B04F255AD61B3E9
+SD NEGERI INPRES SAWARA JAYA,69725933,SD,Negeri,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,10,1,79,6,6,0,0,18,21 Apr 2026 10:28:03,8DEA0CB0457FB768C8C9
+SD NEGERI INPRES WAREN II,60303021,SD,Negeri,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,11,1,102,6,6,0,1,22,25 Apr 2026 09:16:45,AA22702EAE7543B335B5
+SD NEGERI NOBARO,60303352,SD,Negeri,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,9,1,115,6,6,0,1,18,20 Apr 2026 17:59:02,4C0098B023C243150B0C
+SD YPK BETHANIA WAREN,69787882,SD,Swasta,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,14,2,275,12,12,1,1,32,28 Apr 2026 21:12:05,17FA8ED5DD91E3BF1BD5
+SD YPK SILO NAU,60303050,SD,Swasta,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,5,2,87,6,6,0,0,30,14 Apr 2026 05:16:31,CE9B051B99CEF1157F09
+SMP NEGERI WAREN,60303504,SMP,Negeri,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,29,7,495,17,18,3,1,62,01 May 2026 10:18:27,431B14E279B91AA254FB
+SMP YPK WAREN,70046635,SMP,Swasta,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,4,1,33,3,5,0,0,28,29 Apr 2026 08:24:56,F7E1CB18C445E4A39E7A
+SMAN WAREN,60303065,SMA,Negeri,Kec. Waropen Bawah,252601,Kab. Waropen,252600,Prov. Papua,250000,43,12,648,19,22,6,1,53,25 Apr 2026 11:01:39,A9FE1CFE53E08B7BF228

@@ -1,0 +1,50 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+Sekolah Dasar  Negeri 1 Klahang Kecamatan Sokaraja,20302786,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,7,2,184,6,11,0,0,17,02 May 2026 14:52:07,F3786E064E7617BF02E8
+Sekolah Dasar Negeri 1 Banjaranyar Kecamatan Sokaraja,20302219,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,3,208,7,9,0,1,10,31 Mar 2026 11:23:59,C811AACB666DDD1A1DC7
+Sekolah Dasar Negeri 1 Karangduren Kecamatan Sokaraja,20302297,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,9,3,192,8,11,0,1,14,02 May 2026 11:55:16,EAF40097AFB8C97BE8FD
+Sekolah Dasar Negeri 1 Karangkedawung Kecamatan Sokaraja,20302314,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,7,2,128,6,6,1,1,29,15 Apr 2026 13:59:52,C3AA4D810CE86863E214
+Sekolah Dasar Negeri 1 Karangnanas Kecamatan Sokaraja,20302301,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,20,4,518,18,17,0,1,41,02 May 2026 14:34:21,20DE5C619A01E99A2B0C
+Sekolah Dasar Negeri 1 Pamijen Kecamatan Sokaraja,20302712,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,7,3,116,6,7,0,1,29,09 Apr 2026 22:10:16,1ADB666937927996C227
+Sekolah Dasar Negeri 1 Sokaraja Kulon Kecamatan Sokaraja,20302858,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,7,0,174,6,6,0,0,6,07 Apr 2026 07:09:13,912FF29E3F9E6DAB2AB7
+Sekolah Dasar Negeri 1 Sokaraja Tengah Kecamatan Sokaraja,20302859,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,2,156,6,9,1,1,9,07 Apr 2026 14:24:41,3B8FB89116E237A20987
+Sekolah Dasar Negeri 1 Sokaraja Wetan Kecamatan Sokaraja,20302860,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,13,4,284,12,16,0,1,9,02 Apr 2026 10:33:36,4026A2BC1CB558219920
+Sekolah Dasar Negeri 2 Banjaranyar Kecamatan Sokaraja,20302818,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,6,1,120,6,6,0,1,23,27 Mar 2026 21:20:36,59043DEB727CC59B7927
+Sekolah Dasar Negeri 2 Karangduren Kecamatan Sokaraja,20302562,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,7,1,91,6,6,0,1,15,28 Mar 2026 08:32:52,E6ED51287D6D15C4D64C
+Sekolah Dasar Negeri 2 Karangkedawung Kecamatan Sokaraja,20302579,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,2,107,6,7,0,1,26,02 May 2026 17:26:06,AFE7302B73920971ED8A
+Sekolah Dasar Negeri 2 Karangnanas Kecamatan Sokaraja,20302680,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,6,0,96,6,6,0,1,15,23 Apr 2026 07:20:33,68D8090C82B2B5159DA4
+Sekolah Dasar Negeri 2 Klahang Kecamatan Sokaraja,20302704,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,2,147,6,8,0,1,14,09 Apr 2026 08:24:55,C4BCF765A0E6708CC6AC
+Sekolah Dasar Negeri 2 Pamijen Kecamatan Sokaraja,20302657,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,7,2,134,6,6,0,1,13,05 Mar 2026 14:25:32,0882A4E0F60D19104DC9
+Sekolah Dasar Negeri 2 Sokaraja Kulon Kecamatan Sokaraja,20301699,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,15,5,301,12,14,1,1,12,06 Apr 2026 15:03:12,72CF12C7FED959987B3B
+Sekolah Dasar Negeri 2 Sokaraja Tengah Kecamatan Sokaraja,20302161,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,14,3,334,12,12,2,1,25,17 Apr 2026 14:12:12,7E3246D5FB3285201071
+Sekolah Dasar Negeri 2 Sokaraja Wetan Kecamatan Sokaraja,20301700,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,6,2,125,6,6,0,1,8,04 Apr 2026 19:57:37,1EBD03EE83D842FBEB4A
+Sekolah Dasar Negeri 3 Karangnanas Kecamatan Sokaraja,20301767,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,10,3,276,12,11,0,1,17,13 Apr 2026 22:11:43,8C6709635C93BB3F3ED7
+Sekolah Dasar Negeri 3 Sokaraja Kulon Kecamatan Sokaraja,20301581,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,6,2,77,6,6,0,1,17,03 Apr 2026 00:51:53,0C8A249768B99168D227
+Sekolah Dasar Negeri Banjarsari Kidul Kecamatan Sokaraja,20301628,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,11,4,274,12,12,0,1,12,28 Mar 2026 07:15:48,70DEC62944E115FBF05A
+Sekolah Dasar Negeri Jompo Kulon Kecamatan Sokaraja,20302069,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,3,104,6,6,0,1,11,27 Apr 2026 12:20:08,2C88895236EE5BA6EE9D
+Sekolah Dasar Negeri Kalikidang Kecamatan Sokaraja,20302064,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,12,2,294,12,13,0,1,13,13 Apr 2026 12:01:44,6A1FBD028126DF16B5A0
+Sekolah Dasar Negeri Karangrau Kecamatan Sokaraja,20302084,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,3,182,6,7,0,1,6,02 Apr 2026 14:29:00,541A9DCD44ED42AD5145
+Sekolah Dasar Negeri Kedondong Kecamatan Sokaraja,20302035,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,14,4,322,12,12,1,1,17,29 Apr 2026 12:25:47,8E389E40F848909ADF6F
+Sekolah Dasar Negeri Lemberang Kecamatan Sokaraja,20302024,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,7,2,196,7,7,0,1,19,30 Apr 2026 11:53:43,B916EBD508F8DAF8B356
+Sekolah Dasar Negeri Sokaraja Kidul Kecamatan Sokaraja,20302159,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,14,3,240,12,12,0,1,12,09 Apr 2026 14:07:17,B2EB750E4DAEDECBCCAB
+Sekolah Dasar Negeri Sokaraja Lor Kecamatan Sokaraja,20302160,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,2,171,6,12,0,1,12,06 Mar 2026 14:14:05,0E66BD1FE5FABACEEEDE
+Sekolah Dasar Negeri Wiradadi Kecamatan Sokaraja,20302149,SD,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,19,3,499,18,16,0,1,33,27 Apr 2026 13:06:12,E161982DD1D1093C28B3
+SD AL- FALAH BANJARSARI KIDUL SOKARAJA,69988516,SD,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,4,4,74,6,6,0,1,42,20 Apr 2026 12:44:13,B6EB1CF66557D845175E
+SD IT ANNIDA SOKARAJA,20341614,SD,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,12,3,101,6,12,0,1,7,13 Apr 2026 18:11:58,9F355A17964F8E7BDD7F
+SD IT TOP KIDS,20362553,SD,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,7,2,186,6,8,0,2,8,07 Apr 2026 14:51:01,3BA38FED71602A8A9CCC
+SD KRISTEN SOKARAJA,20338298,SD,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,4,74,6,6,0,1,11,16 Apr 2026 09:03:25,21B0412B6B577BDDD272
+SD NU MASTER SOKARAJA,69964078,SD,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,30,3,410,18,18,1,1,21,14 Apr 2026 11:35:05,F79A2F58118E612D1FDF
+SDIT MUTIARA ILMU,69888328,SD,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,14,1,335,12,12,0,1,14,12 Apr 2026 12:43:35,D1A2A79630BD2B6FC58B
+Sekolah Menengah Pertama Negeri 1 Sokaraja,20301996,SMP,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,35,11,696,21,21,4,1,15,27 Apr 2026 09:31:38,EADC6FACF3B728FE6802
+Sekolah Menengah Pertama Negeri 2 Sokaraja,20301938,SMP,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,41,13,918,28,28,3,2,55,28 Apr 2026 08:19:52,452C478D6B6B1104E6AB
+Sekolah Menengah Pertama Negeri 3 Sokaraja,20301970,SMP,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,27,11,682,21,21,3,2,20,15 Apr 2026 07:17:41,558B679A5E61AC698D11
+SMP PERSADA INSAN NUSANTARA,70048703,SMP,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,6,3,51,2,3,2,1,19,30 Apr 2026 07:45:52,E3D775FCCE40C342868B
+SMP IT ANNIDA SOKARAJA,69979613,SMP,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,5,2,18,3,3,2,1,25,26 Apr 2026 05:33:49,08214D2B1071E01DFED8
+SMP IT MUTIARA ILMU SOKARAJA,70004028,SMP,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,6,1,83,4,4,1,1,16,31 Mar 2026 11:10:07,15888890440A94742208
+SMP MUHAMMADIYAH SOKARAJA,20301878,SMP,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,24,5,435,15,15,1,1,25,23 Apr 2026 07:41:55,DDB3E3A87D62415C0090
+SMP TOP KIDS ISLAMIC SCHOOL,70023454,SMP,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,4,1,24,3,3,1,1,32,31 Jan 2026 19:33:40,8F17D71FC7D29444CA18
+SMA NEGERI 1 SOKARAJA,20302173,SMA,Negeri,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,51,21,1057,30,30,9,1,54,30 Apr 2026 09:18:40,14CE0A943B4C8D1C3EC3
+SMAS BUDI UTOMO SOKARAJA,20338213,SMA,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,6,4,27,3,5,1,1,18,29 Apr 2026 17:36:44,625BC27F803892BEB1A8
+SMAS MA ARIF NU SOKARAJA,20338221,SMA,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,12,4,105,5,6,4,1,17,16 Apr 2026 21:24:06,027AEB0535B0320ABD98
+SMAS MUHAMMADIYAH SOKARAJA,20338224,SMA,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,15,2,93,3,4,1,0,21,06 Apr 2026 13:55:00,B1EBC26FFEB0A947C1D2
+SMK BUDI UTOMO SOKARAJA,20330442,SMK,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,8,4,17,3,6,1,1,15,10 Mar 2026 08:56:57,53ECC46D81EFE7048E62
+SMKS YOS SUDARSO SOKARAJA,20361046,SMK,Swasta,Kec. Sokaraja,030223,Kab. Banyumas,030200,Prov. Jawa Tengah,030000,2,1,0,0,0,0,0,0,,2B87C89D5C85C8143957

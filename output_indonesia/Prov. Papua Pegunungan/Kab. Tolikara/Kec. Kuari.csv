@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KUARI,60302215,SD,Negeri,Kec. Kuari,380414,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,5,1,162,6,6,0,2,22,01 May 2026 16:40:40,C3BA91FAC0C6C6B8F648
+SD NEGERI IMBUNI,60302251,SD,Negeri,Kec. Kuari,380414,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,7,1,142,7,6,0,0,27,22 Apr 2026 16:45:25,D333975BA45CEE595A50
+SMP NEGERI KUARI,69966244,SMP,Negeri,Kec. Kuari,380414,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,10,1,79,4,3,3,1,46,25 Apr 2026 10:00:04,40ABAF141245BFD7B393

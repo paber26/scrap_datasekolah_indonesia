@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SAIKONAI,60302964,SD,Negeri,Kec. Sukikai Selatan,360605,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,2,1,196,7,7,0,1,35,09 Apr 2026 04:46:42,9863B65FE0979CA32D03
+SD NEGERI EGIPA,60303605,SD,Negeri,Kec. Sukikai Selatan,360605,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,3,1,225,10,10,0,1,22,21 Jan 2026 15:46:22,983C8C7CCDE170D85496
+SD NEGERI IYARO,60303604,SD,Negeri,Kec. Sukikai Selatan,360605,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,3,0,206,7,7,0,0,5,04 Feb 2026 06:06:48,FCF2C0791803267AA7B7
+SD NEGERI UNITO,60303602,SD,Negeri,Kec. Sukikai Selatan,360605,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,6,1,401,14,6,1,0,31,30 Apr 2026 07:47:12,E99DB0FFB848B6E80817
+SD YPPK BIDAU,60303603,SD,Swasta,Kec. Sukikai Selatan,360605,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,2,1,237,8,9,0,0,5,26 Jan 2026 07:02:31,84A6EE7F3EAE8401E567

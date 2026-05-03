@@ -1,0 +1,52 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 Cigantang,20224319,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,2,226,9,7,0,1,9,29 Apr 2026 09:13:55,4F91052141F984A1629F
+SDN 1 Cipari,20224324,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,3,225,8,7,0,0,50,01 May 2026 03:23:52,5071FE60FFAC277938B5
+SDN 1 Lewo,20224346,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,24,3,522,18,16,0,0,58,12 Apr 2026 16:48:41,743122B75E8BD3B92043
+SDN 1 Linggajaya,20224343,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,3,309,12,12,0,1,28,13 Apr 2026 12:42:12,2AEE6A2C5B197C22B010
+SDN 1 Mangkubumi,20224351,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,15,3,307,12,10,0,1,22,25 Apr 2026 22:01:56,06536BA866C5C2FDF7CE
+SDN 1 Rahayu,20224620,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,1,267,10,10,0,1,17,16 Apr 2026 12:51:41,7449E91ABD0B1AD3A7E0
+SDN 2 Cigantang,20224318,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,2,195,6,6,0,0,17,07 Apr 2026 08:23:40,5198D2302E601419DBCC
+SDN 2 Cipari,20224335,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,3,143,6,6,0,1,15,29 Apr 2026 10:53:04,29E2986F38C44358D0CD
+SDN 2 Linggajaya,20224342,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,2,285,12,6,0,0,27,20 Apr 2026 07:42:21,4CFF2A078817BC6597EF
+SDN 3 Cipari,20224334,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,2,155,6,6,0,0,44,20 Apr 2026 14:04:58,52C7E104060EBEFEFF03
+SDN Babakankadu,20224493,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,15,3,349,12,9,0,1,69,29 Apr 2026 17:59:46,6757C13C582D9521517F
+SDN Cibanjaran,20224465,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,16,3,309,12,6,0,1,21,07 Apr 2026 11:51:06,E37E985D863D96CA55ED
+SDN Cilamajang,20224314,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,2,229,12,6,0,1,23,16 Apr 2026 12:45:27,3B75CAAD733C32FD6986
+SDN Cilingga,20224313,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,3,297,10,9,0,1,13,20 Apr 2026 09:19:05,7795C70334E0801A6D49
+SDN Ciparay,20224323,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,2,188,7,7,0,1,15,08 Apr 2026 21:30:43,1731B4D242556F09A914
+SDN Hegarsari,20224305,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,2,183,7,12,0,1,28,30 Apr 2026 10:05:30,BEF19D7E0C516B22AED7
+SDN Karanglayung,20224372,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,3,191,6,6,0,0,16,29 Apr 2026 21:46:00,449CA7A7A654AF97156A
+SDN Karikil,20224366,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,21,4,523,19,13,0,1,17,14 Apr 2026 07:53:13,C42DD5207420829AB3E3
+SDN Liunggunung,20224341,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,2,172,7,6,0,1,12,28 Apr 2026 10:29:32,5BCE0D9ED3A964A11184
+SDN Mangkubumi,20224352,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,21,5,535,21,18,0,1,27,09 Apr 2026 10:18:39,5134ABED984F6B6A09FB
+SDN Puspasari,20224621,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,1,138,6,6,0,0,32,17 Apr 2026 10:55:26,7BACC87CE5654F8D754F
+SDN Sambongjaya,20224639,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,19,1,431,16,17,0,1,44,30 Apr 2026 09:37:14,612D600F78198AD777B7
+SDN Sambongpari,20224638,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,15,3,320,12,7,0,0,30,28 Apr 2026 19:25:05,91A83C7FFA3D61C939D6
+SDN Sambongpermai,20224627,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,2,339,12,9,0,1,37,24 Apr 2026 14:37:23,5E91B4259AC6D1803BC4
+SDN Sindangasih,20224701,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,170,7,6,0,1,27,13 Apr 2026 11:15:23,B61A0627812F95C2E4D7
+SDN Sindangreret,20224697,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,2,233,9,6,0,1,30,20 Apr 2026 09:21:52,D6501065994BC59C566B
+SDN Sirnasari,20224707,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,216,9,8,0,1,10,24 Apr 2026 08:18:56,8CC8C30FFCF53EE014F2
+SDN Sukadami,20224717,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,209,7,7,0,1,9,06 Apr 2026 13:33:11,7946DED236DEFDA59745
+Sekolah Rakyat Dasar Terintegrasi 41 Tasikmalaya,70058805,SD,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,5,1,20,5,1,0,0,42,30 Apr 2026 09:47:26,82EE3983039143434F54
+SD Al Mukaromah Islamic School,69968050,SD,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,11,3,163,9,11,0,0,59,30 Apr 2026 09:53:33,DFE70FD04275261BE622
+SD Islam An-Nahl,69980027,SD,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,22,7,379,17,10,0,0,51,01 May 2026 13:46:05,617159E0443A73C82E3B
+SDIT TQ AL-HASAN,70030269,SD,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,13,2,226,10,12,1,1,31,21 Apr 2026 09:19:42,F7B2E27EFBF51E241FA4
+SDIT TQ Imam Nawawi,69995955,SD,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,2,252,12,12,0,1,47,18 Apr 2026 05:40:50,A74FA815D0F58D360F5E
+Sekolah Rakyat Menengah Pertama Terintegrasi 41 Tasikmalaya,70058806,SMP,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,4,43,4,2,0,0,47,13 Apr 2026 11:13:32,939D7626482AF136D952
+SMP Negeri 14 Tasikmalaya,20224557,SMP,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,43,10,1101,33,33,2,1,52,28 Apr 2026 16:25:41,D59155C98B29430386D5
+SMP ISLAM TANJUNG RESIK,70051419,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,2,34,3,3,0,0,22,24 Apr 2026 06:27:40,BB2591C9FB9FCE81A199
+SMP Islam Terpadu Al Burhan,69990686,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,5,3,9,2,3,1,1,11,27 Apr 2026 13:49:41,6607EF7FAD1D167B0327
+SMP Islam Terpadu Al Munawar,69947069,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,2,67,3,3,0,1,14,22 Apr 2026 12:44:27,547D986FD37AB25080AD
+SMP IT Daarul Falaah,70035779,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,2,47,3,3,1,1,41,17 Apr 2026 21:51:09,3AD009E91DE1BF9B9E47
+SMP IT NURUL HIDAYAH ASY`ARIYYAH,70033846,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,6,125,6,2,0,0,14,22 Apr 2026 13:09:30,EC3ED1E10AF223537C3A
+SMP Plus Gunung Jembar,20268225,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,5,63,3,5,1,0,24,30 Apr 2026 12:24:37,A462AF68CF953F46AD07
+SMP Plus Pesantren Amanah Muhammadiyah,20224605,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,19,5,160,6,13,2,1,69,27 Apr 2026 20:05:00,560CEF9C84E831A25EF2
+SMP Terpadu Al-Urwatul Wustha,20268227,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,2,153,6,6,1,0,28,02 May 2026 09:53:29,329C24A5339B1516105C
+SMP Terpadu Miftahul Khoir,69947171,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,2,76,4,4,0,1,8,13 Apr 2026 08:48:00,B1FB10BEE9E5252A55DF
+SMP YPI Al Huda,20224571,SMP,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,19,6,280,10,11,0,1,23,24 Apr 2026 12:55:25,AA6C35A33D84C7CA20D1
+SMA Negeri 10 Tasikmalaya,20251819,SMA,Negeri,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,68,14,1502,42,29,6,1,83,01 May 2026 15:21:42,F6A5DE597A51DAC1BF26
+SMAS PLUS PESANTREN AMANAH MUHAMMDIYAH,20224543,SMA,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,15,6,126,5,7,2,1,18,18 Apr 2026 09:49:46,3B189E9CD0DDE74B0506
+SMK DUTA PRATAMA INDONESIA,69840939,SMK,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,4,92,6,6,1,1,19,27 Apr 2026 09:31:06,C775919A654B119D0B7A
+SMK Seni Budaya,69947166,SMK,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,2,31,3,3,1,2,37,29 Apr 2026 11:02:46,E7945009CE269C4D11A4
+SMK TERPADU AL URWATUL WUSTHA,69900162,SMK,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,13,1,163,7,9,1,1,37,14 Apr 2026 20:59:32,4160AC648DF6F691AD7E
+SMKS BPI BATUROMPE,20224525,SMK,Swasta,Kec. Mangkubumi,026804,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,2,139,6,7,1,1,8,30 Apr 2026 09:41:18,1D8EE22E97EDA4F72134

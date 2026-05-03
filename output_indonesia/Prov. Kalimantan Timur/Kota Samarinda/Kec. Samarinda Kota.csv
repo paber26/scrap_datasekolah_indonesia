@@ -1,0 +1,44 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 001 Samarinda Kota,30401124,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,16,4,277,12,13,0,0,23,29 Apr 2026 16:33:51,FD894A062E3A5009289A
+SD Negeri 002 Samarinda Kota,30401350,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,27,6,521,18,9,2,1,16,28 Apr 2026 12:41:53,CB44EBB1A0ECE98137F9
+SD Negeri 004 Samarinda Kota,30401197,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,9,2,91,6,6,0,1,44,26 Apr 2026 06:09:42,E063080D6EDD6CF6C04B
+SD Negeri 005 Samarinda Kota,30401094,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,25,6,451,17,9,0,1,23,27 Apr 2026 10:33:49,81BA5B28B4882F55C30A
+SD Negeri 006 Samarinda Kota,30401100,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,27,3,471,18,11,0,1,18,06 Apr 2026 15:15:25,8C8186C48B9480C5854F
+SD Negeri 007 Samarinda Kota,30401139,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,15,4,213,10,10,1,1,39,30 Apr 2026 13:46:42,F323E5FFDF137D4EE7FC
+SD Negeri 008 Samarinda Kota,30401134,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,35,8,654,24,12,1,2,34,17 Apr 2026 12:54:05,D2DE872614C3527912D6
+SD Negeri 010 Samarinda Kota,30401187,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,17,5,280,12,12,0,1,13,04 Mar 2026 05:19:06,1688AF73CDFE4FC9A872
+SD Negeri 011 Samarinda Kota,30401372,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,27,5,470,20,14,0,1,32,16 Apr 2026 14:12:14,AC11DA3E336BEDA5F91B
+SD Negeri 012 Samarinda Kota,30401362,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,16,5,205,10,8,0,1,26,29 Apr 2026 04:35:27,627A31FF82F7EABD6B92
+SD Negeri 013 Samarinda Kota,30401326,SD,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,10,3,159,6,6,0,1,1,13 Apr 2026 12:37:15,3F16D482442276536D9D
+SD Advent Samarinda,30404550,SD,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,6,2,65,6,6,1,1,12,28 Apr 2026 13:39:40,09D06F38B95F3A477181
+SD Esa Cipta Harapan,69965299,SD,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,4,2,108,6,6,1,1,8,10 Feb 2026 14:38:57,D5C03CB7A299FC14BFD1
+SD Islam Al Khairiyah Samarinda,30404105,SD,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,7,1,194,9,9,0,0,14,24 Feb 2026 07:17:53,7B0653468364B1198BCC
+SD Katolik 3 WR. Soepratman Samarinda,30404458,SD,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,11,8,156,6,18,2,1,23,17 Mar 2026 06:23:06,1403CE57F5572223AC76
+SD Kristen Cita Hati,69967509,SD,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,21,5,316,15,15,2,1,18,21 Apr 2026 10:14:21,C939DDB9C376350F0AA4
+SD Kristen Sunodia Samarinda,30404109,SD,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,22,3,453,18,18,3,2,21,29 Apr 2026 07:20:52,26CA1CB1546B5509C30B
+SD Muhammadiyah 1 Samarinda,30402988,SD,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,51,19,1173,38,38,3,1,34,30 Apr 2026 16:08:33,7E2FD9C7A5C22E8888C5
+SD Normal Islam Samarinda,30404114,SD,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,25,7,618,21,22,1,1,30,15 Apr 2026 11:17:54,09F2A2616A141AA50D0C
+SMP Negeri 2 Samarinda,30403007,SMP,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,60,12,1054,33,33,5,1,16,25 Apr 2026 10:51:36,43ECCDD74A0CB7C82CCB
+SMP Negeri 34 Samarinda,30401029,SMP,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,35,11,616,20,20,3,1,28,08 Apr 2026 07:27:33,20455571A574E5D7F7A2
+SMP Negeri 35 Samarinda,30401030,SMP,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,31,6,544,18,12,3,1,38,24 Apr 2026 13:17:07,B23ACD5DF11036AD6EBF
+SMP Negeri 37 Samarinda,30404257,SMP,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,25,2,437,14,8,0,1,26,03 Apr 2026 10:17:50,CFB6185E8B779E3C16CC
+SMP Negeri 45 Samarinda,30405615,SMP,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,9,3,157,5,3,0,1,11,16 Apr 2026 08:02:11,D4CE4C6117BB3DE1EFF5
+SMP Advent Samarinda,30401019,SMP,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,5,2,39,3,3,2,1,16,14 Apr 2026 15:43:29,A7D9E1082F7F3FD95010
+SMP Al Khairiyah Samarinda,30401021,SMP,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,9,3,24,3,6,2,1,9,20 Apr 2026 17:55:55,C8A1204E3E0D4C7BFCFE
+SMP Aminah Syukur Samarinda,30402996,SMP,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,13,7,220,8,15,1,1,18,31 Mar 2026 08:34:50,E1FF072C077ACCA2509C
+SMP Esa Cipta Harapan Samarinda,70024055,SMP,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,4,3,56,3,4,2,1,14,27 Feb 2026 09:49:02,8B33455A0A16C9847991
+SMP Kristen Cita Hati,69995960,SMP,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,13,3,169,7,3,2,1,22,20 Apr 2026 14:07:57,471A0D64BFACFCFF7D12
+SMP Kristen Sunodia Samarinda,30404255,SMP,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,15,5,255,10,10,2,1,19,02 May 2026 09:20:22,75BC5A0F50DD1B63AB24
+SMP Muhammadiyah 1 Samarinda,30403003,SMP,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,5,4,70,4,7,2,1,14,30 Apr 2026 16:55:09,183CF33EF4488634A787
+SMA Islam Samarinda,30404461,SMA,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,18,12,314,10,9,2,1,14,23 Apr 2026 10:58:35,59ABAE505AE0DA7B65AE
+SMA Katolik W.R. Soepratman No. 020,30401063,SMA,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,23,8,349,11,16,5,1,24,15 Apr 2026 11:24:26,3DE74F75A3828016C4EE
+SMA KRISTEN CITA HATI,70028531,SMA,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,8,6,83,5,5,4,1,9,07 Mar 2026 12:12:46,FE55E7E74162910B698C
+SMA Kristen Sunodia,30404179,SMA,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,21,10,296,9,11,3,1,11,17 Apr 2026 07:12:30,FD00572CAD4881D5AA6D
+SMAS Al - Khairiyah Samarinda,30404264,SMA,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,12,2,74,3,3,3,1,63,30 Apr 2026 21:18:35,4971B04EBD07FC3BF1D3
+SMK Negeri 4 Samarinda,30401079,SMK,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,59,25,1109,33,31,4,1,19,27 Apr 2026 07:30:09,3D7E251B258B77461251
+SMK NEGERI 7 SAMARINDA,30403017,SMK,Negeri,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,53,24,805,24,16,2,1,15,15 Apr 2026 12:38:51,AA2EC43D9DF0DCE151AC
+SMKS Al Khairiyah Samarinda,30401056,SMK,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,11,4,70,11,15,3,1,16,29 Apr 2026 11:20:57,D4214EA109D46E85E7A0
+SMKS Cokroaminoto Samarinda,30401069,SMK,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,5,3,11,3,7,1,1,14,28 Apr 2026 16:51:02,AD0F2B7FA2ECB6D8FD7D
+SMKS Farmasi Samarinda,30404359,SMK,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,18,10,151,8,35,4,1,10,02 Apr 2026 07:50:08,AC0CA26F950DEE1B08AA
+SMKS Katolik 2 WR. Soepratman,30404129,SMK,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,12,6,65,11,12,2,1,100,23 Apr 2026 13:31:07,3B6F32F6A2D590108919
+SMKS Muhammadiyah 1 Samarinda,30401086,SMK,Swasta,Kec. Samarinda Kota,166009,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,13,6,138,9,9,1,1,15,28 Apr 2026 09:36:41,04A2C98B9F1C41720DBB

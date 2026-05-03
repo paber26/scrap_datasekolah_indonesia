@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES GERE,50302402,SD,Negeri,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,10,1,90,6,6,0,1,12,11 Apr 2026 19:14:38,FACB21BB68EEF3D23F4B
+SDI ARAT,50302386,SD,Negeri,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,9,1,49,6,6,0,1,11,13 Apr 2026 13:09:41,6801AC84B126E6B90F55
+SDI KOTING,50302328,SD,Negeri,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,2,64,6,6,0,0,9,10 Apr 2026 06:50:40,3ECBD2C0F09478EF8982
+SDI WOLOHULER,50302513,SD,Negeri,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,7,0,27,6,6,0,1,18,18 Apr 2026 08:04:20,45A78829AA31ECB2DB30
+SDI WUTIK,50302504,SD,Negeri,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,7,1,51,6,6,0,1,13,02 May 2026 00:00:11,9AD2F8C4C6A9C299DB80
+SDK DILLER,50302439,SD,Swasta,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,7,2,46,6,6,1,1,20,29 Apr 2026 08:20:06,418E405E01D2EEE6C43C
+SDK GEHAK,50302432,SD,Swasta,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,3,65,6,6,0,1,16,13 Apr 2026 07:31:36,1310B0EE83C08837C635
+SDK KOTING I,50302447,SD,Swasta,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,2,61,6,6,0,1,13,07 Apr 2026 20:41:24,708334B487128A016844
+SDK TOMU MAUMERE,50302136,SD,Swasta,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,9,2,62,6,6,0,1,27,02 May 2026 09:36:19,D22F86DBC64094C0F664
+SMP SUSILA KOTING,50302247,SMP,Swasta,Kec. Koting,240816,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,10,4,148,6,7,2,1,23,22 Apr 2026 05:00:47,FE72CE566D5F8820BD96

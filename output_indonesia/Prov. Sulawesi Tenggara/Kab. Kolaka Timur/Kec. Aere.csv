@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 AERE,40401503,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,9,2,139,7,7,1,1,32,20 Apr 2026 08:57:05,AB6F9852C04383753C37
+SD NEGERI 1 ALADADIO,40403424,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,8,2,39,6,6,0,0,16,21 Apr 2026 18:20:42,99FE4B0689388DE076C2
+SD NEGERI 1 AWIU,40404542,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,9,1,78,6,6,0,1,12,06 Mar 2026 13:18:30,21ACA41C3EADF8BE0F0E
+SD NEGERI 1 IWOIMEA,40401575,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,7,2,98,6,6,0,1,10,22 Apr 2026 08:54:08,CF40965DE97010B857F0
+SD NEGERI 1 IWOIMENGGURA,40401565,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,8,1,41,6,6,0,0,12,22 Apr 2026 08:09:09,27DD61CB488B26F73E25
+SD NEGERI 1 PEKOREA,40403427,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,8,2,73,6,7,0,0,37,25 Apr 2026 08:20:06,99D790CA190ABF4F36C1
+SD NEGERI 1 RUBIA,40404083,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,7,3,63,6,6,0,1,30,27 Mar 2026 17:44:19,7308D3F0669C2BBC4EA6
+SD NEGERI 1 Taore,40404694,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,7,1,58,6,6,0,0,16,06 Apr 2026 00:37:15,CA9851E252FE706FF65B
+SD NEGERI 1 TINETE,40401618,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,9,3,77,6,5,0,1,20,30 Apr 2026 13:37:31,110A66D1BB14B075129A
+SD NEGERI 2 IWOIMENGGURA,40403430,SD,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,8,2,81,6,7,1,0,15,23 Apr 2026 08:45:27,A2376B67DAD31EB102B6
+SMP NEGERI 1 AERE,40403573,SMP,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,13,3,143,6,8,2,1,32,17 Apr 2026 12:19:23,52A2DCA7B1F062912184
+SMP NEGERI SATAP 2 AERE,69820628,SMP,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,10,2,62,3,8,1,0,35,21 Apr 2026 22:23:06,4A29A69D6A154DA843C4
+SMP Negeri Satu Atap 1 Aere,40404649,SMP,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,9,2,43,3,3,2,1,17,20 Apr 2026 07:23:12,77DE46719553181E458E
+SMAN 1 AERE,69760760,SMA,Negeri,Kec. Aere,201121,Kab. Kolaka Timur,201100,Prov. Sulawesi Tenggara,200000,13,1,136,6,6,1,1,27,29 Apr 2026 00:12:57,D48FB20F07AF16516316

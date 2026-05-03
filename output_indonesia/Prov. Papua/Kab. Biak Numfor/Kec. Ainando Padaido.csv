@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SAMBERPASI,60300382,SD,Negeri,Kec. Ainando Padaido,250215,Kab. Biak Numfor,250200,Prov. Papua,250000,6,1,27,6,9,0,1,37,02 May 2026 02:17:58,459617ED196887D4EADC
+SD YPK MBROMSI,60300446,SD,Swasta,Kec. Ainando Padaido,250215,Kab. Biak Numfor,250200,Prov. Papua,250000,5,1,92,6,6,0,0,16,15 Apr 2026 20:26:53,06CF3E58EB7F7BFFD125
+SD YPK MENUPISEN,60300443,SD,Swasta,Kec. Ainando Padaido,250215,Kab. Biak Numfor,250200,Prov. Papua,250000,3,0,36,6,6,0,0,4,29 Apr 2026 23:23:53,7A995F4FB0BB669F3794
+SD YPK MEOSMANGGUANDI,60300445,SD,Swasta,Kec. Ainando Padaido,250215,Kab. Biak Numfor,250200,Prov. Papua,250000,5,0,72,6,6,0,0,7,25 Feb 2026 12:38:47,A57BD6500829452A2E7E
+SD YPK PASI,60300308,SD,Swasta,Kec. Ainando Padaido,250215,Kab. Biak Numfor,250200,Prov. Papua,250000,4,1,74,6,6,0,1,11,23 Apr 2026 08:19:16,6652FE0E11147C6D7147
+SD YPK SARIBRA,60300301,SD,Swasta,Kec. Ainando Padaido,250215,Kab. Biak Numfor,250200,Prov. Papua,250000,5,1,43,6,6,1,1,25,25 Apr 2026 23:02:25,64FCFE7E1447AEBDA11C
+SD YPK SASARI,60300311,SD,Swasta,Kec. Ainando Padaido,250215,Kab. Biak Numfor,250200,Prov. Papua,250000,1,1,55,6,6,0,0,54,05 Mar 2026 13:24:46,E727DF67EC85C4F33CD9
+SMPN 1 PADAIDO,60300326,SMP,Negeri,Kec. Ainando Padaido,250215,Kab. Biak Numfor,250200,Prov. Papua,250000,7,1,99,4,3,2,1,29,22 Apr 2026 20:06:54,278E6C951D7B34ACC8F3

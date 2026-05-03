@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KAGO,60301938,SD,Negeri,Kec. Ilaga,360501,Kab. Puncak,360500,Prov. Papua Tengah,360000,13,1,273,10,6,0,0,66,02 May 2026 06:35:32,3046C838CFE7F5FDA456
+SD INPRES TAGALOA,60301958,SD,Negeri,Kec. Ilaga,360501,Kab. Puncak,360500,Prov. Papua Tengah,360000,7,1,128,6,6,0,1,69,25 Apr 2026 10:15:48,A69B3DD078A67CEF600E
+SD SWASTA PEMULIHAN CARTENZ  PUNCAK,70047671,SD,Swasta,Kec. Ilaga,360501,Kab. Puncak,360500,Prov. Papua Tengah,360000,0,1,28,5,1,0,0,11,23 Feb 2026 08:58:27,7BD19C32AEB02CAE9EC0
+SMP NEGERI 1 ILAGA,60304129,SMP,Negeri,Kec. Ilaga,360501,Kab. Puncak,360500,Prov. Papua Tengah,360000,11,1,180,6,10,1,1,31,29 Apr 2026 07:02:47,D9D5986E6ED758F087AE
+SMP KARMEL ARASTAMAR PAPUA,70061484,SMP,Swasta,Kec. Ilaga,360501,Kab. Puncak,360500,Prov. Papua Tengah,360000,0,0,0,0,0,0,0,0,,5902611166ADDC19C3BC
+SMA NEGERI 1 ILAGA,60304126,SMA,Negeri,Kec. Ilaga,360501,Kab. Puncak,360500,Prov. Papua Tengah,360000,19,4,158,6,7,3,1,161,02 May 2026 19:55:13,FF21743C4C68013DBDD5

@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LEMBO,40403926,SD,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,12,2,96,6,6,0,1,16,08 Apr 2026 08:20:58,A0B020608E5D91F7E2CD
+SD NEGERI 2 LEMBO,40403930,SD,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,15,2,83,6,6,0,1,20,15 Apr 2026 08:45:50,8ACC0D2006EF7AB2DC89
+SD NEGERI 3 LEMBO,40403934,SD,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,13,1,87,6,6,1,2,52,13 Apr 2026 07:08:39,4EFF6595E4B30D17A889
+SD NEGERI 4 LEMBO,40403913,SD,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,95,6,6,0,1,36,24 Apr 2026 09:50:46,E38978DED1514832BDD6
+SD NEGERI 5 LEMBO,40403917,SD,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,84,6,6,1,1,17,03 Mar 2026 19:51:17,3DCFEA8884C9BA110D67
+SD NEGERI 6 LEMBO,40405742,SD,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,2,49,6,6,0,1,23,14 Apr 2026 13:53:21,4D59A34F7023F03323C9
+SD NEGERI 7 LEMBO,40405741,SD,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,10,1,26,6,6,0,1,17,23 Feb 2026 20:31:37,A751EFC463841307C880
+SD NEGERI 8 LEMBO,69788522,SD,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,1,46,6,6,0,1,6,02 Apr 2026 15:30:46,10C07B9EAA41F1BE86A7
+SMP NEGERI 1 LEMBO,40403961,SMP,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,24,4,210,8,11,3,1,25,28 Apr 2026 08:28:40,F437CE42671B7DF16E4A
+SMP NEGERI 2 LEMBO,69759865,SMP,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,16,4,79,3,6,2,2,24,28 Apr 2026 04:30:36,F5223AC7BCD930521063
+SMA Negeri 1 Lembo,40403973,SMA,Negeri,Kec. Lembo,200903,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,26,4,293,9,12,5,1,29,29 Apr 2026 09:18:31,34CD2B5EB221AD815492

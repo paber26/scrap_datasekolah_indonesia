@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BILAS,30303157,SD,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,7,0,135,7,8,0,1,12,01 May 2026 22:01:19,4D0F644C75D01440789C
+SD NEGERI 1 KINARUM,30303147,SD,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,7,1,53,6,6,0,0,9,13 Apr 2026 20:19:55,FB64B532FC4D7A8A7D7D
+SD NEGERI 1 MASINGAI I,30302915,SD,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,6,1,118,6,8,0,1,20,17 Apr 2026 07:49:39,7D9BA70CA375A1AEF049
+SD NEGERI 1 MASINGAI II,30302916,SD,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,7,1,41,6,6,0,0,14,02 May 2026 08:52:17,67A5762709E588A2060B
+SD NEGERI 1.2 PANGELAK,30305369,SD,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,17,5,234,12,12,0,1,16,11 Apr 2026 11:26:47,0D071508CDA6B93BE8D4
+SD NEGERI 2 KINARUM,30303148,SD,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,2,101,6,6,0,1,26,04 Apr 2026 08:51:45,8050893516D1FBEBCE0B
+SD NEGERI 2 MASINGAI II,30305367,SD,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,5,2,73,6,6,1,1,11,04 Apr 2026 04:24:00,321F869B87C415ABB822
+SD NEGERI SUNGAI RUMBIA,30302881,SD,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,8,0,41,6,6,0,0,12,08 Apr 2026 08:29:08,B9F8BC45563523B270A2
+SMP NEGERI 1 UPAU,30302946,SMP,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,11,1,155,6,7,3,1,11,14 Apr 2026 22:01:20,E64DB340E180BE4E09D6
+SMP NEGERI 2 UPAU,30302975,SMP,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,13,3,168,7,6,1,1,26,27 Apr 2026 10:55:04,3011DE6FDCE1F8A255C7
+SMAN 1 UPAU,30305377,SMA,Negeri,Kec. Upau,150809,Kab. Tabalong,150800,Prov. Kalimantan Selatan,150000,20,10,146,7,7,3,1,1,25 Apr 2026 16:13:03,1FCA815CFBBF77C0747A

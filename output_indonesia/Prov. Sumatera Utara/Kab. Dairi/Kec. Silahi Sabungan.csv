@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPT SD NEGERI 030341 SILALAHI,10203589,SD,Negeri,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,11,3,162,8,9,0,0,22,28 Apr 2026 08:34:18,6C3351D7F29F4CF403AB
+UPT SD NEGERI 030342 SILALAHI,10203590,SD,Negeri,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,11,1,131,6,7,0,1,9,18 Apr 2026 13:17:32,A594395D6A2CB4EA963A
+UPT SD NEGERI 030343 BINANGARA,10203591,SD,Negeri,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,9,0,19,6,9,0,1,20,18 Apr 2026 13:06:56,11131BAF993AD7B75358
+UPT SD NEGERI 030344 PAROPO,10203592,SD,Negeri,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,9,2,138,6,6,0,1,19,30 Apr 2026 09:33:15,28E78F056139270D932F
+UPT SD NEGERI 033922 PAROPO,10203674,SD,Negeri,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,6,1,110,6,6,0,1,7,03 Mar 2026 14:37:20,4E146A45B557A36C1502
+UPT SD NEGERI 034796 SILALAHI,10203421,SD,Negeri,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,9,2,115,6,6,0,1,35,30 Apr 2026 09:30:14,C14CB0BDB6AEC1B86802
+UPT SMP NEGERI 1 SILAHISABUNGAN,10220593,SMP,Negeri,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,26,4,260,9,10,1,1,15,22 Apr 2026 09:53:35,C97641921DDCDB6FFB41
+SMP SW. BAKTI PAROPO,10203471,SMP,Swasta,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,7,2,105,4,4,1,1,32,02 May 2026 09:23:38,6465FE2210336D4609D5
+SMAN 1 SILAHISABUNGAN,10220599,SMA,Negeri,Kec. Silahi Sabungan,070517,Kab. Dairi,070500,Prov. Sumatera Utara,070000,23,3,417,13,15,3,1,38,30 Apr 2026 09:37:48,C1BFD4911ABDAD983329

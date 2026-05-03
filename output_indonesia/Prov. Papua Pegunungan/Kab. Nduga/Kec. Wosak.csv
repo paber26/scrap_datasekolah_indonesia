@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Inpres Hupatma,60301407,SD,Negeri,Kec. Wosak,380804,Kab. Nduga,380800,Prov. Papua Pegunungan,380000,5,1,218,10,6,0,1,9,17 Apr 2026 20:28:04,99BE1E424D6056B182DD
+SD Negeri Pilini,60305282,SD,Negeri,Kec. Wosak,380804,Kab. Nduga,380800,Prov. Papua Pegunungan,380000,3,1,95,4,7,0,0,2,22 Jan 2026 18:11:19,82C5074F17B295F883E5
+SMP Negeri Wosak,60304691,SMP,Negeri,Kec. Wosak,380804,Kab. Nduga,380800,Prov. Papua Pegunungan,380000,10,1,98,4,4,0,1,21,30 Apr 2026 19:00:07,AFAC3BB1469ED2B235C1

@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 BENTIAN BESAR,30402090,SD,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,16,2,217,8,10,0,1,48,30 Apr 2026 13:09:55,A37DDA79CEB38EAF0BA0
+SD NEGERI 002 BENTIAN BESAR,30402100,SD,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,13,3,124,8,15,0,1,19,29 Apr 2026 11:13:49,6B39A5DB4A7EB3DCDCCF
+SD NEGERI 003 BENTIAN BESAR,30402116,SD,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,11,2,51,6,6,0,1,14,03 Mar 2026 20:51:22,AFB9D6326ABF37B510AD
+SD NEGERI 004 BENTIAN BESAR,30406684,SD,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,8,5,75,6,6,0,0,19,29 Mar 2026 20:43:11,91AE6C4F9BA5B52EBDF8
+SD NEGERI 005 BENTIAN BESAR,30402137,SD,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,9,1,65,6,6,0,1,15,03 Apr 2026 18:02:47,18D574939913D1B8C1D4
+SD NEGERI 007 BENTIAN BESAR,30402160,SD,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,10,1,23,6,6,0,0,50,22 Apr 2026 16:17:36,060F4E785FEEDE89BA64
+SD NEGERI 008 SAMBUNG,30402177,SD,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,8,1,45,6,6,0,1,8,08 Apr 2026 10:39:36,58220B8CC1B6CB272858
+SD NEGERI 009 BENTIAN BESAR,30402185,SD,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,8,5,59,6,6,0,1,40,11 Mar 2026 11:44:02,957A19BB36EEC66DA661
+SD SAHABAT PEDULI PINTAR,70055662,SD,Swasta,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,31,1,437,15,15,0,0,52,30 Apr 2026 00:02:38,A931FCDB300DE4F99FB3
+SMP NEGERI 1 BENTIAN,30402366,SMP,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,11,4,170,6,7,3,1,22,02 May 2026 10:55:49,14FA316775C2218F67EB
+SMP NEGERI 2 RANDA EMPAS,69960376,SMP,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,8,5,35,3,4,2,2,7,28 Apr 2026 14:51:27,078DCFA5FE714D161161
+SMAN 1 BENTIAN BESAR,69786404,SMA,Negeri,Kec. Bentian Besar,160915,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,16,7,105,4,8,5,1,30,27 Apr 2026 19:01:18,9DF42CB36BA43358C60B

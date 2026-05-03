@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KOSAREK,60303374,SD,Negeri,Kec. Kosarek,380321,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,11,1,408,14,3,0,0,63,20 Apr 2026 20:16:39,5CC4F232E80CAB696DC7
+SD WANA WALINGE,70032686,SD,Swasta,Kec. Kosarek,380321,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,4,2,68,5,5,0,0,2,27 Jan 2026 09:40:53,D0F21C86C55BFA767747
+SD YAPESLI MINE,69831608,SD,Swasta,Kec. Kosarek,380321,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,0,0,0,0,0,0,,BF10AEB75045499FCC64
+SD YAPESLI WENPUT,69831610,SD,Swasta,Kec. Kosarek,380321,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,6,1,635,19,3,0,0,21,02 May 2026 19:38:11,9AEADB393AE180A2B432
+SMPN KOSAREK,69726479,SMP,Negeri,Kec. Kosarek,380321,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,260,7,4,0,0,9,22 Jan 2026 14:28:53,0B26DA4141E2D007DD0D

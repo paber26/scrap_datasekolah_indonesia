@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 MOLOWAGU,40203378,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,8,5,83,6,7,0,1,22,23 Apr 2026 12:31:01,275EC676A6F4DCFB4B0D
+SD NEGERI 2 MOLOWAGU,40203477,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,8,6,45,6,6,0,1,17,27 Apr 2026 11:07:03,327E77990AF10AC87201
+SD NEGERI BOMBA,40203296,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,6,5,69,6,6,0,1,14,08 Apr 2026 03:02:13,07834FB70517554F11A5
+SD NEGERI KAMBUTU,40203297,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,6,6,57,6,6,0,1,14,11 Apr 2026 09:52:51,F1C594EA46EBA02D19B8
+SD NEGERI KULINGKINARI,40203421,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,10,5,106,6,7,0,1,24,28 Apr 2026 07:45:26,BDCF52EF5A961594A3D5
+SD NEGERI LINDO,40204336,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,9,3,66,6,6,0,1,8,04 Mar 2026 09:10:26,DD229F76999BE2573E01
+SD NEGERI MALINO,40204337,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,6,5,39,6,6,0,1,22,08 Apr 2026 10:16:26,FB692FB3D1DC18E108FD
+SD NEGERI PATOYAN,40203420,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,7,4,27,6,4,0,0,13,07 Mar 2026 04:05:10,A170A634EB4A0E366734
+SD NEGERI SIATU,40203259,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,8,5,60,6,6,0,1,33,08 Apr 2026 20:00:54,1855240C7403D6C9217F
+SD NEGERI TUMBULAWA,40203359,SD,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,6,7,84,6,6,0,1,35,30 Apr 2026 14:30:58,D3BA1B642D6F5C371EE0
+SMP NEGERI 1 BATUDAKA,40203321,SMP,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,12,10,135,6,6,5,3,33,21 Apr 2026 09:29:59,7BBE641AFB29DEF2D116
+SMP NEGERI 2 BATUDAKA,40206007,SMP,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,8,7,65,3,3,0,1,22,21 Apr 2026 21:28:27,CD0CE62A0AF5702E1414
+SMA NEGERI 2 UNA-UNA,69864622,SMA,Negeri,Kec. Batudaka,180911,Kab. Tojo Una Una,180900,Prov. Sulawesi Tengah,180000,15,7,108,6,6,4,1,36,30 Apr 2026 06:53:48,B1AB6CD8FF11245F4C64

@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 24 FOLLEY,60401782,SD,Negeri,Kec. Misool Timur,390206,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,11,1,76,6,6,0,1,8,12 Apr 2026 06:20:36,EDA263EBFD40B13A142A
+SD NEGERI 21 USAHA JAYA,60401814,SD,Negeri,Kec. Misool Timur,390206,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,11,1,72,6,5,0,1,19,01 May 2026 20:21:21,05A91A6212A33DB6873E
+SD PERSIAPAN AUDAM,70056646,SD,Negeri,Kec. Misool Timur,390206,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,0,0,0,0,0,0,0,0,,D04D00763DA6993B2E18
+SD YPK EBENHAIZER LIMALAS,60401827,SD,Swasta,Kec. Misool Timur,390206,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,2,2,101,6,6,0,0,16,30 Mar 2026 05:34:20,82CF6447F3CF9A592F61
+SD YPK PETRUS TOMOLOL,60401843,SD,Swasta,Kec. Misool Timur,390206,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,4,3,97,7,6,0,0,61,13 Apr 2026 22:56:59,718AE76F711FE1B38F5A
+SMP NEGERI 15 RAJA AMPAT,60401875,SMP,Negeri,Kec. Misool Timur,390206,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,12,1,58,3,3,1,1,17,23 Apr 2026 06:36:33,843F2E5EDD51B06C5677
+SMP YPK EBENHAEZER LIMALAS,69963993,SMP,Swasta,Kec. Misool Timur,390206,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,10,3,60,3,3,2,1,18,16 Apr 2026 14:09:23,74F39233D681082C9C8B
+SMA NEGERI 12 RAJA AMPAT,60404141,SMA,Negeri,Kec. Misool Timur,390206,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,13,1,59,4,5,1,1,24,28 Apr 2026 20:11:52,63A90A07BC4F70D47E06

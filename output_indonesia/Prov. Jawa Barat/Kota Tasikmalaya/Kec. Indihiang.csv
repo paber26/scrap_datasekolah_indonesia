@@ -1,0 +1,31 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 Parakannyasag,20224653,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,22,5,446,18,15,0,1,21,09 Apr 2026 13:15:12,1530C9C16B03D9909CD2
+SDN 1 Sindangpalay,20224704,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,11,2,192,9,6,0,1,17,06 Apr 2026 09:11:58,45DDDA5717714AFFE273
+SDN 1 Sukamaju,20224715,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,3,332,12,6,1,1,15,30 Apr 2026 10:15:54,4A931C2FDA7322D38C24
+SDN 2 Sindangpalay,20224703,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,23,1,532,18,13,0,1,19,28 Apr 2026 23:33:20,08C47F9562708CBF0D28
+SDN 2 Sukamaju,20224714,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,16,3,413,15,11,0,1,31,09 Apr 2026 13:34:16,B8607F5B1F25BCE8758D
+SDN 3 Parakannyasag,20224664,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,3,161,6,7,0,0,18,03 Apr 2026 20:34:27,1C2C7BFD181676CA8C81
+SDN 3 Sukamaju,20224713,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,2,165,7,6,0,0,16,07 Apr 2026 15:56:31,76C53135CE0F6171C129
+SDN 4 Parakannyasag,20224663,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,0,195,8,7,0,0,18,02 Apr 2026 22:32:56,96D6FF65F712FC39B5D3
+SDN 4 Sindangpalay,20224699,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,11,3,238,10,6,0,1,26,16 Apr 2026 13:37:55,35D39D2C4331512C3E9F
+SDN Cibungkul,20224471,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,3,237,12,6,0,1,23,04 Apr 2026 17:52:47,C3E61EC07C24EDFA723B
+SDN Indihiang,20229830,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,30,7,718,23,23,0,1,27,30 Apr 2026 09:45:24,DCDCFA337FD097C08F05
+SDN Panyingkiran,20224642,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,6,2,216,7,6,0,1,20,03 Apr 2026 17:47:42,E386C9702C332FF20937
+SDN Paozan,20224652,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,2,151,6,8,0,0,15,02 Apr 2026 17:56:52,E2C0347042794182BBB8
+SDN Sirnagalih,20224705,SD,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,15,2,369,12,15,0,1,33,29 Apr 2026 12:44:08,0AD3A87B42B6F675508E
+SD Islam Al Misbah,69900139,SD,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,24,4,298,12,12,0,1,46,28 Apr 2026 11:45:49,4BB264770B3835079C37
+SD Islam Terpadu Ibadurrohman,20246489,SD,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,25,9,400,18,19,0,1,26,20 Apr 2026 14:05:23,4E76503662EB835CE43C
+SDIT Wasilatul Huda,69996266,SD,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,180,6,5,0,1,6,02 May 2026 15:26:36,918B648F8FE93238E822
+SMP Negeri 13 Tasikmalaya,20224558,SMP,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,48,11,1085,33,33,3,1,82,29 Apr 2026 23:00:19,676796D8DDCD1FE01D63
+SMP Negeri 18 Tasikmalaya,20224578,SMP,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,19,6,325,11,15,2,1,41,27 Apr 2026 15:13:28,6D4EAEFDE4009A396EA4
+SMP Negeri 19 Tasikmalaya,20224588,SMP,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,30,8,627,21,22,3,1,42,09 Apr 2026 17:40:48,2452D912C1239025A6C7
+SMP IT Wasilatul Huda,70032921,SMP,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,0,91,5,3,0,1,14,11 Apr 2026 13:22:44,5AA5B35C866B0142D8CF
+SMP Nurul Iman,20224608,SMP,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,93,5,6,2,1,17,22 Apr 2026 06:20:32,D67178C0804D3E5DB14C
+SMA Negeri 2 Tasikmalaya,20224510,SMA,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,73,16,1383,36,36,8,2,33,22 Apr 2026 09:20:15,ED2DAB7E0DEC8AFF0EF2
+SMA Negeri 6 Tasikmalaya,20224506,SMA,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,76,19,1500,39,36,7,1,19,30 Apr 2026 12:28:00,FB1E770DDBF5592CCF6E
+SMA Negeri 9 Tasikmalaya,20224514,SMA,Negeri,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,55,10,981,27,28,5,1,81,24 Apr 2026 07:48:40,859106167787201F6EC6
+SMAS PASUNDAN 2 TASIKMALAYA,20224546,SMA,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,4,71,3,10,3,1,21,30 Apr 2026 10:35:59,B9E1D92BD4554C9BC808
+SMKS BHAKTI KENCANA TASIKMALAYA,20224521,SMK,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,31,9,261,13,21,3,1,21,23 Apr 2026 12:06:23,4750A822834C9397EA92
+SMKS BINA PUTERA NUSANTARA TASIKMALAYA,20224523,SMK,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,41,14,487,22,36,6,1,36,02 May 2026 12:40:17,5345BBFF8D09AC60F3D9
+SMKS PASUNDAN 2 KOTA TASIKMALAYA,20269597,SMK,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,1,2,7,1,6,1,1,7,13 Apr 2026 20:57:19,1153023911C629389968
+SMKS SUKAPURA,20247288,SMK,Swasta,Kec. Indihiang,026805,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,11,3,21,3,6,3,1,13,24 Apr 2026 09:54:46,AECC01C49E6FE7012254

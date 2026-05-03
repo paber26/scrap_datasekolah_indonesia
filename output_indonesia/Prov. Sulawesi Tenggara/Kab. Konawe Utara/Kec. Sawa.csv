@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 SAWA,40403933,SD,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,15,1,93,6,6,1,1,51,15 Apr 2026 20:51:11,A22B30AB362809A5D76C
+SD NEGERI 2 SAWA,40403923,SD,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,12,2,122,6,6,0,1,25,14 Mar 2026 18:54:57,68542CDBA215FD6A0CF9
+SD NEGERI 3 SAWA,40403876,SD,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,9,2,119,6,6,1,1,15,17 Apr 2026 00:03:00,5067EED976D6EA0F9C54
+SD NEGERI 4 SAWA,40403931,SD,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,13,5,46,6,6,1,1,11,23 Apr 2026 10:50:56,653CCF8761B5592BCDB0
+SD NEGERI 5 SAWA,40403879,SD,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,14,4,116,6,6,1,1,40,04 Apr 2026 20:48:33,E2ED442B947242E7B679
+SD NEGERI 6 SAWA,40404820,SD,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,13,2,62,6,6,0,1,37,14 Apr 2026 08:44:02,BAAB36F5E655D1E69061
+SD NEGERI 7 SAWA,69787697,SD,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,12,3,53,6,6,0,1,19,07 Mar 2026 12:32:23,5BC775610AAE44BEE75A
+SMP NEGERI 1 SAWA,40403958,SMP,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,22,6,157,6,6,3,2,22,05 Apr 2026 18:29:54,173455DA5E9665C71974
+SMP NEGERI SATAP 4 SAWA,40404829,SMP,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,13,4,17,3,4,3,2,24,22 Apr 2026 06:20:40,4FB9B8C54FA209BA157B
+SMAN 1 SAWA,40403971,SMA,Negeri,Kec. Sawa,200907,Kab. Konawe Utara,200900,Prov. Sulawesi Tenggara,200000,24,4,271,9,12,4,1,17,27 Apr 2026 22:38:10,CE509F0CC178FF3AD215

@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Giriharjo,20311583,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,114,6,6,0,1,16,02 May 2026 11:03:02,DF56DF45CADCB1AA3519
+SD Negeri 1 Golo,20311430,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,74,6,6,0,1,8,10 Apr 2026 09:01:04,380FCC6F2387ABE6FEE1
+SD Negeri 1 Nguneng,20311488,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,0,91,6,6,0,1,9,10 Apr 2026 11:43:16,19E480C979EADA6D7905
+SD Negeri 1 Puhpelem,20311460,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,123,6,7,0,1,6,20 Apr 2026 15:11:31,CA7390512112F1BD8BB8
+SD Negeri 1 Sukorejo,20311756,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,47,6,6,0,1,44,07 Apr 2026 12:58:48,890EEACA18E812741480
+SD Negeri 1 Tengger,20311765,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,63,6,6,0,1,40,29 Apr 2026 11:44:20,D383AB9C9613033F60CC
+SD Negeri 2 Giriharjo,20311665,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,44,6,6,0,1,16,03 Apr 2026 09:29:31,199098A9D89BBDCB8F14
+SD Negeri 2 Golo,20311656,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,113,6,6,0,1,11,08 Apr 2026 08:30:16,B400B1E023149A115717
+SD Negeri 2 Nguneng,20311716,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,39,6,6,0,1,22,07 Apr 2026 19:48:36,DB0D4E285DF82C55ECBF
+SD Negeri 2 Sukorejo,20310879,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,112,6,6,0,1,12,20 Apr 2026 15:10:41,6FDDB7DFB19D6B82627C
+SD Negeri 2 Tengger,20310984,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,87,6,8,0,1,11,07 Apr 2026 10:22:32,42C76A270E51FBE968A0
+SD Negeri 3 Golo,20310968,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,60,6,6,0,1,22,08 Apr 2026 06:53:59,8F7DB980F1DF4B3BC0A9
+SD Negeri 3 Nguneng,20310754,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,67,6,6,0,1,8,06 Apr 2026 23:03:45,17802A3CC2AFBBB014CB
+SD Negeri 3 Puhpelem,20310772,SD,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,62,6,6,0,1,23,13 Apr 2026 08:36:31,EAFB1617D8362F18064D
+SMP NEGERI 1 PUHPELEM,20311204,SMP,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,9,5,229,9,11,3,1,29,29 Apr 2026 10:45:24,330BB21C46F1B7D07D37
+SMP NEGERI 2 PUHPELEM,20311080,SMP,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,18,8,328,12,12,3,1,21,16 Apr 2026 11:56:30,B18F9EEE472F27B7ACDB
+SMK NEGERI 1 PUHPELEM,69888740,SMK,Negeri,Kec. Puhpelem,031225,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,41,9,735,21,14,3,1,37,21 Apr 2026 15:13:57,6C48969B286A93840E18

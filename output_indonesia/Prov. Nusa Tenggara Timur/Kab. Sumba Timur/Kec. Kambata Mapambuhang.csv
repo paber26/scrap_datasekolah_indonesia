@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES LAIMETA,50305723,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,1,65,6,5,0,0,6,26 Jan 2026 08:34:43,EAC081FFE4D9188AD0E2
+SD INPRES MARADA MUNDI,50303850,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,8,3,78,6,6,0,1,15,08 Apr 2026 18:52:34,FECD77998DAA767303B9
+SD NEGERI LUKUWINGIR,60730085,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,2,47,6,6,0,0,5,03 Apr 2026 19:03:07,4B282F1963B42141AF7E
+SD NEGERI LUMBUNG,50303722,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,2,35,6,6,0,1,23,30 Mar 2026 20:06:51,1DEBACBFD617E19778A0
+SD NEGERI NGARUKAHIRI,50303801,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,2,44,6,6,0,1,15,13 Apr 2026 16:45:10,80252F599F556FFAB700
+SD NEGERI PENANG,50303797,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,1,39,6,6,0,0,16,29 Apr 2026 11:08:54,DB3070F2043D872E26F6
+SD NEGERI TANA RIDU,50305737,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,2,57,6,6,0,0,12,04 Apr 2026 17:30:54,E8C5A33D2B0C87921069
+SD NEGERI TANATURA,69774673,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,2,75,6,6,0,1,10,17 Apr 2026 11:14:30,05CB4CD3F2B97CA4B59B
+SD NEGERI WAIMBIDI,69774672,SD,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,1,47,6,6,0,0,8,04 Apr 2026 14:34:05,2BBB3F57F7BA15A10D39
+SMP NEGERI 1 KAMBATA MAPAMBUHANG,50307985,SMP,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,5,6,77,3,6,3,2,13,22 Apr 2026 23:34:59,108559C37EB1FFBA1DEE
+SMP NEGERI SATAP LAIMETA,69787670,SMP,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,3,48,3,3,0,0,19,23 Apr 2026 06:25:38,14ADB19F9F0A4D2F7052
+SMP NEGERI SATAP NGARUKAHIRI,50307981,SMP,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,10,4,69,3,3,1,1,19,01 May 2026 10:22:59,2165BD21CB4B0C3E8710
+SMK NEGERI 8 KAMBATA MAPAMBUHANG,70043298,SMK,Negeri,Kec. Kambata Mapambuhang,241219,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,12,3,56,8,8,0,0,26,28 Apr 2026 12:11:42,4143568D1D22D59FD5FC

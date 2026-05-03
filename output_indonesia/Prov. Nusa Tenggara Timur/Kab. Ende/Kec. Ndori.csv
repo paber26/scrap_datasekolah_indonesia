@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES AEREA,50302737,SD,Negeri,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,11,0,112,6,6,0,1,11,07 Apr 2026 22:25:08,ECB4A18C9FA85B2B63FF
+SD INPRES HOBAKUA,50302717,SD,Negeri,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,8,1,89,6,6,0,1,22,27 Apr 2026 09:16:15,1566A346047C0CE49651
+SD INPRES ILIWODO 1,50305646,SD,Negeri,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,1,65,6,6,0,1,12,05 Mar 2026 06:27:50,B1D715F31209913EC96A
+SD INPRES ILIWODO 2,50305647,SD,Negeri,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,2,123,6,6,0,1,16,27 Apr 2026 07:30:18,77AC1F13B86747E33D7A
+SD INPRES WONDA,50305650,SD,Negeri,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,8,3,22,6,6,0,1,10,11 Mar 2026 08:33:53,99369D29F757177232FE
+SD NEGERI MOLEKELISAMBA,50305651,SD,Negeri,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,2,46,6,6,0,1,12,16 Apr 2026 07:54:24,5F0A7A76EF86CA0782B1
+SD KATOLIK AEBARA,50305648,SD,Swasta,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,6,1,61,6,6,0,2,8,12 Apr 2026 17:56:12,ED83AB34D006E60E6601
+SD KATOLIK WONDA,50302546,SD,Swasta,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,6,1,81,6,6,0,2,8,09 Apr 2026 20:10:17,C4E8F2C8C88256EF071C
+SMP NEGERI 5 WOLOWARU,50302630,SMP,Negeri,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,15,2,250,9,10,2,1,20,03 Mar 2026 10:03:11,22CAB27BC158A070E518
+SMP NEGERI SATU ATAP AEREA,50305423,SMP,Negeri,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,10,1,67,3,7,0,0,12,28 Apr 2026 08:27:21,0E870823E7D1E59E7FCE
+SMK RESTORASI ST. FRANSISKUS ASISI WONDA,70010483,SMK,Swasta,Kec. Ndori,240918,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,13,5,71,6,7,0,1,17,19 Apr 2026 13:01:27,2DAF1045A866E521AE42

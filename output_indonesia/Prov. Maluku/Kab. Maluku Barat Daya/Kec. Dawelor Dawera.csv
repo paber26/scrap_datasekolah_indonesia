@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES LETMASA,60102330,SD,Negeri,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,6,4,19,6,3,0,0,20,02 May 2026 18:54:07,924AD4FAC20634010F43
+SD INPRES NURNYAMAN,60101410,SD,Negeri,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,7,0,39,6,6,0,0,20,15 Apr 2026 08:06:16,78248FA9C9AA08665327
+SD NEGERI WELORA,60101489,SD,Negeri,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,6,4,16,6,6,0,1,19,11 Apr 2026 18:23:53,9E6B632F842A95B784F0
+SD KRISTEN ILMARANG,60103441,SD,Swasta,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,5,1,38,6,6,0,1,7,08 Apr 2026 20:54:10,A7DF31B1A22D32B59743
+SD KRISTEN WATUWEI,60101380,SD,Swasta,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,2,0,55,6,6,0,1,7,06 Feb 2026 08:06:04,822C779D0A6982212BB9
+SD KRISTEN WIRATAN,60103176,SD,Swasta,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,2,1,52,6,6,0,1,7,11 Apr 2026 18:47:05,CC303A411AE86D828FB8
+SMP NEGERI 1 AMARERE,60101182,SMP,Negeri,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,11,3,66,3,3,1,1,23,08 Apr 2026 07:55:59,9CFF0F9A8EE140694A7E
+SMP NEGERI 5 ILMARANG,60102357,SMP,Negeri,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,14,7,43,3,3,2,1,11,03 Apr 2026 13:11:40,0BF9FE0EE4B73B49873E
+SMA NEGERI 17 MALUKU BARAT DAYA,69899235,SMA,Negeri,Kec. Dawelor Dawera,210813,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,16,0,51,3,3,0,1,19,10 Mar 2026 09:02:22,24B3F3BED5DA06B359D8

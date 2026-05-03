@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPK BU EPE,60304950,SD,Swasta,Kec. Kaptel,370117,Kab. Merauke,370100,Prov. Papua Selatan,370000,2,1,78,6,3,0,0,18,01 May 2026 08:18:50,D4D06EF14846226024FC
+SD YPK IHLEP,60300748,SD,Swasta,Kec. Kaptel,370117,Kab. Merauke,370100,Prov. Papua Selatan,370000,3,1,92,6,6,0,0,15,10 Apr 2026 05:40:55,D6CF25F5C8FA8F1E6EFB
+SD YPK KANISKOBAT,60300746,SD,Swasta,Kec. Kaptel,370117,Kab. Merauke,370100,Prov. Papua Selatan,370000,7,1,105,6,6,0,0,54,25 Apr 2026 16:41:05,1FDD3A4285CB9A13007B
+SD YPK KAPTEL,60300745,SD,Swasta,Kec. Kaptel,370117,Kab. Merauke,370100,Prov. Papua Selatan,370000,5,1,109,6,8,0,0,12,24 Apr 2026 11:34:24,E0D0D8C5EDA051688529
+SD YPK KWEMSID,60300742,SD,Swasta,Kec. Kaptel,370117,Kab. Merauke,370100,Prov. Papua Selatan,370000,4,1,67,6,6,0,0,5,17 Apr 2026 04:55:31,B856076D20CD2E4C7363
+SMP NEGERI PERSIAPAN KAPTEL,69772746,SMP,Negeri,Kec. Kaptel,370117,Kab. Merauke,370100,Prov. Papua Selatan,370000,13,2,113,6,4,1,1,23,30 Apr 2026 17:44:29,1FC4C11BBC6645429C42

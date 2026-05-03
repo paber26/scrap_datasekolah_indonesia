@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES OMANESEP,69787832,SD,Negeri,Kec. Betcbamu,370419,Kab. Asmat,370400,Prov. Papua Selatan,370000,6,1,187,8,6,0,0,35,20 Apr 2026 10:06:55,38CCDC9A1F8F738FA241
+SD INPRES YOUW,60303717,SD,Negeri,Kec. Betcbamu,370419,Kab. Asmat,370400,Prov. Papua Selatan,370000,11,1,138,8,6,0,1,65,24 Apr 2026 07:25:13,F6CE4DB9D41CBDA0E81D
+SD NEGERI KAWET,69787829,SD,Negeri,Kec. Betcbamu,370419,Kab. Asmat,370400,Prov. Papua Selatan,370000,6,1,44,6,3,0,0,72,16 Apr 2026 08:58:14,1E9167755F1F90CB1B40
+SD NEGERI WARKAI,69787830,SD,Negeri,Kec. Betcbamu,370419,Kab. Asmat,370400,Prov. Papua Selatan,370000,6,1,173,8,5,0,0,39,29 Apr 2026 12:47:23,6660A3AE1ECFF1964570
+SD YPPK BIWAR LAUT,60303727,SD,Swasta,Kec. Betcbamu,370419,Kab. Asmat,370400,Prov. Papua Selatan,370000,9,1,187,7,4,0,0,15,01 May 2026 11:16:32,3567F195FF8CDEC59766
+SMP NEGERI BETCBAMU,70050444,SMP,Negeri,Kec. Betcbamu,370419,Kab. Asmat,370400,Prov. Papua Selatan,370000,5,2,92,3,1,0,0,43,29 Apr 2026 21:04:54,CE9F15948BE4F2505972

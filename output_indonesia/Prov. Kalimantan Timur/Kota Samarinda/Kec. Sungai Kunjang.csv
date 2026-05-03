@@ -1,0 +1,57 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri  028 Sungai Kunjang,70054049,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,6,1,74,3,18,1,1,11,02 Apr 2026 09:51:51,6B3FB653815BE329703B
+SD Negeri 001 Sungai Kunjang,30401098,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,34,6,628,24,14,1,1,39,02 May 2026 19:43:25,33323A07EA1B34863D2C
+SD Negeri 002 Sungai Kunjang,30401137,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,26,3,485,17,8,1,1,30,27 Apr 2026 13:11:50,126E6A9AA5A4999C70E0
+SD Negeri 003 Sungai Kunjang,30401143,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,27,4,533,18,13,0,1,19,25 Apr 2026 11:22:48,F25249248B75AD6C7B9E
+SD Negeri 004 Sungai Kunjang,30401127,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,19,1,340,13,6,0,1,66,29 Apr 2026 08:29:54,C82D23CB49C955A2A451
+SD Negeri 005 Sungai Kunjang,30401132,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,29,4,378,18,12,1,1,37,01 May 2026 12:56:11,D0E83136F193B2E2C9CD
+SD Negeri 006 Sungai Kunjang,30401346,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,30,7,626,21,12,1,1,22,29 Apr 2026 10:51:47,7A798DCE2BF6256E3244
+SD Negeri 007 Sungai Kunjang,30401342,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,23,5,377,15,17,0,1,25,13 Apr 2026 10:54:51,29310950D19034923CB8
+SD Negeri 008 Sungai Kunjang,30401335,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,29,3,634,23,12,0,1,20,28 Apr 2026 07:45:48,436E319872F60DD61210
+SD Negeri 009 Sungai Kunjang,30401353,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,34,4,629,23,16,0,1,16,23 Apr 2026 07:05:02,FF15839CDFAD3B3A7551
+SD Negeri 010 Sungai Kunjang,30401370,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,24,3,510,17,7,0,0,21,10 Apr 2026 08:00:19,64152835E38C9CADE2D9
+SD Negeri 012 Sungai Kunjang,30401360,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,9,1,175,7,7,0,1,17,22 Apr 2026 07:02:51,F31D17EB58FFC90CB058
+SD Negeri 015 Sungai Kunjang,30401190,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,21,5,352,14,13,0,1,38,21 Apr 2026 08:04:00,27FE9E278E61E86CC99A
+SD Negeri 016 Sungai Kunjang,30401196,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,34,7,706,24,20,0,1,18,28 Apr 2026 06:24:01,4DEE336D28B6CF6F4CC3
+SD Negeri 017 Sungai Kunjang,30401324,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,31,4,656,23,10,0,0,38,21 Apr 2026 09:50:12,1BD84A1256736CDAC5C6
+SD Negeri 019 Sungai Kunjang,30401314,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,18,5,345,13,9,0,2,14,22 Apr 2026 11:08:12,D20ADDF75A01082487EE
+SD Negeri 020 Sungai Kunjang,30400961,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,16,4,333,12,10,0,1,17,06 Apr 2026 06:27:42,3AEBCEA6F6F12F90A417
+SD Negeri 021 Sungai Kunjang,30400978,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,33,5,638,23,12,0,1,16,27 Apr 2026 10:01:55,8A1E2D2F8C951C73C75A
+SD Negeri 022 Sungai Kunjang,30400962,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,39,5,756,24,10,0,1,33,27 Apr 2026 09:48:14,AA1B661BCAD4637F748C
+SD Negeri 026 Sungai Kunjang,30400984,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,16,4,336,12,12,0,1,52,29 Apr 2026 07:19:12,2E9E01D68EEA924E0D71
+SD Negeri 027 Sungai Kunjang,30400989,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,32,5,767,24,20,0,1,105,02 May 2026 18:46:48,D37CDAB26C36A2E25FDC
+Sekolah Rakyat Dasar Terintegrasi 57 Samarinda,70058838,SD,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,2,0,0,0,0,0,0,0,,B02404524FC3C78B30F0
+SD Islam Al Azhar 47 Samarinda,69831546,SD,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,31,6,634,23,23,1,1,29,24 Apr 2026 07:02:10,9E4A0359301A9BD23B16
+SD Islam Al Fatih Samarinda,70008263,SD,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,7,5,129,7,7,0,0,18,02 May 2026 10:12:33,F76769E955E5DB50E707
+SD Islam Darul Falah 1 Samarinda,69831545,SD,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,7,1,92,6,6,0,1,35,26 Apr 2026 20:22:16,366A06EA6E9184A20B2E
+SD Islam Darul Fata Samarinda,30404249,SD,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,9,1,245,10,6,0,1,16,27 Apr 2026 19:35:42,821A63524CDE1CE30225
+SD Islamic Center,69761839,SD,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,28,7,517,22,22,0,2,30,06 Apr 2026 13:23:02,AED4AA784E0E41D1233D
+SD IT Nurul Hadi Samarinda,30404251,SD,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,9,1,157,6,6,0,1,8,08 Apr 2026 09:17:10,585F59E2515ADEFF5BE7
+SD Khasanah,69996236,SD,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,9,4,206,10,10,0,1,27,02 Apr 2026 12:47:42,020B7BE4693EA5DEEF9B
+SD Muhammadiyah 5,30407427,SD,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,38,6,1028,35,35,2,1,10,08 Mar 2026 06:48:39,328554949579649E024F
+Sekolah Rakyat Menengah Pertama Terintegrasi 57 Samarinda,70058839,SMP,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,2,0,0,0,0,0,0,0,,79C1F9E0ABFCB77F71E7
+SMP Negeri 10 Samarinda,30401026,SMP,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,53,13,994,30,31,3,1,21,08 Apr 2026 16:56:10,EC3797B5F801E0E76E74
+SMP Negeri 16 Samarinda,30401009,SMP,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,38,9,687,21,21,3,1,63,02 May 2026 08:04:30,63A06DA3733D3F3AA0D8
+SMP Negeri 25 Samarinda,30401041,SMP,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,30,7,468,14,15,0,1,31,20 Apr 2026 15:54:04,144EAA5D42B61E7B2E0F
+SMP Negeri 28 Samarinda,30401044,SMP,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,21,5,442,14,15,2,1,13,14 Apr 2026 19:07:02,027C3D97BB4E4EF19DD8
+SMP Negeri 38 Samarinda,30404177,SMP,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,24,3,448,14,14,1,0,60,20 Apr 2026 14:09:16,B5885C630725C48B1237
+SMP Negeri 40 Samarinda,30404303,SMP,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,27,10,580,17,11,1,1,14,02 Apr 2026 07:07:52,E26232B448D9DA2C3923
+SMP Negeri 50 Samarinda,70054018,SMP,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,14,5,238,7,14,3,1,19,02 Apr 2026 07:22:25,8A8BC93C93A374D64CCC
+SMP Cendana DDI Samarinda,30401022,SMP,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,6,3,38,3,4,1,1,12,23 Apr 2026 09:58:11,7ED40B89C10FEAAD5800
+SMP Islam Al Azhar 48 Samarinda,70004746,SMP,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,7,2,147,5,7,2,1,11,10 Apr 2026 13:25:33,25194643E32B112A281E
+SMP Islamic Center Samarinda,70003035,SMP,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,11,5,177,8,9,2,1,10,16 Apr 2026 19:22:19,9EB7FE55F744C332296F
+SMP Muhammadiyah 2 Samarinda,30404302,SMP,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,9,5,92,4,8,2,1,4,04 Mar 2026 08:53:59,6C028FBC686F0F6E488A
+SMP Muhammadiyah 6 Samarinda,69966674,SMP,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,16,3,369,13,15,2,1,14,13 Apr 2026 10:58:01,F2330F55324C600B50FF
+SMP Nabil Husein Samarinda,30404261,SMP,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,16,4,203,8,21,3,1,22,29 Apr 2026 19:46:06,0C372179C5E0558C6F65
+SMP PGRI 5 Samarinda,30404122,SMP,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,1,1,0,0,0,0,0,0,,2E459FF2695D087E09EA
+Sekolah Rakyat Menengah Atas Terintegrasi 57 Samarinda,70058840,SMA,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,13,3,20,1,1,1,1,26,23 Apr 2026 09:53:15,16AA3A97AA875CE4BFB6
+SMA Negeri 14 Samarinda,30404268,SMA,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,39,15,701,20,21,3,1,20,29 Apr 2026 14:08:41,C6DCAD89FD0AB16BB2E7
+SMA Negeri 8 Samarinda,30401054,SMA,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,37,15,641,18,18,2,1,43,28 Apr 2026 12:28:41,34283D3B87B725BB2E9D
+SMAS Muhammadiyah 2 Samarinda,30404266,SMA,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,7,4,45,3,5,2,1,25,25 Apr 2026 03:14:48,53AD9089995252C646B4
+SMAS Nabil Husein Samarinda,30404269,SMA,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,14,4,144,5,7,5,1,32,01 Apr 2026 22:24:46,F41B9BA7F31B5431F470
+SMK Kehutanan Negeri Samarinda,30407651,SMK,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,22,28,336,10,10,4,1,2,28 Jan 2026 07:12:10,4FF18A3B1F192F233B53
+SMK Negeri 12 Samarinda,30403015,SMK,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,36,12,535,20,19,5,1,13,23 Apr 2026 10:42:18,7B0550C21A571B705FA1
+SMK Negeri 15 Samarinda,30404135,SMK,Negeri,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,74,27,1329,44,29,2,1,41,27 Apr 2026 08:59:57,E2D1DC29DD11C80C5161
+SMKS Al Azhar Samarinda,30406107,SMK,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,13,3,58,6,6,1,1,18,07 Apr 2026 16:43:11,4C61D8F99887F82D5D87
+SMKS Cendana DDI Samarinda,30403014,SMK,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,5,4,163,6,5,2,1,9,30 Apr 2026 14:48:10,59F218A65CAD29D0C9A0
+SMKS Nabil Husein Samarinda,30404274,SMK,Swasta,Kec. Sungai Kunjang,166004,Kota Samarinda,166000,Prov. Kalimantan Timur,160000,12,5,107,6,9,3,1,17,24 Apr 2026 05:00:46,44011751E9D447879E93

@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri  Agapa,69969214,SD,Negeri,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,7,1,147,8,3,0,0,44,17 Feb 2026 17:39:49,A4F2CCEE653BEAB9C244
+SD Negeri Inpres Kendetapa,60304734,SD,Negeri,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,1,2,31,2,6,0,0,4,10 Feb 2026 09:08:27,F9E79CD6DD37A33B2FFB
+SD Negeri Inpres Mapa,60304735,SD,Negeri,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,11,1,80,4,6,0,0,9,22 Apr 2026 12:26:48,441C1101A6649AF31775
+SD NEGERI INPRES MAYA,60302302,SD,Negeri,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,10,1,78,5,6,0,1,22,22 Apr 2026 12:01:56,10A6EF985F171E4BF622
+SD NEGERI INPRES POGAPA,60302307,SD,Negeri,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,14,2,72,7,6,0,1,27,29 Apr 2026 09:10:35,3E37FCBD48DCB6C4070C
+SD Negeri Inpres Selemama,60302309,SD,Negeri,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,11,1,210,8,8,0,0,22,22 Apr 2026 11:49:25,6DF80DB27A4B36559988
+SD Advent  Sanepa,60305014,SD,Swasta,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,0,1,78,5,2,0,0,11,02 Apr 2026 17:16:21,763EE4A284876F42CC7B
+SD YPPGI IWAI,70040143,SD,Swasta,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,0,0,102,3,2,0,0,2,10 Feb 2026 10:38:37,7C7369C4094B8762CE27
+SD YPPK BILAI,60302396,SD,Swasta,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,1,2,189,8,6,0,1,10,02 May 2026 16:05:52,47E54E909C2FB6B1658E
+SD YPPK Sanepa,60302416,SD,Swasta,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,2,0,127,5,7,0,0,6,27 Feb 2026 07:10:25,C74A2B0B7B52E0C51AFF
+SMP NEGERI 2 HOMEYO,60302441,SMP,Negeri,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,19,2,87,4,7,2,1,25,26 Mar 2026 17:50:21,043D20BC3B169F7566AF
+SMP YPPK BILAI,69968523,SMP,Swasta,Kec. Homeyo,360702,Kab. Intan Jaya,360700,Prov. Papua Tengah,360000,5,1,147,6,4,0,1,13,23 Apr 2026 09:58:02,36A98C0884E83204021C

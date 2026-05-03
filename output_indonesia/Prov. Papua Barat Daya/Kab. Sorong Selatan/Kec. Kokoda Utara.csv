@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 34 ESAU,70054169,SD,Negeri,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,1,4,41,6,6,0,0,25,07 Mar 2026 22:48:45,AF9F415286A505BEFAF1
+SD PERSIAPAN ADONA,69862450,SD,Negeri,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,7,2,28,6,3,0,0,1,09 Apr 2026 05:29:54,AA3E5B2ED8193C0C42F6
+SD PERSIAPAN KAMUNDAN 1,69759001,SD,Swasta,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,1,1,19,4,3,0,0,18,01 May 2026 16:53:37,B8E4A8BF6B5DF7BBF169
+SD PERSIAPAN KAMUNDAN 2,69759002,SD,Swasta,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,0,0,18,5,4,0,0,5,07 Feb 2026 09:03:08,A22123A622D522C2DE0E
+SD YPK BENAWA II,60401694,SD,Swasta,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,4,1,87,7,3,1,1,25,30 Mar 2026 22:19:22,302E23275DFFACF2F9F2
+SD YPK BUKIT ZAITUN ATORI,60401691,SD,Swasta,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,3,3,85,6,3,0,1,13,29 Apr 2026 12:22:31,42BA4C97F766165B02A4
+SD YPK UDAGAGA,60401729,SD,Swasta,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,2,2,46,6,8,0,1,8,16 Apr 2026 18:14:45,B774863FEDE3F4126B21
+SMP NEGERI KOKODA IMU,70041586,SMP,Negeri,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,4,1,48,3,3,0,0,41,02 May 2026 18:34:07,2C5E26AA855496618717
+SMP NEGERI KOKODA UTARA,60404182,SMP,Negeri,Kec. Kokoda Utara,390321,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,7,2,62,3,5,1,1,6,04 Mar 2026 20:24:05,0EEF26DC2B65C451F69F

@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 TIWORO SELATAN,40400609,SD,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,3,108,6,6,1,1,6,04 Apr 2026 01:14:15,EDF45F92E65553FC24D7
+SDN 2 TIWORO SELATAN,40400596,SD,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,1,153,8,7,1,1,23,10 Apr 2026 12:03:46,4E51F400B1D69924C04A
+SDN 3 TIWORO SELATAN,40400740,SD,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,13,1,195,8,8,0,1,11,13 Mar 2026 21:58:15,C85FD31BCCF7F4A955BD
+SDN 4 TIWORO SELATAN,40400799,SD,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,0,113,6,7,0,1,6,21 Feb 2026 07:15:28,017FA99A6B21E5A1B729
+SDN 5 TIWORO SELATAN,40402880,SD,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,1,81,6,6,0,1,11,17 Apr 2026 16:58:48,B703BD35D610333A99F7
+SMPN 1 TIWORO SELATAN,40400691,SMP,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,18,4,123,5,9,2,1,23,02 May 2026 09:25:00,FBC221C42943770EBD02
+SMPN 2 TIWORO SELATAN,40400698,SMP,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,18,4,142,6,9,2,1,25,14 Apr 2026 07:20:13,482F29A2C1D295B19317
+SMPN SATAP 1 TIWORO SELATAN,40405125,SMP,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,0,52,3,3,2,1,17,08 Apr 2026 06:23:47,E8685029B7B269DF85A0
+SMPN SATAP 2 TIWORO SELATAN,69849603,SMP,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,13,3,36,3,3,1,1,22,27 Apr 2026 19:53:43,AF99A9A0BF4D54032C3E
+SMP IT ITTIBAUL ATSAR PUTRI,70061750,SMP,Swasta,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,2,2,0,0,0,0,0,0,,D9723A6B7613CE4B6C95
+SMKN 4 MUNA BARAT,69948524,SMK,Negeri,Kec. Tiworo Selatan,201305,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,35,5,120,9,9,3,1,43,30 Apr 2026 02:26:37,C34EE605FB556169A390

@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BADYADI,60304756,SD,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,1,0,0,0,0,0,0,0,,1EF8FF4DB4348732A75E
+SD NEGERI BIRI,60304759,SD,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,2,0,0,0,0,0,0,,715A3B9AE98FA23951BF
+SD NEGERI ERRI,60304761,SD,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,7,1,91,6,3,1,1,32,21 Apr 2026 18:07:52,32E68EB6D166C80E38A4
+SD NEGERI FOKLI,60304762,SD,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,0,1,0,0,0,0,0,0,,85AD9B433DF4B726D81B
+SD NEGERI INPRES KUSTRA,60304772,SD,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,4,1,72,6,6,0,0,117,28 Apr 2026 09:58:24,1DDD53CB3A845824BE6A
+SD NEGERI NOYADI,60304786,SD,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,1,0,0,0,0,0,0,,4EEFA671F03286DE981A
+SD NEGERI OBOGOI,60304787,SD,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,0,2,26,2,1,0,0,19,19 Apr 2026 21:18:14,98B9477853EFF21E673B
+SD NEGERI PERSIAPAN TOWAO,60304807,SD,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,1,86,6,2,0,0,51,02 May 2026 13:46:47,BAA4804954D5659479E2
+SMP NEGERI ERRI,69985316,SMP,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,4,1,67,3,3,0,0,8,03 Mar 2026 14:26:17,4F12ABA4475E600873B1
+SMP NEGERI I MAMBERAMO TENGAH TIMUR,60304833,SMP,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,2,85,3,3,0,0,15,12 Apr 2026 17:11:39,760650343DE1A2339C49
+SMP NEGERI SATU ATAP BIRI,69985350,SMP,Negeri,Kec. Mamberamo Tengah Timur,252806,Kab. Mamberamo Raya,252800,Prov. Papua,250000,6,1,92,4,6,0,0,23,18 Apr 2026 20:30:41,4776008CA80292B9228C

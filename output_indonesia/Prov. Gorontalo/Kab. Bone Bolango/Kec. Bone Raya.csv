@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BONE RAYA,40500965,SD,Negeri,Kec. Bone Raya,300410,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,5,65,6,6,0,1,22,29 Apr 2026 09:31:54,AA504EE79826657A7C56
+SD NEGERI 2 BONE RAYA,40500860,SD,Negeri,Kec. Bone Raya,300410,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,5,95,6,8,0,1,24,06 Apr 2026 14:17:11,69D38ED998DFFFC734C4
+SD NEGERI 3 BONE RAYA,40500866,SD,Negeri,Kec. Bone Raya,300410,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,5,103,6,6,0,1,15,03 Mar 2026 11:02:49,91CBDDBA5D2AE0636E51
+SD NEGERI 4 BONE RAYA,40500960,SD,Negeri,Kec. Bone Raya,300410,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,7,130,6,6,0,1,22,07 Apr 2026 14:02:42,5FA6E5F68929ADF79C0D
+SD NEGERI 5 BONE RAYA,40500986,SD,Negeri,Kec. Bone Raya,300410,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,16,7,175,10,9,1,1,22,28 Apr 2026 12:24:07,BCDF0E2AD82593A5BD7B
+SDN 6 BONE RAYA,69961301,SD,Negeri,Kec. Bone Raya,300410,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,6,145,7,6,1,1,15,08 Apr 2026 07:35:46,B086F30EFA233BC9FF1B
+SMP NEGERI 1 BONE RAYA,40500886,SMP,Negeri,Kec. Bone Raya,300410,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,19,10,326,12,12,2,1,23,07 Apr 2026 03:47:51,D01D499D3B0146948D55
+SMK NEGERI 1 BONE RAYA,40502033,SMK,Negeri,Kec. Bone Raya,300410,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,24,4,285,16,12,5,1,46,22 Apr 2026 12:10:46,6C8984F52EE12ADD7C1E

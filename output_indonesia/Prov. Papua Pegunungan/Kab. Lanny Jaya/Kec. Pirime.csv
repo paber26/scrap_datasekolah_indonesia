@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES NINDONAK,60301445,SD,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,8,1,372,13,13,0,0,13,01 May 2026 11:54:11,BF4CB28507DC630987BF
+SD Negeri 1 Pirime,70041331,SD,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,90,3,4,0,0,1,28 Apr 2026 17:32:59,D8FECB9F9B80A073D7AA
+SD NEGERI WAME,60304861,SD,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,5,1,187,6,6,0,1,8,29 Apr 2026 20:43:19,33EB868140E5717B26B1
+SD NEGERI YALIPOK,60304863,SD,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,16,1,194,7,7,1,0,32,02 May 2026 13:05:00,CB58CD6D18C1E43DAA5D
+SD YPPGI ANYAKROME,60301508,SD,Swasta,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,3,1,184,6,6,0,1,9,21 Apr 2026 18:57:44,0788732ACF2D89C7E9F7
+SD YPPGI WIRINGGAMBUT,60301526,SD,Swasta,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,9,1,163,6,9,0,0,23,02 May 2026 04:35:08,070DB14790668473F888
+SMP NEGERI 2 PIRIME,60303483,SMP,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,9,1,242,8,5,0,2,39,02 May 2026 16:42:42,F467A18845CBE20149DD
+SMP NEGERI 3 PIRIME,60304540,SMP,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,12,1,148,6,10,1,1,141,23 Apr 2026 16:02:21,1D25F5A0DCC650ACA0C1
+SMP NEGERI 4 PIRIME,60303637,SMP,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,259,8,10,0,0,23,22 Apr 2026 15:50:29,B63E94E5B8C3CC9D4FF0
+SMPN 1 PIRIME,60300783,SMP,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,18,1,474,12,9,1,1,72,23 Apr 2026 18:05:10,FF4406B3FE7481C17622
+SMP YPPGI WIRINGGAMBUT,60303495,SMP,Swasta,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,2,1,188,7,5,0,0,19,08 Apr 2026 20:42:56,F4FF45167DFB09AAAA1E
+SMAN 1 PIRIME,60302990,SMA,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,28,1,426,13,19,1,1,121,01 May 2026 10:15:41,892A7C16EEB602DE5C2F
+SMK Negeri 1 Agrobisnis dan Agroteknologi Lanny Jaya,69886212,SMK,Negeri,Kec. Pirime,380702,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,19,1,155,6,4,1,1,16,30 Apr 2026 07:41:53,480C72D76C4BDAE8F4D7

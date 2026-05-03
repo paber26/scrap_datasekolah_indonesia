@@ -1,0 +1,23 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BUNTA,40202817,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,19,5,297,13,9,0,1,34,22 Apr 2026 09:27:32,20ABBD8284F709C13AB9
+SD NEGERI 2 BUNTA,40204576,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,20,2,279,13,8,0,1,47,28 Apr 2026 10:34:27,5F3B8D343B4DA8AC1603
+SD NEGERI BIMOR JAYA,40202798,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,8,6,111,6,10,0,1,65,30 Apr 2026 22:40:16,0A316F7EBBC78BDC45BD
+SD NEGERI BUNGINTIMBE,40202816,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,17,4,273,12,12,0,1,12,07 Apr 2026 08:18:46,366A770D47EF83246E1B
+SD NEGERI KEUNO,40202752,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,7,3,64,6,7,0,1,36,10 Apr 2026 08:52:12,5C9803803EEAC5004D2D
+SD NEGERI MIA MEAMBO,70056829,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,0,0,0,0,0,0,0,0,,CE90B42673EDF14A649B
+SD NEGERI MOHONI,40202534,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,9,2,122,6,9,0,1,14,09 Apr 2026 13:07:13,4E7B4F1102E09343BEC9
+SD NEGERI MOLINO,40202619,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,19,4,313,13,11,0,2,18,16 Apr 2026 10:22:39,40E201708ADF897DA3F0
+SD NEGERI MOLORES,40202537,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,9,2,131,6,6,0,1,13,29 Apr 2026 07:07:15,F14CE76EE316A832FD04
+SD NEGERI PEB OOA,40202556,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,10,5,97,6,7,0,1,65,20 Apr 2026 15:50:36,011F0DDCC474E8DF8B7D
+SD NEGERI TOMPIRA,40202623,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,16,6,267,12,9,0,1,28,29 Apr 2026 12:53:13,E33E1524B28CE5EF9549
+SD Negeri Towara,69856881,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,13,4,194,10,8,0,1,33,10 Apr 2026 04:47:09,33EDB901723D44EBA463
+SD NEGERI UNGKEA,40204577,SD,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,7,3,118,6,6,0,1,25,21 Apr 2026 12:52:22,9BA3A6E65A7EBD53A483
+SD ALKHAERAAT BUNGINTIMBE,40202727,SD,Swasta,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,5,2,230,9,7,0,1,35,24 Apr 2026 07:28:27,56E03B1E8D510391A94B
+SMP NEGERI 1 PETASIA TIMUR,40202595,SMP,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,27,5,342,12,13,2,1,29,02 May 2026 08:56:34,32856D4F0321360F78EE
+SMP NEGERI 2 PETASIA TIMUR SATU ATAP,40204543,SMP,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,15,3,133,6,7,2,1,33,30 Apr 2026 09:49:25,5979363271998604BB6A
+SMP Negeri 3 Petasia Timur,69856888,SMP,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,17,4,197,8,9,2,1,23,28 Apr 2026 20:49:16,4BF287675EF0D5C77C4C
+SMP Negeri 4 Petasia Timur Satu Atap,69856889,SMP,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,11,1,51,3,4,0,0,45,12 Apr 2026 10:16:27,036D4E4C50AFDB464F6B
+SMP NEGERI MIA PANDE,70056831,SMP,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,2,2,40,2,8,0,1,15,03 Mar 2026 09:35:25,1B75F7396F9B747F0F54
+SMP ALKHAIRAAT BUNGINTIMBE,40202585,SMP,Swasta,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,5,2,204,7,6,1,1,36,16 Apr 2026 18:03:29,BE78003119ED6F8AEA2D
+SMAS AL-KHAIRAAT BUNGINTIMBE,40202645,SMA,Swasta,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,11,2,209,6,6,3,1,48,29 Apr 2026 10:27:38,C6BC894C5AF4F089528A
+SMK NEGERI 1 PETASIA TIMUR,69980344,SMK,Negeri,Kec. Petasia Timur,181208,Kab. Morowali Utara,181200,Prov. Sulawesi Tengah,180000,18,3,239,15,6,0,0,11,28 Apr 2026 13:09:24,D53F2A34E818CADBC034

@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BAOK,30201047,SD,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,9,2,32,6,6,0,1,32,27 Apr 2026 07:00:34,CAD9CA5923613C597AE3
+SD NEGERI 1 BERONG,30201009,SD,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,6,1,16,6,6,0,1,4,04 Feb 2026 08:55:35,9CAAB33E2528A0E57896
+SD NEGERI 1 LAMPEONG II,30201080,SD,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,8,3,111,6,6,0,1,6,10 Apr 2026 08:16:08,7FCC0251218904FE113B
+SD NEGERI 1 LINON BESI I,30201077,SD,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,7,1,29,6,6,0,1,1,17 Apr 2026 19:42:36,6C49B71D070AE3B7EB2A
+SD NEGERI 1 MUARA MEA,30200942,SD,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,7,1,30,6,6,0,2,4,11 Feb 2026 08:47:57,E83945DD26C956113434
+SD NEGERI 1 PAYANG,30200903,SD,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,7,1,24,5,6,0,1,5,04 Mar 2026 02:26:56,C3BD6903DF4B36285145
+SD NEGERI 1 TAMBABA,30200978,SD,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,8,3,27,5,5,0,1,6,03 Mar 2026 12:15:35,37805E13E21981221BCB
+SD NEGERI 2 LAMPEONG II,30201079,SD,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,6,2,19,5,7,0,1,9,29 Apr 2026 13:58:55,C3AE1035C7A416B590E8
+SMP NEGERI 1 GUNUNG PUREI,30203962,SMP,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,15,3,119,6,6,2,1,11,04 Apr 2026 21:30:35,0762C9B8E6DDA1A829A1
+SMKN 1 GUNUNG PUREI,30203974,SMK,Negeri,Kec. Gunung Purei,140303,Kab. Barito Utara,140300,Prov. Kalimantan Tengah,140000,13,2,93,6,6,2,1,10,31 Mar 2026 07:33:17,3D835DE83058248DD51D

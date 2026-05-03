@@ -1,0 +1,40 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Jatinom,20311414,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,4,37,6,6,0,1,9,18 Apr 2026 08:06:43,B108353DC6139D9CAA3F
+SD Negeri 1 Kayuloko,20311382,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,76,6,6,0,1,10,09 Mar 2026 10:28:28,F2F3A0EA0D07BAA1DCC5
+SD Negeri 1 Kebonagung,20311381,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,87,6,6,0,1,14,20 Apr 2026 08:07:36,437A1041AD0F07909116
+SD Negeri 1 Kedunggupit,20311379,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,101,6,6,0,1,28,16 Apr 2026 12:11:06,5DF923203D2E4EAAE943
+SD Negeri 1 Mojoreno,20311472,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,97,6,6,0,1,21,06 Apr 2026 19:56:49,ECD4DB0D3351CD74B75C
+SD Negeri 1 Ngabeyan,20311469,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,62,6,6,0,0,7,13 Apr 2026 10:50:48,5F287665A73355E83B83
+SD Negeri 1 Sembukan,20311782,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,52,6,6,0,1,13,06 Apr 2026 11:28:28,08258E3A4674C3D06C37
+SD Negeri 1 Sempukerep,20311780,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,138,6,6,0,0,12,17 Apr 2026 08:52:55,956B6ABA71CCD07DF6FC
+SD Negeri 1 Sidoharjo,20311804,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,43,6,6,0,1,12,02 Apr 2026 18:56:27,D0E74A18834243389C28
+SD Negeri 1 Tempursari,20311766,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,4,117,6,6,1,1,21,30 Apr 2026 10:45:27,95BB0424582FCC3517F1
+SD Negeri 1 Tremes,20311854,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,79,6,6,0,1,17,06 Apr 2026 08:13:30,C6BAB7AE383F1DA4E606
+SD Negeri 1 Widoro,20311845,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,62,6,6,0,0,4,02 Apr 2026 22:00:15,7C369BBC6F8AC3EA2B55
+SD Negeri 2 Jatinom,20311674,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,86,6,6,1,1,28,23 Apr 2026 06:34:41,0BBBBCAAD5624B20BFFE
+SD Negeri 2 Kebonagung,20311623,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,4,69,6,6,0,1,43,02 Apr 2026 08:27:01,FCEE8C8907A7B5C73F4B
+SD Negeri 2 Kedunggupit,20311622,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,53,6,6,0,1,23,07 Apr 2026 08:38:05,B1877989FFA049367FC9
+SD Negeri 2 Mojoreno,20311717,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,100,6,8,0,1,6,16 Apr 2026 11:03:43,41F1B696975054B62F07
+SD Negeri 2 Ngabeyan,20311732,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,48,6,6,0,0,44,17 Apr 2026 09:59:19,433A8281465BEFAE7818
+SD Negeri 2 Sembukan,20310940,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,109,6,6,0,1,25,24 Apr 2026 08:07:42,93BF785E317EBF88F165
+SD Negeri 2 Sempukerep,20310938,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,3,82,6,6,0,1,8,07 Mar 2026 05:59:39,07074E533DF72736C571
+SD Negeri 2 Sidoharjo,20310928,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,3,160,6,6,0,1,9,02 Mar 2026 21:01:25,9FBB2023D9F1185DD1F2
+SD Negeri 2 Tremes,20310980,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,144,6,7,0,1,8,06 Apr 2026 20:46:33,8AEB3BA48A093DC285F0
+SD Negeri 2 Widoro,20310989,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,52,6,6,0,1,9,04 Apr 2026 07:45:47,00F9CBCE56A59F7C8B1C
+SD Negeri 3 Jatinom,20310961,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,0,46,6,6,0,1,14,07 Apr 2026 07:50:19,17BE49061CD60E507239
+SD Negeri 3 Sembukan,20310855,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,62,6,6,0,1,6,03 Mar 2026 22:06:53,6A3CC8F1BF3240E76D9A
+SD Negeri 3 Sempukerep,20310854,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,65,6,6,0,1,12,05 Apr 2026 12:51:44,F51518978A51038ABEA7
+SD Negeri 3 Sidoharjo,20310849,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,63,6,6,0,1,16,29 Apr 2026 12:49:11,DC7CE862631429075EE0
+SD Negeri 3 Tempursari,20310864,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,65,6,6,0,1,19,29 Apr 2026 11:13:22,6B98AD57C21161C4ACF7
+SD Negeri 3 Widoro,20310822,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,59,6,6,1,1,27,01 May 2026 18:30:54,B71C0420861032DD9A41
+SD Negeri 4 Sidoharjo,20311299,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,121,6,7,0,1,17,02 May 2026 08:16:17,31561BFFFB3771B36F13
+SD Negeri 5 Sidoharjo,20311247,SD,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,93,6,6,0,1,12,04 Apr 2026 07:57:45,3EDFB6CFDA339AA8D5E3
+SD ISLAM UNGGULAN AL AMANAH,20311599,SD,Swasta,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,17,1,225,11,12,1,1,23,19 Apr 2026 16:05:44,726E2A479368393A0637
+SD IT AL HUDA SIDOHARJO,20341056,SD,Swasta,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,16,3,297,12,12,0,1,25,28 Apr 2026 10:17:06,40DA4CA381F0846BD82B
+SD MUHAMMADIYAH ASHABUL KAHFI PROGRAM KHUSUS,70024021,SD,Swasta,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,171,8,7,0,0,12,13 Apr 2026 21:39:08,CF7C62C97E905B20BE03
+SMP NEGERI 1 SIDOHARJO,20311201,SMP,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,24,8,574,18,18,3,1,19,20 Apr 2026 10:08:14,529CF895D6BA8FE992F7
+SMP NEGERI 2 SIDOHARJO,20311077,SMP,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,26,9,561,18,18,3,1,37,15 Apr 2026 19:11:37,EB76675E49D009F57C30
+SMP NEGERI 3 SIDOHARJO,20311094,SMP,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,26,9,486,17,16,4,1,19,29 Apr 2026 08:11:11,79F1A90BDCF46FFA8BD9
+SMA NEGERI 1 SIDOHARJO,20338516,SMA,Negeri,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,26,11,507,15,13,5,1,55,02 May 2026 08:54:06,5196187C80845A5CDF34
+SMK BAKTI NUSANTARA SIDOHARJO,20311329,SMK,Swasta,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,15,4,160,9,12,2,1,15,13 Apr 2026 13:27:15,47D3234E337D73141BC3
+SMK GAJAH MUNGKUR SIDOHARJO,69762770,SMK,Swasta,Kec. Sidoharjo,031216,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,72,3,7,1,1,19,06 Apr 2026 08:22:59,83482558C0BFAE183BF1

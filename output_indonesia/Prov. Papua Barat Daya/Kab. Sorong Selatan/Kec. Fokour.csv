@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 143 WELEK,60401675,SD,Negeri,Kec. Fokour,390324,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,8,2,17,6,6,0,0,37,10 Apr 2026 11:08:39,6C9EEDD1C7E5A70E917C
+SD INPRES 23 PASIR PUTIH,60401674,SD,Negeri,Kec. Fokour,390324,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,12,3,92,6,6,0,1,28,13 Apr 2026 16:25:50,E60CC69487E333AB425C
+SMP NEGERI 1 PASIR PUTIH,69787901,SMP,Negeri,Kec. Fokour,390324,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,15,2,56,3,3,1,1,17,11 Apr 2026 21:28:17,911B3883D59749093BCC

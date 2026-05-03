@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES NUAPU,50305644,SD,Negeri,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,10,2,68,6,11,0,1,43,29 Apr 2026 18:03:02,C29D33561939001EC27E
+SD KATOLIK KURULIMBU,50305645,SD,Swasta,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,5,1,84,6,6,0,1,112,24 Apr 2026 10:10:29,40F579277776A3F51693
+SD KATOLIK LANDOKURA,50305637,SD,Swasta,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,7,2,44,6,8,0,2,106,01 May 2026 18:56:39,FD51B9F328CAFB1C9021
+SD KATOLIK PAAPINGGA,50305638,SD,Swasta,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,6,1,60,6,6,0,1,24,22 Mar 2026 05:24:33,6A348D7C02E463EBE133
+SD KATOLIK ROGA,50305639,SD,Swasta,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,4,0,41,6,6,0,1,17,17 Apr 2026 07:13:47,665319DEB4B5ED0B9466
+SD KATOLIK SEULAKO,50302675,SD,Swasta,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,7,2,52,6,6,0,1,8,29 Apr 2026 07:10:28,CB7D5080DB0F7020D615
+SD KATOLIK SOKORIA 1,50305641,SD,Swasta,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,6,2,88,6,6,0,1,9,11 Mar 2026 18:28:57,EAC53F60B999595C6799
+SD KATOLIK SOKORIA 2,50305642,SD,Swasta,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,7,0,70,6,7,0,1,16,29 Apr 2026 06:47:42,0EE93E4F93B9C952D7F0
+SD KATOLIK TOBA,50305721,SD,Swasta,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,5,1,60,6,7,1,1,3,03 Feb 2026 11:04:59,138CCA29C7D1077EEE5C
+SMP NEGERI SATU ATAP NUAPU,50305432,SMP,Negeri,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,8,3,90,4,4,1,1,11,21 Apr 2026 18:07:50,F997F0BD9B136A445B4F
+SMP NEGERI SEKOLENGO,50305422,SMP,Negeri,Kec. Ndona Timur,240914,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,4,112,5,6,2,1,31,07 Apr 2026 09:30:25,231E3D5DCC2831E5F667

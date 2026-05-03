@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI TUMBANG KARAMU 1,30203262,SD,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,8,2,42,6,6,0,0,14,01 May 2026 00:50:07,D54BB05C4DC6C3C80C72
+SD NEGERI TUMBANG OLONG 1,30203274,SD,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,7,2,20,5,6,0,1,20,27 Apr 2026 16:02:50,3685F7DF7A4B87A260CB
+SD NEGERI TUMBANG OLONG 2-1,69754271,SD,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,7,1,92,6,6,0,0,60,02 May 2026 10:42:07,FA9E0AE82CF9A6D91E8E
+SD NEGERI TUMBANG TOPUS 1,30203269,SD,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,6,2,8,5,8,0,0,9,15 Apr 2026 15:08:19,F85BC2BE1FAEFCBA3581
+SD NEGERI TUMBANG TUJANG 1,30203198,SD,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,5,1,82,6,6,0,1,5,23 Feb 2026 21:22:06,5F05D41A4B3DCBE616BF
+SMP NEGERI 1 UUT MURUNG,30206995,SMP,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,5,1,48,3,3,1,1,14,19 Apr 2026 22:19:22,E92D78BA39B5B0279E89
+SMP NEGERI 2 SATU ATAP  UUT MURUNG,69754274,SMP,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,9,1,17,3,3,1,1,19,23 Apr 2026 20:59:23,A5FC7367EE9D14E94BCE
+SMP NEGERI 3 UUT MURUNG SATU ATAP,69759034,SMP,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,7,1,37,3,3,1,1,15,27 Apr 2026 04:55:53,D826EA04ED53A2277BB8
+SMA NEGERI 1 UUT MURUNG,69847240,SMA,Negeri,Kec. Uut Murung,141210,Kab. Murung Raya,141200,Prov. Kalimantan Tengah,140000,10,2,56,4,6,2,1,10,09 Apr 2026 18:30:27,6B0222014D873C7421FE

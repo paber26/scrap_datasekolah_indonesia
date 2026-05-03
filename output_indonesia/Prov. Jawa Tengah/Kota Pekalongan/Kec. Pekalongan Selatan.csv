@@ -1,0 +1,28 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri Banyurip Ageng,20329489,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,3,132,6,6,0,1,15,02 Mar 2026 11:47:10,9D23DAB56E39CF033139
+SD Negeri Buaran,20332006,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,167,6,6,1,1,10,09 Apr 2026 09:39:22,BF0BE0B89DA387657CD9
+SD Negeri Duwet,20329437,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,7,2,111,6,6,1,1,17,04 Apr 2026 09:47:54,1AD724A8312B67399BF2
+SD Negeri Jenggot,20329440,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,4,155,6,6,0,1,17,02 May 2026 08:59:13,4C595CC9F21AE69E9618
+SD Negeri Kertoharjo 01,20329458,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,148,6,6,0,1,7,07 Feb 2026 14:03:51,8C350D95500A82564239
+SD Negeri Kertoharjo 02,20329459,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,10,2,94,6,6,0,1,11,02 May 2026 07:27:47,3A8103E750075AF8C431
+SD Negeri Kradenan 01,20329462,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,19,6,347,13,14,1,2,22,04 Apr 2026 08:39:36,62AE64A220F42C3C0CA2
+SD Negeri Kradenan 04,20329463,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,1,147,6,6,1,1,40,25 Apr 2026 17:08:19,BDA977BDC07FE388AD1B
+SD Negeri Kuripan Kidul 02,20329452,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,3,98,6,6,1,1,6,06 Apr 2026 08:01:06,63DE9238AD807BD107E4
+SD Negeri Kuripan Lor 01,20329464,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,2,179,6,6,0,1,22,06 Apr 2026 07:34:34,944CACA641EDEBCC470B
+SD Negeri Kuripan Lor 02,20329502,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,3,156,6,6,0,1,11,07 Apr 2026 09:28:54,415CB5517112436C6CBB
+SD Negeri Soko,20329573,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,113,6,6,0,1,12,07 Apr 2026 12:08:36,2A6BB06D02D71DC671F8
+SD Negeri Yosorejo 01,20329590,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,0,116,6,6,0,1,10,02 Apr 2026 09:11:28,E58A4101362EF1087E6C
+SD Negeri Yosorejo 02,20329507,SD,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,10,3,169,6,6,0,1,50,02 May 2026 08:33:16,E15E00DEEF6C0500AFCA
+SD Islam YPI Buaran,20329498,SD,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,7,1,79,6,6,0,1,25,23 Apr 2026 08:49:10,7B9BAD7101728F33020B
+SD Muhammadiyah 01 Kuripan Kidul,20329500,SD,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,97,6,6,1,1,18,11 Apr 2026 20:00:24,3D6247EDC37F293734CF
+Sekolah Dasar Islam Al Azhar 60 Pekalongan,69988270,SD,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,22,2,484,20,25,1,1,24,04 Apr 2026 11:15:09,909DB60C4D65F50447D6
+SMP Negeri 14 Pekalongan,20331632,SMP,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,36,8,668,21,21,4,1,28,16 Apr 2026 14:22:09,F2F53F1C5B2D8996160E
+SMP Negeri 16 Pekalongan,20331633,SMP,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,29,10,568,18,18,3,1,28,17 Apr 2026 09:24:00,536C7B472A7E668DB8B0
+SMP Islam Al Azhar 60,70041162,SMP,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,3,158,5,16,2,1,35,29 Apr 2026 09:41:49,FBE3281733DBB966B26C
+SMP Islam YPI Buaran,20329543,SMP,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,10,5,117,5,13,2,1,21,23 Apr 2026 09:02:23,7C584748A2DB72E8429A
+SMP Sains Cahaya Al-Qur`an,69990971,SMP,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,19,7,234,9,12,1,1,19,02 May 2026 19:22:19,1417BB9382DDB3F92D30
+SMA Negeri 4 Pekalongan,20329509,SMA,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,48,17,849,24,24,7,1,67,20 Apr 2026 13:13:51,D84F73821BC9D1EA9294
+SMA SAINS CAHAYA AL-QURAN,70046151,SMA,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,1,26,2,2,1,1,21,22 Apr 2026 08:13:36,1A8D0460BC6EF46F2C71
+SMK Negeri 4 Pekalongan,69759183,SMK,Negeri,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,41,11,782,23,18,4,1,47,30 Apr 2026 11:10:35,8550C5B32A94AA11F9D1
+SMK Ishthifaiyah Nahdliyah,69950817,SMK,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,3,2,0,0,0,0,0,0,,E11C2A1F392CF213452B
+SMK Syafi`i Akrom,20329527,SMK,Swasta,Kec. Pekalongan Selatan,036403,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,62,18,1332,38,27,3,1,58,29 Apr 2026 08:15:25,0CE38854FE87324FEF9F

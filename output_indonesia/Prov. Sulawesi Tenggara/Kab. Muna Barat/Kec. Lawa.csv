@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 LAWA,40400895,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,1,135,7,7,1,1,17,11 Apr 2026 08:04:17,CDE28E5C90042D263CAC
+SDN 10 LAWA,70054092,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,5,0,14,2,2,0,0,12,06 Mar 2026 20:24:20,BBA9253BC328C49970D4
+SDN 2 LAWA,40400656,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,0,64,6,6,0,1,6,04 Apr 2026 09:05:27,1964E4986806502B0D40
+SDN 3 LAWA,40400574,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,2,104,6,7,1,1,31,28 Apr 2026 08:48:40,C39BBE9E23D7C2C9A248
+SDN 4 LAWA,40400549,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,0,107,6,6,1,1,7,14 Mar 2026 08:12:53,4B04E51C6CE9053B45A7
+SDN 5 LAWA,40400582,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,8,4,105,6,10,1,2,5,22 Jan 2026 20:06:43,2B545D64029752AE3CA2
+SDN 6 LAWA,40400785,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,1,66,6,7,0,1,12,21 Apr 2026 07:14:16,EA04FF4D223D5DD38899
+SDN 7 LAWA,40400828,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,1,101,6,6,0,0,11,07 Apr 2026 16:24:45,C3186CD696B53B570A89
+SDN 8 LAWA,40400969,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,8,1,79,6,6,0,1,4,14 Mar 2026 21:54:18,699839D79C054DE8392A
+SDN 9 LAWA,40400992,SD,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,13,2,109,6,6,0,1,14,11 Apr 2026 10:30:12,DDAA51633473D0C563A9
+SMPN 1 LAWA,40403485,SMP,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,43,6,399,14,16,2,1,17,28 Apr 2026 13:58:23,BEDF4065469D40704B54
+SMPN SATAP 1 LAWA,40405280,SMP,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,14,1,31,3,3,2,2,19,27 Apr 2026 08:51:01,A31947322A948A0BA42E
+SMAN 1 LAWA,40400770,SMA,Negeri,Kec. Lawa,201303,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,118,23,658,20,22,3,1,24,29 Apr 2026 19:04:06,698E5645EBBD639F8DCB

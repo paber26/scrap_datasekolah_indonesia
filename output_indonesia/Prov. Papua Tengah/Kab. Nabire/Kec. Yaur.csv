@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri Inpres Wami Jaya,60302774,SD,Negeri,Kec. Yaur,360103,Kab. Nabire,360100,Prov. Papua Tengah,360000,17,1,211,9,8,0,1,12,11 Mar 2026 09:29:58,C4FE889960C1E295387E
+SD Negeri Sima,60301804,SD,Negeri,Kec. Yaur,360103,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,0,100,6,6,0,0,11,01 May 2026 00:27:05,DEDE850371B9A51BCC4F
+SD YPK Imanuel Kwatisore,60301825,SD,Swasta,Kec. Yaur,360103,Kab. Nabire,360100,Prov. Papua Tengah,360000,4,1,38,6,6,0,1,13,13 Feb 2026 23:33:50,940C76E09200B6B49317
+SD YPK Ora Et Labora Yaur,60301815,SD,Swasta,Kec. Yaur,360103,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,0,36,6,7,0,0,7,29 Apr 2026 19:36:39,9DAB2090D7F719683B28
+SMP Negeri 1 Yaur,60304121,SMP,Negeri,Kec. Yaur,360103,Kab. Nabire,360100,Prov. Papua Tengah,360000,13,1,93,3,3,1,1,13,01 May 2026 06:10:44,2FBBCA299282911C6100
+SMP Negeri 2 Yaur,69787877,SMP,Negeri,Kec. Yaur,360103,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,1,88,3,3,0,1,53,02 May 2026 05:37:18,D23B0AB784526FD94566

@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES LONDU,50204178,SD,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,27,2,74,6,5,0,1,26,03 Apr 2026 06:43:41,31F2A4A2C91E4215B303
+SD INPRES SAMBORI,50203939,SD,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,15,2,114,6,6,0,1,8,18 Apr 2026 10:31:35,96C03151B5A4AD535B38
+SD NEGERI INPRES KADI,50204192,SD,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,19,3,89,6,6,0,0,31,05 Mar 2026 04:37:54,5DCD0A7CC358228B5AE1
+SD NEGERI KABORO,50203904,SD,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,16,2,67,6,5,0,1,47,06 Mar 2026 07:07:18,F703E3F800898F02AA68
+SD NEGERI KUTA LAMBITU,50203887,SD,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,22,2,144,7,6,0,0,25,25 Apr 2026 08:27:43,EE1D66D737EE9AED58D0
+SD NEGERI SAMBORI,50204042,SD,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,17,1,93,6,6,0,1,24,14 Apr 2026 07:02:23,8C5372955BC684C7D2B9
+SD NEGERI TETA,50204064,SD,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,15,0,83,6,6,0,0,10,16 Apr 2026 17:00:29,9071AA4ADDEA00EBBDDD
+SMP NEGERI 1 LAMBITU,50205684,SMP,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,38,2,130,6,11,1,1,25,17 Apr 2026 16:33:32,7ED5C6371A9135AE35D2
+SMPN 2 LAMBITU,69790720,SMP,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,25,3,37,3,6,3,1,16,12 Apr 2026 18:30:34,EC54DB00BA0BA20AF90B
+SMPN 3 LAMBITU SATU ATAP,69883484,SMP,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,22,1,26,3,3,1,1,44,13 Mar 2026 14:59:22,5430459B754B7E90CE61
+SMPN 4 LAMBITU SATU ATAP,69881820,SMP,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,28,4,32,3,3,1,1,23,26 Apr 2026 21:54:06,FCE76D88E70C3D32B5E2
+SMAN 1 LAMBITU,50220488,SMA,Negeri,Kec. Lambitu,230617,Kab. Bima,230600,Prov. Nusa Tenggara Barat,230000,46,9,276,10,9,2,1,56,23 Apr 2026 05:19:13,9822B12C6DF9A1F8147E

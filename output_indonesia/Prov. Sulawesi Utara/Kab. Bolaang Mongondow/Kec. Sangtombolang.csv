@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 AYONG,40100554,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,14,1,123,6,7,0,1,34,29 Apr 2026 07:52:55,4B9D17CE46F711E1C39E
+SD NEGERI 1 BOLANGAT,40100563,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,11,1,99,6,6,0,1,8,02 Apr 2026 16:20:07,47D9C5F17B5143C4B441
+SD NEGERI 1 MAELANG,40100445,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,11,1,65,6,6,0,1,19,06 Mar 2026 21:46:45,9CD48434C701A62B5608
+SD NEGERI 2 AYONG,40100703,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,11,2,75,6,6,0,1,9,13 Apr 2026 10:39:18,CD95273B5DDC8988C6BB
+SD NEGERI 2 BOLANGAT,40100676,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,39,6,6,1,1,20,12 Apr 2026 10:10:30,0B82F162D6E6150CAEAF
+SD NEGERI 2 MAELANG,40100719,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,2,100,6,6,0,1,15,29 Apr 2026 04:15:16,25DFE69488DEFF450362
+SD NEGERI 3 MAELANG,40100225,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,9,1,52,6,7,0,1,24,24 Apr 2026 08:14:38,8D0094A3D99568ECD454
+SD NEGERI 4 MAELANG,40100262,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,1,48,6,6,0,1,43,21 Apr 2026 09:38:36,D0E3895B384CF7E4FF3C
+SD NEGERI BABO,40100238,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,1,108,6,6,0,2,12,26 Apr 2026 18:51:23,D61F42980F5E0164A51B
+SD NEGERI PANGI,40100386,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,166,8,8,0,1,12,17 Apr 2026 09:51:50,C9D65EE4781E044B9DEC
+SDN DOMISIL,40100139,SD,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,8,3,107,6,6,0,1,18,10 Apr 2026 21:52:24,2AB040021E5049930E06
+SMP NEGERI 3 SANGTOMBOLANG,40103431,SMP,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,6,1,79,3,4,1,1,12,03 Mar 2026 20:46:21,590C79E98859D978B13F
+SMP NEGERI 4 SANG TOMBOLANG,40100307,SMP,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,17,1,123,6,7,2,1,15,29 Apr 2026 09:30:46,56FB31E181C9438CC7EC
+SMP NEGERI SATAP BATU MERAH,69831491,SMP,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,31,3,3,1,1,22,02 May 2026 05:37:00,C22F531CBDAD0C95DAEF
+SMPN 1 Sang Tombolang,40103429,SMP,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,20,2,162,6,8,2,1,19,22 Apr 2026 10:04:14,253F83991154AE08B85A
+SMAN 1 SANG TOMBOLANG,40100314,SMA,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,6,220,7,12,3,1,27,10 Apr 2026 21:15:14,B94639E760E82BC08D90
+SMK NEGERI SANG TOMBOLANG,69901057,SMK,Negeri,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,7,113,9,6,2,0,23,28 Apr 2026 11:56:45,6BCB3264BDB9A2B9A5E0
+SMK PERJUANGAN,70012184,SMK,Swasta,Kec. Sangtombolang,170112,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,4,1,97,5,3,1,1,8,25 Apr 2026 14:02:02,36C5EA3771439C89740C

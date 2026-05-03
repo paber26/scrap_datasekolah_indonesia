@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SARUDU III,40601665,SD,Negeri,Kec. Duripoku,330206,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,9,4,127,6,6,1,1,22,23 Apr 2026 20:43:15,3E7DBBD33DA6B0286DFE
+SD INPRES SARUDU V,40601670,SD,Negeri,Kec. Duripoku,330206,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,18,5,293,12,14,0,2,8,03 Mar 2026 21:23:17,62906CF2376F646FD053
+SD NEGERI SIPAKAINGA,40604631,SD,Negeri,Kec. Duripoku,330206,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,8,1,51,6,5,0,1,6,20 Feb 2026 10:39:34,7EF499D8C7E7056B5124
+SD NEGERI TARANGGI,40601700,SD,Negeri,Kec. Duripoku,330206,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,9,3,88,6,6,0,1,22,09 Apr 2026 18:29:05,A360CFBDCD9F3C8B2713
+SDIT Al-HANIFIYAH,69984258,SD,Swasta,Kec. Duripoku,330206,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,4,17,99,6,6,0,1,11,17 Apr 2026 06:27:20,B8DAA03B452CEEAC56ED
+SMP NEGERI 01 DURIPOKU,69774576,SMP,Negeri,Kec. Duripoku,330206,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,10,5,148,6,6,2,1,16,28 Apr 2026 06:43:05,B832E29CA9D11A7FE73D
+SMP NEGERI 24 SAPTANAJAYA,69899278,SMP,Negeri,Kec. Duripoku,330206,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,9,7,37,3,6,1,1,40,08 Apr 2026 18:50:40,EFF5825AB4D18750D89E
+UPTD SMA NEGERI 1 DURIPOKU,69899277,SMA,Negeri,Kec. Duripoku,330206,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,16,4,164,6,10,3,1,15,28 Apr 2026 19:51:07,B32F1D4665AF9E097FD8

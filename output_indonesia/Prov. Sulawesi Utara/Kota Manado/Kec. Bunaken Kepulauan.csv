@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MANADO TUA,40102842,SD,Negeri,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,8,0,46,6,6,0,1,4,25 Feb 2026 17:01:32,CC79D91C84A0063BA848
+SD INPRES SILADEN,40102831,SD,Negeri,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,8,1,28,6,6,0,1,8,10 Apr 2026 18:11:56,E16FE4506F60AEF780D8
+SD NEGERI 01 BUNAKEN,40102996,SD,Negeri,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,10,1,141,6,9,1,1,14,08 Apr 2026 21:16:21,AEE65C3F202BF750152D
+SD NEGERI 02 BUNAKEN,40102998,SD,Negeri,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,9,0,33,6,6,0,1,17,20 Mar 2026 19:36:15,CFC20A8590FABC80178E
+SD GMIM ALUNGBANUA,40102805,SD,Swasta,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,6,1,68,6,7,0,1,6,06 Mar 2026 01:30:48,7AC20C6AAE9AFFE55774
+SD GMIM BUALO,40102807,SD,Swasta,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,5,1,29,6,6,0,1,8,04 Apr 2026 22:00:16,97047A1E32E299AE4792
+SD GMIM MANADO TUA,40102812,SD,Swasta,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,6,1,37,6,6,0,1,6,04 Apr 2026 22:42:21,2EC55C87A3022EC0C601
+SD GMIM PANGALINGAN,40102828,SD,Swasta,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,4,1,48,6,6,0,1,9,30 Apr 2026 21:36:31,557B672B9F4DC336A7CC
+SMP NEGERI 12 MANADO,40102732,SMP,Negeri,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,14,3,145,6,9,2,1,25,29 Apr 2026 17:36:27,01B2FF5DC5DA35406FD6
+SMP KRISTEN MANADO TUA,40102696,SMP,Swasta,Kec. Bunaken Kepulauan,176011,Kota Manado,176000,Prov. Sulawesi Utara,170000,4,1,58,3,3,1,1,17,01 Apr 2026 22:01:56,F2ADF594C2EFE6265DAC

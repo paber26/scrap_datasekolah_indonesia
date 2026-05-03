@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 2 TAPA,40500962,SD,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,7,3,115,6,6,0,1,26,30 Apr 2026 11:50:43,588C744D669386763B03
+SD NEGERI 3 TAPA,40500857,SD,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,3,132,6,6,1,1,23,30 Apr 2026 09:46:45,F02825940D3AF5E2A808
+SD NEGERI 4 TAPA,40500839,SD,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,3,93,6,7,0,1,40,30 Apr 2026 10:00:40,E12C6551FACC46E1567D
+SD NEGERI 5 TAPA,40500864,SD,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,4,105,6,6,0,1,38,30 Apr 2026 19:39:34,E73C4E6CF294D906083F
+SD NEGERI 7 TAPA,40500858,SD,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,7,5,117,6,6,0,1,18,20 Apr 2026 23:30:05,96B9277EDEA6F2B5816C
+SDN 1 TAPA,40501587,SD,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,4,94,6,7,1,1,10,29 Apr 2026 08:04:35,0AE8B788169C099C4BE1
+SDN 6 TAPA,40500835,SD,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,3,123,6,10,1,1,15,28 Apr 2026 08:32:55,6ACE3769E078EC5462DA
+SDN 8 TAPA,40501586,SD,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,7,3,78,6,8,1,1,20,14 Apr 2026 07:47:39,BEDAF5F2A4AADB70B3D0
+SMAN 1 TAPA,40500896,SMA,Negeri,Kec. Tapa,300401,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,28,17,479,15,24,4,1,30,21 Apr 2026 07:12:32,6A265A4E252C8A54886B

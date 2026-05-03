@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SEKOLAH INDONESIA RIYADH TINGKAT SD,90101007,SD,Negeri,Riyadh,350801,Arab Saudi,350800,Luar Negeri,350000,10,1,244,10,7,0,0,34,28 Apr 2026 14:18:04,EC3A19ED83F1C0CBCD0E
+SEKOLAH INDONESIA RIYADH TINGKAT SMP,90101008,SMP,Negeri,Riyadh,350801,Arab Saudi,350800,Luar Negeri,350000,8,3,109,5,4,2,1,72,30 Apr 2026 11:39:21,3C564DBE64A19AACCAA5
+SEKOLAH INDONESIA RIYADH TINGKAT SMA,90101009,SMA,Negeri,Riyadh,350801,Arab Saudi,350800,Luar Negeri,350000,5,1,52,3,3,7,1,13,13 Apr 2026 17:03:25,B9209922DD8A74A7920A

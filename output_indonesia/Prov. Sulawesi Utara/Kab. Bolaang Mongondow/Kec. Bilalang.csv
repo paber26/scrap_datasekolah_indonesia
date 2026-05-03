@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 TUDU AOG,40100693,SD,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,14,1,62,6,6,0,1,23,22 Apr 2026 00:15:50,11A1B5DC0C4B2E318554
+SD NEGERI 2 BILALANG,40100668,SD,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,16,3,93,6,7,0,1,2,20 Jan 2026 09:27:10,3D42B6192CD77996D6CE
+SD NEGERI 2 TUDU AOG,40100630,SD,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,17,2,137,6,9,0,1,18,17 Apr 2026 20:26:26,7222D8DF8D96FD57743C
+SD NEGERI 5 BILALANG,40100248,SD,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,11,1,22,6,6,0,1,10,07 Mar 2026 20:47:29,79FF170DBA0938D39322
+SD NEGERI 6 BILALANG,40103424,SD,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,15,1,58,6,6,0,1,28,01 May 2026 11:49:08,43D5B454A057D66F99D3
+SD NEGERI 7 BILALANG,40100233,SD,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,19,1,102,6,6,0,1,21,01 May 2026 12:16:58,E186DEAF5D264178D081
+SD NEGERI KOLINGANGAAN,69856608,SD,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,13,1,16,6,3,0,0,20,22 Apr 2026 20:23:38,5D4D018322A28F7A1C0C
+SMP NEGERI 3 PASSI,40100277,SMP,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,15,1,76,3,8,1,1,32,22 Apr 2026 13:37:36,0EA8377CAC6629C12FFB
+SMP NEGERI SATAP KOLINGANGAAN,70013669,SMP,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,13,3,14,3,3,0,0,14,01 May 2026 20:33:49,28A9314E64506FE779E2
+SMPN SATAP APADO,69753534,SMP,Negeri,Kec. Bilalang,170130,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,7,3,3,1,0,29,13 Apr 2026 06:51:29,AE845A3D66ED82359B1F

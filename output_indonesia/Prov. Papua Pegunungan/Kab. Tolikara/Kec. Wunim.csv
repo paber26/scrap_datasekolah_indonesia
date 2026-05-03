@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI AROMBOK,60302240,SD,Negeri,Kec. Wunim,380406,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,5,1,99,6,3,0,0,44,22 Apr 2026 18:37:03,3C0087F419A012B478B2
+SD NEGERI POKEGI,60302256,SD,Negeri,Kec. Wunim,380406,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,4,1,164,8,6,0,0,19,22 Apr 2026 10:43:25,8D33B7D2E9C1AE78C03B
+SD YPPGI WURINERI,60302267,SD,Swasta,Kec. Wunim,380406,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,4,1,258,10,6,0,0,40,28 Apr 2026 16:16:21,BA9669D094D93BB78AD5
+SMP NEGERI WUNIN,60302274,SMP,Negeri,Kec. Wunim,380406,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,9,1,125,5,6,1,0,34,20 Apr 2026 11:42:34,94E2EF0CDA2D3416205D

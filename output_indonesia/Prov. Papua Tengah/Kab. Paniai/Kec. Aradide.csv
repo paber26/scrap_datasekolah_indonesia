@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KOMOPA,60302300,SD,Negeri,Kec. Aradide,360303,Kab. Paniai,360300,Prov. Papua Tengah,360000,15,2,360,14,7,0,1,77,22 Apr 2026 20:10:51,8282AD5166A14590A3C7
+SD YPPGI BAMOMA,60302353,SD,Swasta,Kec. Aradide,360303,Kab. Paniai,360300,Prov. Papua Tengah,360000,8,1,231,8,6,1,2,20,19 Apr 2026 20:28:22,0531AD97398D670DDC80
+SD YPPGI KOMOPA,60302371,SD,Swasta,Kec. Aradide,360303,Kab. Paniai,360300,Prov. Papua Tengah,360000,5,1,170,6,7,2,2,67,02 May 2026 14:02:59,CC078CF226E1021F212C
+SD YPPK KOMOPA,60302409,SD,Swasta,Kec. Aradide,360303,Kab. Paniai,360300,Prov. Papua Tengah,360000,11,1,303,11,7,1,1,23,17 Apr 2026 06:48:28,350F7AA66C64CCD3481C
+SMP NEGERI 1 ARADIDE,60302431,SMP,Negeri,Kec. Aradide,360303,Kab. Paniai,360300,Prov. Papua Tengah,360000,19,1,356,11,20,4,2,145,30 Apr 2026 11:08:49,A9154CCB4CCE77DE2000
+SMAN 2 PANIAI,60303657,SMA,Negeri,Kec. Aradide,360303,Kab. Paniai,360300,Prov. Papua Tengah,360000,30,4,311,9,6,3,1,25,02 May 2026 07:55:11,635B796AF88B0E316CE8

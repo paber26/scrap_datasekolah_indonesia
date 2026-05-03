@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MERPASIKNE,70002126,SD,Negeri,Kec. Weime,380227,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,1,0,93,6,3,0,0,7,19 Apr 2026 18:45:29,01B7DD0904ADCA332771
+SD INPRES TARAMLU,60302171,SD,Negeri,Kec. Weime,380227,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,11,0,146,6,6,0,0,18,30 Apr 2026 13:51:39,C812E6E39D9030EB9680
+SMP NEGERI WEIME,69959509,SMP,Negeri,Kec. Weime,380227,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,8,1,171,6,3,0,1,17,17 Apr 2026 12:00:25,8822B666C8FC1EC0712C
+SMA NEGERI WEIME,70055216,SMA,Negeri,Kec. Weime,380227,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,2,0,33,1,1,0,0,2,15 Jan 2026 12:23:10,A4F41FDF7D610DFDD9FB

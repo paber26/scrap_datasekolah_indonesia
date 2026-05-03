@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SEKOLAH SI DAVAO TINGKAT SD,90101032,SD,Negeri,Davao City,350601,Filipina,350600,Luar Negeri,350000,3,1,21,6,6,2,1,1,10 Mar 2026 06:00:53,1B1FD88BA69F9CCF2399
+SEKOLAH SI DAVAO TINGKAT SMP,90101033,SMP,Negeri,Davao City,350601,Filipina,350600,Luar Negeri,350000,3,0,34,3,3,2,1,1,21 Jan 2026 12:41:13,1A0F73ACC5016D0A46A3
+SEKOLAH SI DAVAO TINGKAT SMA,90101034,SMA,Negeri,Davao City,350601,Filipina,350600,Luar Negeri,350000,7,1,37,3,6,2,1,7,10 Feb 2026 13:59:59,D0CF918A7EA7150AD02F

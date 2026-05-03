@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BULANGO SELATAN,40500990,SD,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,5,135,6,6,0,0,23,01 May 2026 13:25:45,5647D04D776D409791AE
+SD NEGERI 2 BULANGO SELATAN,40500967,SD,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,10,4,50,6,6,0,1,76,27 Apr 2026 12:52:24,46A50FD6D011DD85D4BF
+SD NEGERI 3 BULANGO SELATAN,40500869,SD,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,3,101,6,6,0,1,26,30 Apr 2026 09:04:42,3B157864ED9B2B02A047
+SD NEGERI 4 BULANGO SELATAN,40500836,SD,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,4,138,6,8,0,1,21,14 Apr 2026 07:46:16,28A1763759BFED7AE832
+SD NEGERI 5 BULANGO SELATAN,40501581,SD,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,10,4,156,7,7,0,1,21,14 Apr 2026 12:21:21,E5098ACA6FCBEBB5C363
+SD NEGERI 6 BULANGO SELATAN,40501585,SD,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,10,5,103,7,7,0,1,16,30 Apr 2026 17:17:49,2ECC92890C1BEA0F8AEA
+SD NEGERI 7 BULANGO SELATAN,40501584,SD,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,4,65,6,6,0,1,25,27 Apr 2026 14:10:39,27D3CAA900CBD02B0354
+SMP NEGERI 1 BULANGO SELATAN,69947075,SMP,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,12,4,131,6,6,1,1,19,07 Apr 2026 11:44:42,8CEF63D14D28D485BA00
+SMK NEGERI 1 BULANGO SELATAN,69899890,SMK,Negeri,Kec. Bulango Selatan,300411,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,32,8,275,12,10,1,1,26,24 Apr 2026 09:31:16,52D618AAA5856AF96137

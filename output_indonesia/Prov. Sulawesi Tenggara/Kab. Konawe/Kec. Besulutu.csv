@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 AMOSILU,40403077,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,9,144,7,6,0,0,15,27 Apr 2026 16:15:41,4CBE26CD51460409DDF2
+SD NEGERI 1 BESULUTU,40400382,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,5,136,6,6,0,1,11,03 Apr 2026 19:03:09,0C952C38266D5853B512
+SD NEGERI 2 AMOSILU,40400517,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,7,165,8,6,0,1,17,29 Apr 2026 10:00:01,E33B111CAC54E3BA0412
+SD NEGERI 2 BESULUTU,40403085,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,3,74,6,6,0,1,13,04 Feb 2026 08:32:26,D2FE9B13F4F75B378EAE
+SD NEGERI 3 AMOSILU,40400476,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,8,4,105,6,6,0,1,13,29 Apr 2026 08:07:49,AE79A24541E31C6D200D
+SD NEGERI ANDOMESINGGO,40400211,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,4,54,6,6,0,1,20,15 Apr 2026 21:47:43,D0883853C5CB4DEACC53
+SD NEGERI LALOUMERA,40400109,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,2,145,7,8,0,1,18,28 Apr 2026 08:16:19,23A079C4DB2D824341DF
+SD NEGERI LAWONUA,40400156,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,8,4,154,7,6,0,1,43,28 Apr 2026 20:50:14,94B060345F1D9A80D75A
+SD NEGERI ULUPOHARA,40400314,SD,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,4,33,6,6,0,0,18,29 Apr 2026 09:25:03,AAB65FFAF2B03FB94267
+SMP NEGERI 1 BESULUTU,40400265,SMP,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,16,8,184,7,9,2,1,62,27 Apr 2026 14:32:47,37C9F0D9F471B2B4ADFE
+SMP NEGERI 2 BESULUTU,40404616,SMP,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,13,93,4,6,1,1,32,28 Apr 2026 18:35:15,B4306CA600368780B25C
+SMP NEGERI 3 BESULUTU,40408557,SMP,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,4,44,3,4,2,1,42,06 Mar 2026 09:43:57,54632479A4DFEF2DC75F
+SMAN 1 BESULUTU,40402858,SMA,Negeri,Kec. Besulutu,200131,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,21,20,242,9,11,4,1,20,22 Apr 2026 20:06:10,86312DD658D1166D719F

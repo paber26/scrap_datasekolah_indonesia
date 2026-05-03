@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI SUJAK,60403367,SD,Negeri,Kec. Fef,390501,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,9,1,46,6,6,0,0,102,07 Apr 2026 00:25:23,DF8DD659BC1718CE0E04
+SD YPPK ASES FEEF,69728611,SD,Swasta,Kec. Fef,390501,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,10,2,133,7,6,1,0,31,18 Apr 2026 08:14:30,529790CE3D0D87787763
+SD YPPK KMS Santo Hilarius Syubun,69787905,SD,Swasta,Kec. Fef,390501,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,9,1,55,6,6,0,1,8,05 Mar 2026 20:08:04,41BFF146FC2F3C32AED4
+SMP NEGERI 1 FEF,60403413,SMP,Negeri,Kec. Fef,390501,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,9,1,63,3,3,5,0,6,06 Feb 2026 06:47:23,3032FD329F5A2225FB45
+SMP Katolik Santa Maria,70049662,SMP,Swasta,Kec. Fef,390501,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,6,2,79,4,5,2,1,12,30 Apr 2026 09:21:21,7B403EA8A7454D654795
+SMA NEGERI 1 FEF,69899492,SMA,Negeri,Kec. Fef,390501,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,13,3,61,4,4,2,1,32,25 Apr 2026 19:36:17,72B950B8258613A2A9D3
+SMKS KESEHATAN TAMBRAUW,60404176,SMK,Swasta,Kec. Fef,390501,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,9,4,37,3,3,1,1,46,16 Apr 2026 09:21:20,3F6597E83A5AEC29DF96

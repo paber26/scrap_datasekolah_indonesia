@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 136 LARETE,40403634,SD,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,8,1,59,6,6,1,1,75,15 Apr 2026 11:50:55,14B13D6F22EDB7E9B71D
+SD NEGERI 35 LEMO,40404048,SD,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,11,2,83,6,6,1,1,18,30 Apr 2026 14:02:03,400F1EE62310471807FB
+SD NEGERI 54 LARETE,40402439,SD,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,12,1,73,6,6,0,1,28,24 Apr 2026 17:42:15,14B9AE84535679ED2F6E
+SD NEGERI 71 LAMOARE,40404055,SD,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,9,3,78,6,6,0,1,46,29 Apr 2026 09:13:27,D93E6ED1F0AD466D122F
+SD NEGERI 74 TERAPUNG,40402420,SD,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,26,2,305,14,9,0,0,81,01 May 2026 17:46:47,B4E5CDC4780D938C928A
+SD-SMP SATAP NEGERI 14 POLEANG TENGGARA,40405046,SMP,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,17,2,123,6,6,2,1,77,24 Apr 2026 09:20:33,6ACFCC4F22963328DEA2
+SD-SMP SATU ATAP NEGERI 16 POLEANG TENGGARA,69964151,SMP,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,13,2,35,3,3,0,0,71,11 Apr 2026 16:37:31,86E7AA360CB3CD2F8BF9
+SMP NEGERI 21 POLEANG TENGGARA,40404283,SMP,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,14,4,57,3,4,2,3,84,15 Apr 2026 11:27:03,6CF098E2D487CCB90624
+SMAN 17 BOMBANA,70002765,SMA,Negeri,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,20,3,177,6,5,1,1,35,29 Apr 2026 20:51:50,DE4A58A72C4CB2D2310A
+SMA SWASTA POLEANG TENGGARA,69764514,SMA,Swasta,Kec. Poleang Tenggara,200712,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,0,0,0,0,0,0,0,0,,48A90D6213FD6C5E7979

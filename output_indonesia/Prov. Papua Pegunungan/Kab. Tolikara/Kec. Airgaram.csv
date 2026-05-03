@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI ARIGI,60302736,SD,Negeri,Kec. Airgaram,380428,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,4,1,56,3,3,0,0,4,28 Mar 2026 09:52:13,0EDD346E76BF7737FABB
+SD NEGERI TINALOME,60302239,SD,Negeri,Kec. Airgaram,380428,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,5,1,97,6,6,0,0,23,01 May 2026 18:32:34,26C4B7BE469C8E524B88
+SMP NEGERI AIRGARAM,60302741,SMP,Negeri,Kec. Airgaram,380428,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,6,1,88,4,3,1,0,6,07 Mar 2026 15:32:41,138A6065D6CBB01D9CBB

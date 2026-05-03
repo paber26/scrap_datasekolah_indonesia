@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES AMPAS,60303079,SD,Negeri,Kec. Waris,252003,Kab. Keerom,252000,Prov. Papua,250000,18,1,119,6,6,0,1,53,27 Apr 2026 11:22:45,9DE9B54A800C1426F3CC
+SD NEGERI BOMPAI,60303674,SD,Negeri,Kec. Waris,252003,Kab. Keerom,252000,Prov. Papua,250000,8,1,147,6,6,0,0,9,13 Apr 2026 04:03:14,28CAE4D1091199168A3F
+SD YPPK EPINOSA,60303085,SD,Swasta,Kec. Waris,252003,Kab. Keerom,252000,Prov. Papua,250000,4,0,130,6,6,0,0,21,27 Apr 2026 19:50:15,7AC5317FC4C6F0F11809
+SD YPPK KENANDEGA WARIS,60303086,SD,Swasta,Kec. Waris,252003,Kab. Keerom,252000,Prov. Papua,250000,6,1,192,9,9,0,0,31,01 May 2026 18:27:47,B0B6C8F880CF1536116A
+SD YPPK PULBOA,60303087,SD,Swasta,Kec. Waris,252003,Kab. Keerom,252000,Prov. Papua,250000,2,1,167,7,6,0,2,28,30 Apr 2026 17:39:14,A1AEE607E9D7AEF6B706
+SMP NEGERI I WARIS,60303405,SMP,Negeri,Kec. Waris,252003,Kab. Keerom,252000,Prov. Papua,250000,15,5,145,6,7,5,1,15,30 Apr 2026 09:21:52,0F7E996639EDE106C680
+SMP SATU ATAP BOMPAI,69964912,SMP,Negeri,Kec. Waris,252003,Kab. Keerom,252000,Prov. Papua,250000,12,1,39,3,6,2,1,8,18 Apr 2026 05:16:39,3C5370E11067384F2A3C
+SMA NEGERI 3 WARIS,60303101,SMA,Negeri,Kec. Waris,252003,Kab. Keerom,252000,Prov. Papua,250000,16,4,52,4,10,3,2,26,29 Apr 2026 20:09:41,9D5CB0BAF3289C1DEDA1

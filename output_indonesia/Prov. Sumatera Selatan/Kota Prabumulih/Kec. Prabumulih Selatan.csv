@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 10 PRABUMULIH,10604592,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,10,6,172,7,6,0,1,9,02 Apr 2026 13:40:46,09FA45327CED12E42C1D
+SD NEGERI 17 PRABUMULIH,10604614,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,16,6,307,12,12,0,1,42,22 Apr 2026 09:56:19,91EFA693B94400C2BCF4
+SD NEGERI 23 PRABUMULIH,10604510,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,18,4,370,14,10,1,1,24,01 May 2026 16:25:51,F51F6D4492A9F6B64B07
+SD NEGERI 28 PRABUMULIH,10604513,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,11,5,187,8,6,0,1,36,06 Apr 2026 14:33:33,4FF1AAABD6136FB93600
+SD NEGERI 34 PRABUMULIH,10604507,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,19,4,327,13,8,0,1,67,02 May 2026 10:29:10,95B498DA10569D92DEBB
+SD NEGERI 37 PRABUMULIH,10604591,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,9,4,175,8,6,0,1,55,11 Apr 2026 21:09:05,546819156922147483BE
+SD NEGERI 51 PRABUMULIH,10604558,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,8,7,78,6,6,0,1,32,28 Apr 2026 09:10:12,007725403E8060AF9D15
+SD NEGERI 52 PRABUMULIH,10604606,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,13,6,172,6,6,0,1,46,08 Apr 2026 08:54:31,1158727571C6CC2867A5
+SD NEGERI 53 PRABUMULIH,10604611,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,15,3,275,12,8,1,1,23,30 Apr 2026 08:08:08,B071C06275828AB256B0
+SD NEGERI 64 PRABUMULIH,10604540,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,12,6,143,9,9,1,1,10,07 Apr 2026 20:07:51,2F4C6CD0A7CEEC10D8F3
+SD NEGERI 85 PRABUMULIH,69964964,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,8,4,79,6,5,1,1,17,15 Apr 2026 09:05:46,DB934C69754657FF9184
+SD NEGERI 86 PRABUMULIH,70043058,SD,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,8,16,30,3,3,0,0,38,28 Apr 2026 08:00:17,6FF77FD1000D6DE52065
+SDIT AL-MALIK PRABUMULIH,69985356,SD,Swasta,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,19,9,195,9,10,1,1,25,30 Apr 2026 08:09:32,F33ED08EA70EB3F85C7D
+SMP NEGERI 03 PRABUMULIH,10604533,SMP,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,62,6,1029,31,31,2,1,107,28 Apr 2026 09:37:58,155B3A8E9647777F3E2B
+SMP TUNAS BAKTI PRABUMULIH,10643738,SMP,Swasta,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,3,5,23,3,3,1,1,13,28 Apr 2026 11:13:23,727621AA470E842C3F41
+SMAN 2 PRABUMULIH,10604544,SMA,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,59,12,854,25,26,9,1,34,20 Apr 2026 10:20:44,264F6EF9892341CFD84B
+SMAS TUNAS BAKTI,10643748,SMA,Swasta,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,5,3,22,3,3,1,1,6,28 Apr 2026 03:24:52,1EF861520EBC1E9520DB
+SMKN 2 PRABUMULIH,10646489,SMK,Negeri,Kec. Prabumulih Selatan,116108,Kota Prabumulih,116100,Prov. Sumatera Selatan,110000,86,17,1034,38,36,1,1,94,30 Apr 2026 09:58:13,2F43B624C126012E9AB7

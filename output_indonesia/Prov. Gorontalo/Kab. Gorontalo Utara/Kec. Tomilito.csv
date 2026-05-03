@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 TOMILITO,40500690,SD,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,8,1,90,6,6,0,1,10,07 Apr 2026 06:20:01,D0E449F81C28B8160E85
+SD NEGERI 2 TOMILITO,40500606,SD,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,8,1,83,6,6,0,1,9,06 Apr 2026 00:14:23,4A0F5DA27D9823D0AC05
+SD NEGERI 3 TOMILITO,40500323,SD,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,9,1,49,6,6,0,1,16,07 Apr 2026 13:16:13,1ADE8808BCDA71D777DB
+SD NEGERI 4 TOMILITO,40500615,SD,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,11,2,178,9,9,0,1,15,29 Apr 2026 11:11:46,00AFA16B045B809E5358
+SD NEGERI 5 TOMILITO,40500478,SD,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,8,1,107,6,6,0,0,15,16 Apr 2026 16:57:22,D7CB9341BA2DEEEF5E86
+SD NEGERI 6 TOMILITO,40501811,SD,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,8,1,109,6,6,0,1,12,05 Apr 2026 18:48:38,575375B8E97B58898133
+SD NEGERI 7 TOMILITO,40500344,SD,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,10,1,151,7,7,0,1,13,13 Apr 2026 17:24:03,74210756D283390DC69C
+SMP NEGERI 1 TOMILITO,40500399,SMP,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,19,2,133,6,9,2,1,21,01 May 2026 10:03:33,E9CFB8E086A8D13C5996
+SMP NEGERI 2 TOMILITO,40501791,SMP,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,9,3,66,3,1,1,1,8,04 Apr 2026 11:15:02,B04BD6DD0644C1890179
+SMP NEGERI 3 TOMILITO,40502060,SMP,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,9,2,56,3,4,1,1,23,23 Apr 2026 10:18:38,8E5E408554156969DD34
+SMK NEGERI 4 GORONTALO UTARA,69827644,SMK,Negeri,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,17,3,59,9,10,2,1,12,02 Apr 2026 06:30:05,2242C2261FBE620D9283
+SMKS TARUNA BAHARI,40502101,SMK,Swasta,Kec. Tomilito,300507,Kab. Gorontalo Utara,300500,Prov. Gorontalo,300000,5,2,34,5,11,3,1,18,27 Feb 2026 10:13:02,4BC7E79DF20BF5EB8260

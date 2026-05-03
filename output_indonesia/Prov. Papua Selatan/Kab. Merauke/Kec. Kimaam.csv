@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KIWORO,60300670,SD,Negeri,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,14,2,151,7,7,0,1,14,30 Apr 2026 18:07:06,20FD4AB8A334F0A698D8
+SD INPRES KUMBIS,60300686,SD,Negeri,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,7,1,104,6,6,0,0,16,02 May 2026 10:10:35,8BE70B5F2F81A918B9B1
+SD YPPK KALILAM BATU MERAH,60300585,SD,Swasta,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,8,1,182,6,8,1,1,12,29 Apr 2026 09:35:52,15D6956714ACFD43B58C
+SD YPPK KIMAAM,60300583,SD,Swasta,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,9,1,356,13,7,0,0,34,09 Apr 2026 08:24:18,E6FF0D4DCEAB8CAF51B9
+SD YPPK KOMOLOM,60300581,SD,Swasta,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,5,1,116,6,6,0,0,12,30 Apr 2026 14:24:20,0002F3513948E62DEACA
+SD YPPK TERI,60300556,SD,Swasta,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,5,1,257,9,5,0,1,10,20 Apr 2026 11:31:04,254AEC99EDEAF1FDF734
+SD YPPK TURIRAM/YEOBI,60300553,SD,Swasta,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,8,1,152,6,6,0,0,32,08 Apr 2026 21:27:40,D0FACE77535F2CB12BE5
+SMP NEGERI 1 KIMAAM,60300624,SMP,Negeri,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,15,3,295,9,7,1,1,39,04 Apr 2026 16:32:21,02A59D586E932934ADF1
+SMP YPPK ST KIZITO KIMAAM,60300646,SMP,Swasta,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,8,2,246,8,8,1,0,15,08 Apr 2026 08:14:14,1C80E50FFEFCBB1D84E2
+SMA NEGERI 1 KIMAAM,60302716,SMA,Negeri,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,17,1,267,9,8,2,1,18,30 Apr 2026 15:48:07,51DD4DB2C8F787A5BEDB
+SMK Negeri 10 Agribisnis dan Agroteknologi Merauke,60302723,SMK,Negeri,Kec. Kimaam,370104,Kab. Merauke,370100,Prov. Papua Selatan,370000,14,1,116,6,6,4,1,29,11 Apr 2026 03:15:12,3853E22F800A569EFD1A

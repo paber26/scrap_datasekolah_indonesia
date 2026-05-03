@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 KETIAT,30104145,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,11,2,311,12,11,0,1,17,19 Apr 2026 21:36:46,9A65C47200528939B304
+SD NEGERI 02 SUNGAI BETUNG,30109253,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,2,105,6,7,0,1,14,03 Apr 2026 22:39:51,8F18A5014BCEB5705544
+SD NEGERI 03 KAWAN,30104101,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,7,2,149,6,8,0,1,15,16 Apr 2026 09:05:31,74E6B670595ED12B3641
+SD NEGERI 04 KERANJI,30104122,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,6,2,146,6,7,0,0,6,02 Apr 2026 07:18:23,155F97D64C41E89FD355
+SD NEGERI 05 LAMAT SEMALAT,30104200,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,3,167,8,8,0,1,17,06 Apr 2026 22:42:29,63EEDEEC4284E0586636
+SD NEGERI 06 JIRAK,30104201,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,1,43,6,6,0,1,12,02 May 2026 19:07:37,40196EEA0C68B1CF6000
+SD NEGERI 07 SEPOTENG,30104219,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,9,3,90,6,6,0,1,13,23 Apr 2026 10:07:06,100D7004A5608D460C88
+SD NEGERI 08 SEMIDANG,30104172,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,9,4,99,6,6,0,1,14,04 Apr 2026 14:23:58,A6186236D8576DAF8919
+SD NEGERI 09 MELIKAR,30108277,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,6,1,49,6,3,0,0,10,05 Apr 2026 10:29:57,AB1269DE02416C3E313A
+SD NEGERI 10 MELAKOS,69901065,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,6,1,30,6,2,0,0,17,09 Mar 2026 20:48:51,22030E8E7865FAEF5879
+SD NEGERI 11 BENGKUANG,69901066,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,7,1,51,6,2,0,0,5,06 Apr 2026 19:20:31,A1F6FA4543510686D860
+SD NEGERI 12 SENGKABANG,69901067,SD,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,3,1,67,6,3,0,0,9,08 Apr 2026 11:38:43,589E2FD621472A3F3227
+SMP NEGERI 1 SUNGAI BETUNG,30107578,SMP,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,23,5,484,15,15,2,1,9,07 Apr 2026 13:11:48,8894DDBE304AC09EBAFB
+SMP NEGERI 2 SUNGAI BETUNG,30108318,SMP,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,10,2,95,3,4,1,1,16,04 Apr 2026 19:22:08,04DBE4E2BFE022D16C87
+SMP NEGERI 3 SUNGAI BETUNG,69901063,SMP,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,11,1,72,3,3,1,1,8,10 Mar 2026 08:09:41,16016F727085B964450B
+SMAN 1 SUNGAI BETUNG,30108272,SMA,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,26,5,399,12,12,3,1,26,23 Apr 2026 12:36:43,BDE87A33D41049DF37F1
+SMKN 3 BENGKAYANG,70039986,SMK,Negeri,Kec. Sungai Betung,130814,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,11,0,103,6,6,0,0,21,20 Apr 2026 08:32:48,A8AF07C9C195EE86A0BA

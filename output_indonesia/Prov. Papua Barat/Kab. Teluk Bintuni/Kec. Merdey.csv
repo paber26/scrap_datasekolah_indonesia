@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MERIEB,60401892,SD,Negeri,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,5,0,42,6,2,0,0,8,27 Feb 2026 12:19:21,3708C3228161744347CB
+SD NEGERI ANEJERO,70044425,SD,Negeri,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,1,0,6,3,3,0,0,4,11 Feb 2026 19:23:46,C3A177E49A0696E8D399
+SD NEGERI MOROMBUY,60404135,SD,Negeri,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,3,0,37,6,3,0,0,7,14 Apr 2026 17:16:04,65273DBBE8CEAF7E7AD1
+SDN MEYEJGA,60725741,SD,Negeri,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,4,0,25,6,6,0,0,29,27 Apr 2026 10:53:00,18D5718CBFF253325AE5
+SD YPK MERDEY,60401918,SD,Swasta,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,12,1,100,6,6,0,0,23,01 Mar 2026 03:00:15,7CCF8480D75466E7D7AE
+SD YPPK MERDEY,60401928,SD,Swasta,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,6,0,81,6,6,0,0,6,16 Jan 2026 15:07:06,CFA4B790FA1C839D4F2F
+SD YPPK MIYOM,60403652,SD,Swasta,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,2,0,21,5,4,0,0,8,12 Apr 2026 10:47:29,B68389B3DC201E90E775
+SMP NEGERI MERDEY,60401958,SMP,Negeri,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,9,0,61,3,3,1,1,25,24 Apr 2026 08:29:34,3FA17A99662E7FE6DCAB
+SMAN MERDEY,60403660,SMA,Negeri,Kec. Merdey,320420,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,16,1,31,3,3,1,1,16,04 Mar 2026 19:50:39,5423ECA2F3313EA4B208

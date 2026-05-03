@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BAULIN,30301560,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,3,56,6,6,0,1,14,06 Apr 2026 13:06:53,24F1D1D6A3057C448A92
+SD NEGERI BERINGIN 1,30301559,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,3,86,6,6,0,1,1,02 May 2026 07:59:22,0194F2E87E96DC3E4575
+SD NEGERI BERINGIN 2,30301558,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,9,0,138,7,6,0,1,34,02 May 2026 07:32:34,0C338DFA64BB1FDE3643
+SD NEGERI BERINGIN B,30301557,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,3,83,6,6,0,1,10,12 Apr 2026 06:51:57,C1D59BD749581ACCD1C1
+SD NEGERI CANDI LARAS,30301656,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,3,87,6,6,1,1,32,09 Apr 2026 21:31:11,306F70775ED45E97CEBA
+SD NEGERI MARAMPIAU,30301618,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,2,84,6,6,0,1,9,17 Apr 2026 08:14:26,77F0BD6E6F49C4249C05
+SD NEGERI MARAMPIAU HILIR,30301617,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,7,2,76,6,6,0,1,33,01 May 2026 08:31:58,4CFB296FF0273A02B24E
+SD NEGERI MARGASARI ULU,30301600,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,3,60,6,6,0,1,4,10 Apr 2026 04:40:53,187D2FB82CBF28F8B99E
+SD NEGERI PABAUNGAN HILIR 1,30301465,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,2,84,6,6,0,1,5,21 Jan 2026 22:37:38,FFDD63E553A36A2A8E99
+SD NEGERI PABAUNGAN HILIR 2,30301464,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,7,1,22,6,4,0,1,20,01 May 2026 08:09:03,436337E64166103F45C0
+SD NEGERI PABAUNGAN HULU,30301463,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,5,3,59,6,9,0,2,8,04 Apr 2026 08:33:20,C9FD98627B2F593266D3
+SD NEGERI PABAUNGAN PANTAI,30301462,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,2,26,6,6,0,0,14,01 Apr 2026 22:04:40,283EA18869B1CB5CA83F
+SD NEGERI SUNGAI RUTAS 1,30301521,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,2,73,6,6,0,1,8,09 Apr 2026 18:22:57,864C4DD4B9D29410B189
+SD NEGERI SUNGAI RUTAS 2,30301520,SD,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,1,100,6,6,0,1,33,03 Mar 2026 14:08:54,9B056A1E38F2B2D36E85
+SMP NEGERI 1 CANDI LARAS SELATAN,30301509,SMP,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,11,4,116,6,7,3,1,18,29 Apr 2026 09:26:38,11AC91978992CDA39B2F
+SMP NEGERI 2 CANDI LARAS SELATAN,30301501,SMP,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,3,76,4,4,2,1,26,21 Apr 2026 14:16:02,C2772B216DC3F06DC4D0
+SMAN 1 CANDI LARAS SELATAN,30301492,SMA,Negeri,Kec. Candi Laras Selatan,150409,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,14,10,239,9,13,5,1,10,28 Apr 2026 10:15:56,0D50E671C6860BB96559

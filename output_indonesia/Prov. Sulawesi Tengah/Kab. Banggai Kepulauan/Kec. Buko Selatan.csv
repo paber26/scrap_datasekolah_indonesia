@@ -1,0 +1,25 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 3 LUMBI-LUMBIA,40200273,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,3,103,6,6,0,1,11,24 Apr 2026 14:18:56,72CD599E1CB10C50D104
+SD INPRES APAL,40200269,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,10,1,59,6,6,0,0,4,06 Mar 2026 19:42:31,A37B01D49ECD5C947FED
+SD INPRES BUKO,40200293,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,10,3,22,6,6,0,0,13,06 Mar 2026 20:48:30,DE3F2EBD4AD145AEEF4F
+SD INPRES LABANGUN,40200280,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,1,62,6,6,0,1,3,05 Mar 2026 10:18:59,124C92B2AB8BE696F768
+SD INPRES MATAMALING,40200380,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,4,79,6,7,0,1,9,06 Apr 2026 10:43:57,D3C8575BF5BA8D6932E4
+SD INPRES PALAPAT,40200403,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,8,0,44,6,6,0,0,7,03 Mar 2026 13:43:16,F07B3292F91DB4248836
+SD INPRES SAPELANG,40200396,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,3,32,6,6,0,1,5,04 Mar 2026 19:38:40,4E14C59F3E85C4AB86CC
+SD INPRES SEANO,40200395,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,3,52,6,6,0,1,9,21 Apr 2026 14:46:31,FB3B046AF5A39B8FE6FF
+SD INPRES TAEPA,40200371,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,2,85,6,6,0,1,9,26 Apr 2026 10:03:52,0D162821BCBD2347A68A
+SD INPRES TATABAU,40200352,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,11,2,77,6,6,0,1,35,07 Mar 2026 14:20:19,37C008B443669321364F
+SD NEGERI 1 LUMBI-LUMBIA,40200370,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,8,2,141,6,6,0,1,4,16 Apr 2026 07:51:56,671CFB19B1586B298856
+SD NEGERI ALANI,40200358,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,5,2,17,5,5,0,0,29,07 Apr 2026 12:11:03,AE56DBB9E4C41DFBADE9
+SDN INPRES 2 LUMBI-LUMBIA,40200319,SD,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,3,105,6,9,0,1,5,04 Mar 2026 12:06:31,BA6B6A256869F6B20B03
+SMP NEGERI 1 BUKO SELATAN,40200215,SMP,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,15,4,221,9,12,1,1,9,06 Mar 2026 18:29:58,C4CA87D7C0C0D1660231
+SMP NEGERI 2 BUKO SELATAN,40204013,SMP,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,6,40,3,6,3,1,22,26 Apr 2026 08:36:24,D5D1EF3A32A10FE869FA
+SMP NEGERI 3 BUKO SELATAN,40200307,SMP,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,13,4,50,3,3,1,1,12,25 Apr 2026 11:23:09,387CC2D51B2AFFF33A3E
+SMP NEGERI SATU ATAP MATAMALING,69733976,SMP,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,11,3,45,3,4,0,1,17,28 Apr 2026 11:44:04,0F7207B76FDA09478372
+SMPN 4 BUKO SELATAN SATAP,69759161,SMP,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,12,2,19,3,3,1,1,14,22 Apr 2026 07:51:24,0E1358816AF630AA3BEA
+SMP BUKIT SION ALANI,40204005,SMP,Swasta,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,3,1,16,1,6,0,0,4,27 Apr 2026 08:59:20,D5170AD4BFCD046F230D
+SMP KRISTEN TATABAU,40204212,SMP,Swasta,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,0,1,16,3,3,1,1,1,31 Jan 2026 07:10:47,F227D4B14209DF66C2D9
+SMP TUNAS BANGSA LUMBI-LUMBIA,40200191,SMP,Swasta,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,0,1,0,0,0,0,0,0,,C5789008755DC01625CA
+SMAN 1 BUKO SELATAN,40200253,SMA,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,21,4,220,8,6,3,1,40,16 Apr 2026 11:00:07,67911FB122635CB7E1DD
+SMA BINA KARYA BUKO SELATAN,70001103,SMA,Swasta,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,0,0,40,3,3,0,0,7,09 Apr 2026 23:37:53,9A70713A091E9FBA444E
+SMK NEGERI 1 BUKO SELATAN,69950544,SMK,Negeri,Kec. Buko Selatan,180120,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,20,1,75,5,10,6,1,22,02 Apr 2026 13:40:31,F28E83275F7AC90D6CF1

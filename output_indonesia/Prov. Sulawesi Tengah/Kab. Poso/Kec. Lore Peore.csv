@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BETUE,40201165,SD,Negeri,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,7,2,48,6,8,0,0,26,28 Apr 2026 16:17:37,F04A303B7A9C4ED0743C
+SD NEGERI SILIWANGA,40201376,SD,Negeri,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,8,1,85,6,6,0,1,14,05 Mar 2026 10:17:54,7C204518799AF20771B1
+SD NEGERI TRANSMIGRASI BEAU,40207661,SD,Negeri,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,5,2,34,6,6,0,0,22,30 Apr 2026 07:29:05,A8ED234A4EECF929ED39
+SD NEGERI WANGA,40201371,SD,Negeri,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,7,3,48,6,6,0,0,27,29 Apr 2026 09:59:03,FFA473C26E2C28AC4ADF
+SD NEGERI WATUTAU,40201369,SD,Negeri,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,7,2,137,6,6,1,1,32,24 Apr 2026 18:30:08,57759CA5D330D7484FDA
+SD KRISTEN GKST TALABOSA,40201382,SD,Swasta,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,7,1,50,6,7,0,0,16,13 Apr 2026 07:42:55,5C06BC90C90CC36C9EC5
+SMP NEGERI 1 LORE PEORE,40203905,SMP,Negeri,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,10,5,99,4,7,1,1,26,21 Apr 2026 13:46:53,C350D8C287249AB08E24
+SMPN 2 LORE PEORE,69768149,SMP,Negeri,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,9,6,49,3,6,1,1,18,07 Apr 2026 12:40:04,9A1FFC3978417AF54CB6
+Sekolah Menengah Atas Negeri 1 Lore Peore,70055350,SMA,Negeri,Kec. Lore Peore,180324,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,0,0,31,1,6,2,1,6,05 Mar 2026 11:34:36,91AEE412E7A3560E7B49

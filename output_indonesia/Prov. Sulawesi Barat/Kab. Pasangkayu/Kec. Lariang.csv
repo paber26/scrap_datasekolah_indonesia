@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BAJAWALI,40601601,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,9,3,94,6,6,1,1,16,22 Apr 2026 10:58:50,8CA484BE291812F70A99
+SD INPRES GODANG,40601608,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,5,6,88,6,7,1,1,10,27 Apr 2026 10:27:07,97D627705F699BB461C3
+SD INPRES PARABU,40601599,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,9,3,126,6,8,1,1,34,28 Apr 2026 09:10:19,030117C53FB74338528F
+SD INPRES SALUPONTU,40601657,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,7,3,114,6,7,0,1,30,29 Apr 2026 13:33:02,9FDED3217B2E99267B7C
+SD NEGERI KENANGAN,40601709,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,8,5,58,6,6,0,1,7,03 Mar 2026 08:22:48,9621D1A9A48E2366540F
+SD NEGERI MAJENE,40601603,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,9,6,226,10,9,0,1,19,23 Apr 2026 09:34:36,70711C3DE5EFABE89630
+SD NEGERI PAHAMPA,40601683,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,7,2,73,6,6,0,1,31,11 Apr 2026 15:01:50,29EDD3F399FB5268C4D9
+SD NEGERI PELOSU,40601691,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,7,2,52,6,6,1,1,18,01 May 2026 20:27:06,F297F7FB12135AD92C52
+SD NEGERI RODO,40604633,SD,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,6,1,41,6,5,0,0,13,12 Apr 2026 08:48:48,C7AD1E7B052875FD61A2
+SMP NEGERI 01 LARIANG,40601816,SMP,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,13,8,145,6,6,2,2,22,21 Apr 2026 08:25:35,45611835C5AAE758EC1A
+SMP NEGERI 02 LARIANG,69786439,SMP,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,15,4,161,6,8,2,1,32,30 Apr 2026 10:31:33,94317AD8FA40B365D247
+SMP NEGERI 03 LARIANG,40605734,SMP,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,6,2,53,3,4,0,1,35,23 Apr 2026 07:31:01,8B98F4C994AEF7BDFD93
+UPTD SMAN 1 LARIANG,69786227,SMA,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,17,3,147,6,9,4,1,59,09 Apr 2026 19:12:07,8BA04D753C1FC2E742C3
+UPTD SMK NEGERI 1 LARIANG,70027297,SMK,Negeri,Kec. Lariang,330208,Kab. Pasangkayu,330200,Prov. Sulawesi Barat,330000,24,3,78,9,6,0,0,67,27 Apr 2026 08:36:55,6868D418262C877AFE87

@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SABRON YARU,60300133,SD,Negeri,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,10,2,106,6,6,0,1,17,22 Apr 2026 16:10:57,0BC10581475C8D01F1A3
+SD NEGERI DOSAY,60300275,SD,Negeri,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,14,3,141,6,8,0,1,34,01 May 2026 09:33:04,E662AD14F997EA189DD0
+SD NEGERI SATU ATAP SABRON SARI,69787853,SD,Negeri,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,10,1,172,7,7,1,1,35,29 Apr 2026 09:08:19,131E901F0DA298FFB7EC
+SD AL HILAL YAPIS,60303566,SD,Swasta,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,6,1,84,6,6,1,1,15,30 Apr 2026 16:59:04,01ECB38D6BB62A639CFB
+SD YPK MARIBU,60300202,SD,Swasta,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,7,2,125,6,6,0,1,29,07 Mar 2026 07:44:11,DD47255BA691EDBDCC43
+SD YPK WAIBRON,60300264,SD,Swasta,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,8,1,158,7,7,0,1,29,30 Apr 2026 06:47:23,2BE78AA36F27A3086208
+SMP NEGERI 3 SENTANI,60300167,SMP,Negeri,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,22,7,210,9,12,1,1,55,28 Apr 2026 10:05:54,F3767CA91B4E7A5B6910
+SMP SATU ATAP SABRON SARI,60303583,SMP,Negeri,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,14,3,194,7,7,2,1,46,21 Apr 2026 13:25:18,1ECAE2D89347D6FFB257
+SMA NEGERI 2 SENTANI,60300181,SMA,Negeri,Kec. Sentani Barat,250122,Kab. Jayapura,250100,Prov. Papua,250000,19,13,319,10,15,5,1,43,30 Apr 2026 14:51:46,B97CBAB363FA65A815E9

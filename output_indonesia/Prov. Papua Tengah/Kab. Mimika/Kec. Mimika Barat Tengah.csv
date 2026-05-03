@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES UTA I,60302837,SD,Negeri,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,7,2,43,6,6,0,0,31,29 Apr 2026 17:43:10,DAFC5A243B778DBEFE74
+SD INPRES UTA II,60302838,SD,Negeri,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,8,2,84,6,6,0,1,35,28 Apr 2026 14:50:17,A232BACAB768ECF5B0D3
+SD NEGERI MAPAR,60303885,SD,Negeri,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,13,1,158,10,6,0,0,12,30 Apr 2026 04:43:21,89E959BE8CA5406CACD8
+SD YPPK AKAR,60302850,SD,Swasta,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,4,1,87,6,6,0,1,10,18 Jan 2026 13:02:50,BF3D10CD4436B8396623
+SD YPPK KIPIA,60302840,SD,Swasta,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,2,1,65,6,6,0,0,8,27 Feb 2026 09:43:25,6F4D3212F9AD4B85C782
+SD YPPK PRONGGO,60302843,SD,Swasta,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,4,1,109,6,6,0,1,9,07 Mar 2026 20:22:12,963B62B437D5615E71C4
+SD YPPK SANTU PAULUS MUPURUKA,60302859,SD,Swasta,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,5,1,141,6,6,0,0,16,11 Feb 2026 21:14:28,7929D38F0D91B24E4BE8
+SD YPPK UTA,60300843,SD,Swasta,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,4,1,57,6,3,0,0,2,06 Feb 2026 21:09:16,B994BC5CE39B4D0D1E6E
+SMP NEGERI MAPAR,69929973,SMP,Negeri,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,7,1,70,4,3,1,1,15,27 Apr 2026 19:03:46,5C2FBF7AC9976AF0FC2B
+SMP NEGERI MIMIKA BARAT/UTA,69725906,SMP,Negeri,Kec. Mimika Barat Tengah,360412,Kab. Mimika,360400,Prov. Papua Tengah,360000,8,1,57,3,3,1,1,33,28 Apr 2026 21:09:34,731BFB052183B4B9CD7E

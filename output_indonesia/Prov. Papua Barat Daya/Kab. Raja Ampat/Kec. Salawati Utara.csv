@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 14 SAMATE,60401795,SD,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,10,2,118,6,8,0,1,18,15 Apr 2026 23:00:30,9388773EEFAAA4419156
+SD INPRES 15 WAMEGA,60401798,SD,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,7,1,30,6,6,0,0,11,02 May 2026 12:33:49,994CB13F4D810B5C627B
+SD INPRES 19 KAPATLAP,60401785,SD,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,8,1,29,6,6,0,0,37,01 May 2026 16:47:56,91C16F40CB5D86B9232D
+SD NEGERI 12 YEFMAN,60401856,SD,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,10,1,111,6,6,2,1,14,16 Apr 2026 18:00:39,DBCE5D6348ED2D9F357E
+SD NEGERI 38 WARIRSAUPO,69728440,SD,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,9,1,17,6,5,0,0,64,02 May 2026 17:36:48,C7A3F51C1E544B1B0580
+SD NEGERI 39 YEFMAN TIMUR,69963197,SD,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,8,1,52,6,4,0,0,5,10 Apr 2026 19:14:02,9DEDBA4A7F5801F98F33
+SD NEGERI 41 WAIPELE,69963680,SD,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,12,2,25,6,3,0,0,18,02 May 2026 17:45:38,D91D2BC2E9FC0166ABA7
+SMP NEGERI 13 RAJA AMPAT,60401862,SMP,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,13,3,77,3,3,2,1,15,28 Apr 2026 12:04:55,5C7EB77C13E6C8C1FA6A
+SMP NEGERI 27 RAJA AMPAT,60403793,SMP,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,11,3,64,3,6,2,1,30,10 Apr 2026 07:46:38,02585C7973E3DEB58F40
+SMK NEGERI 1 RAJA AMPAT,60402058,SMK,Negeri,Kec. Salawati Utara,390204,Kab. Raja Ampat,390200,Prov. Papua Barat Daya,390000,19,1,52,9,12,3,1,1,01 May 2026 18:16:51,7160DC053FB446EFD8BA

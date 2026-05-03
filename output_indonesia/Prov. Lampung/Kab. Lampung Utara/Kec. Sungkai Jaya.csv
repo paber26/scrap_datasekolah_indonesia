@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD N CAHAYA MAKMUR,10803357,SD,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,8,1,123,6,7,0,0,23,20 Apr 2026 03:05:13,6F33A44C8E3885C47A69
+SD NEGERI 01 CEMPAKA,10803115,SD,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,19,4,297,13,15,1,1,44,01 May 2026 22:05:19,7A3E3260ACD6C5019C09
+SD NEGERI 01 SRIJAYA,69849579,SD,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,9,1,62,6,3,0,1,32,29 Apr 2026 14:03:16,978DA19658744414EA53
+SD NEGERI 02 CEMPAKA,10803362,SD,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,9,3,136,6,6,0,1,31,27 Apr 2026 21:37:49,2DE2AC17C2422EFCC111
+SD NEGERI 02 SRI AGUNG,10803284,SD,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,10,2,125,6,6,0,1,17,23 Apr 2026 22:16:12,D225AA3A07FA64354815
+SD NEGERI LEPANG TENGAH,10802781,SD,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,8,3,60,6,6,0,1,25,06 Mar 2026 04:57:20,BB8F44751C1983E4E445
+SD NEGERI NEGARA AGUNG,10802764,SD,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,9,1,76,6,6,0,0,30,29 Apr 2026 10:42:53,17004A2C02A97B462285
+SMP NEGERI 1 SUNGKAI JAYA,10802932,SMP,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,20,9,337,12,15,2,1,77,29 Apr 2026 14:51:35,0B5ADB22A3AE81FC3D69
+SMP NEGERI 2 SUNGKAI JAYA,10802790,SMP,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,7,4,42,3,6,0,1,53,09 Apr 2026 12:06:49,367F4587F5A637587FE5
+SMAN 1 SUNGKAI JAYA,69763263,SMA,Negeri,Kec. Sungkai Jaya,120320,Kab. Lampung Utara,120300,Prov. Lampung,120000,23,4,304,10,10,4,1,51,30 Apr 2026 09:16:44,947EBF29C7D9A98EFE4E

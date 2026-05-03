@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 PATILANGGIO,40500753,SD,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,3,141,6,6,0,1,22,30 Apr 2026 11:25:59,519EEA0EA7B2A68B29E4
+SDN 02 PATILANGGIO,40501620,SD,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,7,1,131,6,6,0,1,15,22 Apr 2026 09:49:42,87F0A6BC7FA9138D63AE
+SDN 03 PATILANGGIO,40500767,SD,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,7,2,194,6,6,0,1,47,14 Apr 2026 11:03:02,C28CBCAD76A3DE484A2C
+SDN 04 PATILANGGIO,40500817,SD,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,3,143,6,8,0,2,1,09 Apr 2026 10:46:10,0B49905AD0AF041717F8
+SDN 05 PATILANGGIO,40500809,SD,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,3,148,6,6,0,1,57,24 Apr 2026 08:25:56,89BC8BFACFD8F66355C8
+SDN 06 PATILANGGIO,40501897,SD,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,2,61,6,6,0,1,32,14 Apr 2026 13:39:40,8F4AB0383F9C716945F2
+SDN 07 PATILANGGIO,69861169,SD,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,7,2,34,6,8,0,1,15,06 Apr 2026 09:12:30,E85E06B6FF83BA805584
+SDN 08 PATILANGGIO,69830482,SD,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,3,138,6,6,0,1,49,16 Apr 2026 10:24:51,82B6C3AF1096828B27F3
+SMP NEGERI 1 PATILANGGIO,40500731,SMP,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,10,2,125,6,7,2,1,17,13 Apr 2026 12:04:56,251C4F09D8B01B02B716
+SMP NEGERI 2 PATILANGGIO SATU ATAP,40501835,SMP,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,12,2,73,3,6,1,1,22,22 Feb 2026 12:27:04,FB3CA805C657946E790C
+SMP NEGERI 3 PATILANGGIO SATU ATAP,40501898,SMP,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,10,2,62,3,4,1,1,45,15 Apr 2026 11:45:35,A4810C932A7C294041F4
+SMK NEGERI 1 PATILANGGIO,40502684,SMK,Negeri,Kec. Patilanggio,300306,Kab. Pohuwato,300300,Prov. Gorontalo,300000,17,3,43,5,9,1,1,35,28 Apr 2026 09:39:30,DFC19EAC8E3E888DC4ED

@@ -1,0 +1,22 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BEA DENGER,50303548,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,9,2,130,6,8,0,1,29,13 Apr 2026 08:30:10,F479BF0582CCB42E298F
+SD INPRES HESO,50303448,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,8,1,101,6,7,0,1,11,10 Apr 2026 07:14:53,A0516E20413879223091
+SD INPRES LENDA,50303469,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,9,1,111,6,10,0,1,20,20 Apr 2026 12:26:55,F5E25B56C8EFD88A75B7
+SD INPRES WAE NAMUT,50303609,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,8,3,135,6,6,0,1,18,07 Apr 2026 09:48:08,4A59921DB3325AA45CF6
+SD INPRES WAE PAKU,50303595,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,2,116,6,8,1,1,14,04 Mar 2026 08:40:08,B748AE541A5BAAAD8B77
+SD INPRES WAE RENCA,50303583,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,11,2,148,7,7,1,1,17,08 Apr 2026 19:07:41,D4B335FEFD7B0FF26B0B
+SD NEGERI CEKOK,69733945,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,12,1,126,6,7,0,1,45,28 Apr 2026 08:23:55,BD82E6FD509FBAD983FB
+SD NEGERI GOLO MONDO,50308490,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,7,4,105,6,7,0,1,21,16 Apr 2026 07:00:14,E758F3A4BCCB82FAE6F7
+SD NEGERI MEDA,69734146,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,9,2,77,6,7,0,0,33,23 Apr 2026 19:11:07,8787C5BE0053FE5FF7BF
+SDN BEA LAMBA,69760865,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,8,1,54,6,6,0,0,24,11 Apr 2026 18:01:31,A9E619C4B1CFCC4F96AB
+SDN Madona,69888813,SD,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,8,2,89,6,6,0,1,32,27 Apr 2026 18:42:34,5AE3428A25D25982274F
+SDK AKEL,50303625,SD,Swasta,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,1,176,9,12,0,1,18,07 Mar 2026 09:30:34,8AE5FD7D2F9A50E49104
+SDK KAWAK,50303260,SD,Swasta,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,6,1,119,6,6,0,1,18,17 Apr 2026 07:19:02,2262817CD2104C48E939
+SDK LATUNG,50303304,SD,Swasta,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,5,1,77,6,6,0,1,7,15 Apr 2026 03:58:08,3EC9E742E16D1C391B86
+SDK NANGA,50303295,SD,Swasta,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,8,1,85,6,7,0,1,21,16 Mar 2026 10:53:56,1216D18AFE4276E44B30
+SDK PELAS,50303198,SD,Swasta,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,7,1,113,6,6,0,1,11,16 Apr 2026 02:42:30,1543F5230C345D91E61C
+SDK WAE CODI,50303235,SD,Swasta,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,7,1,97,6,7,0,1,8,29 Mar 2026 12:35:11,850A71B4F8B2B28BFBF4
+SMP NEGERI 1 CIBAL BARAT,50303358,SMP,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,34,5,295,10,13,2,1,7,09 Apr 2026 12:19:58,C24269618850A6F10688
+SMP NEGERI 2 CIBAL BARAT,50307937,SMP,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,17,5,203,9,9,2,3,14,15 Apr 2026 08:05:29,82FD49DAEA95D8A5C49B
+SMP NEGERI 3 CIBAL BARAT,69933186,SMP,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,13,2,125,6,4,1,1,28,30 Apr 2026 07:38:54,4F037E8D38638DA31502
+SMAN 2 CIBAL,69760873,SMA,Negeri,Kec. Cibal Barat,241122,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,44,2,260,9,13,3,1,17,11 Mar 2026 09:58:14,126E697676DD46D2797B

@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 SEBATIK TENGAH,30402705,SD,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,16,3,241,11,15,0,1,40,01 May 2026 22:06:44,8C3F6251C45027A302E6
+SD NEGERI 002 SEBATIK TENGAH,30402729,SD,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,8,1,60,6,6,0,1,19,30 Apr 2026 14:42:42,2EE9BE3DC65258C380CF
+SD NEGERI 003 SEBATIK TENGAH,30402735,SD,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,7,2,96,6,7,0,1,17,02 Mar 2026 04:57:36,C10ED4B7F51F3A8094DB
+SD NEGERI 004 SEBATIK TENGAH,30402741,SD,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,3,141,7,9,0,0,27,23 Apr 2026 10:16:24,5D8187670A8B785214BA
+SD NEGERI 005 SEBATIK TENGAH,30402747,SD,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,8,4,133,6,6,0,1,14,06 Apr 2026 07:03:43,3CE9DAE8F72D8F8B9759
+SD NEGERI 006 SEBATIK TENGAH,30405478,SD,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,8,3,137,6,7,0,0,14,27 Apr 2026 09:11:05,4DD60A9165E3675C8698
+SMP NEGERI 1 SEBATIK TENGAH,30402801,SMP,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,18,3,320,12,14,2,1,23,22 Apr 2026 07:09:45,17F778F8E0CFDDF6ADC6
+SMP NEGERI 2 SEBATIK TENGAH,30405244,SMP,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,9,3,48,3,3,0,0,15,17 Mar 2026 06:24:35,CB8C16639B760A5B83DC
+SMA NEGERI 1 SEBATIK TENGAH,30407353,SMA,Negeri,Kec. Sebatik Tengah,340520,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,27,7,394,12,11,4,1,42,27 Apr 2026 08:02:16,CAEDB3BEF551EB8B6B13

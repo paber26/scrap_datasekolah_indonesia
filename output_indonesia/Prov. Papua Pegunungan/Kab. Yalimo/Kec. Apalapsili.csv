@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KULET,60301418,SD,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,3,1,70,6,6,0,1,30,02 May 2026 06:48:32,8A1901D02019DBFBFF41
+SD INPRES YAREMA,60301485,SD,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,4,1,79,6,6,1,1,24,22 Apr 2026 00:03:59,2E986AA13AF9AA2FFA30
+SD NEGERI BENYAM,60304694,SD,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,3,1,103,6,8,1,1,18,14 Apr 2026 18:18:15,4CEAC0C6676828619B0B
+SD NEGERI BONG,60304892,SD,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,4,1,105,6,3,0,1,23,30 Apr 2026 07:47:02,94B65AD6F8AA36D40316
+SD NEGERI KUNDIKELE,70044860,SD,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,2,1,45,2,1,0,0,6,25 Jan 2026 06:45:32,C9E7236647334278FF83
+SD NEGERI MASAKUNGGULI,60325031,SD,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,1,1,81,7,6,0,0,9,30 Apr 2026 19:33:54,94604558EE4759391CAF
+SD NEGERI NATOKSILI,60304525,SD,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,5,1,134,6,6,0,1,9,30 Apr 2026 20:09:55,7577C667B68D59206441
+SD YPK APAHALAPSILI,60301502,SD,Swasta,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,3,1,145,7,6,1,1,90,28 Apr 2026 06:32:40,4E3A18184E34D8C698DF
+SMP NEGERI APAHAPSILI,60301568,SMP,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,15,1,126,5,6,1,1,57,24 Apr 2026 10:19:14,E4FC1A0AA6F83E7BE5AC
+SMPN KULET,69762698,SMP,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,4,1,42,3,3,0,1,32,02 May 2026 14:26:47,2B2151E1BC1B56063B5E
+SMPN YAREMA,69762697,SMP,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,5,1,84,4,3,1,1,90,01 May 2026 19:30:37,3D07419C2C7C752DDC98
+SMA NEGERI APAHAPSILI,69762701,SMA,Negeri,Kec. Apalapsili,380602,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,5,1,170,6,3,0,1,13,29 Apr 2026 19:46:02,AABF3AEAA5CBF232364A

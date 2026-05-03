@@ -1,0 +1,22 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES CERA,60201772,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,7,1,49,6,5,0,1,24,30 Apr 2026 16:01:27,0459A45AC825DC83D31C
+SD INPRES JIKOLAMO,60201818,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,8,2,31,6,4,0,0,26,01 May 2026 22:26:29,7F99DE73CBAF5D63E6D3
+SD NEGERI DAGASULI,60201864,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,6,1,88,6,6,0,1,27,24 Apr 2026 20:56:25,C0E0B4087930EBC646EE
+SD NEGERI DAMA,60201865,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,10,2,176,8,8,0,1,26,14 Apr 2026 06:56:55,0A0E030DF3396B2EB23D
+SD NEGERI DEDETA,60201866,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,8,0,81,6,6,0,1,27,09 Apr 2026 05:00:11,1506BD57ADE6C41DB4B0
+SD NEGERI FITAKO,60201867,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,9,2,64,6,7,0,1,22,27 Apr 2026 22:10:34,C84FC781E936620EBC0C
+SD NEGERI SALUBE,60201869,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,11,1,251,10,10,1,1,20,13 Apr 2026 15:00:55,A39B2358E86A3FCBDFE8
+SD NEGERI TOBO TOBO,60201871,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,10,1,89,6,6,0,0,27,29 Apr 2026 16:47:10,9103B9056F87D470F7CF
+SD NEGERI TUAKARA,60202216,SD,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,5,1,56,6,6,0,1,36,24 Apr 2026 21:24:40,C4467EA84162C4AEB136
+SD GMIH DOWONGGILA,60201729,SD,Swasta,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,1,2,49,6,4,0,1,6,26 Jan 2026 17:52:35,87521CCA0F44E206A697
+SMP NEGERI 10 HALMAHERA UTARA,69787392,SMP,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,12,2,159,6,8,2,1,13,22 Apr 2026 12:50:08,68CCED72CF23307A5C8C
+SMP NEGERI 25 HALMAHERA UTARA,69768230,SMP,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,7,5,32,3,3,1,1,26,26 Apr 2026 19:52:53,580CA67831C0DAF79C87
+SMP NEGERI 26 HALMAHERA UTARA,70050330,SMP,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,7,4,54,3,3,0,1,41,29 Apr 2026 17:35:24,43407917EDC8F1C9B052
+SMP NEGERI SATAP TOBO TOBO,69787393,SMP,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,12,1,62,4,3,1,1,29,03 Apr 2026 20:50:57,1EEB74D02A2730D658FD
+SMP NEGERI SATU ATAP CERA,70042444,SMP,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,9,1,25,3,1,0,0,14,14 Apr 2026 06:09:19,BA3BF9E77D9E2D71E8A5
+SMP NEGERI SATU ATAP FITAKO,69917089,SMP,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,7,1,26,3,3,0,0,15,29 Apr 2026 10:47:27,77ECFFEBFA381A3B3BC2
+SMP BINA TALENTA DOWONGGILA,69933731,SMP,Swasta,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,0,1,2,1,5,0,0,1,07 Feb 2026 21:20:28,DB7E36FD4F84BCD3E9BE
+SMP ISLAM DAGASULI,60201893,SMP,Swasta,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,0,1,30,3,4,0,1,13,15 Feb 2026 20:34:53,1B9F589466C68DDB3A0F
+SMA NEGERI 10 HALMAHERA UTARA,60202875,SMA,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,13,3,93,4,5,0,0,171,01 May 2026 17:54:56,6A3B29F270695E9905B9
+SMA NEGERI 8 HALMAHERA UTARA,69822815,SMA,Negeri,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,18,4,146,6,6,2,1,52,22 Apr 2026 19:34:28,D80F64EA04725C371C16
+SMAS MAREN,70011075,SMA,Swasta,Kec. Loloda Kepulauan,270419,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,1,1,0,0,0,0,0,0,,2035D785A79E2431BC51

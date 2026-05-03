@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SEKOLAH SI KUALA LUMPUR TINGKAT SD,90101017,SD,Swasta,Kuala Lumpur,350401,Malaysia,350400,Luar Negeri,350000,7,0,270,9,6,2,1,17,29 Apr 2026 12:33:43,9DBB8DC035E47C95BE33
+SEKOLAH SI KUALA LUMPUR TINGKAT SMP,90101018,SMP,Swasta,Kuala Lumpur,350401,Malaysia,350400,Luar Negeri,350000,7,0,167,6,6,0,0,41,22 Apr 2026 15:21:40,9950AB27C7B642BA6C65
+SEKOLAH SI KUALA LUMPUR TINGKAT SMA,90101019,SMA,Swasta,Kuala Lumpur,350401,Malaysia,350400,Luar Negeri,350000,12,3,116,5,6,5,1,19,20 Apr 2026 14:08:38,E1F2DEC7CFC7A34E1C17

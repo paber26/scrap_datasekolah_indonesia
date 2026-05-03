@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MOLOMPAR,40103495,SD,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,1,113,6,6,0,2,15,08 Apr 2026 11:11:05,88A261A0AB43308321F5
+SD INPRES MOLOMPAR SATU,40101939,SD,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,1,79,6,6,0,1,16,15 Apr 2026 14:38:28,D47DBC42927E7256489C
+SD INPRES MUNDUNG,40101940,SD,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,13,2,185,10,11,0,1,18,06 Apr 2026 23:22:13,527A3997C715D66DCCB0
+SD NEGERI 2 MUNDUNG,40102205,SD,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,0,113,6,6,0,2,23,31 Mar 2026 12:55:36,0ACA9F4295A248D41896
+SD NEGERI I MOLOMPAR,40102204,SD,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,0,136,7,7,0,1,31,15 Apr 2026 21:46:06,D62AD0932FBDD3A93624
+SD NEGERI I MUNDUNG,40102230,SD,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,2,130,7,7,0,1,23,10 Apr 2026 19:51:11,6B04A8C92AC30A842518
+SD NEGERI II MOLOMPAR,40102206,SD,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,1,144,7,6,0,1,28,02 May 2026 13:41:08,61DF93190A8FD0C06114
+SMP NEGERI 2 TOMBATU,40101985,SMP,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,18,1,236,9,13,2,3,48,30 Apr 2026 15:29:40,3871476B71B7BA5322E6
+SMP NEGERI 3 TOMBATU,40101991,SMP,Negeri,Kec. Tombatu Timur,171009,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,12,1,129,6,10,1,1,18,02 Apr 2026 09:07:15,E7EFD33C0A2B5A08BC05

@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES LAMBARA,40201041,SD,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,10,4,132,6,7,0,0,16,03 Mar 2026 18:57:03,58DB829B3C0629A34B5D
+SD INPRES MALAKANTU,40201101,SD,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,10,5,82,6,6,0,1,5,21 Jan 2026 09:39:19,C3424E0963375F17102E
+SD INPRES SIBALAYA SELATAN,40200970,SD,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,3,148,6,6,0,1,35,09 Apr 2026 22:03:56,33F54FB257A467412D5A
+SD INPRES SIBALAYA UTARA,40200978,SD,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,10,6,99,6,6,0,0,15,03 Mar 2026 12:24:29,D92E082B0A38AFBEFC3A
+SD INPRES SIBOWI,40200976,SD,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,2,106,6,6,0,1,7,04 Mar 2026 08:47:23,3C3888318E755EF105B1
+SD NEGERI 1 SIBOWI,40200527,SD,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,8,5,69,6,6,0,1,25,17 Apr 2026 09:48:17,AAB6D7142BDA69FF7278
+SD NEGERI 2 SIBOWI,40200506,SD,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,4,94,6,6,0,1,5,03 Mar 2026 20:03:01,EB21E574B482B6E15D7D
+SD NEGERI SIBALAYA UTARA,40200713,SD,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,3,103,6,6,0,0,16,11 Apr 2026 09:03:12,C38E5E9299E7A8D76432
+SD ALKHAIRAT SIBOWI,40203786,SD,Swasta,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,2,52,6,6,0,0,4,30 Apr 2026 12:32:44,BC0D685B096B07F93E99
+SMP NEGERI 8 SIGI,40200586,SMP,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,23,16,256,9,13,2,1,27,30 Apr 2026 19:45:12,145B20D4D17A5C8D6DC8
+SMP SATU ATAP NEGERI 13 SIGI,60726347,SMP,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,12,4,37,3,3,0,0,16,29 Apr 2026 20:18:13,B5C25706E3B2C26E447F
+SMA NEGERI 3 SIGI,40200736,SMA,Negeri,Kec. Tanambulava,181015,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,29,15,378,13,14,5,1,21,02 Apr 2026 11:58:08,DBAFFC486BE780382503

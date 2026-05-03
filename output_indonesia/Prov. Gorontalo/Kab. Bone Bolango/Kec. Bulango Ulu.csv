@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BULANGO ULU,40501588,SD,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,1,70,6,6,0,1,17,16 Apr 2026 07:43:54,C246E9C7F6C700F71E63
+SD NEGERI 2 BULANGO ULU,40501590,SD,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,6,81,6,6,1,1,32,22 Apr 2026 13:09:54,BD99D74394D4DEDD77AC
+SD NEGERI 3 BULANGO ULU,40501589,SD,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,1,47,6,6,0,1,24,22 Apr 2026 15:23:59,FACA7903B4F41FFDB51C
+SD NEGERI 4 BULANGO ULU,40501591,SD,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,2,21,6,7,0,1,14,22 Apr 2026 15:29:16,1B6E7A37EA890D29A8EE
+SD NEGERI 5 BULANGO ULU,40500932,SD,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,7,4,74,6,6,0,1,11,07 Apr 2026 21:00:01,DDDE34550E848428649D
+SD NEGERI 6 BULANGO ULU,40502211,SD,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,2,57,6,6,0,1,12,15 Mar 2026 09:59:29,2A0F35A6B3D0D4B0F913
+SMP NEGERI 1 BULANGO ULU,40500891,SMP,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,3,47,3,5,2,1,31,06 Mar 2026 21:15:29,2209A9F8A4C1852A5DAC
+SMP NEGERI 2 SATU ATAP BULANGO ULU,40501820,SMP,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,2,52,3,3,1,1,27,06 Mar 2026 13:48:31,7B1CA618AD1B122EB3C7
+SMP NEGERI 3 SATU ATAP BULANGO ULU,40501880,SMP,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,10,4,44,3,3,1,1,27,21 Apr 2026 11:20:31,9639A6D99131284C81E9
+SMA NEGERI 1 BULANGO ULU,69899889,SMA,Negeri,Kec. Bulango Ulu,300413,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,13,4,67,3,5,4,1,11,29 Mar 2026 19:33:46,53797A14C6528A381AE9

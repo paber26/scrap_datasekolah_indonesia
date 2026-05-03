@@ -1,0 +1,22 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD N 10 BADAU,10900483,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,1,58,6,6,0,1,21,13 Apr 2026 21:33:19,7F282E83113A5EAE2E37
+SD N 11 BADAU,10900468,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,2,49,6,6,0,1,14,09 Apr 2026 20:23:47,429BB18347469D5313C7
+SD N 14 BADAU,10900478,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,2,153,6,6,0,1,15,21 Apr 2026 07:58:20,1E0AA14BF0EC742A6740
+SD N 2 BADAU,10900545,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,7,4,162,6,6,1,1,18,11 Apr 2026 23:10:47,C7740E88AD4797AEB325
+SD N 3 BADAU,10900506,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,5,3,44,6,6,0,1,5,04 Mar 2026 09:13:36,76EFECF758878A6B084C
+SD N 5 BADAU,10900377,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,6,2,45,6,4,0,1,15,10 Apr 2026 10:39:59,C8C0808FBE2E9B09E363
+SD N 7 BADAU,10900386,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,6,3,74,6,6,1,1,18,30 Apr 2026 07:30:51,393B40546B11BCE4B724
+SD N 9 BADAU,10900443,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,7,3,89,6,6,0,1,28,21 Apr 2026 13:58:37,286B6546600C31DAB8DA
+SD NEGERI 1 BADAU,10900499,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,7,3,128,6,9,0,1,65,30 Apr 2026 07:43:12,171A52184FA90C5DAED7
+SD NEGERI 12 BADAU,10900464,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,7,3,104,6,6,0,1,25,29 Apr 2026 11:53:16,2A612C5C331C33957D23
+SD NEGERI 13 BADAU,10900473,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,7,2,66,6,6,0,1,29,29 Apr 2026 08:34:13,D9B0457BBC377E4AEA31
+SD Negeri 15 Badau,10900474,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,3,107,6,6,0,1,19,30 Apr 2026 08:13:20,541F186DCD208BAA1EA5
+SD NEGERI 16 BADAU,10900536,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,7,2,79,6,6,0,1,26,29 Apr 2026 09:38:08,AC594C177755B0F9DA0C
+SD NEGERI 17 BADAU,10900532,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,3,130,6,6,0,1,37,28 Apr 2026 07:56:26,631A3B1CFBBB3E7B549C
+SD NEGERI 4 BADAU,10900413,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,3,78,6,6,0,1,19,06 Apr 2026 23:26:59,E705E3ADF97E0E1134FF
+SD NEGERI 6 BADAU,10900391,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,3,96,6,6,0,1,24,30 Mar 2026 22:11:02,26A02DEF95F2AE6B768B
+Sekolah Dasar Negeri 8 Badau,10900415,SD,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,8,2,113,6,6,1,1,43,17 Apr 2026 09:16:52,FF7CDE83447EFE1D3706
+SMP NEGERI 1 BADAU,10900423,SMP,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,17,3,268,9,10,4,1,23,27 Apr 2026 13:11:08,BC5E3682F2DDE75E1A40
+SMP NEGERI 2 BADAU,10900418,SMP,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,18,5,287,10,12,2,1,69,06 Apr 2026 10:18:17,8AFBE91862933BAEAF49
+SMP NEGERI 3 BADAU,10901378,SMP,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,12,4,151,6,9,1,2,12,23 Apr 2026 14:09:54,1A9411C3F9E1427E9FAC
+SMKN 1 BADAU,10901375,SMK,Negeri,Kec. Badau,290208,Kab. Belitung,290200,Prov. Kepulauan Bangka Belitung,290000,31,9,371,15,21,6,1,44,21 Apr 2026 09:39:49,C759105E07988FEFD753

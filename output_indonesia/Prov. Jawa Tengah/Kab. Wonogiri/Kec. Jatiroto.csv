@@ -1,0 +1,37 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Boto,20311610,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,63,6,6,0,1,13,13 Apr 2026 12:10:26,B48EF6B76270B0E54489
+SD Negeri 1 Brenggolo,20311609,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,104,6,6,0,0,10,16 Apr 2026 08:28:32,73D288969BD16925166E
+SD Negeri 1 Cangkring,20311570,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,85,6,11,0,0,15,21 Apr 2026 12:58:42,E9E2AC58442AD1569BBF
+SD Negeri 1 Dawungan,20311367,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,69,6,6,0,1,6,09 Apr 2026 08:33:40,B0B280BDA8681FE8A2B5
+SD Negeri 1 Duren,20311564,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,60,6,6,0,1,18,27 Apr 2026 13:56:49,60770B541DAEE9E8470E
+SD Negeri 1 Guno,20311409,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,99,6,6,0,1,13,17 Apr 2026 08:24:40,4C6AFBAC05573E91B4A0
+SD Negeri 1 Jatirejo,20311429,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,48,6,6,0,0,20,16 Apr 2026 11:09:00,3AC289DECF8156ABA850
+SD Negeri 1 Jatiroto,20311427,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,144,6,6,0,1,34,05 Apr 2026 14:12:24,04577F3BF91837053133
+SD Negeri 1 Mojopuro,20311473,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,117,6,6,0,1,9,09 Apr 2026 08:38:09,677FB3668A4AFCA51AD2
+SD Negeri 1 Ngelo,20311493,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,4,88,6,6,0,1,11,02 Apr 2026 10:24:08,6EDFF609BFC1EB9B66D1
+SD Negeri 1 Pengkol,20311442,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,0,59,6,6,0,0,13,10 Apr 2026 07:30:39,CDFF1F05B28EDA93B9A6
+SD Negeri 1 Pingkuk,20311437,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,84,6,7,0,1,6,02 Apr 2026 08:01:23,5D0F389B366039D79ACB
+SD Negeri 1 Sanggrong,20311790,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,79,6,6,1,1,43,23 Apr 2026 07:36:52,6CAA36FB12CECD4705D0
+SD Negeri 1 Sugihan,20311760,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,75,6,7,0,2,23,17 Apr 2026 18:32:49,C8FB44846A0DF23332B9
+SD Negeri 2 Boto,20311823,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,3,3,89,6,6,0,1,12,15 Apr 2026 10:01:33,8CC9C6F3102DC6801E36
+SD Negeri 2 Brenggolo,20311822,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,85,6,6,0,1,14,02 Apr 2026 07:59:07,6DA1C9F4768775784A97
+SD Negeri 2 Cangkring,20311814,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,57,6,6,0,1,19,12 Apr 2026 17:44:25,B6013FF457BCD9ED8E0A
+SD Negeri 2 Dawungan,20311812,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,62,6,6,0,1,6,04 Apr 2026 08:05:26,76CADAAFB0639E60F69D
+SD Negeri 2 Duren,20311840,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,36,6,6,0,1,11,02 Apr 2026 20:48:08,89174912070818B72FD2
+SD Negeri 2 Guno,20311669,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,67,6,6,0,1,11,03 Mar 2026 08:00:38,CD8F5EB9B96E44E80CEF
+SD Negeri 2 Jatirejo,20311671,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,0,95,6,6,0,1,13,24 Apr 2026 08:31:16,6801531FC81761D36771
+SD Negeri 2 Jatiroto,20311670,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,76,6,6,1,1,25,04 Apr 2026 11:21:02,41BBA503A2FF8D01B656
+SD Negeri 2 Pengkol,20311687,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,1,98,6,6,0,1,11,12 Apr 2026 10:15:57,7ABE8C1FA341D9BAA305
+SD Negeri 2 Pesido,20311686,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,125,6,6,0,1,11,04 Apr 2026 11:49:56,E508E8DDE1B3ADEFFD6F
+SD Negeri 2 Pingkuk,20311701,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,3,2,30,6,6,0,1,5,06 Apr 2026 09:15:45,6DAF403A0E9FEA4D8F0B
+SD Negeri 2 Sugihan,20310882,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,1,86,6,6,0,1,18,02 May 2026 07:19:32,7E2C2430883672347D82
+SD Negeri 3 Jatirejo,20310959,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,51,6,6,0,1,18,15 Apr 2026 13:22:50,24524D813879B51DBAF7
+SD Negeri 3 Jatiroto,20310942,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,71,6,6,2,1,15,28 Apr 2026 07:50:23,43655B16CD0818563A09
+SD Negeri 3 Mojopuro,20310784,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,1,104,6,7,0,1,29,02 Apr 2026 08:39:56,CBF31DD11354751623F1
+SD Negeri 3 Pengkol,20310781,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,71,6,6,0,1,14,18 Apr 2026 10:11:47,071EA1F5FA6C214B292B
+SD Negeri 3 Pesido,20310780,SD,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,75,6,6,0,1,11,06 Apr 2026 07:58:20,0B810B496F18C0BAA932
+SDIT BINA INSAN MULIA,69864637,SD,Swasta,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,13,2,270,12,13,1,1,12,16 Apr 2026 11:26:29,6C0C6A6F1EA6A0CC7CB4
+SMP NEGERI 1 JATIROTO,20311213,SMP,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,31,9,652,21,21,4,1,19,14 Apr 2026 08:56:14,679D952F4C74F73A3E76
+SMP NEGERI 2 JATIROTO,20311220,SMP,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,25,7,572,18,18,4,1,14,15 Apr 2026 08:42:08,DD99EC7EDC2E66AF4F20
+SMP Negeri 3 Satu Atap Jatiroto,20338512,SMP,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,9,5,117,5,6,1,1,10,22 Apr 2026 08:15:30,9B5EB652057EC043DDF2
+SMK NEGERI 1 JATIROTO,69760777,SMK,Negeri,Kec. Jatiroto,031217,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,57,9,937,27,21,4,1,23,24 Apr 2026 11:42:38,B75B712804CAF76536C7

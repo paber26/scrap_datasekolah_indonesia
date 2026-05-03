@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SEKOLAH INDONESIA (SINGAPURA) TINGKAT SD,90101020,SD,Negeri,Singapura,351001,Singapura,351000,Luar Negeri,350000,2,0,51,6,6,3,1,15,17 Apr 2026 14:50:10,8BFA68EA0EA4BCCB2E11
+SEKOLAH INDONESIA (SINGAPURA) TINGKAT SMP,90101021,SMP,Negeri,Singapura,351001,Singapura,351000,Luar Negeri,350000,1,2,62,3,3,5,1,18,17 Apr 2026 16:07:24,FECE25ADD7D421D4EBA7
+SEKOLAH INDONESIA (SINGAPURA) TINGKAT SMA,90101022,SMA,Negeri,Singapura,351001,Singapura,351000,Luar Negeri,350000,2,1,63,3,6,3,0,14,17 Apr 2026 16:33:31,307363C17C4F88792BFD

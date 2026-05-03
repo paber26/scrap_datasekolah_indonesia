@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES WAIHATU,60102636,SD,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,13,3,161,6,11,0,0,15,11 Apr 2026 13:58:29,EF8D2F60DD5630E295B5
+SD NEGERI 1 KAMAL,60103664,SD,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,15,4,150,6,7,1,1,25,10 Apr 2026 05:14:26,BA12CB831AE0234D95D9
+SD NEGERI SARIHALAWANE,60101500,SD,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,10,3,120,6,14,0,1,20,20 Apr 2026 06:44:57,B32389F842FFE2F0F2E5
+SD NEGERI WAIHATU,60101508,SD,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,10,2,132,6,6,0,1,23,17 Apr 2026 11:44:25,5D594E2F29A6B4AC4E97
+SD ALHILAAL KAMAL,60102603,SD,Swasta,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,20,4,277,12,15,0,0,20,30 Apr 2026 18:44:35,0C233AB3DF3EE118B9CE
+SD KRISTEN 1 KAMAL,60102668,SD,Swasta,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,8,1,84,6,11,0,0,6,10 Mar 2026 09:18:00,1F0927BCAF4AFAF12407
+SD KRISTEN 2 KAMAL,60101570,SD,Swasta,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,6,2,99,6,6,0,1,9,17 Apr 2026 10:28:48,11FAC6AD9CD49C6C4720
+SD KRISTEN LOHIATALA,60102673,SD,Swasta,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,7,3,124,6,6,0,1,18,14 Apr 2026 21:39:05,9398CBA994F3CE21210A
+SD KRISTEN NURUWE,60101571,SD,Swasta,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,10,2,259,11,15,0,1,9,07 Apr 2026 22:50:47,285F35375A5C44EEE084
+SD KRISTEN WAESAMU,60101572,SD,Swasta,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,5,1,119,6,6,0,1,20,27 Apr 2026 13:33:45,42CCF9069AE3AD8EE3AD
+SMP NEGERI 1 KAIRATU BARAT,60102698,SMP,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,22,10,335,12,21,6,1,23,02 May 2026 12:48:51,7D90065B2985815BE7BA
+SMP NEGERI 2 KAIRATU BARAT,60102704,SMP,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,14,10,188,7,16,2,1,29,06 Apr 2026 11:51:44,472D2B088E03BE1077CA
+SMP NEGERI 3 KAIRATU BARAT,70004916,SMP,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,12,0,100,4,5,0,0,12,26 Apr 2026 21:13:11,B513A9F5B59CC4E28E23
+SMP ALHILAAL KAMAL,60102684,SMP,Swasta,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,11,2,75,3,4,2,1,17,22 Apr 2026 05:42:01,0BE6324AC38E00455321
+SMA Negeri 2 Seram Bagian Barat,60101530,SMA,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,35,9,357,12,19,4,1,54,21 Apr 2026 21:03:38,066D01FB3EFD026CE361
+SMA Negeri 31 Seram Bagian Barat,70057437,SMA,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,11,5,44,2,2,1,0,20,30 Apr 2026 08:47:45,52840A6BEB7F28A02543
+SMAS PGRI 4 KAIRATU,60102897,SMA,Swasta,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,23,6,341,11,7,2,1,36,21 Apr 2026 07:22:32,998C3DED5AEE9E26C2A9
+SMK Negeri 2 Seram Bagian Barat,60102720,SMK,Negeri,Kec. Kairatu Barat,210599,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,25,3,92,11,11,2,1,14,14 Apr 2026 20:28:13,B28C42F886F3EA317F12

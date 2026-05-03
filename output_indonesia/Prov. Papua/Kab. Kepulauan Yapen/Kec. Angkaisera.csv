@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 1 MENAWI,60302814,SD,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,15,1,166,9,7,0,0,48,24 Apr 2026 10:58:42,2CA3493716DD28FA3810
+SD INPRES 2 MENAWI,60300508,SD,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,13,4,178,9,8,0,1,64,14 Apr 2026 19:50:22,6C1804D3CCA693CB833A
+SD INPRES YAPANANI,60300514,SD,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,9,3,34,6,10,0,1,15,06 Apr 2026 22:17:42,F3B00A2D3B57DE26746E
+SD NEGERI BORAI,60300484,SD,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,9,3,124,6,7,0,2,25,17 Apr 2026 22:02:55,C607C30E53BFBDA98C13
+SD NEGERI WANAMPOMPI,60301198,SD,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,8,2,103,6,4,0,0,25,25 Apr 2026 12:55:07,82ADD42DAB8E597D61B5
+SD NEGERI WAWUTI,60300476,SD,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,3,1,42,6,8,0,0,24,20 Apr 2026 21:08:01,BF77800DA9CA9D51A852
+SD KRISTEN CHARIS SERUI,70029511,SD,Swasta,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,10,1,0,0,0,0,0,0,,059A9CB80D62A97E72DF
+SD YPK HOSANA KONTIUNAI,60301316,SD,Swasta,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,9,2,238,8,6,0,1,74,25 Apr 2026 10:40:52,53CD4A3402ED5E2DBD54
+SD YPK KABUAENA,60301353,SD,Swasta,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,9,2,80,6,6,0,1,9,20 Apr 2026 15:12:32,E5C8050BD6546A5A91FD
+SD YPK KAINUI,60301351,SD,Swasta,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,12,1,101,6,9,1,2,47,23 Apr 2026 11:03:55,FC41E1D22B403BEAE2D4
+SD YPK MENAWI,60301344,SD,Swasta,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,16,2,237,11,11,0,1,48,01 May 2026 10:14:10,988BD5ED2D70288CD43B
+SD YPK WADAPI,60301348,SD,Swasta,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,5,2,109,6,6,0,0,40,28 Apr 2026 08:47:53,7F536305159B416C14CC
+SMP NEGERI MENAWI,60301364,SMP,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,30,3,405,14,17,4,1,20,24 Apr 2026 11:38:10,AFE56860DF62E57583BB
+SMP SATAP NEGERI WAWUTI,60302698,SMP,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,11,2,59,3,5,1,1,16,22 Apr 2026 12:39:36,901564D04F4361819279
+SMA NEGERI MENAWI,70013762,SMA,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,14,2,77,6,6,1,1,26,06 Apr 2026 19:08:04,2E349050BAAD250C82BB
+SMK Negeri 1 Agribisnis Dan Agroteknologi Serui,60301374,SMK,Negeri,Kec. Angkaisera,250305,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,45,15,306,20,20,3,1,263,27 Apr 2026 06:53:18,8FF2149DD2A2BF5A5031

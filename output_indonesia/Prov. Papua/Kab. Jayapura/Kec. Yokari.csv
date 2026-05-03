@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPK BUKISI,60300228,SD,Swasta,Kec. Yokari,250130,Kab. Jayapura,250100,Prov. Papua,250000,5,3,103,6,6,0,1,11,23 Feb 2026 17:47:17,104A4E7D6B03A17E3F60
+SD YPK DEMOI,60300226,SD,Swasta,Kec. Yokari,250130,Kab. Jayapura,250100,Prov. Papua,250000,4,1,94,6,6,0,1,34,31 Jan 2026 15:30:11,0BD23E5BEF012363C837
+SD YPK KAMTUMILENA,60300197,SD,Swasta,Kec. Yokari,250130,Kab. Jayapura,250100,Prov. Papua,250000,4,2,69,6,6,0,0,10,16 Apr 2026 20:23:39,4642CA324A1B174DFC17
+SD YPK MEUKISI,60303570,SD,Swasta,Kec. Yokari,250130,Kab. Jayapura,250100,Prov. Papua,250000,5,1,97,6,6,0,1,107,01 May 2026 23:36:53,E5A576E1D240B08AFAEC
+SMP SATU ATAP MEUKISI,60303582,SMP,Negeri,Kec. Yokari,250130,Kab. Jayapura,250100,Prov. Papua,250000,8,1,60,3,3,1,1,9,21 Apr 2026 07:39:07,1799B8CA41D68A62E9CE

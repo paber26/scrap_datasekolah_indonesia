@@ -1,0 +1,23 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Bayemharjo,20311614,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,54,6,6,0,0,8,02 Apr 2026 10:29:07,CD1E3DE481503C2AD1FE
+SD Negeri 1 Giritontro,20311579,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,37,6,6,0,1,14,02 Apr 2026 06:56:16,6A1C2952B3923FC82094
+SD Negeri 1 Jatirejo,20311428,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,27,6,6,0,0,9,04 Apr 2026 14:25:56,350E16B8128720EE10BA
+SD Negeri 1 Ngringin,20311491,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,54,6,6,0,1,8,03 Apr 2026 21:09:01,8695B3EAD36FDC1415E6
+SD Negeri 1 Pucanganom,20311447,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,60,6,6,0,1,5,02 Apr 2026 18:17:10,47DB6486A1C3D4E98D5D
+SD Negeri 1 Tlogoharjo,20311842,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,65,6,6,0,1,11,15 Apr 2026 10:40:26,36358AE3928A3154DEC9
+SD Negeri 1 Tlogosari,20311855,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,78,6,5,0,1,20,11 Apr 2026 01:27:34,4F66AEA7396C6F02AEA7
+SD Negeri 2 Bayemharjo,20311860,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,26,6,6,0,0,14,04 Apr 2026 10:14:41,F162D7C11BCC764F67D7
+SD Negeri 2 Giritontro,20311661,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,148,6,6,0,1,30,06 Apr 2026 21:11:59,E4A56671CFC4CAF14BA2
+SD Negeri 2 Jatirejo,20311672,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,39,6,6,0,1,17,03 Apr 2026 05:56:59,A522054AC26BFDFC15E5
+SD Negeri 2 Ngringin,20311735,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,1,66,6,5,0,1,13,10 Apr 2026 09:05:03,76E7B6D9CC3336CBB96D
+SD Negeri 2 Pucanganom,20311708,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,1,51,6,6,0,0,11,07 Mar 2026 15:20:01,949E412C442A02A9D120
+SD Negeri 3 Giritontro,20310958,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,77,6,6,0,0,9,06 Apr 2026 07:13:12,2753F1F7681AB09EB32C
+SD Negeri 3 Pucanganom,20310774,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,69,6,9,0,0,13,21 Apr 2026 19:17:45,FDC47C66BC4F67666FCF
+SD Negeri 3 Tlogoharjo,20310829,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,40,6,6,0,0,1,07 Apr 2026 07:44:53,A617DB128CB39183F6B5
+SD Negeri 3 Tlogosari,20310828,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,47,6,6,0,1,5,04 Mar 2026 11:25:41,B6B530F1EE3090AA40A6
+SD Negeri 5 Giritontro,20340763,SD,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,69,6,6,0,0,25,09 Apr 2026 19:15:54,DD1052C2D385EBC26680
+SMP NEGERI 1 GIRITONTRO,20311024,SMP,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,26,9,619,19,17,3,1,34,15 Apr 2026 09:50:04,6C0CADB0E391B5A0050F
+SMP NEGERI 2 GIRITONTRO,20311224,SMP,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,30,8,606,20,21,2,2,47,02 May 2026 19:24:05,FDA651968039264DB3D6
+SMP GAJAH MUNGKUR 12 GIRITONTRO,20338508,SMP,Swasta,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,2,1,12,2,3,2,1,12,23 Jan 2026 20:34:43,B30EAC6B63608E06DDD8
+SMK NEGERI 1 GIRITONTRO,20338521,SMK,Negeri,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,53,12,1035,30,25,6,1,29,27 Apr 2026 12:47:31,6FDD53D57C586591EE51
+SMK GAJAH MUNGKUR 2 GIRITONTRO,20338518,SMK,Swasta,Kec. Giritontro,031203,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,3,88,6,9,1,2,32,23 Apr 2026 13:56:20,BB43F1155423C8DA130E

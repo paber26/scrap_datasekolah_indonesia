@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES AOU,60303743,SD,Negeri,Kec. Pulau Tiga,370412,Kab. Asmat,370400,Prov. Papua Selatan,370000,4,1,130,7,6,0,0,89,16 Apr 2026 10:13:07,22F86F3DB00E4A52E483
+SD INPRES NAKAI,60303757,SD,Negeri,Kec. Pulau Tiga,370412,Kab. Asmat,370400,Prov. Papua Selatan,370000,5,1,201,9,3,0,0,8,29 Apr 2026 15:01:16,19B35250D76EF1F6397E
+SD NEGERI AOAP,70049622,SD,Negeri,Kec. Pulau Tiga,370412,Kab. Asmat,370400,Prov. Papua Selatan,370000,0,1,63,6,3,0,0,49,30 Apr 2026 14:08:41,BDEE730185F29EC5EB28
+SD NEGERI FUMERIPITS,70050440,SD,Negeri,Kec. Pulau Tiga,370412,Kab. Asmat,370400,Prov. Papua Selatan,370000,1,1,70,6,2,0,0,27,15 Apr 2026 09:41:09,5AE4C4C16CCED44B2F3B
+SD YPPK ST. FRANSISKUS XAVERIUS KAPI,60303762,SD,Swasta,Kec. Pulau Tiga,370412,Kab. Asmat,370400,Prov. Papua Selatan,370000,3,1,139,6,6,0,0,24,02 Apr 2026 05:21:22,6FBED1D63629D75ADC9A
+SD YPPK ST. PETRUS AS-ATAT,60303751,SD,Swasta,Kec. Pulau Tiga,370412,Kab. Asmat,370400,Prov. Papua Selatan,370000,7,1,206,9,9,0,1,39,28 Apr 2026 11:52:43,347262883D4A2159DF46
+SMP PERSIAPAN NEGERI PULAU TIGA,70042477,SMP,Negeri,Kec. Pulau Tiga,370412,Kab. Asmat,370400,Prov. Papua Selatan,370000,7,1,51,3,2,0,0,23,28 Apr 2026 19:53:22,8DA424688A48828399F5

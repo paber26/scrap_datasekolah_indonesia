@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI DADAT,60304760,SD,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,2,0,0,0,0,0,0,0,,2F2A5061AC6488FE5A6E
+SD NEGERI KEREMA,60304780,SD,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,6,0,66,6,6,0,0,46,29 Apr 2026 20:03:23,660FAA471F9D7219E2A9
+SD NEGERI PERSIAPAN KAMAI,60304794,SD,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,0,0,0,0,0,0,0,,5012440C791AA707DDB7
+SD NEGERI PERSIAPAN OPAHE BUTE,60304799,SD,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,2,1,67,6,1,0,0,17,21 Apr 2026 19:28:53,295B870C071C7CB03F39
+SD NEGERI PERSIAPAN OPAHE USIA,60304801,SD,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,0,0,0,0,0,0,0,0,,52FA213896BC5155E869
+SD NEGERI PERSIAPAN WATIARO,60304808,SD,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,0,1,0,0,0,0,0,0,,B15301671F47A0E5A6B8
+SD YAYASAN KODECO GESA,60304815,SD,Swasta,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,1,156,7,7,0,1,39,02 May 2026 00:51:10,35E834D3594842F75B34
+SD YPK SION BAITANISA,60304821,SD,Swasta,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,0,1,82,6,6,0,0,30,15 Apr 2026 09:09:18,A7E5ADA59824C9C224AA
+SMP NEGERI I BENUKI,60304831,SMP,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,2,1,57,3,3,0,0,28,23 Apr 2026 10:20:21,096E2446272D2153CE0D
+SMP SATU ATAP BAITANISA,70005451,SMP,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,5,0,81,3,3,1,1,16,30 Mar 2026 13:36:28,E71845CB76584FB6707C
+SMAN 1 BENUKI,69822796,SMA,Negeri,Kec. Benuki,252809,Kab. Mamberamo Raya,252800,Prov. Papua,250000,9,1,83,3,4,1,1,200,01 May 2026 22:16:13,672428D5AD69FEAA631F

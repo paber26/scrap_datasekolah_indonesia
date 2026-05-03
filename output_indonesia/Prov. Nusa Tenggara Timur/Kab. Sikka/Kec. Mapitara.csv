@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES HALE,50302408,SD,Negeri,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,9,0,85,6,6,0,1,35,14 Apr 2026 13:52:14,0C75078CB3522FA854CA
+SD INPRES HEBING,50302375,SD,Negeri,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,2,52,6,6,0,1,27,15 Apr 2026 09:28:27,08E2B23AC79D4E6238F8
+SD NEGERI GALIT,50302150,SD,Negeri,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,2,69,6,6,0,1,24,11 Apr 2026 08:38:05,C88E29D93586545A6DC0
+SD NEGERI GLAK,50302152,SD,Negeri,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,7,2,50,6,6,0,0,9,09 Feb 2026 20:10:23,E5CE90E9507C4EA48304
+SDN BAOKRENGET,50309265,SD,Negeri,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,7,1,98,6,6,0,1,11,13 Apr 2026 21:26:06,BA1A1908D5794EEE0309
+SDN UMATAWU,50309266,SD,Negeri,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,4,39,6,6,0,1,15,02 Apr 2026 15:13:22,D740E1621FDAC62FA958
+SDN WAIRPUAT,69864621,SD,Negeri,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,5,43,6,6,0,0,29,03 Apr 2026 08:03:42,59A49B96FE5655BE6EC9
+SD KATOLIK HALE,50302427,SD,Swasta,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,3,67,6,6,0,1,6,04 Mar 2026 08:11:46,250D92E4609D23BDF4BE
+SD KATOLIK LERE,50302469,SD,Swasta,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,7,1,83,6,8,0,0,28,29 Apr 2026 07:57:47,0166116FE78797BAAB4B
+SD KATOLIK NATAKOLI,50302173,SD,Swasta,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,7,3,116,6,10,0,1,32,09 Apr 2026 21:25:54,7D042406867E10FDB7C8
+SD KATOLIK WATUBALER,50302122,SD,Swasta,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,9,2,92,6,6,0,1,26,14 Apr 2026 08:05:20,103FC2D4C49926E18E78
+SMP NEGERI MAPITARA,69775662,SMP,Negeri,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,12,3,126,5,7,1,2,51,18 Apr 2026 15:00:14,36FC747C948919B41D4B
+SMP PGRI LERO HAE,50302214,SMP,Swasta,Kec. Mapitara,240821,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,11,6,127,6,7,2,1,11,15 Apr 2026 21:27:05,1A9CE6CC5F2398D5572E

@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI LALONG,40200172,SD,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,4,102,6,6,0,1,15,28 Apr 2026 08:16:26,A44B6DB7FD080CC9D7D1
+SD NEGERI LUKSAGU,40200146,SD,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,1,59,6,6,0,1,11,05 Mar 2026 20:46:01,1A4A23BE91E490A9660E
+SD NEGERI PALAM,40200145,SD,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,3,114,6,8,0,1,8,02 Apr 2026 19:31:50,2A543F65850AD5417B63
+SD NEGERI PONDING-PONDING,40200135,SD,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,12,2,103,6,7,0,1,34,03 Apr 2026 15:33:38,4891862247ADE3B47913
+SD NEGERI TATAKALAI,40200233,SD,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,13,7,176,9,10,1,1,27,06 Apr 2026 11:31:48,4E37B8767168D7ABC4EC
+SDN INPRES BANGPANGA,40200268,SD,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,15,1,47,6,6,0,1,33,05 Mar 2026 09:41:59,2B3ECDA552CBF2687AD9
+SDN INPRES LUKSAGU,40200386,SD,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,12,4,106,6,7,0,1,15,31 Mar 2026 14:53:49,648351194FE2BB05C902
+SMP NEGERI 1 TINANGKUNG UTARA,40200206,SMP,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,19,5,164,6,12,6,3,39,28 Apr 2026 10:40:35,1D8DE28516054338A073
+SMP NEGERI SATU ATAP PALAM,40206531,SMP,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,11,2,78,3,4,1,1,29,16 Apr 2026 19:48:26,8408374960BDCDC975B5
+SMAN 1 TINANGKUNG UTARA,40200254,SMA,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,24,8,169,7,17,5,1,35,06 Mar 2026 08:53:34,DA2990FD1750B46A6E22
+SMK NEGERI TINANGKUNG UTARA,69950327,SMK,Negeri,Kec. Tinangkung Utara,180117,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,16,6,80,6,4,2,1,24,28 Apr 2026 10:18:02,52021BA48606648888E8

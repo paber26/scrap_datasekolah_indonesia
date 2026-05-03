@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 NIBONG,10105823,SD,Negeri,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,20,6,287,12,13,0,1,25,24 Apr 2026 20:06:05,AD745ADCD35B96F4B8DC
+SD NEGERI 2 NIBONG,10105967,SD,Negeri,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,13,3,171,7,9,0,0,23,28 Apr 2026 09:16:06,BC5B445F4CD56181FF3C
+SD NEGERI 3 NIBONG,10106017,SD,Negeri,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,13,2,131,6,11,0,1,29,27 Apr 2026 09:19:06,7F60A416A6C4EEB5FA77
+SD NEGERI 4 NIBONG,10106039,SD,Negeri,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,11,3,114,6,6,0,1,14,07 Apr 2026 08:53:57,C1B6C20C1F906827C2DC
+SD NEGERI 5 NIBONG,10113328,SD,Negeri,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,12,3,99,6,6,0,1,24,09 Apr 2026 19:09:00,AE5841690BE1EA191625
+SMP NEGERI 1 NIBONG,10106199,SMP,Negeri,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,22,9,97,5,9,2,1,27,02 May 2026 07:34:55,D11C642DD73D4E16844A
+SMP NEGERI 2 NIBONG,69893744,SMP,Negeri,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,26,10,45,3,6,2,1,16,15 Apr 2026 10:10:55,D9BB5146FAD97AA876FF
+SMP SWASTA AL HILAL AL AZIZIYAH,69886181,SMP,Swasta,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,20,5,263,9,10,1,1,30,02 May 2026 14:19:48,5F32C899BA965F184ED6
+SMP Swasta Kesejahteraan Terpadu,69896209,SMP,Swasta,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,2,2,4,3,3,0,1,2,26 Jan 2026 23:13:59,CB71F7625F3FE94AEDA2
+SMP Swasta Raudhatul Ulum,70004478,SMP,Swasta,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,10,4,95,4,4,0,1,30,01 May 2026 19:46:43,7A328D2AEC2DA21DB7E9
+SMA Swasta Al Hilal Al Aziziyah,69978226,SMA,Swasta,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,15,3,152,6,4,2,1,43,26 Apr 2026 16:59:59,29AFF691C894CDAEECA5
+SMK Negeri 1 Nibong,69964433,SMK,Negeri,Kec. Nibong,060319,Kab. Aceh Utara,060300,Prov. Aceh,060000,32,6,121,9,8,1,1,22,22 Apr 2026 20:09:06,5ECE5C5115A065C123F5

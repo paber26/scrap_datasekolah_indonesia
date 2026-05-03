@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 NAPANO KUSAMBI,40400800,SD,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,19,1,212,12,9,0,1,27,17 Apr 2026 16:11:49,3FE7768D7864AF692DF7
+SDN 2 NAPANO KUSAMBI,40400970,SD,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,12,3,75,6,5,0,1,6,03 Apr 2026 21:40:41,B779AEFCA638B1F72AF1
+SDN 3 NAPANO KUSAMBI,40400933,SD,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,18,1,137,6,7,0,1,9,16 Mar 2026 17:03:09,54886ABE46E67CBFDDDE
+SDN 4 NAPANO KUSAMBI,40400814,SD,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,1,145,7,8,0,1,6,04 Apr 2026 01:28:04,F6DEB3F9168F08C9C87D
+SDN 5 NAPANO KUSAMBI,40402885,SD,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,14,1,137,7,6,0,1,7,04 Apr 2026 00:53:02,5D02238F116CAD289629
+SMPN 1 NAPANO KUSAMBI,40400702,SMP,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,16,3,152,6,6,2,1,18,14 Apr 2026 08:09:58,94893EAC29201062A464
+SMPN SATAP 1 NAPANO KUSAMBI,40405281,SMP,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,17,2,98,5,6,2,2,9,22 Apr 2026 08:49:52,DCB8794A75686374DDCD
+SMPN SATAP 2 NAPANO KUSAMBI,69947669,SMP,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,13,2,42,3,3,1,1,18,23 Apr 2026 09:11:04,EF6817271536C2A8D07F
+SMAN 1 NAPANO KUSAMBI,60726464,SMA,Negeri,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,25,4,160,6,6,4,1,71,30 Mar 2026 14:32:10,21050BAAF0F1E36C2B7B
+SMKS MARITIM,69948525,SMK,Swasta,Kec. Napano Kusambi,201311,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,44,4,108,8,1,4,1,41,22 Apr 2026 11:57:15,2C0B8420560A60766C60

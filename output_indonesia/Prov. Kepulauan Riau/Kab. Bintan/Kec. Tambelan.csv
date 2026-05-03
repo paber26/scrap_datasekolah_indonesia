@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 TAMBELAN,11001872,SD,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,8,5,80,6,6,0,1,12,30 Mar 2026 20:09:26,689F04BA5E7C6C64D8FE
+SD NEGERI 002 TAMBELAN,11001877,SD,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,7,3,105,6,8,0,0,27,24 Apr 2026 10:00:12,90995E8388CAC3C20722
+SD NEGERI 003 TAMBELAN,11001883,SD,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,8,4,155,6,9,0,1,30,21 Apr 2026 23:18:13,3B0261118BBAC5EBBD4A
+SD NEGERI 004 TAMBELAN,11001889,SD,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,7,4,61,6,6,0,1,14,28 Apr 2026 09:17:23,1C1E17619596B356A73D
+SD NEGERI 005 TAMBELAN,11001894,SD,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,8,4,90,6,6,1,1,13,07 Apr 2026 09:22:49,BBBF33D31C5DDEBDA770
+SD NEGERI 006 TAMBELAN,11001899,SD,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,8,6,11,7,5,0,0,10,12 Apr 2026 05:23:44,BDD48129C2946741873A
+SD NEGERI 007 TAMBELAN,11001903,SD,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,11,4,33,9,8,1,1,28,02 Apr 2026 15:54:15,CBFFEFEED46097830468
+SMP NEGERI 14 BINTAN,11001964,SMP,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,15,7,252,9,9,2,1,41,28 Apr 2026 08:21:38,E35EF1D3B3E16B9F07B0
+SMAN 1 TAMBELAN,11002258,SMA,Negeri,Kec. Tambelan,310103,Kab. Bintan,310100,Prov. Kepulauan Riau,310000,22,12,194,6,9,2,1,33,28 Apr 2026 09:53:41,CA8B8399DAA96DB53569

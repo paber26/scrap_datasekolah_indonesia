@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BEKO,60302325,SD,Negeri,Kec. Paniai Barat,360302,Kab. Paniai,360300,Prov. Papua Tengah,360000,11,1,201,10,6,1,1,66,01 May 2026 18:47:19,31AE8D73EBB6EB8B4435
+SD INPRES OBANO,60302331,SD,Negeri,Kec. Paniai Barat,360302,Kab. Paniai,360300,Prov. Papua Tengah,360000,14,1,223,11,7,0,1,32,08 Apr 2026 07:41:15,CA86DD55F39685ACF9D2
+SD YPPGI OBANO,60307378,SD,Swasta,Kec. Paniai Barat,360302,Kab. Paniai,360300,Prov. Papua Tengah,360000,9,0,0,0,0,0,0,0,,6B3BE7B07CC3B2A8996A
+SD YPPK OBANO,60302414,SD,Swasta,Kec. Paniai Barat,360302,Kab. Paniai,360300,Prov. Papua Tengah,360000,7,1,320,10,6,0,0,9,23 Apr 2026 11:27:02,C7604D708F4C2F4E9663
+SMP NEGERI 1 PANIAI BARAT,60302434,SMP,Negeri,Kec. Paniai Barat,360302,Kab. Paniai,360300,Prov. Papua Tengah,360000,23,1,426,12,9,1,1,50,27 Feb 2026 19:16:13,0A5ADBC891AB30E7B7F1
+SMAN 4 PANIAI,69822805,SMA,Negeri,Kec. Paniai Barat,360302,Kab. Paniai,360300,Prov. Papua Tengah,360000,14,1,316,12,3,1,0,35,23 Apr 2026 23:15:01,EC3636FAD8B9A4F49EA2

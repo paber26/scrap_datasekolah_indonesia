@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES Dagokebo,60302290,SD,Negeri,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,12,1,419,13,6,2,1,17,13 Mar 2026 11:21:04,4DE14628CCEDB8399165
+SD INPRES Dakebo,60302294,SD,Negeri,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,3,1,269,11,4,0,0,4,05 Apr 2026 19:22:18,C6178A8FC7A11DD15018
+SD INPRES KOKOBAYA,60302298,SD,Negeri,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,10,1,245,8,6,0,0,23,09 Feb 2026 20:30:37,B6DDFCF6BBEDBBD7C95C
+SD INPRES Uwotadi,69787846,SD,Negeri,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,5,1,255,7,3,0,1,14,27 Mar 2026 15:57:30,5495513032A36CB1D986
+SD INPRES Watiyai,60302316,SD,Negeri,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,9,1,325,12,6,0,2,7,25 Feb 2026 07:27:31,17501C798784156528EE
+SD YPPGI Onageidapa,60302381,SD,Swasta,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,10,1,427,13,6,0,1,16,20 Apr 2026 13:12:19,22020AAF4535BE07DF91
+SD YPPK Damabagata,60302398,SD,Swasta,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,7,1,420,14,6,0,1,35,27 Apr 2026 16:25:20,BAF563E1BDE8DBD70F96
+SD YPPK DIYOUTO,69862414,SD,Swasta,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,6,2,428,13,3,0,0,11,15 Mar 2026 13:38:35,5DE3ED8701046E64D15B
+SD YPPK Edagotadi,60302401,SD,Swasta,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,10,1,545,17,7,0,1,113,27 Apr 2026 13:10:05,7259D3C0489287BBEBDF
+SD YPPK Egepakigida,69787847,SD,Swasta,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,5,1,342,11,8,0,0,28,24 Mar 2026 13:13:21,6D18E4AD42CF93EB9F4E
+SMP NEGERI 1 Tigi Timur,60302439,SMP,Negeri,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,13,3,396,10,4,1,2,38,23 Apr 2026 15:33:19,5B085A5C88F4F7A4CD13
+SMP YPPK EDAGOTADI,69883434,SMP,Swasta,Kec. Tigi Timur,360802,Kab. Deiyai,360800,Prov. Papua Tengah,360000,10,1,161,5,6,0,1,22,01 May 2026 21:45:12,1E6A17DFDD0D9BF1C6B3

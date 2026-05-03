@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BURANILAN,50301954,SD,Negeri,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,8,2,47,6,6,0,1,14,27 Feb 2026 09:59:11,8105139ABE1987C79EE9
+SD INPRES NOBO,50302091,SD,Negeri,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,13,3,194,10,9,0,1,21,27 Apr 2026 09:46:46,A71E6A5E79188D81FB36
+SD KATOLIK LEWOAWAN,50301808,SD,Swasta,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,8,2,63,6,7,0,1,14,11 Apr 2026 08:47:21,7CAFC1448C01B96EC734
+SD KATOLIK LEWOTOBI,50302052,SD,Swasta,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,7,1,70,6,6,0,1,19,18 Apr 2026 09:32:07,0892397D736FD0843357
+SD KATOLIK LEWOURAN,50301790,SD,Swasta,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,8,1,75,6,6,0,1,19,15 Apr 2026 18:43:14,2C30C96D56B0F78F0024
+SD KATOLIK NURABELEN,50301791,SD,Swasta,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,7,3,87,6,6,0,1,13,24 Apr 2026 08:48:37,137853389808A098D61F
+SD KATOLIK RIANGBARING,50301794,SD,Swasta,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,8,3,75,6,6,0,1,21,15 Apr 2026 08:07:27,0AC896A9493567F9CE2E
+SD KATOLIK RIANGKAHA,50302066,SD,Swasta,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,8,3,74,6,6,0,2,1,21 Apr 2026 20:03:26,BB7F708312798638D5E6
+SMP NEGERI SATAP NOBO,50306122,SMP,Negeri,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,19,3,150,6,7,1,0,21,09 Apr 2026 19:01:43,EBDF9D9B0DEAE0706B69
+SMP SWASTA ILE BURA,50301938,SMP,Swasta,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,10,3,153,6,6,0,2,15,11 Apr 2026 21:20:40,A0A7F84E9E13CA8779E9
+SMA SWASTA ILE BURA,70011652,SMA,Swasta,Kec. Ilebura,240716,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,12,3,79,3,5,1,1,33,25 Apr 2026 07:54:18,6597388401A6EF50FE32

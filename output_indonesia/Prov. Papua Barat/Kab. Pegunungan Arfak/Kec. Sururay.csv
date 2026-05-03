@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 09 DUHUBEA,60401389,SD,Negeri,Kec. Sururay,321113,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,3,1,79,6,4,0,0,28,28 Apr 2026 02:24:45,86438AA0205086FB5B21
+SD NEGERI 15 TOMSTERA,60402233,SD,Negeri,Kec. Sururay,321113,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,1,0,50,6,6,0,0,3,06 Apr 2026 22:07:03,FFF3743B18DBCA06334D
+SD NEGERI 16 KOPO,60402236,SD,Negeri,Kec. Sururay,321113,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,6,2,66,6,5,0,0,37,30 Apr 2026 12:50:50,4BE006D57873B81C51BF
+SD Negeri 49 Samuel Kobrey,69979679,SD,Negeri,Kec. Sururay,321113,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,5,0,48,6,4,0,0,15,11 Apr 2026 04:39:42,8FA367B26377A632CE0A
+SD Negeri 69 Dominggus Saiba,70039024,SD,Negeri,Kec. Sururay,321113,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,6,3,39,4,2,0,0,27,28 Apr 2026 14:48:07,02D1CE6EB39879439307
+SD YPPGI 01 SURUREY,60401511,SD,Swasta,Kec. Sururay,321113,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,8,1,60,6,6,0,0,21,23 Apr 2026 23:13:09,79C99ABF2CEEB4D0A4F5
+SMP YPPGI 01 SURUREY,60401544,SMP,Negeri,Kec. Sururay,321113,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,7,4,103,3,4,2,1,48,30 Apr 2026 16:08:48,0E7A8C296F6CA6D7FE3B
+SMA NEGERI SURUREY,69883617,SMA,Negeri,Kec. Sururay,321113,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,6,4,32,3,3,0,0,12,24 Apr 2026 08:57:41,49283F3B58D39C6B1977

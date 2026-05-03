@@ -1,0 +1,33 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 GUNTUNG MANGGIS,30304644,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,19,5,339,12,14,2,1,39,12 Apr 2026 00:30:18,15F73DB84CC0D11DC9FC
+SD NEGERI 1 GUNTUNG PAYUNG,30304645,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,23,5,340,14,14,0,1,12,09 Apr 2026 23:58:01,41A6E16436ABF74C2FB0
+SD NEGERI 1 LANDASAN ULIN TIMUR,30304553,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,31,5,605,23,25,5,1,21,24 Apr 2026 06:47:59,433DA4F64F989B8D3CBC
+SD NEGERI 1 SYAMSUDIN NOOR,30304552,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,16,4,225,11,9,0,1,20,23 Apr 2026 14:22:26,07403AC6D0DBAB971CCA
+SD NEGERI 2 GUNTUNG MANGGIS,30304643,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,25,4,497,18,16,1,2,36,29 Apr 2026 17:55:56,71849FDAAD13992D3094
+SD NEGERI 2 GUNTUNG PAYUNG,30304646,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,17,5,286,12,24,0,3,39,29 Apr 2026 06:51:02,C2E1CB4370B851265A17
+SD NEGERI 2 LANDASAN ULIN TIMUR,30304557,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,22,6,478,18,18,1,1,21,02 Apr 2026 16:30:24,BC5AFDF5B806D8775942
+SD NEGERI 2 SYAMSUDIN NOOR,30304556,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,27,5,556,21,22,0,1,17,30 Apr 2026 11:59:10,22A16F61D4D1AB959D6C
+SD NEGERI 3 GUNTUNG MANGGIS,30304546,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,32,4,631,23,23,1,1,56,30 Apr 2026 08:52:25,0F0892B1C246CC01721F
+SD NEGERI 3 GUNTUNG PAYUNG,30304647,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,10,5,91,6,6,0,1,12,02 May 2026 10:39:21,DD8A2ABA37A8A613C5BF
+SD NEGERI 3 LANDASAN ULIN TIMUR,30305412,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,26,4,479,18,19,1,1,15,23 Apr 2026 06:49:35,2A883B43E42692A1C13C
+SD NEGERI 3 SYAMSUDIN NOOR,30304558,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,30,2,565,21,21,1,1,17,28 Apr 2026 10:02:47,A7B767021502A6AA8331
+SD NEGERI 4 GUNTUNG MANGGIS,30304648,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,15,7,320,12,12,1,1,29,28 Apr 2026 09:56:48,40FA193CBA727336E1CC
+SD NEGERI 4 SYAMSUDIN NOOR,30311689,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,17,4,308,12,12,0,1,26,17 Apr 2026 09:59:52,453688587FF444D742B2
+SD NEGERI 5 GUNTUNG MANGGIS,69892591,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,24,4,427,16,15,2,1,59,21 Apr 2026 09:37:24,0542A62372E2CE5EDCA2
+SD NEGERI 5 SYAMSUDIN NOOR,69900292,SD,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,28,4,549,20,20,1,0,23,27 Apr 2026 08:47:38,0ED4A1EB99F6C09567E0
+SD ALAM MUHAMMADIYAH,69889109,SD,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,18,6,309,12,12,0,1,21,24 Apr 2026 09:39:46,DFE4464C4EE0479A71B4
+SD ISLAM AL MADANI,70036917,SD,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,9,4,108,6,6,0,0,38,08 Apr 2026 06:55:42,DF71DEEE2C0D020904C6
+SDIT Cendekia Banjarbaru,70006484,SD,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,8,3,88,6,6,0,1,15,24 Apr 2026 13:02:28,417FAE7803448D856675
+SDIT Nurul Fikri Banjarbaru,69990268,SD,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,21,4,345,15,15,1,1,18,21 Apr 2026 09:12:29,32E23CFFC568108A6DCC
+Sekolah Rakyat Menengah Pertama 20 Banjarbaru,70055402,SMP,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,12,2,100,4,4,0,0,49,29 Apr 2026 08:21:59,A3C799A5E5897A99205F
+Sekolah Rakyat Menengah Pertama Terintegrasi 9 Banjarbaru,70055478,SMP,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,3,1,49,2,5,2,1,28,29 Apr 2026 14:04:46,7E89719E2134C10CF65E
+SMP NEGERI 14 BANJARBARU,30311660,SMP,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,23,8,481,15,15,4,1,23,01 Mar 2026 10:50:20,5B311E7A66AEB79BCE5F
+SMP NEGERI 15 BANJARBARU,30313808,SMP,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,27,7,446,14,15,2,1,22,12 Mar 2026 10:06:07,D873BFD63545F759A4C8
+SMP NEGERI 8 BANJARBARU,30304591,SMP,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,38,8,584,20,23,3,1,34,20 Apr 2026 20:31:43,DA364FBE1AD3A25789BE
+SMP Islam Terpadu Hidayatul Quran Boarding School Banjarbaru,69990262,SMP,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,17,6,254,9,13,3,2,28,29 Apr 2026 07:31:00,FABD21E3C3B7C7DDD4BE
+SMP Muhammadiyah 2 Banjarbaru,70048247,SMP,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,6,2,55,3,3,0,0,27,26 Apr 2026 11:13:52,F5C315CFA700B5E334C1
+SMPIT Nurul Fikri Banjarbaru,70052907,SMP,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,8,3,54,3,3,0,1,12,02 May 2026 10:03:02,2CB4A94B09A62D5DD9FF
+Sekolah Rakyat Menengah Atas Terintegrasi 9 Banjarbaru,70055479,SMA,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,12,1,61,2,5,5,1,27,23 Apr 2026 08:50:39,FC865907EAA330BC23E3
+SMAN 5 BANJARBARU,70009894,SMA,Negeri,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,28,20,524,15,16,2,1,39,17 Apr 2026 01:33:27,F7FD9CAB8B33917F4B7A
+SMA Al Manshurin Boarding School Banjarbaru,70047399,SMA,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,7,3,88,3,3,0,0,21,17 Apr 2026 10:21:33,D10B58A2CA7051B8B30B
+SMKS BHAKTI BANGSA BANJARBARU,30304601,SMK,Swasta,Kec. Landasan Ulin,156101,Kota Banjarbaru,156100,Prov. Kalimantan Selatan,150000,25,7,341,16,15,2,1,28,29 Apr 2026 10:50:32,FC8BB95CB94840B94B5A

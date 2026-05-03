@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 Garumukti,20226026,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,6,3,176,6,6,0,1,14,02 Apr 2026 13:58:52,777DD7992AF82ADE4E12
+SDN 1 Linggarjati,20208867,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,5,2,70,6,2,0,0,19,07 Apr 2026 21:50:29,1CE24DB586EAA066E44A
+SDN 1 Pakenjeng,20226500,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,7,3,171,6,6,0,1,13,27 Apr 2026 11:29:13,D822CA9CE03392301A66
+SDN 1 Pananjung,20226541,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,12,2,364,12,12,0,1,10,15 Apr 2026 21:01:09,973985123BB0334CE549
+SDN 1 Panawa,20208954,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,61,6,6,0,1,15,29 Apr 2026 18:41:26,6E2DF1FD9220773A1A15
+SDN 2 Garumukti,20208854,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,6,2,308,12,9,0,1,10,11 Feb 2026 09:00:20,B3D50EF3D9AD15460B56
+SDN 2 Linggarjati,20208892,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,10,0,219,9,10,0,1,13,07 Apr 2026 10:46:03,F7EE5CC57835677AA532
+SDN 2 Pakenjeng,20226501,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,4,0,40,6,7,0,1,10,30 Mar 2026 08:46:38,870DDD72E7621AAD26CF
+SDN 2 Pananjung,20226544,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,5,2,76,6,6,0,1,15,06 Mar 2026 09:28:33,FB685DA76B30B5A5FA79
+SDN 2 Panawa,20226548,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,6,1,152,6,6,1,1,10,01 Apr 2026 00:17:30,B442AC72B0F8E6480A6C
+SDN 3 Garumukti,20208864,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,6,0,68,6,6,0,0,30,06 Apr 2026 09:20:28,DB4653D85F0DD7235F93
+SDN 3 Pakenjeng,20226502,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,123,6,6,0,0,8,30 Apr 2026 13:21:17,B6A744E3E7CF36C39EED
+SDN 4 Pakenjeng,20226503,SD,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,4,2,93,6,6,0,0,8,25 Apr 2026 02:47:14,26E6AF7496E05034497F
+SMPN 1 Pamulihan,20209397,SMP,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,13,2,282,10,20,3,1,14,23 Apr 2026 13:06:18,D7EAEAC1B930203B2BE5
+SMPN 2 Pamulihan,20253988,SMP,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,8,1,123,4,5,1,1,14,09 Apr 2026 11:08:51,489EA5B45B24A5F7AC43
+SMPN Satu Atap 1 Pamulihan,69727251,SMP,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,6,1,103,5,5,1,0,19,11 Apr 2026 01:25:27,7E1981B578F6EE239D96
+SMPN Satu Atap 2 Pamulihan,69969695,SMP,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,5,3,95,5,4,0,1,18,13 Mar 2026 23:48:58,41196A09EC1D8BBEF2B8
+SMP TUNAS NUSANTARA CISANDAAN,70014709,SMP,Swasta,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,3,1,54,3,3,0,0,25,07 Mar 2026 22:28:56,1B880B59A51868FD1A47
+SMPIT AL-FAWAZ PAMULIHAN,69965669,SMP,Swasta,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,66,3,4,0,0,24,13 Apr 2026 19:44:28,78163D6068A135E71149
+SMKN 13 GARUT,69753554,SMK,Negeri,Kec. Pamulihan,021104,Kab. Garut,021100,Prov. Jawa Barat,020000,21,11,321,13,13,2,1,13,11 Mar 2026 21:24:41,D6896AA165CF8310349E

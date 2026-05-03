@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 82 BAMUS BAMA,69728596,SD,Negeri,Kec. Bamusbama,390514,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,9,1,105,6,6,0,1,19,09 Apr 2026 01:55:44,C816429C4A452CB85ECF
+SD NEGERI BAMUSWAIMAN,69728592,SD,Negeri,Kec. Bamusbama,390514,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,8,1,51,6,6,0,0,21,01 May 2026 19:42:06,EEC98AF554B181877F79
+SMP NEGERI BAMUSBAMA,60404173,SMP,Negeri,Kec. Bamusbama,390514,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,7,1,37,3,3,1,1,38,13 Apr 2026 04:43:04,86ADC12EEC116DF120F7

@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BLANGPEGAYON,10104611,SD,Negeri,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,16,2,289,12,12,1,1,27,21 Apr 2026 08:48:12,BEC0DCC434AA1929894C
+SD NEGERI 2 BLANGPEGAYON,10104489,SD,Negeri,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,13,3,163,8,8,0,1,44,28 Apr 2026 08:59:43,8D15CDE0A33C9A73B35C
+SD NEGERI 3 BLANGPEGAYON,10104559,SD,Negeri,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,19,3,243,12,10,0,1,61,02 May 2026 09:39:44,CA70AFBDA419430B897D
+SMP NEGERI 1 BLANGPEGAYON,10104542,SMP,Negeri,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,14,9,116,5,11,2,1,49,02 May 2026 09:44:42,5C06C16BAAF3E3C2227E
+"SMP TERPADU DAYAH JABAL DU,AT",70054316,SMP,Swasta,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,8C3EFF9A786D5A8801EA
+SMPIT BADRUL ULUM,69996171,SMP,Swasta,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,2,2,4,3,3,0,0,13,25 Apr 2026 19:41:07,0AF9292E0D44ED46D9BA
+SMA NEGERI 1 BLANGPEGAYON,10104525,SMA,Negeri,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,27,7,271,11,12,4,1,28,01 May 2026 06:56:55,F401159101D09C0B9A00
+SMA NEGERI 2 BLANGKEJEREN,10112966,SMA,Negeri,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,5,4,23,1,5,2,1,15,22 Apr 2026 10:56:16,3D93526BEBB29764AF3C
+SMA NEGERI SERIBU BUKIT,10104547,SMA,Negeri,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,24,9,252,10,10,2,1,41,30 Apr 2026 11:48:45,8487985FD61773D05ADE
+SMK Negeri 3 Blangkejeren,70047395,SMK,Negeri,Kec. Blang Pegayon,061809,Kab. Gayo Lues,061800,Prov. Aceh,060000,17,1,42,4,2,1,1,27,23 Apr 2026 12:57:59,9449595DC682C9DCBF47

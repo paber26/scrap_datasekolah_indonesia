@@ -1,0 +1,24 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BATU PUTIH,50300877,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,15,3,214,9,10,1,1,16,30 Apr 2026 15:34:21,FFE914391FCB06976675
+SD INPRES BOENTUKA,50306869,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,17,2,212,11,7,0,1,24,02 May 2026 07:26:05,56A1179ABD9EBFC97D0E
+SD INPRES ENOANA,50306916,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,1,117,6,7,0,1,12,15 Apr 2026 05:11:14,B7B7D0A1FC84378AD122
+SD INPRES OEBOBO,50300832,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,4,146,8,12,0,1,47,06 Apr 2026 15:17:56,D553C8A08EA900DFA08B
+SD INPRES OENUNUH,50306892,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,1,46,6,6,0,1,12,25 Apr 2026 17:55:42,4F6F7E7CFEB2CAD72160
+SD INPRES TEPAS,50300537,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,3,143,7,9,0,0,17,23 Apr 2026 19:35:46,FBDE418E32D4D4524DC0
+SD NEGERI HANE,50307057,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,2,163,7,9,0,1,36,15 Apr 2026 17:10:57,2350DEE262AD69C9CF7F
+SD NEGERI OEHELA,70011140,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,1,84,6,6,0,0,21,02 May 2026 19:46:13,CF0448F9D5CE2C58A6CD
+SD NEGERI TUAKOLE,50307149,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,3,128,6,7,0,1,26,23 Apr 2026 07:11:11,A2169878801EEF73554C
+SD NEGERI TUPIBANAM,50307154,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,62,6,6,0,1,27,27 Apr 2026 07:53:26,30B5EE0FD1B90DF07B00
+SDN INPRES TAETIMU,50300560,SD,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,2,119,6,6,0,0,12,10 Apr 2026 10:00:30,19AF32D895270FB892A2
+SD GMIT BENLUTU,50306817,SD,Swasta,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,92,6,6,0,0,44,30 Apr 2026 09:18:31,63C217B916C437244926
+SD GMIT BOENTUKA,50300745,SD,Swasta,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,1,0,0,0,0,0,0,,A9BAE5125F3FEFDB63E3
+SD GMIT TEPAS,50300735,SD,Swasta,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,2,100,6,6,0,1,36,29 Apr 2026 08:54:30,ADA62BD74B0071B6F8A5
+SD KATHOLIK YASWARI BENLUTU,50306986,SD,Swasta,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,1,121,6,6,1,0,13,28 Apr 2026 09:26:36,06606306818E00AE8CBA
+SDK. YASWARI BOENTUKA,50300464,SD,Swasta,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,3,1,48,5,6,0,1,23,10 Apr 2026 08:00:39,17DC273E1EA4B55792C0
+SMP NEGERI 2 AMANUBAN BARAT,50300610,SMP,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,27,6,219,9,12,2,2,43,27 Apr 2026 17:55:45,5AC319A07A22410301BF
+SMP NEGERI BATUPUTIH,50307215,SMP,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,20,4,265,10,8,2,1,26,08 Apr 2026 20:30:25,EA9E5DA11B555D0FF39E
+SMP SATU ATAP BOENTUKA,50307232,SMP,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,17,4,202,8,4,1,1,56,12 Mar 2026 06:44:36,FF9084612F5FD32E76AD
+SMP PENABUR PLUS OEHELA,70059927,SMP,Swasta,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,2,1,0,0,0,0,0,0,,D28E769307A3333B8481
+SMA NEGERI TUPAN,70036796,SMA,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,7,155,5,7,0,0,45,18 Apr 2026 19:43:19,88D2D1EFF3D1339B4495
+SMAN BENLUTU,50309196,SMA,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,40,7,438,14,12,2,1,34,29 Apr 2026 16:48:17,E085827C0D4D6035865A
+SMK NEGERI BATUPUTIH,69947414,SMK,Negeri,Kec. BatuPutih,240314,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,27,5,158,11,6,0,1,32,29 Apr 2026 17:01:54,E516D52CB6DAF9FF4408

@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 PATAMUAN,10306991,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,10,4,188,9,9,1,1,9,02 Mar 2026 14:28:38,296EFA28B26A6680A18A
+SDN 02 PATAMUAN,10306998,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,3,97,6,8,1,1,9,22 Apr 2026 13:02:00,B6226AF46EDD8EE1EDBB
+SDN 03 PATAMUAN,10307006,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,2,141,6,6,0,0,15,02 Mar 2026 15:56:36,98BE77B44F555E9572CE
+SDN 04 PATAMUAN,10307014,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,7,3,97,6,6,0,1,18,28 Apr 2026 09:45:43,8F2C8864AFB7A70C2FC3
+SDN 05 PATAMUAN,10307021,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,9,3,141,7,7,0,1,14,30 Apr 2026 09:29:50,167E76CE07D547D412E4
+SDN 06 PATAMUAN,10307028,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,3,139,6,6,0,1,14,02 May 2026 15:03:20,3828C471F73C54133A6E
+SDN 07 PATAMUAN,10307035,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,2,112,6,6,0,1,21,14 Apr 2026 21:27:44,92120E4330DFAECD889B
+SDN 08 PATAMUAN,10307041,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,3,74,6,6,0,1,14,20 Apr 2026 12:17:22,13DC986A5B805492DAEB
+SDN 09 PATAMUAN,10307047,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,12,3,179,9,8,0,0,16,28 Apr 2026 09:07:06,4ACCDE7D0AC4F755B57B
+SDN 10 PATAMUAN,10307053,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,9,4,124,6,7,0,1,16,23 Apr 2026 09:35:50,51309C23ECA3B6F8EC7A
+SDN 11 PATAMUAN,10307059,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,2,31,6,6,0,0,11,06 Apr 2026 08:08:42,8D2A926B9869601B786E
+SDN 12 PATAMUAN,10307065,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,3,70,6,6,0,1,23,30 Apr 2026 08:16:49,3D46EB331B5D3DF0537D
+SDN 13 PATAMUAN,10307071,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,7,3,91,6,6,0,1,14,20 Apr 2026 20:05:31,D802C0D6812B400633DF
+SDN 14 PATAMUAN,10307077,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,3,64,6,6,0,1,9,12 Mar 2026 06:21:59,2638B478CFE91FAA5F31
+SDN 15 PATAMUAN,10307083,SD,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,3,71,6,6,0,1,15,30 Apr 2026 22:33:58,95A85CCC94A1EDCCB43A
+SDIT Al Fazza,70051497,SD,Swasta,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,3,109,6,8,0,0,18,22 Apr 2026 07:59:16,A3BBA980EBE5D8F49B26
+SMPN  3 PATAMUAN,10308459,SMP,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,8,2,30,3,2,1,2,24,27 Apr 2026 11:25:31,47C05E11B82EF6DFF3A9
+SMPN 1   PATAMUAN,10306108,SMP,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,17,7,262,9,12,2,1,19,27 Apr 2026 13:39:05,52A9A50EBFD1C374F2FA
+SMPN 2 PATAMUAN,10306821,SMP,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,7,3,76,3,3,1,1,27,28 Apr 2026 21:07:46,F14765D56C3510050D34
+SMA N 1 PATAMUAN,69946914,SMA,Negeri,Kec. Patamuan,080515,Kab. Padang Pariaman,080500,Prov. Sumatera Barat,080000,16,5,182,7,8,5,1,34,24 Apr 2026 12:45:14,8E0816C2BFFAE7075C88

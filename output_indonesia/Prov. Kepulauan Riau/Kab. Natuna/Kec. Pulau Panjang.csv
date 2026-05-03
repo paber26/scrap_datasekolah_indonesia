@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 PULAU PANJANG,11001186,SD,Negeri,Kec. Pulau Panjang,310326,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,4,52,6,6,0,0,16,07 Apr 2026 09:02:32,5B24AE7197895C30BE67
+SD NEGERI 002 KERDAU,11001198,SD,Negeri,Kec. Pulau Panjang,310326,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,7,3,34,6,7,0,1,29,13 Apr 2026 10:16:03,F24FF8153119D776BF21
+SMP NEGERI 1 PULAU PANJANG,11002057,SMP,Negeri,Kec. Pulau Panjang,310326,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,12,4,28,3,7,2,1,16,08 Apr 2026 04:56:54,E37A9F92E7FB554B1109

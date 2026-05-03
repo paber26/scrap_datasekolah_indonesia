@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ABIMBAK,60302198,SD,Negeri,Kec. Bokoneri,380415,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,7,1,305,11,6,0,0,9,20 Apr 2026 17:57:24,5AA6E1CE0EE63EFAC4EA
+SD INPRES BOKONERI,60302203,SD,Negeri,Kec. Bokoneri,380415,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,9,1,86,6,9,0,0,43,29 Apr 2026 10:42:57,004CDDBCA7EDBEE3C25B
+SD NEGERI KANERO,60303978,SD,Negeri,Kec. Bokoneri,380415,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,7,1,265,10,13,0,0,22,01 May 2026 17:03:09,8DC0E1A93828A050AD58
+SMP NEGERI SATU ATAP ABIMBAK,69946441,SMP,Negeri,Kec. Bokoneri,380415,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,10,1,400,11,11,1,0,23,17 Apr 2026 20:10:03,03373FB39A937A0D1F6D

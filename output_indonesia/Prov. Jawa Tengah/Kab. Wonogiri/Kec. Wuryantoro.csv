@@ -1,0 +1,31 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Genukharjo,20311585,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,66,6,6,0,1,13,09 Apr 2026 10:22:44,F38AA23A584894D83BA9
+SD Negeri 1 Gumiwang Lor,20311411,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,31,6,6,0,1,15,08 Apr 2026 11:55:21,D87516D5159145757E58
+SD Negeri 1 Mlopoharjo,20311475,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,121,6,6,1,1,6,09 Apr 2026 09:09:45,79C9277CA1C26EFD609B
+SD Negeri 1 Mojopuro,20311474,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,41,6,6,1,1,25,15 Apr 2026 10:50:30,6435F534FAF6983975C0
+SD Negeri 1 Sumberejo,20311752,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,4,50,6,8,0,1,18,08 Apr 2026 14:18:36,5CBB16A2BA6721DBD6C6
+SD Negeri 1 Wuryantoro,20311868,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,3,128,7,6,2,1,19,02 Apr 2026 08:54:08,9382D11CFE69F202480C
+SD Negeri 2 Genukharjo,20311811,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,60,6,6,0,1,11,08 Apr 2026 07:22:27,2AB7D389A9E82DE7801E
+SD Negeri 2 Gumiwang Lor,20311667,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,61,6,6,0,1,12,08 Apr 2026 23:41:55,072FC8F26BFD2806FC61
+SD Negeri 2 Mlopoharjo,20311719,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,52,6,6,0,1,15,27 Apr 2026 08:25:40,12C8145A7D47C4B4315A
+SD Negeri 2 Pulutan Kulon,20311685,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,55,6,6,0,1,10,06 Mar 2026 09:53:13,25A6E2B9C81D53CBE199
+SD Negeri 2 Pulutan Wetan,20311368,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,60,6,6,0,1,20,04 Apr 2026 11:10:47,96B09D72A6742FC18CC3
+SD Negeri 2 Sumberejo,20310895,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,31,6,6,0,0,11,04 Mar 2026 13:03:58,DFC3E9AC9C03946CE459
+SD Negeri 3 Gumiwang Lor,20340807,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,53,6,6,0,1,8,02 Mar 2026 08:12:51,4B5B0B1A1EB0B6067EAE
+SD Negeri 3 Mlopoharjo,20310802,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,41,6,6,0,1,19,02 May 2026 11:42:03,E2E51D229C45AE818AD2
+SD Negeri 3 Mojopuro,20310765,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,24,6,6,1,1,10,20 Apr 2026 12:53:42,B33EFB7785F2AD663807
+SD Negeri 3 Pulutan Wetan,20310769,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,1,40,6,6,0,1,11,02 Apr 2026 10:35:50,632219AECE7818335AA3
+SD Negeri 4 Genukharjo,20310838,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,52,6,6,0,2,11,16 Mar 2026 22:05:42,8885AE283BA938E3C580
+SD Negeri 4 Gumiwang Lor,20310836,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,40,5,6,0,0,6,17 Apr 2026 07:12:26,47122F36F327ADDD9059
+SD Negeri 4 Mlopoharjo,20311283,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,38,6,6,0,1,18,10 Apr 2026 19:38:28,205B08EB718EE0FD4D84
+SD Negeri 4 Pulutan Kulon,20311288,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,63,6,6,0,1,14,16 Mar 2026 08:16:02,A2B8D97B659F57075643
+SD Negeri 4 Pulutan Wetan,20311289,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,4,60,6,6,0,1,19,02 Apr 2026 11:17:46,599A19AE305415E3F850
+SD Negeri 5 Genukharjo,20311255,SD,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,42,6,6,0,1,12,06 Apr 2026 14:45:47,591E91A744886DBCBB7F
+SDIT ULIN NUHA,20340757,SD,Swasta,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,11,6,176,8,10,0,1,8,06 Mar 2026 10:38:23,1D1485FE12D52D473BA9
+SMP NEGERI 1 WURYANTORO,20311240,SMP,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,28,8,620,20,21,3,1,15,27 Apr 2026 10:30:25,D05FDBC5C4A7B32136FA
+SMP NEGERI 2 WURYANTORO,20311073,SMP,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,21,5,316,12,19,2,2,30,23 Apr 2026 11:23:22,F25D08BFC09CB92B0BF0
+SMP MUHAMMADIYAH 1 WURYANTORO,20311058,SMP,Swasta,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,18,3,3,2,1,15,02 Apr 2026 22:37:19,AEDC09A6B089485D0054
+SMA NEGERI 1 WURYANTORO,20311332,SMA,Negeri,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,51,8,845,24,28,8,1,46,29 Apr 2026 14:37:27,DD069513E41F913C290E
+SMK GAJAH MUNGKUR 1 WURYANTORO,20311328,SMK,Swasta,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,26,9,499,19,26,3,1,29,27 Apr 2026 13:40:50,2374CAB73F7584416EE5
+SMK MUHAMMADIYAH 2 WURYANTORO,20311327,SMK,Swasta,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,32,7,656,25,27,2,1,28,30 Apr 2026 12:40:51,54104852ED4A6151075C
+SMK PANCASILA 10 WURYANTORO,20340872,SMK,Swasta,Kec. Wuryantoro,031211,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,11,6,86,6,6,2,1,16,27 Apr 2026 13:05:19,7A0BFDB51B2E4CFAACE3

@@ -1,0 +1,29 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BANJARAN,20303623,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,2,147,6,6,0,1,8,03 Mar 2026 09:32:44,AC777E7E0837E86986E3
+SD NEGERI 1 BEJI,20303643,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,14,1,277,12,13,0,1,7,02 Apr 2026 09:59:19,D091380A3159B4452F15
+SD Negeri 1 Bojongsari,20338574,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,16,1,387,13,13,0,1,12,02 Mar 2026 10:52:16,4A751A747B4316E3BE9D
+SD Negeri 1 Brobot,20303607,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,1,129,6,12,0,1,14,02 Apr 2026 09:24:54,819F42C8C5CC79927D2F
+SD NEGERI 1 BUMISARI,20303605,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,10,2,251,11,12,1,1,10,02 Apr 2026 12:01:34,A4E8FF6BA4115B521158
+SD Negeri 1 Galuh,20303617,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,1,118,6,6,0,1,22,22 Apr 2026 03:27:39,8726AB84B2DAB4F28E85
+SD NEGERI 1 GEMBONG,20303614,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,2,166,6,7,0,1,12,31 Mar 2026 07:58:25,5FE76C29158D8FB06526
+SD Negeri 1 Kajongan,20303675,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,3,157,6,8,0,1,15,30 Apr 2026 11:38:45,C95C47E0C01ED06A8AD5
+SD Negeri 1 Karangbanjar,20303257,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,13,1,236,11,12,0,1,13,30 Apr 2026 12:57:56,41866EE965CF99E8FCC4
+SD Negeri 1 Metenggeng,20303498,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,14,2,250,12,10,0,1,21,06 Apr 2026 08:11:28,EDB812B74D2D2085BFAF
+SD Negeri 1 Pagedangan,20303514,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,2,86,6,6,0,0,20,27 Apr 2026 19:01:09,2B29C55A14E383761B9B
+SD NEGERI 1 PATEMON,20303580,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,8,2,125,6,7,0,0,20,06 Apr 2026 09:49:10,35DA6DDBF78E08C67FCD
+SD Negeri 1 Pekalongan,20303578,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,11,2,229,10,11,0,1,13,07 Apr 2026 22:36:29,2DCAC1CD68B608F9B93C
+SD Negeri 2 Banjaran,20302981,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,2,90,6,6,0,1,8,08 Apr 2026 05:57:19,3AE54883E045C40C9746
+SD NEGERI 2 BOJONGSARI,20302994,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,10,1,236,9,9,0,0,10,07 Apr 2026 01:07:49,274B2515617731ADA2AF
+SD NEGERI 2 BROBOT,20302993,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,1,85,6,6,0,1,24,15 Apr 2026 15:20:09,2D3B58884E80D934C30C
+SD Negeri 2 Bumisari,20356150,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,8,2,186,6,10,1,1,17,07 Apr 2026 07:40:48,4CCA070F1042338EBE19
+SD Negeri 2 Metenggeng,20302917,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,6,1,128,6,6,1,1,20,04 Apr 2026 21:36:43,F4F227E616855407D01F
+SD NEGERI 2 PAGEDANGAN,20302912,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,8,2,127,6,8,0,1,12,03 Mar 2026 08:31:51,9D05978A77F8B2E461FF
+SD NEGERI 2 PATEMON,20302877,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,0,163,6,7,1,1,18,03 Apr 2026 04:15:22,A678CEAE79581203F126
+SD NEGERI 2 PEKALONGAN,20302876,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,8,1,133,6,7,1,1,17,09 Apr 2026 18:28:12,8771DC861E251007FCDD
+SD Negeri 3 Bojongsari,20302935,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,1,86,6,7,1,1,10,04 Mar 2026 04:37:06,B2E3B212CB3721DC63C2
+SD Negeri 3 Bumisari,20302944,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,8,2,152,6,6,1,1,22,30 Apr 2026 22:19:59,CBB94951263C41C89EEB
+SD NEGERI 3 PEKALONGAN,20303213,SD,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,8,1,118,6,8,0,0,8,13 Mar 2026 13:40:15,877619A50D7620822EC5
+SMP NEGERI 1 BOJONGSARI,20303080,SMP,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,41,8,889,27,27,4,1,29,28 Apr 2026 08:00:01,309731BC93D9A3ED4F5B
+SMP Negeri 2 Bojongsari,20303174,SMP,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,29,9,707,21,21,1,1,21,21 Apr 2026 10:12:55,F185D5890D0FFB5EB354
+SMK NEGERI 1 BOJONGSARI,20303124,SMK,Negeri,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,65,18,1353,39,27,0,1,32,26 Apr 2026 20:13:06,2979FD9618DAC556954C
+SMK UNU BOJONGSARI,69786608,SMK,Swasta,Kec. Bojongsari,030310,Kab. Purbalingga,030300,Prov. Jawa Tengah,030000,7,2,55,3,3,4,0,17,11 Apr 2026 07:30:00,7CC8020E8D967E8D69A6

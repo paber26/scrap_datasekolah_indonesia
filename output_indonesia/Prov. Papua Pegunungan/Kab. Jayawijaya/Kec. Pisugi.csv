@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES AIKIMA,60301379,SD,Negeri,Kec. Pisugi,380125,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,7,3,153,7,6,0,1,35,19 Apr 2026 16:25:58,7768C64670F14A9FC6AA
+SD OLEP,70038371,SD,Swasta,Kec. Pisugi,380125,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,2,140,5,5,0,0,20,27 Apr 2026 06:55:11,BE73F5EB9625B34D8387
+SD YPPK BUNDA MARIA PIKHE,60301541,SD,Swasta,Kec. Pisugi,380125,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,14,1,352,12,12,0,1,41,01 May 2026 20:29:01,D4F835CFC6B5FDAE287E
+SMP YSHUA WAMENA,70053422,SMP,Swasta,Kec. Pisugi,380125,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,3,2,12,1,1,0,0,21,24 Apr 2026 17:12:31,2D9D4906D405DBA47E4D

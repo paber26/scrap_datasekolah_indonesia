@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BERENG KAJANG 1,30202143,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,8,1,53,6,5,0,1,16,24 Apr 2026 18:13:53,484A53405EFB53EFB4D6
+SD NEGERI GARUNG 1,30202209,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,5,2,18,6,6,0,0,9,29 Apr 2026 21:49:54,526FAA8ECF09A35FAC94
+SD NEGERI HENDA 1,30202241,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,10,2,66,6,7,0,1,6,04 Feb 2026 15:32:01,8DE3A82622D29C816B28
+SD NEGERI JABIREN 1,30202238,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,15,2,154,6,8,0,1,8,22 Apr 2026 19:22:44,A91DFC11C5A24EEFF2BB
+SD NEGERI JABIREN 2,30202237,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,12,2,191,6,7,0,1,26,23 Apr 2026 08:32:59,FE40899715224522DE30
+SD NEGERI PILANG 1,30202046,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,11,1,175,6,7,0,1,14,26 Apr 2026 20:26:34,EBB120EC13961D4B7177
+SD NEGERI SAKAKAJANG 1,30202003,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,7,3,79,6,6,0,1,8,02 Mar 2026 06:53:58,35054D462E33B7F1FCC5
+SD NEGERI SIMPUR 1,30202021,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,10,0,48,6,6,0,1,16,03 Apr 2026 01:27:48,9C08B26C61F44CA695AA
+SD NEGERI TANJUNG PUSAKA 1,30205089,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,5,2,15,5,6,1,0,13,12 Apr 2026 12:31:14,62A7ED526C42F8BADE85
+SD NEGERI TANJUNG TARUNA 1,30202091,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,8,1,32,6,6,0,1,7,06 Apr 2026 19:30:04,4258CA93E653B9E5334F
+SD NEGERI TUMBANG NUSA 1,30202116,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,6,1,75,6,7,0,1,13,02 Apr 2026 04:57:11,3B42901621788799CEE1
+SD NEGERI TUMBANG NUSA 2,30205090,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,7,1,33,6,6,0,1,7,01 May 2026 13:39:45,8031A0DF40F8C71C377A
+SDN GARUNG 2,69888837,SD,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,10,2,157,7,6,0,1,17,29 Apr 2026 10:39:08,035BF00BDE7D8392E8C1
+SMP NEGERI 1 JABIREN RAYA,30205103,SMP,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,15,4,232,9,10,2,1,17,30 Apr 2026 17:46:02,578EDD898666EA858806
+SMP NEGERI 2 JABIREN RAYA,30205105,SMP,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,16,3,71,3,4,1,1,23,16 Apr 2026 11:55:55,3113E120B259163E4F96
+SMP NEGERI SATU ATAP 1 JABIREN RAYA,30205099,SMP,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,14,2,119,6,7,2,1,11,28 Apr 2026 09:32:56,DE58471DC7C817FD436F
+SMP NEGERI SATU ATAP 2 JABIREN RAYA,69860793,SMP,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,8,1,29,3,6,1,5,21,29 Apr 2026 12:21:21,EA9318DBC05701F5882E
+SMAN 1 JABIREN RAYA,30205116,SMA,Negeri,Kec. Jabiren Raya,141108,Kab. Pulang Pisau,141100,Prov. Kalimantan Tengah,140000,26,8,256,10,12,5,1,29,14 Apr 2026 12:25:57,B1539BDA1708A63CE1D5

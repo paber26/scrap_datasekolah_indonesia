@@ -1,0 +1,47 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Gedong,20311573,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,194,8,8,0,1,9,11 Apr 2026 10:51:51,B118BEB4BD6F74958ED1
+SD Negeri 1 Gemawang,20311575,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,87,6,6,0,1,1,15 Apr 2026 19:49:20,8A7E828B9782451307E5
+SD Negeri 1 Jatimarto,20311401,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,100,6,6,0,1,15,29 Apr 2026 11:00:45,263A29BB4AF8CE4302AF
+SD Negeri 1 Kasihan,20311399,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,55,6,6,0,1,12,23 Apr 2026 12:02:35,C5221229AD6B53674C52
+SD Negeri 1 Kerjo Kidul,20341070,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,149,6,6,0,1,15,27 Apr 2026 10:26:30,2CAA0E77348E9E04B87A
+SD Negeri 1 Kerjolor,20311383,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,131,6,6,0,1,10,03 Apr 2026 19:04:46,FDE896EC9D69DA94351F
+SD Negeri 1 Mlokokulon,20311477,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,95,6,6,0,1,17,22 Apr 2026 13:05:11,46CB4A0F9EED49342822
+SD Negeri 1 Mlokowetan,20311476,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,103,6,6,0,1,20,14 Apr 2026 09:17:07,FB6AA77F68F28DEC41DE
+SD Negeri 1 Ngadirojo,20311467,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,4,49,6,9,1,1,24,02 May 2026 09:19:16,FBEBB863131D9D150E64
+SD Negeri 1 Ngadirojo Lor,20311466,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,1,67,6,6,0,1,4,02 Mar 2026 08:11:34,89AC46E3A230563363D6
+SD Negeri 1 Pondok,20311432,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,95,6,6,1,1,15,13 Mar 2026 08:43:34,D1B4FB17FD882EE5A84E
+SD Negeri 2 Gemawang,20311831,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,47,6,6,1,1,9,06 Apr 2026 08:22:37,CFE267FEC41985C17929
+SD Negeri 2 Jatimarto,20311675,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,4,76,6,6,0,1,27,21 Apr 2026 13:05:25,4B339B4BC2815560FCA2
+SD Negeri 2 Kasihan,20311624,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,48,6,6,0,0,5,09 Mar 2026 12:07:26,C9696AFBE8ED181FFB0E
+SD Negeri 2 Kerjo Kidul,20311646,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,122,6,6,0,1,15,02 Apr 2026 05:53:24,3EC0F7543F8D2DA231B4
+SD Negeri 2 Kerjolor,20311645,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,86,6,6,0,1,10,04 Apr 2026 08:10:14,A39E1443DA9DA3319C57
+SD Negeri 2 Mlokokulon,20311721,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,50,6,6,0,1,6,06 Apr 2026 12:03:27,072FCAC42B614C4D3E86
+SD Negeri 2 Mlokowetan,20311720,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,102,6,6,0,2,20,12 Apr 2026 00:25:41,439C21CE58E01F799357
+SD Negeri 2 Ngadirojo,20311743,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,10,4,259,11,10,0,1,7,02 Apr 2026 21:43:03,A1D926EC493609ED0D3F
+SD Negeri 2 Ngadirojo Lor,20311742,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,80,6,7,0,1,23,11 Apr 2026 13:10:02,22CBF74B99A4ED470C58
+SD Negeri 2 Pondok,20311710,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,60,6,7,0,1,10,17 Apr 2026 09:57:49,3BD8AAA4D060C01A0273
+SD Negeri 3 Gedong,20354504,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,51,6,6,0,0,21,11 Apr 2026 09:39:58,CD2FBAC504EEC74454D3
+SD Negeri 3 Gemawang,20310944,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,78,6,6,1,1,13,07 Apr 2026 04:47:48,A350C70F0C434F93EDB3
+SD Negeri 3 Kasihan,20310793,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,47,6,6,1,0,7,21 Apr 2026 12:01:58,7ECFC6BC01B3FF934C9C
+SD Negeri 3 Kerjo Kidul,20310799,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,44,6,6,0,0,28,02 Apr 2026 17:56:16,D42B256F79D2690040D1
+SD Negeri 3 Kerjolor,20310800,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,117,6,6,0,1,16,31 Mar 2026 11:52:12,663CDEA5B91E02974AE3
+SD Negeri 3 Mlokowetan,20310803,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,38,6,7,0,1,9,06 Apr 2026 11:37:39,20EC3CE89131ADAD9FDC
+SD Negeri 3 Ngadirojo,20310762,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,69,6,6,0,1,11,27 Mar 2026 10:30:14,1952222DBFCA497C2098
+SD Negeri 3 Ngadirojo Lor,20310761,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,95,6,6,0,1,14,16 Apr 2026 07:51:11,66043CAA8A0AB24EA633
+SD Negeri 3 Pondok,20310776,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,59,6,6,1,1,1,02 Apr 2026 10:21:19,C6C715D55994F451A5A5
+SD Negeri 4 Gedong,20310839,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,3,109,6,6,0,1,18,08 Apr 2026 07:33:48,488D3C7FDE4F8B059CD6
+SD Negeri 4 Kerjolor,20311286,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,61,6,6,1,1,17,24 Apr 2026 10:14:40,A1261D4BF662DE4D1019
+SD Negeri 4 Ngadirojo,20311281,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,100,6,6,0,1,19,17 Apr 2026 08:31:04,CE88714CB7D52D00E67B
+SD Negeri 4 Ngadirojo Lor,20311280,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,38,6,6,0,1,8,08 Apr 2026 19:29:35,DCA6D3853F45F2721C83
+SD Negeri 4 Pondok,20311275,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,60,6,6,0,0,9,30 Apr 2026 07:48:09,872B51BF2475804F2BBA
+SD Negeri 5 Gedong,20311272,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,45,6,6,0,1,24,10 Apr 2026 08:00:38,241912ADA77CD677E794
+SD Negeri 5 Kerjo Lor,20311251,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,39,6,6,1,1,18,02 Apr 2026 20:13:27,152651B4A997A2A6F4C3
+SD Negeri 5 Ngadirojo,20311249,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,36,6,6,0,1,17,10 Apr 2026 10:11:00,B658A70FBF41779C8A66
+SD Negeri Mlokomanis,20311365,SD,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,40,6,6,0,1,8,02 Apr 2026 12:36:58,43A00B2DCD907FE1FC80
+SDIT AL UKHUWAH,69909197,SD,Swasta,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,156,7,7,1,1,13,23 Apr 2026 13:10:45,A063C657A0292B76CB1B
+SDS IT MUTIARA HATI,69759249,SD,Swasta,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,17,2,326,13,13,1,1,15,02 Apr 2026 13:22:40,5F405F212E0B185FB9DF
+SMP NEGERI 1 NGADIROJO,20311208,SMP,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,30,10,653,21,21,3,2,47,15 Apr 2026 19:29:40,3AC01A7A970836A64290
+SMP NEGERI 2 NGADIROJO,20311099,SMP,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,23,9,576,19,20,4,1,31,02 May 2026 10:31:41,92AD399EEA427140BE20
+SMP NEGERI 3 NGADIROJO,20311098,SMP,Negeri,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,25,10,444,16,20,2,2,23,22 Apr 2026 08:52:59,962F270DA5CED7F836DE
+SMP PGRI 1 NGADIROJO,20311021,SMP,Swasta,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,0,9,3,3,2,1,41,28 Apr 2026 11:16:07,4B3C2D102290B7E71503
+SMK DAYA WANGSA WONOGIRI,69909192,SMK,Swasta,Kec. Ngadirojo,031215,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,27,5,626,19,27,2,1,27,11 Apr 2026 09:15:38,1E06C644F583B9EF4DD6

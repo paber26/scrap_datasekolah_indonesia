@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI TONDERU,60304559,SD,Negeri,Kec. Tagime,380127,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,2,1,178,7,4,0,0,11,24 Apr 2026 08:02:13,85C7CC374A432B1E69D3
+SD YPPGI TAGIME,60301523,SD,Swasta,Kec. Tagime,380127,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,5,1,229,7,6,1,1,6,01 May 2026 19:26:48,C9B3C64E0512A3FA6F52
+SMP NEGERI TAGIME,60303892,SMP,Negeri,Kec. Tagime,380127,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,13,1,202,6,4,0,1,79,02 May 2026 16:11:28,64DCF152EFE761F1BE43
+SMAN POROME,60304205,SMA,Negeri,Kec. Tagime,380127,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,9,1,174,5,3,0,0,25,20 Apr 2026 14:17:26,F361EA0E86F00012AC19

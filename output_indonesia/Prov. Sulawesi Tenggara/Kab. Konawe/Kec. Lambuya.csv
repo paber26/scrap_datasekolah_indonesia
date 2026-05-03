@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LAMBUYA,40403079,SD,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,15,3,220,10,8,0,1,25,22 Apr 2026 20:07:00,A201D43AC0CCFE1C53E1
+SD NEGERI 1 MERAKA,40403080,SD,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,15,5,158,8,7,0,1,29,27 Apr 2026 19:50:42,8945E713F7E2099E69BE
+SD NEGERI 2 LAMBUYA,40403088,SD,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,2,97,6,6,0,1,26,16 Apr 2026 20:11:11,3A6C82AEF83B34D270AB
+SD NEGERI 3 LAMBUYA,40403097,SD,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,3,78,6,6,0,1,29,27 Apr 2026 14:22:31,DF60BEE5D4CFF570F1BD
+SD NEGERI AMBERI,40400175,SD,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,15,4,60,6,6,0,0,19,15 Apr 2026 16:31:03,01A50DCF266335339DAC
+SD NEGERI AWULITI,40403105,SD,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,5,83,6,6,0,1,28,27 Apr 2026 13:49:47,5DDBD68563B318EA7440
+SD NEGERI WAWORAHA,40400309,SD,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,21,5,82,6,6,1,1,54,27 Apr 2026 13:00:43,9FDA605A75CFCB28C472
+SMP NEGERI 1 LAMBUYA,40400224,SMP,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,29,8,207,9,12,2,3,37,28 Apr 2026 07:35:46,D98271D49EACD9571857
+SMP SATU ATAP LAMBUYA,40404549,SMP,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,3,37,3,3,1,1,52,24 Apr 2026 07:44:57,B4C3AE850592C235830A
+SMP ISLAM TERPADU MEPOKOASO,69988306,SMP,Swasta,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,1,15,3,1,0,0,14,25 Feb 2026 10:57:23,A708AC87A3593D274E74
+SMAN 1 LAMBUYA,40400238,SMA,Negeri,Kec. Lambuya,200112,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,33,15,383,13,15,4,1,34,23 Apr 2026 08:50:56,70B12F4AEAACDF87317F

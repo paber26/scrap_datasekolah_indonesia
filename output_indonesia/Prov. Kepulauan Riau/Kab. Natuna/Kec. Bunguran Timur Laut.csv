@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 TANJUNG,11001182,SD,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,9,4,129,7,6,0,2,15,18 Apr 2026 08:26:08,A61D97CCC4E6ADEAB44D
+SD NEGERI 002 KELANGA,11001312,SD,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,3,94,6,6,0,1,33,13 Mar 2026 21:49:15,0158DC0A06D8C4B41181
+SD NEGERI 003 PENGADAH,11001319,SD,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,4,62,6,6,0,4,34,16 Apr 2026 21:52:57,B66DAFE4AA0D85355DFE
+SD NEGERI 004 CERUK,11001335,SD,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,10,4,124,6,7,0,1,15,10 Apr 2026 11:00:54,C46EFEC43CDFE6254E18
+SD NEGERI 005 LIMAU MANIS,11001372,SD,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,10,3,113,6,6,1,1,13,24 Mar 2026 13:31:39,B0125E04A5AD63A2109C
+SD NEGERI 006 SELEMAM,11001381,SD,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,10,4,38,6,6,0,1,22,27 Apr 2026 13:21:35,8A2843F40AE88EE8CAB2
+SD NEGERI 007 SEBADAI HULU,11001382,SD,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,7,4,35,6,6,0,2,24,27 Apr 2026 08:57:23,9436F7748F75EC9E3EDD
+SD ISLAM PATIHA,70061537,SD,Swasta,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,0,0,0,0,0,0,0,0,,8768E531F851F76E4642
+SMP NEGERI 1 BUNGURAN TIMUR LAUT,11001403,SMP,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,15,9,195,7,9,3,1,33,30 Apr 2026 08:52:41,F0688544EAC2D6944DBC
+SMP NEGERI 2 BUNGURAN TIMUR LAUT,11002055,SMP,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,10,6,35,3,5,0,1,35,01 May 2026 05:07:34,2FDE2DE4C3B14BDED2EF
+SMAN 1 BUNGURAN TIMUR LAUT,11002778,SMA,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,21,7,162,7,7,4,1,27,27 Apr 2026 04:41:31,C2E8C874C207FC679914
+SMK NEGERI 1 BUNGURAN TIMUR LAUT,69974105,SMK,Negeri,Kec. Bunguran Timur Laut,310317,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,17,9,66,9,6,2,3,40,07 Apr 2026 08:03:26,16B1513024A64C3206B0

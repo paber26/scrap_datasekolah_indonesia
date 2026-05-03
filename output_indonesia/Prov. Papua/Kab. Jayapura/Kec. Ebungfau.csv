@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KAMEAYAKA,60300253,SD,Negeri,Kec. Ebungfau,250129,Kab. Jayapura,250100,Prov. Papua,250000,10,1,84,6,6,0,1,59,24 Apr 2026 11:28:04,544CDB1F1925F55024F3
+SD NEGERI INPRES YOSIBA,60300107,SD,Negeri,Kec. Ebungfau,250129,Kab. Jayapura,250100,Prov. Papua,250000,14,3,86,6,7,0,1,14,01 May 2026 06:10:16,D2C55441A403307B5E62
+SD PERSIAPAN ABAR,60303807,SD,Negeri,Kec. Ebungfau,250129,Kab. Jayapura,250100,Prov. Papua,250000,4,1,84,6,3,0,1,15,16 Apr 2026 15:43:06,A11E2172749E89DA5940
+SD YPK PUYOH BESAR,60300207,SD,Swasta,Kec. Ebungfau,250129,Kab. Jayapura,250100,Prov. Papua,250000,7,1,85,6,6,0,1,46,11 Apr 2026 18:05:05,6CC3C39AE0E2C2EEE472
+SD YPK SYALOM SIBA,70050336,SD,Swasta,Kec. Ebungfau,250129,Kab. Jayapura,250100,Prov. Papua,250000,6,1,55,6,2,0,0,16,16 Apr 2026 11:45:37,B0F26F7501D6DD287212
+SMP SATU ATAP NEGERI EBUNGFAUW,70031035,SMP,Negeri,Kec. Ebungfau,250129,Kab. Jayapura,250100,Prov. Papua,250000,10,2,115,6,5,0,0,21,30 Apr 2026 09:37:21,840ED2B5293151E35098

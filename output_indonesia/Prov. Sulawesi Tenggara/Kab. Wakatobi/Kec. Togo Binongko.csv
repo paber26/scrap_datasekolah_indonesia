@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 POPALIA,40402368,SD,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,9,2,45,6,12,0,1,42,10 Apr 2026 18:04:36,0A819850041F3C485526
+SD NEGERI 2 POPALIA,40402404,SD,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,8,1,54,6,9,0,1,22,02 Mar 2026 08:55:34,1E7D7D9585A3103FBC3E
+SD NEGERI 3 POPALIA,40402411,SD,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,12,4,55,6,5,0,1,14,09 Apr 2026 19:57:31,725F803B58CF15C96B48
+SD NEGERI 4 POPALIA,40402387,SD,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,8,2,88,6,6,0,1,11,07 Apr 2026 02:17:23,772F5E3DB1CF3043DB77
+SD NEGERI HAKA,40403169,SD,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,9,2,97,8,9,0,1,153,08 Apr 2026 01:17:11,29131D6137C68E713FAA
+SD NEGERI MOLE,40402302,SD,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,11,3,168,9,8,1,1,59,10 Apr 2026 22:24:39,E6E37969602C3991299A
+SD NEGERI OIHU,40402304,SD,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,10,4,105,6,7,1,1,88,15 Mar 2026 18:04:34,85EE3A888B0A47A4AC36
+SMP NEGERI 2 BINONGKO,40402313,SMP,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,16,2,101,4,9,5,3,59,02 May 2026 19:51:50,C51D455D6C5DD0AF69CF
+SMP NEGERI SATU ATAP HAKA,69853505,SMP,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,14,2,55,3,3,5,3,22,05 Mar 2026 21:11:38,D17A5B654C325369250D
+SMP NEGERI SATU ATAP OIHU,40404289,SMP,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,14,7,59,3,3,2,1,31,20 Apr 2026 09:25:54,385DE79F829D48E58DDB
+SMAN 2 BINONGKO,40403256,SMA,Negeri,Kec. Togo Binongko,200608,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,17,3,179,7,7,4,1,20,29 Apr 2026 10:50:54,3580FB22C17E411475F6

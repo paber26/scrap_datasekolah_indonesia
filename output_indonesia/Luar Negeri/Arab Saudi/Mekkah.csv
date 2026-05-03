@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SEKOLAH INDONESIA MAKKAH TINGKAT SD,90101055,SD,Negeri,Mekkah,350803,Arab Saudi,350800,Luar Negeri,350000,10,6,301,15,20,1,1,24,29 Apr 2026 17:16:45,959B6773C4CAC8135D81
+SEKOLAH INDONESIA MAKKAH TINGKAT SMP,90101056,SMP,Negeri,Mekkah,350803,Arab Saudi,350800,Luar Negeri,350000,13,1,67,3,6,1,1,1,15 Apr 2026 18:13:49,5E35F342090A8F2203D5
+SEKOLAH INDONESIA MAKKAH TINGKAT SMA,90101190,SMA,Negeri,Mekkah,350803,Arab Saudi,350800,Luar Negeri,350000,7,1,53,3,3,0,0,1,04 Feb 2026 15:31:13,481A6698C8462F6794B2

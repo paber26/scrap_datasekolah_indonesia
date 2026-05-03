@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI AMBAHAI,30302807,SD,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,6,0,57,6,6,1,1,24,30 Apr 2026 07:15:45,267D99507C12518DA8F6
+SD NEGERI BARARAWA,30302849,SD,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,1,71,6,6,0,1,12,04 Feb 2026 10:31:55,167DB4370C88764A3156
+SD NEGERI PAL BATU,30302509,SD,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,2,70,6,6,0,1,13,30 Apr 2026 08:34:59,59268E69B5C0A017C44E
+SD NEGERI PAMINGGIR,30302438,SD,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,2,65,6,7,0,1,19,30 Apr 2026 13:15:54,2AB3DDCFC99186DE5AA0
+SD NEGERI PAMINGGIR SEBERANG,30302439,SD,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,2,88,6,6,0,1,13,02 Apr 2026 06:59:45,6E5BBA6155D01478400A
+SD NEGERI SAPALA,30302452,SD,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,2,93,6,8,0,1,6,03 Apr 2026 06:30:55,A232B8D1EB9D6F1CAF14
+SD NEGERI TAMPAKANG,30302632,SD,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,3,40,6,6,0,1,9,13 Apr 2026 16:52:15,BF170E4B7ECE7F8BC20E
+SMP NEGERI 2 DANAU PANGGANG,30302573,SMP,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,2,98,5,6,3,1,6,03 Feb 2026 10:25:49,19BD5E95649BA1125D3A
+SMP NEGERI 3 DANAU PANGGANG,30302561,SMP,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,9,3,87,4,6,2,1,15,04 Apr 2026 20:23:15,AA494062827661E1BA94
+SMP NEGERI 5 DANAU PANGGANG,30312542,SMP,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,5,3,60,3,7,1,1,8,24 Apr 2026 07:35:09,6ED0E03642C782D9F760
+SMAN 1 PAMINGGIR,30313811,SMA,Negeri,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,21,12,154,6,9,2,1,34,17 Apr 2026 10:10:18,19D137A2DF0430904F68
+SMKS SAPALA,69754214,SMK,Swasta,Kec. Paminggir,150708,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,19,6,70,6,4,2,1,50,29 Apr 2026 08:21:10,D1B06BCC9A5F204307DC

@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPT SD NEGERI 1 MOJONG,40305546,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,9,3,209,7,6,0,1,27,30 Apr 2026 09:04:39,BDB35C4DF3B0B85CD75A
+UPT SD NEGERI 1 WATANG SIDENRENG,40305580,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,11,3,179,8,8,1,1,40,01 May 2026 10:35:29,CFF61C9174B289920E04
+UPT SD NEGERI 2 MOJONG,40305682,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,12,3,230,9,8,1,1,17,14 Apr 2026 22:23:44,72EECC9C3B4B999A7670
+UPT SD NEGERI 2 WATANG SIDENRENG,40305633,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,8,2,165,6,6,0,1,24,19 Apr 2026 03:02:06,32E2B8E0C901A73701A6
+UPT SD NEGERI 3 MOJONG,40305655,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,10,2,220,8,6,0,1,101,27 Apr 2026 07:07:39,8282055D46C4789A9CF7
+UPT SD NEGERI 3 WATANG SIDENRENG,40305430,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,8,2,137,6,6,0,1,28,29 Apr 2026 10:31:52,C995F6588A6DE3D221A5
+UPT SD NEGERI 4 MOJONG,40305451,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,8,3,162,6,7,0,1,14,22 Apr 2026 11:04:35,5F029B13D204B7A31AAB
+UPT SD NEGERI 4 WATANG SIDENRENG,40305440,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,8,3,189,6,6,1,1,24,08 Apr 2026 07:56:34,4F0AE86D08B60E4013D7
+UPT SD NEGERI 5 MOJONG,40305383,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,7,4,129,6,6,1,1,36,01 May 2026 22:39:07,6B9E5BC013DE479DF287
+UPT SD NEGERI 5 WATANG SIDENRENG,40305380,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,8,3,130,6,6,0,1,20,23 Apr 2026 10:22:41,8711008E75B435335BE4
+UPT SD NEGERI 6 MOJONG,40305411,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,8,2,125,6,6,1,1,42,02 May 2026 10:26:04,CBC886CE5D2DD4400719
+UPT SD NEGERI 6 WATANG SIDENRENG,40305399,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,9,1,96,6,6,0,1,37,20 Apr 2026 04:54:01,D0830D4DADDC9E938356
+UPT SD NEGERI 7 WATANG SIDENRENG,40305517,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,8,1,81,6,6,0,1,6,07 Mar 2026 20:50:27,C45BA637182264FE3253
+UPT SD NEGERI 8 WATANG SIDENRENG,40305530,SD,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,7,3,122,6,6,0,1,7,04 Apr 2026 20:52:09,D6CCA23EDF31D787A723
+UPT SMP NEGERI 2 WATANG SIDENRENG,40314684,SMP,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,12,4,119,5,8,1,1,48,30 Apr 2026 18:58:28,CF6A0DB95F6588F2AA1A
+UPT SMP NEGERI 4 MARITENGNGAE,40305480,SMP,Negeri,Kec. Watang Sidenreng,191511,Kab. Sidenreng Rappang,191500,Prov. Sulawesi Selatan,190000,20,5,203,9,10,2,1,19,29 Apr 2026 09:16:53,A2AE81BB2D3781661103

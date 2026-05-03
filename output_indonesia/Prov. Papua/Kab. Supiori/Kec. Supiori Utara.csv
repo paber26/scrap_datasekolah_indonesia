@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES NYEUNDI,60302504,SD,Negeri,Kec. Supiori Utara,252790,Kab. Supiori,252700,Prov. Papua,250000,12,1,133,8,6,0,2,40,09 Apr 2026 07:10:04,07E272E8FAAB0B01EEE3
+SD INPRES YENGGARBUN,60302507,SD,Negeri,Kec. Supiori Utara,252790,Kab. Supiori,252700,Prov. Papua,250000,11,1,36,6,6,0,1,39,30 Apr 2026 20:59:48,D85E31EA0EDF4FE9C530
+SD NEGERI WARBOR,60302516,SD,Negeri,Kec. Supiori Utara,252790,Kab. Supiori,252700,Prov. Papua,250000,8,1,116,6,6,1,1,38,24 Apr 2026 06:31:55,07ABD294563C979401FF
+SD YPK KPUDORI,60302524,SD,Swasta,Kec. Supiori Utara,252790,Kab. Supiori,252700,Prov. Papua,250000,9,3,79,6,7,0,1,24,14 Apr 2026 06:28:13,384E367AD666A480305A
+SD YPK YANEM,60302534,SD,Swasta,Kec. Supiori Utara,252790,Kab. Supiori,252700,Prov. Papua,250000,6,1,69,6,6,0,1,29,02 May 2026 08:29:48,503BE2BDDEC4EA2909EE
+SMP NEGERI 1 KPUDORI,60302668,SMP,Negeri,Kec. Supiori Utara,252790,Kab. Supiori,252700,Prov. Papua,250000,16,3,191,7,9,3,1,35,29 Apr 2026 16:24:05,940A1ADED7D0D7CD7985
+SMA NEGERI 3 YENGGARBUN,60301627,SMA,Negeri,Kec. Supiori Utara,252790,Kab. Supiori,252700,Prov. Papua,250000,21,2,246,9,13,3,1,67,28 Apr 2026 14:52:44,87ED56AED7D938EC8243

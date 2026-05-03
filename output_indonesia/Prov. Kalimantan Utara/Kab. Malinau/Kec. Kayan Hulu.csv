@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 KAYAN HULU,30400498,SD,Negeri,Kec. Kayan Hulu,340101,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,9,4,101,6,6,0,1,8,30 Apr 2026 14:52:17,8521A5CF23C8B8C51E2D
+SD NEGERI 002 KAYAN HULU,30402600,SD,Negeri,Kec. Kayan Hulu,340101,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,6,3,70,6,6,0,0,22,30 Apr 2026 20:54:15,42F3F6F3D4737E9DCA3E
+SD NEGERI 003 KAYAN HULU,30402611,SD,Negeri,Kec. Kayan Hulu,340101,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,7,2,23,6,6,0,1,10,04 Mar 2026 16:56:14,F1DB557D51F73C57B267
+SD NEGERI 004 KAYAN HULU,30400512,SD,Negeri,Kec. Kayan Hulu,340101,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,5,2,9,4,4,0,0,21,01 May 2026 08:42:34,84B16DDE3D13797EB9AD
+SD NEGERI 005 KAYAN HULU,69821203,SD,Negeri,Kec. Kayan Hulu,340101,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,7,3,41,6,6,0,1,16,02 May 2026 17:54:29,FCBB3CFBA0D1AF5F8507
+SMP NEGERI 1 KAYAN HULU,30400479,SMP,Negeri,Kec. Kayan Hulu,340101,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,15,2,61,3,6,1,2,25,27 Apr 2026 13:03:40,D35FD846B5B42A9CD1DC
+SMP NEGERI 2 KAYAN HULU,70001468,SMP,Negeri,Kec. Kayan Hulu,340101,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,11,1,50,3,3,0,0,25,07 Mar 2026 21:35:07,8430FB3955D968BAC471
+SMA NEGERI 2 MALINAU,30402829,SMA,Negeri,Kec. Kayan Hulu,340101,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,17,4,79,4,9,2,1,16,20 Apr 2026 08:46:39,F3377E2FB366AB16036B

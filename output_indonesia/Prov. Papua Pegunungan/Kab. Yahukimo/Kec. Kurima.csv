@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ANYELMA,60303300,SD,Negeri,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,6,1,136,6,6,0,0,52,02 May 2026 06:56:02,F279D5D9905CA75ADE86
+SD INPRES KURIMA YAHUKIMO,69787884,SD,Negeri,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,11,1,333,12,6,0,1,55,01 May 2026 06:13:20,6CA4E9139E9DB50A482B
+SD KRISTEN ESALIEM,69924498,SD,Swasta,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,0,1,0,0,0,0,0,0,,5AB17D1E806A7E1DBE19
+SD YPK IBEROMA,60302972,SD,Swasta,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,284,11,6,0,0,27,02 May 2026 05:52:04,FD4031995F820C01F34B
+SD YPK POLIMO,69872341,SD,Swasta,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,10,1,248,10,8,0,0,31,29 Apr 2026 13:16:46,5D29499D0EAC2D40D0EB
+SD YPK WANEM,60302973,SD,Swasta,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,2,1,352,12,20,0,0,42,02 May 2026 15:18:23,C95F20F630C113BDF127
+SD YPPGI WULIK,60302974,SD,Swasta,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,0,0,0,0,0,0,,4C84BCE456D215E72CA1
+SMPN 1 KURIMA,60303324,SMP,Negeri,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,20,1,150,5,10,1,1,93,01 May 2026 10:05:12,656B0095855F9B8F7D06
+SMAN 2 KURIMA,60305268,SMA,Negeri,Kec. Kurima,380301,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,15,3,217,7,6,1,1,26,29 Apr 2026 14:58:55,706C95C5B6AE8A081FF5

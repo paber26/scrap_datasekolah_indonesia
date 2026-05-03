@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPK KAISAH,60302092,SD,Swasta,Kec. Subur,370215,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,2,1,74,6,6,0,1,19,25 Apr 2026 11:17:12,6ED0174B277C803BACAE
+SD YPPK AIWAT,60302101,SD,Swasta,Kec. Subur,370215,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,5,0,60,6,6,0,0,20,27 Apr 2026 15:40:11,7644D4664F95547D0C00
+SD YPPK TEREK,60302128,SD,Swasta,Kec. Subur,370215,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,3,0,75,6,6,0,0,19,29 Mar 2026 06:02:19,6E3BD7A7D0BF5536E6E0
+SD YPPK WAGHAI,60302132,SD,Swasta,Kec. Subur,370215,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,7,1,90,6,6,0,0,56,10 Apr 2026 20:52:50,BC35CD5444AD06C1AB49
+SMPN Satap Terintegrasi 1 Terek,69856282,SMP,Negeri,Kec. Subur,370215,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,5,3,69,3,12,2,1,51,28 Apr 2026 10:07:38,B198FE1C68B369A62ADE

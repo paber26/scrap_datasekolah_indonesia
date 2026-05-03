@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 SILAUT,10302048,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,14,4,226,10,9,0,1,18,13 Apr 2026 10:49:43,E9741333F1489DC44132
+SDN 02 SILAUT,10308232,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,8,4,123,6,8,0,1,4,19 Apr 2026 07:01:21,63C02EB1EE262D3D8EE6
+SDN 03 SILAUT,10308211,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,16,2,197,11,9,0,0,21,14 Apr 2026 12:00:53,EB2824A06648EE4B654A
+SDN 04 SILAUT,10308212,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,3,73,6,6,0,0,24,16 Apr 2026 20:44:14,CF2CD261BB6C7AA1F787
+SDN 05 SILAUT,10302191,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,9,3,132,6,6,0,0,11,11 Apr 2026 08:44:34,4E925774FDD2BE8D4636
+SDN 06 SILAUT,10308213,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,3,159,7,9,0,1,14,13 Apr 2026 10:18:23,1CC717335802B347F3C8
+SDN 07 SILAUT,10308214,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,16,3,265,12,9,1,1,13,27 Apr 2026 12:13:59,68F7F91C9E28CB4A12B2
+SDN 08 SILAUT,10308215,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,7,2,50,6,6,0,0,10,02 Apr 2026 10:51:13,DBC1CD6C8F026521074F
+SDN 09 SILAUT,10308216,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,10,2,136,7,6,0,0,12,06 Apr 2026 11:38:14,9929D9516B7FD8F20EE6
+SDN 10 SILAUT,10308218,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,8,3,70,6,7,0,0,70,05 Apr 2026 21:09:52,CCEF7CC576021BE04A8E
+SDN 11 SILAUT,10308219,SD,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,8,3,151,6,7,0,1,4,20 Apr 2026 09:32:50,04678A7E161A58313A5D
+SD IT AL-IZZAH,69991782,SD,Swasta,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,17,4,177,8,8,0,0,37,21 Apr 2026 11:02:10,438FD19C2D8BF3FC5B33
+SD SWASTA BUNDA SITI BANUN,70049082,SD,Swasta,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,3,1,46,2,4,0,0,21,20 Apr 2026 15:24:31,B488076056F61BF2292B
+SMP NEGERI 2 SILAUT,10301966,SMP,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,23,4,222,9,11,2,1,26,20 Apr 2026 13:10:45,FC407161AA84F8A3DC91
+SMP NEGERI 3 SILAUT,10308255,SMP,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,13,3,82,4,5,1,0,21,08 Apr 2026 00:21:46,9AC4BB8410BF49A3B5BF
+SMP NEGERI 4 SILAUT,10308256,SMP,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,10,2,49,3,5,1,0,17,01 May 2026 20:20:25,3A6149DAA27A248F7D7E
+SMPN 1 SILAUT,10301968,SMP,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,19,7,165,6,10,2,1,31,16 Apr 2026 11:42:05,3A09C79D4A3BA4E122BF
+SMAN 1 SILAUT,10308231,SMA,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,26,7,373,12,12,3,1,31,29 Apr 2026 13:09:03,696FA7AC67AB4899DDBD
+SMKN 1 SILAUT,69987098,SMK,Negeri,Kec. Silaut,080613,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,22,9,81,9,9,1,1,49,09 Apr 2026 09:50:00,69109B2BECF534E03FEE

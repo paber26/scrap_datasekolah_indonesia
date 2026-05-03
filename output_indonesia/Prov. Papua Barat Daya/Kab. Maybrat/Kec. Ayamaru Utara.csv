@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 16 SUWIAM,60403812,SD,Negeri,Kec. Ayamaru Utara,390109,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,9,1,36,6,6,0,0,93,21 Apr 2026 20:40:31,7F5CEDFF5ED4FA111808
+SD YPK YUKASE,60401736,SD,Swasta,Kec. Ayamaru Utara,390109,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,6,1,116,6,6,0,1,163,30 Apr 2026 21:16:37,8B841269CAED78F27BC4
+SMP NEGERI 1 AYAMARU UTARA,60401763,SMP,Negeri,Kec. Ayamaru Utara,390109,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,21,1,132,7,7,1,1,32,25 Apr 2026 08:30:09,6B76CD251A0CB27C0749
+SMK NEGERI AYAMARU,60403824,SMK,Negeri,Kec. Ayamaru Utara,390109,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,19,1,114,9,13,3,1,19,26 Apr 2026 13:28:48,501CEFCB27FC5F5A8CF0

@@ -1,0 +1,47 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri Baros,20329490,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,2,70,6,6,0,1,18,29 Apr 2026 07:42:56,737650362DA324AB644F
+SD Negeri Dekoro,20329435,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,2,125,6,6,0,1,30,01 May 2026 19:46:51,AC66A3B18F902F66A937
+SD Negeri Gamer 01,20329438,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,7,3,147,6,6,0,1,11,18 Mar 2026 19:08:02,2816C16C0244BE1B85C0
+SD Negeri Gamer 02,20329439,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,161,6,6,0,1,28,21 Apr 2026 10:16:11,981A2CBAE7737E4AB3B7
+SD Negeri Karangmalang,20329428,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,4,145,6,7,0,1,17,16 Apr 2026 07:48:06,5EBEAAF80BE91ECA582F
+SD Negeri Keputran 04,20329443,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,15,2,230,12,13,2,1,23,29 Apr 2026 09:26:28,996EBAE5FFAB20265EA0
+SD Negeri Keputran 06,20329455,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,17,5,371,12,12,2,2,14,04 Mar 2026 14:37:39,5A7515A427FFA382155D
+SD Negeri Klego 01,20329460,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,18,7,323,13,13,1,1,6,02 Apr 2026 08:59:49,5105E46C32DE763F0ABE
+SD Negeri Klego 04,20329461,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,4,87,6,9,0,1,18,28 Apr 2026 12:19:28,B06BE85905B0984F2C4F
+SD Negeri Landungsari 01,20329548,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,22,5,407,17,18,1,1,19,28 Apr 2026 09:20:34,16265855B7B38185E73C
+SD Negeri Landungsari 04,20329561,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,167,6,6,0,1,115,17 Apr 2026 11:01:01,FCD20AAE7E2878738E60
+SD Negeri Landungsari 05,20329562,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,4,71,6,6,0,1,10,08 Apr 2026 06:54:07,902D6934F5ABC1DE1A8C
+SD Negeri Poncol 01,20329569,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,18,3,356,15,18,0,1,14,30 Apr 2026 07:27:19,1B875FF737E2631F889A
+SD Negeri Poncol 02,20329570,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,24,4,408,18,18,1,1,13,02 May 2026 11:28:50,622EC3A015491778C416
+SD Negeri Poncol 03,20329571,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,3,86,6,6,0,1,34,09 Apr 2026 09:00:04,50DA32330F779CB3C010
+SD Negeri Sampangan 01,20329586,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,13,3,175,8,12,1,1,32,29 Apr 2026 12:55:24,3EC73804C467043F3402
+SD Negeri Sokorejo,20329574,SD,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,4,158,6,6,0,1,35,23 Apr 2026 21:25:48,80FF3545D2981A2042FC
+SD Al-Irsyad Al-Islamiyyah,20329474,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,35,8,372,15,16,1,1,20,04 Apr 2026 09:03:37,6A753F7F56884875C106
+SD Islam 01,20329466,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,11,4,144,6,6,1,1,32,25 Apr 2026 12:46:37,3296AF625B889AA9CCC9
+SD Islam 02,20329467,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,4,129,6,6,1,1,19,29 Apr 2026 12:33:07,7CE7F48B7541AD03AB1F
+SD Islam 04,20329469,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,12,3,163,7,7,2,1,9,15 Apr 2026 07:38:08,B2C550EC5A636D752426
+SD Islam 05,20332001,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,12,3,142,6,6,1,1,34,15 Apr 2026 09:04:34,E13788679D93734F60A3
+SD Islam Kauman,20329472,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,1,153,6,6,1,1,18,30 Apr 2026 08:39:01,97D4EEABB714989813E8
+SD Islam Setono 01,20329486,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,16,2,302,13,13,0,0,9,27 Apr 2026 08:47:37,7F5A29DEED4711D11209
+SD Islam Setono 02,20329497,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,11,2,150,6,6,0,1,15,08 Apr 2026 09:39:12,4363BE446B02690FD227
+SD Muhammadiyah 02 Noyontaan,20329501,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,16,2,223,11,14,2,1,40,27 Apr 2026 08:04:28,830130D8FEE64BFC9216
+SD Salafiyah Fityatul Huda,69899145,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,15,6,165,7,7,2,1,15,26 Apr 2026 13:57:49,20A061F1CEBBCEA524CF
+SD Satyawiguna,20329504,SD,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,12,4,142,7,7,2,1,12,27 Mar 2026 08:51:01,589D1714392B1BB359A9
+SMP Negeri 10 Pekalongan,20331628,SMP,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,16,9,333,12,17,1,1,16,06 Mar 2026 09:28:02,C881F1BEBE48602A5C7C
+SMP Negeri 17 Pekalongan,20331634,SMP,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,23,5,503,16,16,3,1,52,28 Apr 2026 07:06:16,B29E69CB4646069D2618
+SMP Negeri 5 Pekalongan,20331635,SMP,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,27,5,540,18,19,3,1,20,07 Apr 2026 15:04:21,92D732495406A545F3FA
+SMP Negeri 6 Pekalongan,20329536,SMP,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,39,4,708,22,27,4,1,26,08 Apr 2026 09:45:09,D01073FF30D6304C3531
+SMP Negeri 7 Pekalongan,20329547,SMP,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,30,5,572,18,18,4,1,36,02 May 2026 10:09:36,FD4394283579C6889DFC
+SMP Al-Irsyad Al-Islamiyyah,20329540,SMP,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,11,7,160,6,7,3,1,40,13 Apr 2026 08:45:34,2611713009A4AA2ACCDE
+SMP Darul Ikhsan,69970637,SMP,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,4,2,126,5,7,2,1,8,12 Apr 2026 13:18:22,20BB9D64AB61691BF2F0
+SMP Islam,20329542,SMP,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,33,11,558,17,20,3,1,33,02 May 2026 10:54:26,24BAF1A574CC3598AA54
+SMP Islam Terpadu Assalaam Boarding School,69774626,SMP,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,18,9,376,12,12,3,2,18,23 Apr 2026 09:00:35,65793828186D6D8DA96D
+SMP Salafiyah,20329537,SMP,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,44,11,682,21,21,3,2,29,29 Apr 2026 08:31:56,2FE4E6D6930A2775C5E4
+SMP Satyawiguna,20329529,SMP,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,6,3,41,3,5,2,1,10,02 Apr 2026 00:41:08,C01594FC4A7B0292961D
+SMA Negeri 1 Pekalongan,20329517,SMA,Negeri,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,50,9,963,27,27,8,1,25,14 Apr 2026 18:31:51,3D455399D2F52A5AB589
+SMA Al-Irsyad,20329520,SMA,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,13,4,80,3,7,2,1,31,21 Apr 2026 13:17:39,782E106081D277611043
+SMA DARUL IKHSAN,70039998,SMA,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,6,2,56,3,3,2,1,16,27 Apr 2026 09:47:11,034F93A1930AD1B5D47B
+SMA Hasyim Asy`ari,20329521,SMA,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,14,3,129,5,10,4,1,12,25 Apr 2026 11:04:37,7280A69109A9F95B527B
+SMA Islam,20329522,SMA,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,15,6,92,3,7,4,1,18,22 Apr 2026 11:18:33,C4717806561A326E3E9A
+SMA IT ASSALAAM,70039092,SMA,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,4,86,3,3,1,1,14,22 Apr 2026 10:49:31,D022C6DC26C52265BF6B
+SMK Veteran,20329513,SMK,Swasta,Kec. Pekalongan Timur,036402,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,20,7,172,9,10,2,1,20,17 Apr 2026 07:41:02,B3F946C5FD3DA97BC131

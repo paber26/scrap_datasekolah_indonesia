@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPK ANGGURUK,60303290,SD,Swasta,Kec. Anggruk,380302,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,9,1,487,15,6,0,0,65,01 May 2026 07:57:20,CCF4AAB4CFEB977DD509
+SMP ANGGURUK,60303325,SMP,Negeri,Kec. Anggruk,380302,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,7,1,351,9,3,0,0,35,24 Apr 2026 18:19:59,94182B993690F6798BB6
+SMAN ANGGRUK,60303348,SMA,Negeri,Kec. Anggruk,380302,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,8,1,242,8,8,2,0,57,01 May 2026 20:48:03,8574CFBF2C4D2847A181

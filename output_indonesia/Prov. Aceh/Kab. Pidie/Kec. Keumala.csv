@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD N 1 KEUMALA,10100706,SD,Negeri,Kec. Keumala,060231,Kab. Pidie,060200,Prov. Aceh,060000,20,7,320,12,12,0,1,42,01 May 2026 18:23:03,06BF4B4BDFC8710BBCC8
+SD N 2 KEUMALA,10100896,SD,Negeri,Kec. Keumala,060231,Kab. Pidie,060200,Prov. Aceh,060000,12,1,97,6,8,0,1,20,04 Mar 2026 05:24:08,20E42165A80E28019DF2
+SD N NICAH,10100362,SD,Negeri,Kec. Keumala,060231,Kab. Pidie,060200,Prov. Aceh,060000,13,1,178,7,8,0,1,16,27 Apr 2026 14:06:06,B90F86DB21F3DCC62EC0
+SD NEGERI COT SEUTUI,10100845,SD,Negeri,Kec. Keumala,060231,Kab. Pidie,060200,Prov. Aceh,060000,11,2,95,6,6,0,1,21,05 Apr 2026 15:55:44,244E5E84239188981FFB
+SD NEGERI MNS TUNONG,10100385,SD,Negeri,Kec. Keumala,060231,Kab. Pidie,060200,Prov. Aceh,060000,15,4,127,6,6,0,1,19,30 Apr 2026 14:31:06,941374CA6A088ACE1CBA
+SD NEGERI U GADENG,10100591,SD,Negeri,Kec. Keumala,060231,Kab. Pidie,060200,Prov. Aceh,060000,15,1,127,6,6,0,1,13,02 Mar 2026 12:32:48,C5C5F191397B9ED43096
+SMP NEGERI 1 KEUMALA,10100519,SMP,Negeri,Kec. Keumala,060231,Kab. Pidie,060200,Prov. Aceh,060000,19,2,74,4,12,3,1,17,30 Apr 2026 09:54:08,740BCF62A837D2774A5E
+SMA NEGERI 1 KEUMALA,10100554,SMA,Negeri,Kec. Keumala,060231,Kab. Pidie,060200,Prov. Aceh,060000,37,7,368,12,12,4,1,30,02 May 2026 05:51:09,52962E5B7BBA5B0CA67A

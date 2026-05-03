@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MARA,60300416,SD,Negeri,Kec. Yawosi,250218,Kab. Biak Numfor,250200,Prov. Papua,250000,11,2,75,6,9,0,1,25,14 Apr 2026 16:04:44,F0C0E266BFDD16E2FE0A
+SD NEGERI SESUR BIAK UTARA,60300459,SD,Negeri,Kec. Yawosi,250218,Kab. Biak Numfor,250200,Prov. Papua,250000,8,1,58,6,6,0,1,14,15 Apr 2026 09:04:23,910BBA8D975C49E11968
+SD YPK BOSNABRAIDI BIAK UTARA,60300467,SD,Swasta,Kec. Yawosi,250218,Kab. Biak Numfor,250200,Prov. Papua,250000,5,1,64,6,6,0,1,13,10 Feb 2026 05:30:00,0711ABB3E6A31855CED2
+SD YPK SOOR,60300320,SD,Swasta,Kec. Yawosi,250218,Kab. Biak Numfor,250200,Prov. Papua,250000,14,1,117,6,6,0,1,23,07 Feb 2026 20:14:35,1C4959C720611836809B
+SMP YPK SOOR,60300335,SMP,Swasta,Kec. Yawosi,250218,Kab. Biak Numfor,250200,Prov. Papua,250000,5,0,209,6,9,1,1,29,27 Apr 2026 15:34:49,3884812D91C7154A08D9
+SMA Negeri 1 Yawosi,70049258,SMA,Negeri,Kec. Yawosi,250218,Kab. Biak Numfor,250200,Prov. Papua,250000,7,4,50,2,6,2,1,80,10 Apr 2026 15:43:34,EA70EAF449417C751710

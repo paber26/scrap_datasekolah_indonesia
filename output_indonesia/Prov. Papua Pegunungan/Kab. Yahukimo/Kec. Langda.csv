@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI ALIRGI,60303536,SD,Negeri,Kec. Langda,380339,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,6,1,489,15,27,1,1,51,02 May 2026 11:27:35,54969DCA3ED545EB4341
+SD Yakpesmi Langda,70061536,SD,Swasta,Kec. Langda,380339,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,0,0,0,0,0,0,0,0,,12E1C50F16C76A46866E
+SD YPK LANGDA,60303267,SD,Swasta,Kec. Langda,380339,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,2,1,435,18,3,0,0,38,19 Apr 2026 08:50:59,65CFF1379E0B85969EEE
+SMPN LANGDA,60303327,SMP,Negeri,Kec. Langda,380339,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,2,1,42,3,3,1,0,13,14 Apr 2026 15:25:08,EBD23CB8A564B3E47834

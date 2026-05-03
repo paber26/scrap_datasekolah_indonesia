@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 02 TAUBONTO,40403766,SD,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,12,1,132,6,7,0,0,35,15 Apr 2026 09:45:00,6FC04CFF1C618B48F118
+SD NEGERI 119 RAU-RAU,40403770,SD,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,10,2,100,6,5,0,0,17,28 Apr 2026 07:24:46,BED4E4009C5EFF68A21F
+SD NEGERI 120 RAU-RAU,40403771,SD,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,9,7,106,6,6,0,1,134,29 Apr 2026 18:26:23,B3E3D1D6DDEA299AFC7B
+SD NEGERI 29 LAMPEANTANI,40403793,SD,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,9,5,130,6,8,0,1,21,16 Apr 2026 07:17:45,C3C224965AA81175F05A
+SD NEGERI 41 WATU KALANGKARI,40403767,SD,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,12,1,37,6,4,0,1,83,19 Apr 2026 19:09:22,5C570D19BF380C04AA27
+SD NEGERI 60 PANGKURI,40403627,SD,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,10,0,55,6,6,0,1,45,27 Apr 2026 19:48:55,6A0CA0C36E81AB5DD3B5
+SD NEGERI 64 LADUMPI,40403768,SD,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,10,4,70,6,6,1,1,12,01 May 2026 21:27:59,816D43B5DB72CB5BFA1D
+SD NEGERI 93 LAKOMEA,40403769,SD,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,11,1,103,6,6,0,1,93,16 Apr 2026 10:31:58,F69933D3EC2D34A0FB49
+SD-SMP SATAP NEGERI 10 RAROWATU,40404225,SMP,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,13,0,47,3,3,1,1,48,28 Apr 2026 10:02:45,C5E1387F9551FDF98B15
+SMP NEGERI 06 RAROWATU,40404010,SMP,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,15,7,195,7,9,2,1,21,06 Apr 2026 21:04:27,F408A6F85D6569C12750
+SMA NEGERI 11 BOMBANA,40403610,SMA,Negeri,Kec. Rarowatu,200706,Kab. Bombana,200700,Prov. Sulawesi Tenggara,200000,15,1,200,7,9,4,1,20,24 Apr 2026 10:13:21,A958A6BA3C5907F57889

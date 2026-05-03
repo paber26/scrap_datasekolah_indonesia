@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BAGAIR,60303713,SD,Negeri,Kec. Fayit,370405,Kab. Asmat,370400,Prov. Papua Selatan,370000,6,1,218,8,6,0,0,58,30 Apr 2026 15:11:59,C120AB237EC4A223D070
+SD INPRES BASIM,60303648,SD,Negeri,Kec. Fayit,370405,Kab. Asmat,370400,Prov. Papua Selatan,370000,9,1,468,14,6,0,0,51,29 Apr 2026 10:16:50,14045C26593062B082F0
+SD INPRES BIOPIS,60303651,SD,Negeri,Kec. Fayit,370405,Kab. Asmat,370400,Prov. Papua Selatan,370000,5,1,365,11,6,0,0,22,01 May 2026 09:35:08,8A64906D8D569772B10F
+SD INPRES NANAI,60303649,SD,Negeri,Kec. Fayit,370405,Kab. Asmat,370400,Prov. Papua Selatan,370000,4,1,199,6,3,0,0,18,23 Apr 2026 21:20:10,4FA3072FDE077DE5203D
+SD INPRES OCENEP,60303652,SD,Negeri,Kec. Fayit,370405,Kab. Asmat,370400,Prov. Papua Selatan,370000,8,3,433,14,6,0,0,12,21 Apr 2026 20:13:18,5B2FCBC0B056C5EA3FE9
+SD INPRES PIRIEN,60303650,SD,Negeri,Kec. Fayit,370405,Kab. Asmat,370400,Prov. Papua Selatan,370000,0,1,220,7,3,0,0,25,24 Apr 2026 09:47:37,D63B7DC960FF95BE71E8
+SMP NEGERI 1 FAYIT,60304071,SMP,Negeri,Kec. Fayit,370405,Kab. Asmat,370400,Prov. Papua Selatan,370000,19,1,215,9,10,1,1,21,28 Apr 2026 08:20:43,9FDFA10FF61BBDE4A858

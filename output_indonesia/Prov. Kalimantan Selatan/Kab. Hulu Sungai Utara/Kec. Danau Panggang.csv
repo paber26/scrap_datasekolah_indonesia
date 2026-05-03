@@ -1,0 +1,22 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BARU,30302855,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,6,2,59,6,6,0,1,13,30 Apr 2026 11:29:09,C2789C3EC515E5397E3F
+SD NEGERI BITIN,30302832,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,0,107,6,6,0,1,12,01 May 2026 20:17:39,216B6DBAB48180EC2B8E
+SD NEGERI DANAU PANGGANG,30302840,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,2,118,6,6,0,0,20,14 Apr 2026 07:18:23,91AF1A72DC561860C7D2
+SD NEGERI DARUSSALAM,30302830,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,6,1,69,6,6,0,1,7,21 Apr 2026 08:36:21,428311F38F4711100118
+SD NEGERI LONGKONG,30302496,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,2,123,6,8,0,1,17,14 Apr 2026 08:02:56,C34B5BE42FDB17053CCB
+SD NEGERI MANARAP,30302498,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,6,1,102,6,6,0,1,17,30 Apr 2026 12:25:59,FD7AF5A607C88973EA86
+SD NEGERI MANARAP HULU,30302499,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,6,1,70,6,6,1,1,8,08 Apr 2026 15:49:25,EDA4D8893F3A46EBC69E
+SD NEGERI PANDAMAAN 1,30302446,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,3,100,6,6,0,1,13,02 May 2026 09:46:50,2DB8CD7410401671F320
+SD NEGERI PANDAMAAN 2,30302447,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,1,77,6,6,0,1,5,03 Mar 2026 07:21:43,DCBD33EA8FF93B4D153B
+SD NEGERI PANDAMAAN 3,30302448,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,6,2,25,6,6,0,0,10,29 Apr 2026 15:19:11,0805E763E37137F18636
+SD NEGERI PARARAIN,30302848,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,2,88,6,6,0,1,8,06 Apr 2026 08:58:05,E25F45696B43F2887445
+SD NEGERI RINTISAN,30302464,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,1,59,6,6,0,1,18,21 Apr 2026 08:55:33,1DBFFF069ADE7D6245BF
+SD NEGERI SARANG BURUNG,30302453,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,2,47,6,6,0,1,17,29 Apr 2026 07:44:34,267006AA8F5D8A3A8EC7
+SD NEGERI SUNGAI PANANGAH,30302589,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,1,104,6,6,0,1,7,17 Apr 2026 08:30:19,5267459B414750C1EDB2
+SD NEGERI TELAGA MAS,30302619,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,0,24,6,6,0,0,9,01 May 2026 23:56:04,761B7A8F2CED92B76BC7
+SD NEGERI TELUK MESJID,30302547,SD,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,7,3,76,6,6,0,1,13,27 Apr 2026 04:11:23,78F2BA2C6A5F5A67BAF3
+SMP NEGERI 1 DANAU PANGGANG,30302576,SMP,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,13,6,167,6,10,3,1,25,10 Apr 2026 06:37:17,9625D57E2EA6B168F03E
+SMP NEGERI 4 DANAU PANGGANG,30302564,SMP,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,9,3,29,3,3,3,1,9,05 Apr 2026 05:55:02,3CC816D62D26023740A9
+SMP NEGERI 6 DANAU PANGGANG,30313154,SMP,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,8,2,65,3,4,1,1,10,30 Apr 2026 11:28:18,BB8B0F340AD165AE0D1B
+SMAN 1 DANAU PANGGANG,30302535,SMA,Negeri,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,24,20,225,8,10,4,1,49,01 May 2026 18:20:58,8DC5291552D6EA645BD2
+SMKS SHALATIYAH BITIN,30313816,SMK,Swasta,Kec. Danau Panggang,150701,Kab. Hulu Sungai Utara,150700,Prov. Kalimantan Selatan,150000,27,15,357,16,25,0,1,31,28 Apr 2026 22:03:24,1729D7F75EB2EA2E72B4

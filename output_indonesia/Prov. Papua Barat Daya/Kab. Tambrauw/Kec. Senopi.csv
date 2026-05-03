@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPPK Santo Yoseph Senopi,60401496,SD,Swasta,Kec. Senopi,390511,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,6,1,64,6,9,0,1,26,28 Apr 2026 07:50:59,698B44AC03AF1B5A7565
+SMPN 23 SENOPI,60403708,SMP,Negeri,Kec. Senopi,390511,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,10,1,55,3,3,2,2,15,19 Apr 2026 18:26:12,F9BEB5744F61CA5D999D
+SMK NEGERI 3 TAMBRAUW,69979228,SMK,Negeri,Kec. Senopi,390511,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,12,1,38,9,10,0,0,81,21 Apr 2026 23:15:03,8D799AC9123D565183D0

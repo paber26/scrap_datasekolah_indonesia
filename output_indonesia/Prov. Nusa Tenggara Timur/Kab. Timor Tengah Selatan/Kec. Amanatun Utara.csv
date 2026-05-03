@@ -1,0 +1,35 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES AYOTUPAS,50306867,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,3,120,6,6,0,1,18,09 Mar 2026 20:38:21,1C60357DF3CB693A035A
+SD INPRES BUNU,50300861,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,3,98,6,6,0,1,37,01 May 2026 08:01:02,78F66D708B5E5C0EF1A1
+SD INPRES FATUMUTI,50306877,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,0,141,8,8,0,1,11,11 Mar 2026 15:11:23,9BA9FE1B37A48EC09209
+SD INPRES FOTILO,50306878,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,4,108,6,6,0,1,14,29 Apr 2026 07:15:24,9745B2CED0A98730074C
+SD INPRES LIULENI,50306880,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,5,85,6,6,0,1,19,30 Apr 2026 10:56:25,B7CC16F780F598D97B6E
+SD INPRES MAF,50306881,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,5,123,6,7,0,1,26,30 Apr 2026 12:13:04,D734B2F1BD9CE2388297
+SD INPRES NASI,50306884,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,1,125,7,6,0,1,27,16 Apr 2026 10:26:41,028D341FC92012589153
+SD INPRES NOEOKAN,50306887,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,1,79,6,6,0,1,4,09 Mar 2026 18:29:06,FDDBB1286A14C101758B
+SD INPRES NOMENI,50306889,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,2,62,6,6,0,0,82,01 May 2026 09:14:14,BF9D09343424924ED623
+SD INPRES TAUANAS,50306904,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,86,6,7,0,0,39,18 Apr 2026 20:54:46,DE896B01C5653DD22BD6
+SD NEGERI BIMATE,50307013,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,91,6,7,0,2,61,29 Apr 2026 07:46:27,85AC1FCEDAF705356503
+SD NEGERI FATUONI,50307015,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,2,143,6,7,0,0,35,12 Apr 2026 12:57:45,288EB1D59D59671D8C86
+SD NEGERI KOE,69988515,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,1,45,6,6,0,1,12,09 Apr 2026 22:03:46,97CB6C78B711522107E3
+SD NEGERI NASI,50307018,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,2,122,6,6,0,0,11,28 Feb 2026 11:57:56,E52EE1F3485F2CF3D816
+SD NEGERI NOENAPAS,50309048,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,84,6,6,0,0,1,09 Mar 2026 19:05:26,622448967C38C11D38BE
+SD NEGERI OANA,69990147,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,2,77,6,3,0,0,29,29 Apr 2026 14:06:52,173476DF02C24DC699D9
+SD NEGERI OEBAHA,50307023,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,1,29,6,6,1,1,33,28 Apr 2026 10:41:35,9EC7E316E893AF9D59CB
+SD NEGERI PATAL,50307025,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,3,115,6,5,0,0,42,30 Apr 2026 22:14:08,4AAF4DE25A59755A4A11
+SD NEGERI PONAS,50307133,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,87,6,7,0,0,36,22 Apr 2026 11:46:29,BF0002FDD5B905EE80D0
+SD NEGERI TUAPENU,69989411,SD,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,4,90,6,6,0,1,15,28 Apr 2026 11:15:36,3FFAD749447E12981642
+SD GMIT PUTAIN 1,50306808,SD,Swasta,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,3,1,101,6,6,0,0,44,02 May 2026 12:40:55,7A137D2EE8D96705A4F5
+SD GMIT PUTAIN 2,50306809,SD,Swasta,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,1,83,6,6,0,0,16,07 Mar 2026 06:47:37,3DB99ED74BC1D0C50AEA
+SD GMIT TUMU,50306811,SD,Swasta,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,3,72,6,6,0,0,60,04 Mar 2026 20:11:23,E25FA27B4AAD6BFD70E3
+SD KATHOLIK YASWARI PUTAIN,50307007,SD,Swasta,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,3,103,6,6,0,0,7,02 May 2026 13:53:21,FACCDA44014FD4EEA0F9
+SD KATHOLIK YASWARI TUMU,50307011,SD,Swasta,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,1,56,6,6,0,1,8,20 Apr 2026 08:03:51,1CFAEB48CA8E9E377950
+SMP NEGERI 1 AMANATUN UTARA,50300618,SMP,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,21,3,200,7,12,2,1,65,02 May 2026 19:52:48,FDF680079221E1E0497A
+SMP NEGERI KUA AUS,70046520,SMP,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,5,45,3,3,0,0,45,26 Apr 2026 20:26:15,BC3AC10A66EC79475E03
+SMP NEGERI NOEOKAN,69987669,SMP,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,4,76,3,3,0,0,7,15 Apr 2026 10:15:56,D7736C27DC7521199AAA
+SMP NEGERI PUTAIN,69987919,SMP,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,14,5,83,4,4,0,1,28,14 Apr 2026 15:50:19,C505F57F8DA911A5FCA1
+SMP NEGERI SATU ATAP NASI,50307240,SMP,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,4,154,6,4,1,1,20,15 Apr 2026 22:41:19,8322C3A09121E25EC62B
+SMP SATU ATAP FOTILO,69728357,SMP,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,100,3,3,2,2,38,15 Apr 2026 09:41:26,7AE5DE273A9DB8D46E5D
+SMP KATHOLIK ST DON BOSCO PUTAIN,50307170,SMP,Swasta,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,116,4,4,0,1,1,20 Apr 2026 09:43:45,A60E09D24EA03E7BD3C3
+SMP KRISTEN 1 AMANATUN UTARA,50307175,SMP,Swasta,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,86,3,3,1,1,23,02 May 2026 11:52:51,FBB218801FF5A79D51A2
+SMAN AYOTUPAS,50300586,SMA,Negeri,Kec. Amanatun Utara,240311,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,27,3,440,15,14,4,1,12,30 Apr 2026 14:12:15,B6E18880C9A8A119C2CD

@@ -1,0 +1,25 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Jeblogan,20311424,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,0,100,6,6,0,1,53,04 Apr 2026 07:50:34,AFFD4B7D9B13E89F85C6
+SD Negeri 1 Karangtengah,20311400,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,68,6,6,0,1,11,02 Apr 2026 12:52:54,4C990A893AD5632A464C
+SD Negeri 1 Ngambarsari,20311478,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,95,6,6,0,1,12,02 Apr 2026 07:38:59,11C80D37489BFF9FC16E
+SD Negeri 1 Purwoharjo,20311452,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,81,6,6,0,0,16,10 Apr 2026 12:29:15,C53D2A5D164E8D00AF82
+SD Negeri 1 Temboro,20311769,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,3,2,56,6,6,0,1,25,29 Apr 2026 16:23:37,BB16D0993E06358C100A
+SD Negeri 2 Jeblogan,20311634,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,93,6,6,1,1,10,02 Apr 2026 11:13:43,84B77666EA0D7360FB62
+SD Negeri 2 Karangtengah,20311626,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,78,6,6,0,1,8,02 Apr 2026 10:38:52,D891A588970C8175FFAA
+SD Negeri 2 Ngambarsari,20311740,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,132,6,6,0,2,8,02 Apr 2026 07:28:56,DA84C22B4659AFD9060F
+SD Negeri 2 Purwoharjo,20310923,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,58,6,6,0,1,54,06 Apr 2026 08:48:28,096C82BC8B4088AE9080
+SD Negeri 3 Jeblogan,20310798,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,31,6,6,0,1,14,02 Apr 2026 04:17:54,47CC0EE65B7ADBC05BD9
+SD Negeri 3 Karangtengah,20310794,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,52,6,5,0,1,12,03 Apr 2026 19:35:36,1C3AF2329FF08F599EC6
+SD Negeri 3 Ngambarsari,20310759,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,2,4,63,6,8,0,2,11,06 Feb 2026 08:13:23,D66E415C103C4200A1CA
+SD Negeri 3 Purwoharjo,20310860,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,42,6,6,0,1,14,02 Apr 2026 14:29:47,D20DA2E16EB7159841DB
+SD Negeri 3 Temboro,20310866,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,54,6,6,0,1,8,03 Apr 2026 16:51:44,43EE52BC977D26100B43
+SD Negeri 4 Jeblogan,20310816,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,30,6,6,1,0,1,02 Apr 2026 07:04:47,296C6BEC9ACB02842F4F
+SD Negeri 4 Karangtengah,20340762,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,54,6,6,0,1,15,04 Apr 2026 22:12:30,88BF09FE89424CD53691
+SD Negeri 4 Purwoharjo,20311301,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,59,6,5,0,1,13,08 Apr 2026 08:28:54,F371D6328E863802864B
+SD Negeri 4 Temboro,20311295,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,129,6,6,1,1,17,02 Apr 2026 12:13:41,1CD0A10CC44E6FF521F8
+SD Negeri 5 Temboro,20311246,SD,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,64,6,6,0,1,5,13 Feb 2026 10:59:14,B35D2FCD8C63F294444E
+SMP NEGERI 1 KARANGTENGAH,20311211,SMP,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,11,7,185,8,9,2,1,14,02 Apr 2026 11:05:39,583987527A4FE5FF6461
+SMP NEGERI 2 KARANGTENGAH,20311218,SMP,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,10,8,162,6,9,2,1,18,10 Apr 2026 07:52:41,6A0DBECFBE33F934C379
+SMP NEGERI 3 KARANGTENGAH,20311084,SMP,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,9,6,163,6,9,2,1,29,25 Apr 2026 12:03:01,EFDF5517DBAC5E38D6AD
+SMP NEGERI 4 KARANGTENGAH,20362352,SMP,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,4,95,5,6,2,1,12,20 Apr 2026 20:15:44,1BA2C90C67DB7CB4BB46
+SMP Negeri 4 Satu Atap Karangtengah,20338515,SMP,Negeri,Kec. Karangtengah,031206,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,1,41,3,3,0,1,22,15 Apr 2026 08:33:55,3F03EECA609011959C07

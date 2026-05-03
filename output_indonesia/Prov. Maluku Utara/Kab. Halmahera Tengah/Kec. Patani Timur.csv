@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SAKAM,60202292,SD,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,19,2,192,8,10,0,1,24,24 Apr 2026 14:25:49,155E44AFE4FCE8506256
+SD Negeri 1 Peniti,60200161,SD,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,17,4,129,6,6,1,1,20,29 Apr 2026 05:48:03,26E2B6D879B3A6AE8421
+SD NEGERI 2 PENITI,60202249,SD,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,18,1,81,6,6,0,1,15,07 Mar 2026 13:40:16,58E5663293D18A68FB9B
+SD NEGERI MADOLAFI,69947209,SD,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,13,3,39,6,6,0,0,14,30 Apr 2026 17:16:17,9F3E8B24B4F5EC179F92
+SD NEGERI PALO,60200203,SD,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,11,5,49,6,6,0,1,10,11 Feb 2026 07:36:56,DE3B79EF4290A3185074
+SMP NEGERI 20 HALMAHERA TENGAH,60202298,SMP,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,20,2,76,3,3,2,1,22,26 Apr 2026 08:34:49,D04047688D338E44557C
+SMP NEGERI 8 HALMAHERA TENGAH,60201133,SMP,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,22,5,118,6,6,2,1,22,29 Apr 2026 22:07:15,EB7747911A11A819F8A6
+SMP NURUL SYAH FITRI,70055086,SMP,Swasta,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,0,0,0,0,0,0,0,0,,95D63B0C57807BEDDB00
+SMA NEGERI 10 HALMAHERA TENGAH,69774801,SMA,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,11,3,66,3,4,2,0,64,02 May 2026 02:39:35,147DD88FEA22C9065811
+SMK NEGERI 6 HALMAHERA TENGAH,60200211,SMK,Negeri,Kec. Patani Timur,270213,Kab. Halmahera Tengah,270200,Prov. Maluku Utara,270000,15,2,72,5,6,1,1,42,24 Apr 2026 07:06:06,D6B844885F20CA24B6A1

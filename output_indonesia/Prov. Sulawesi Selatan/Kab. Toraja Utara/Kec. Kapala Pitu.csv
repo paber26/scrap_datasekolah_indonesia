@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 Kapala Pitu,40306734,SD,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,9,9,155,7,8,0,1,30,30 Apr 2026 10:02:02,1BF3CE7C0F136C542241
+SD NEGERI 2 KAPALA PITU,40306397,SD,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,10,3,107,6,6,0,1,12,03 Mar 2026 07:18:30,4C7DA00105B48D47E1D2
+SD NEGERI 3 Kapala Pitu,40306779,SD,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,9,1,65,6,6,0,1,5,18 Apr 2026 18:16:18,0756E8AF01CF2B4857DC
+SD NEGERI 4 Kapala Pitu,40309554,SD,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,9,4,114,6,7,0,1,14,21 Apr 2026 11:54:09,88405EF8159C5BEDEC6E
+SD NEGERI 5 Kapala Pitu,40306630,SD,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,11,2,168,9,10,0,1,18,09 Apr 2026 10:26:13,7B8D04B8F64A5B721D29
+SD NEGERI 6 Kapala Pitu,40306802,SD,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,10,3,164,8,10,0,1,25,30 Apr 2026 18:04:11,22D184CC84304A7CDB3D
+SD NEGERI 7 KAPALA PITU,40306805,SD,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,9,4,86,6,6,1,1,17,10 Apr 2026 19:56:34,7C7D340A92A36E59ED9B
+SD NEGERI 8 Kapala Pitu,40318412,SD,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,8,3,35,6,6,0,1,36,10 Apr 2026 09:28:58,4C4990D30326D6522AB1
+SMP NEGERI 1 Kapala Pitu,40309808,SMP,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,21,3,238,9,10,1,1,54,20 Apr 2026 14:07:27,C7A22D9AD62E7050EE6B
+SMP NEGERI 2 Kapala Pitu,40309828,SMP,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,23,8,263,10,19,2,0,32,17 Apr 2026 16:10:26,2B4B51E8BB3FD96BD007
+SMAN 10 TORAJA UTARA,70038021,SMA,Negeri,Kec. Kapala Pitu,192706,Kab. Toraja Utara,192700,Prov. Sulawesi Selatan,190000,13,3,67,4,3,2,1,52,21 Apr 2026 11:16:06,2D998A90AEFD74B84AB7

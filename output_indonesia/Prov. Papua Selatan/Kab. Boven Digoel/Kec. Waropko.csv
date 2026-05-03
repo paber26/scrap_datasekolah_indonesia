@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI IKCAN,69946402,SD,Negeri,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,6,0,60,6,6,0,0,21,04 Mar 2026 10:03:40,4B282499B956FA276306
+SD NEGERI PERSIAPAN AMUPKIM,69946353,SD,Negeri,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,5,1,56,6,3,0,0,15,05 Mar 2026 10:35:27,8351265980FDD378286E
+SD NEGERI TOMEN,70042260,SD,Negeri,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,0,1,0,0,0,0,0,0,,9AA8026DC148000400C6
+SD YPPK DUMUTU,60302108,SD,Swasta,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,2,0,33,6,6,0,0,9,28 Apr 2026 20:59:00,ED1AB3ABC449666564FB
+SD YPPK KANGGEWOT,60302115,SD,Swasta,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,2,1,34,6,6,0,0,57,29 Apr 2026 19:22:57,328B69B33DC93D3E3E85
+SD YPPK NINATI,60302122,SD,Swasta,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,1,1,75,6,6,0,1,28,22 Apr 2026 18:02:19,E3AB50036CA417E30616
+SD YPPK SIMIRAM,60302126,SD,Swasta,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,0,1,39,6,3,0,0,53,03 Apr 2026 02:30:06,D40B5CDEFA30053AB9BD
+SD YPPK WAROPKO,60302136,SD,Swasta,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,3,1,114,6,6,1,1,29,01 May 2026 23:58:06,DBD36363FE272A9DE200
+SD YPPK YETETKUN,60302138,SD,Swasta,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,7,1,160,6,6,0,0,115,02 May 2026 12:51:42,381A0DC753254574945F
+SMP NEGERI 1 WAROPKO,60302144,SMP,Negeri,Kec. Waropko,370203,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,13,2,145,7,7,0,1,89,10 Apr 2026 22:26:36,A97E38851675A38908E7

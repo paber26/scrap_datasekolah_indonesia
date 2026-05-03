@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BATUAWU,40401150,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,10,11,148,8,6,0,1,11,18 Apr 2026 05:27:07,279B9E5A5B556AFF62A1
+SD NEGERI 1 BIWINAPADA,40401300,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,7,6,131,6,7,0,1,22,23 Apr 2026 15:00:50,36DD80507636B366E14B
+SD NEGERI 1 KAIMBULAWA,40401382,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,9,6,85,6,6,1,1,47,22 Apr 2026 20:12:17,DBFF8E3796D481DE84CD
+SD NEGERI 1 KARAE,40403007,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,8,9,92,6,7,0,1,10,27 Apr 2026 10:11:56,55B500DAE225C8C8AAB7
+SD NEGERI 1 LAPARA,40404598,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,12,2,94,6,7,1,1,10,06 Mar 2026 19:45:02,8050D9AEF3728A377ECD
+SD NEGERI 1 LONTOI,40401053,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,17,3,140,7,8,1,1,23,10 Apr 2026 08:34:44,1B9EFF30C2E57EC83B1C
+SD NEGERI 1 NGGULANGGULA,40401354,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,10,2,88,6,10,0,1,1,12 Mar 2026 07:03:56,C400D4A6CE92CEA5F5D8
+SD NEGERI 1 TONGALI,40401194,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,8,5,145,6,8,0,1,17,04 Apr 2026 05:57:18,962077EF1309B0F7CDD8
+SD NEGERI 1 WAINDAWULA,40404584,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,8,4,171,6,6,1,1,58,27 Apr 2026 07:39:44,82F8D7F9CFCAEA3A726D
+SD NEGERI 1 WAKINAMBORO,40401431,SD,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,14,5,203,12,9,0,1,19,18 Apr 2026 07:54:08,FEF8D856344EB1F82E2B
+SMP NEGERI 1 SIOMPU,40401102,SMP,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,17,7,139,6,13,3,1,14,10 Feb 2026 18:22:04,FF637E301650274A2996
+SMP NEGERI 2 SIOMPU,40404953,SMP,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,21,12,121,6,8,4,2,15,26 Apr 2026 04:35:48,1403FE44611031BE3E6B
+SMP NEGERI 3 SATU ATAP SIOMPU,40404898,SMP,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,11,6,81,3,4,2,1,27,02 Apr 2026 00:35:07,CF15F13D7BC6198E7B15
+SMP NEGERI 4 SIOMPU,40405674,SMP,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,15,4,107,5,8,2,1,10,07 Mar 2026 03:23:59,74E6712B5472A91AC4E8
+SMA NEGERI 2 SIOMPU,70051349,SMA,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,28,2,76,4,6,0,0,38,30 Apr 2026 08:31:07,DCC310B380F651D003F5
+SMAN 1 SIOMPU,40404722,SMA,Negeri,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,45,11,274,11,15,6,1,34,16 Apr 2026 02:47:35,42DD6EF2869C72DB4FCB
+Sekolah Menengah Kejuruan Swasta Satmanggi Kabupaten Buton Selatan,70057144,SMK,Swasta,Kec. Siompu,201406,Kab. Buton Selatan,201400,Prov. Sulawesi Tenggara,200000,14,1,7,4,4,1,1,73,21 Apr 2026 04:50:08,FBAF7B2828B6D63B6260

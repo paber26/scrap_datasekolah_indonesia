@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Inpres Mbua,60301429,SD,Negeri,Kec. Mbuwa,380807,Kab. Nduga,380800,Prov. Papua Pegunungan,380000,7,1,259,10,8,0,1,26,22 Apr 2026 17:57:58,F433ED59A6E4012DD434
+SMP Negeri Mbua,60305279,SMP,Negeri,Kec. Mbuwa,380807,Kab. Nduga,380800,Prov. Papua Pegunungan,380000,12,1,153,6,5,1,0,9,30 Apr 2026 21:08:41,2F4E68FB5DD74ABDFA1B
+SMA NEGERI 2 MBUA,69964248,SMA,Negeri,Kec. Mbuwa,380807,Kab. Nduga,380800,Prov. Papua Pegunungan,380000,6,1,18,3,6,0,0,7,17 Apr 2026 12:14:02,73020ED0EA6E9FFA2807

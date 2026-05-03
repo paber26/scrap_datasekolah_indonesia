@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 GONDANG,20309766,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,7,1,87,6,6,0,1,11,21 Apr 2026 11:31:21,355C7D39D2EE6E3846C4
+SD NEGERI 1 KARANGDUREN,20309822,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,9,1,183,9,9,1,2,30,01 May 2026 20:06:21,F574DC83DFBAD8A11870
+SD NEGERI 1 MALANGJIWAN,20310232,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,4,2,79,6,6,0,1,7,20 Apr 2026 18:09:38,C497779A0E9E22A31D9C
+SD NEGERI 1 MENDEN,20310243,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,5,2,37,6,6,0,0,5,02 Mar 2026 08:34:31,B6038AA7C90134E8E58F
+SD NEGERI 1 NGRUNDUL,20310182,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,6,2,56,6,6,1,1,31,06 Apr 2026 08:51:47,5459FE5009289D1AB7E0
+SD NEGERI 1 PLUNENG,20310203,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,6,2,60,6,6,0,1,22,02 Apr 2026 04:37:13,B3A0A1EFFBA9D4054A2A
+SD NEGERI 2 GONDANG,20310149,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,7,2,88,6,6,0,1,10,10 Apr 2026 17:28:37,C56D6443A34DA9EA05B3
+SD NEGERI 2 KARANGDUREN,20310135,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,6,1,57,6,6,0,1,13,03 Apr 2026 09:52:10,7B858B4C7445224A38EC
+SD NEGERI 2 PLUNENG,20309437,SD,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,7,2,79,6,6,0,2,11,24 Apr 2026 10:18:09,1C01F0BB6F3E4C9DC194
+SDIT AL HASNA,20340693,SD,Swasta,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,15,2,280,12,12,1,2,35,16 Apr 2026 10:58:34,AA0AC87F532EBAAF0F99
+SMP NEGERI 1 KEBONARUM,20309586,SMP,Negeri,Kec. Kebonarum,031008,Kab. Klaten,031000,Prov. Jawa Tengah,030000,30,6,558,19,21,3,1,21,09 Apr 2026 12:13:49,29BA96E6DC71C876987C

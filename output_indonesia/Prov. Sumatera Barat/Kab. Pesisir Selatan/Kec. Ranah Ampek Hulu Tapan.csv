@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 SUNGAI GAMBIR,10302054,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,10,4,148,7,8,0,1,8,03 Mar 2026 11:17:53,1669ED973760A520980E
+SDN 02 PADANG KEJAI,10302043,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,9,2,60,6,6,0,1,83,24 Apr 2026 10:46:22,56C2D7E6465D61895C15
+SDN 03 KOTO PULAI,10302062,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,17,7,247,12,9,0,1,19,29 Apr 2026 09:36:06,1316119FFBCE6B30204A
+SDN 04 MUARO SAKO,10302087,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,12,2,63,6,6,0,1,13,07 Mar 2026 08:22:53,DC4A48263185EBA1D5B8
+SDN 05 TALANG KUBU,10302214,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,19,5,217,12,8,0,1,39,02 May 2026 11:04:06,06657CD8CB791462E6AB
+SDN 06 TALANG,10302206,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,3,107,6,9,0,1,15,08 Apr 2026 09:46:03,CBA63E8A1E71A671CEFB
+SDN 07 PADANG LABAN,10302259,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,19,5,244,12,12,0,1,18,20 Apr 2026 13:40:05,2124B0438CDAD55CC04C
+SDN 08 BINJAI,10302242,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,15,5,65,6,6,0,1,25,02 May 2026 11:14:15,F484F4F9087AB3A33B20
+SDN 09 SUNGAI GAMBIR,10302169,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,10,4,138,7,10,0,1,16,06 Mar 2026 08:52:19,F68C263A6DDDF6D4EC05
+SDN 10 PASAR MELINTANG,10302183,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,14,3,166,9,7,0,1,32,02 May 2026 14:07:28,4C07BDC80A5A42A4A712
+SDN 11 KUBU TAPAN,69954909,SD,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,2,109,6,4,0,0,16,11 Apr 2026 08:36:19,42EB5E5AA24661A9ADED
+SMP NEGERI 1 RANAH AMPEK HULU TAPAN,10301936,SMP,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,24,10,200,9,9,2,1,79,21 Apr 2026 09:09:13,206C9904F1EBA47EC73E
+SMP NEGERI 2 RANAH AMPEK HULU TAPAN,10308267,SMP,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,16,6,87,4,9,1,2,15,02 Apr 2026 11:01:24,A695ACE4790A5F0698D0
+SMP NEGERI 3 RANAH AMPEK HULU TAPAN,69787562,SMP,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,18,5,133,5,7,2,1,14,28 Apr 2026 09:12:21,9B620DA0747526A4D6F4
+SMP DARUSSHALIHIN,70046408,SMP,Swasta,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,8,2,39,3,2,0,0,8,06 Mar 2026 10:18:03,DAAA6C173C508F1D99B4
+SMKN 1 RANAH AMPEK HULU TAPAN,10309786,SMK,Negeri,Kec. Ranah Ampek Hulu Tapan,080614,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,40,11,275,14,18,2,1,59,24 Apr 2026 09:32:25,746815FFC9F46F71485B

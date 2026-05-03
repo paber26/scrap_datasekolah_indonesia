@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES EREGA,60401561,SD,Negeri,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,4,2,89,6,4,0,0,13,14 Apr 2026 20:26:04,241A221B411868ADAA28
+SD INPRES PAPARO,60401562,SD,Negeri,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,7,1,89,7,6,0,0,20,22 Apr 2026 08:44:22,4647A3A62B0B817FC45C
+SD INPRES YAPIMA,60401583,SD,Negeri,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,6,1,64,6,6,0,0,30,01 May 2026 22:35:35,5D1C241189B0C1D20A0B
+SD NEGERI KEWO,70012302,SD,Negeri,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,5,1,41,6,3,0,0,9,03 Mar 2026 14:58:31,4F2DF0D6362CC220FBE9
+SD NEGERI URE,60403845,SD,Negeri,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,4,2,30,5,3,0,0,20,04 Feb 2026 06:48:21,27A32CBEB30163F2FCF9
+SD NEGERI URURU,60403768,SD,Negeri,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,8,1,76,6,6,0,0,1,15 Mar 2026 07:55:09,1AAB30818F423C5BDB00
+SD YPK GARIAUW,60401591,SD,Swasta,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,4,1,89,6,7,0,0,27,16 Apr 2026 16:34:00,C319E7554E75A1DB8A21
+SD YPK OMBA PAMUKU,60401602,SD,Swasta,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,1,1,107,6,6,0,0,7,14 Feb 2026 19:07:49,33A8DD322B9E76A9E3E6
+SMP NEGERI 1 YAMOR,69772597,SMP,Negeri,Kec. Yamor,320207,Kab. Kaimana,320200,Prov. Papua Barat,320000,6,1,37,3,3,1,1,11,23 Apr 2026 22:25:39,FBD82DFC5DAAE6B4E4FA

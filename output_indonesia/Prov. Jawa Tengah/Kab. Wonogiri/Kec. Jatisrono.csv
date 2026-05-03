@@ -1,0 +1,47 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Gunungsari,20311406,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,60,6,6,0,1,33,16 Apr 2026 19:01:44,9E9F4E36F4CA41670A11
+SD Negeri 1 Jatisari,20311426,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,48,6,6,0,1,10,22 Apr 2026 08:02:50,75E9EE869676F2840D06
+SD Negeri 1 Jatisrono,20311425,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,9,3,243,10,12,1,1,28,02 Apr 2026 08:54:56,D839997AD21738D9F194
+SD Negeri 1 Ngrompak,20311490,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,147,6,7,1,1,7,02 Apr 2026 11:49:22,5BFB22B7FB732869D755
+SD Negeri 1 Pandeyan,20311484,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,3,2,124,6,6,0,1,5,03 Apr 2026 18:09:16,8C779918B1BA36F51590
+SD Negeri 1 Pelem,20311443,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,137,6,6,1,1,28,22 Apr 2026 18:55:08,6509BFBD5669ED5F3382
+SD Negeri 1 Pule,20311458,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,66,6,6,0,1,4,26 Apr 2026 18:30:44,07D901FB8D3C3B29FDF9
+SD Negeri 1 Rejosari,20311431,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,74,6,6,0,1,10,04 Apr 2026 11:06:49,F7F6166094FF9E9FE9C3
+SD Negeri 1 Semen,20311781,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,154,6,6,0,1,8,16 Mar 2026 12:03:15,40AC73972FA5C0AB0BE0
+SD Negeri 1 Sumberejo,20310909,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,89,6,7,0,0,13,28 Mar 2026 12:57:28,8B393D8E7E86E0C66143
+SD Negeri 1 Tanggulangin,20311762,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,113,6,6,0,1,9,02 Mar 2026 10:35:07,523C579C094AFF3B9D3D
+SD Negeri 1 Watangsono,20311848,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,88,6,6,0,1,7,20 Apr 2026 16:49:27,678CD092FC580B69009D
+SD Negeri 2 Gondangsari,20311654,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,129,6,8,0,1,14,10 Apr 2026 09:11:51,3492882D7F2B4D713E97
+SD Negeri 2 Gunungsari,20311681,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,110,6,6,0,0,17,01 Apr 2026 23:06:09,B4B015ED6F93210E0B9F
+SD Negeri 2 Jatisari,20311652,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,125,6,6,0,1,6,04 Mar 2026 07:55:25,073335B92F13D89272A4
+SD Negeri 2 Jatisrono,20311651,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,104,6,6,1,1,27,22 Apr 2026 09:01:37,18790AA8F18B32E03887
+SD Negeri 2 Ngrompak,20311734,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,112,6,6,0,1,12,03 Apr 2026 22:32:52,8048C37726A1A3BE0B91
+SD Negeri 2 Pandeyan,20311694,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,54,6,6,0,1,19,18 Apr 2026 09:46:01,B839C86AC03B6AC8B535
+SD Negeri 2 Pule,20311704,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,86,6,6,0,1,9,20 Apr 2026 18:20:20,F136AA025AB5AE5C5FD1
+SD Negeri 2 Rejosari,20310919,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,150,6,7,0,1,16,21 Apr 2026 11:49:49,B4F65B8028DAB807B5BB
+SD Negeri 2 Sambirejo,20310916,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,3,2,108,6,6,1,1,8,08 Apr 2026 13:00:04,829193F438B73F693823
+SD Negeri 2 Sidorejo,20310910,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,73,6,6,0,1,13,11 Apr 2026 21:52:53,6524B3A55CBB616CCF39
+SD Negeri 2 Sumberejo,20340950,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,107,6,6,0,1,15,02 Apr 2026 13:02:21,3F497A96364E7632FA9D
+SD Negeri 2 Tanggulangin,20310902,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,2,108,6,7,1,1,33,03 Mar 2026 10:57:43,918F1E463CC3E306EA1A
+SD Negeri 2 Tanjungsari,20310899,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,147,6,6,0,1,14,06 Apr 2026 08:57:49,4B5B06081F83F2FBA5EB
+SD Negeri 2 Tasikhargo,20310898,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,133,6,6,0,1,19,30 Apr 2026 08:13:36,403C625F5C4C94B9F446
+SD Negeri 2 Watangsono,20310974,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,69,6,6,0,0,14,16 Apr 2026 07:49:16,D378F76DB503D640CF5F
+SD Negeri 3 Jatisrono,20310815,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,113,6,6,0,1,21,25 Apr 2026 07:31:02,0BDB45252BE2ECD8D630
+SD Negeri 3 Pandeyan,20310757,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,4,2,74,6,6,0,1,13,16 Apr 2026 12:09:19,B07AE055FF8C3A81D997
+SD Negeri 4 Jatisrono,20340764,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,175,6,6,0,1,13,02 Apr 2026 09:45:41,6B5DB9E32D44C5559859
+SD Negeri 5 Jatisrono,20311253,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,169,6,6,0,1,25,27 Apr 2026 11:35:31,3B0794286A9DC62AA781
+SD Negeri 6 Jatisrono,20311257,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,75,6,7,0,0,11,29 Apr 2026 10:27:48,73B82516D4BD224BE59D
+SD Negeri Krandegan,20311337,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,8,1,102,6,6,0,2,13,20 Apr 2026 14:02:00,DF710152A82EA7AAE24D
+SD Negeri Kutolawas,20311353,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,96,6,6,0,1,17,11 Apr 2026 09:09:45,30D1B4BA1CDDD174F7E2
+SD Negeri Mojoroto,20311364,SD,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,79,6,6,1,1,14,04 Apr 2026 09:47:02,2231F327F99B87ED6F72
+SD ISLAM RUMPUN MUSLIM,20341430,SD,Swasta,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,12,2,323,12,12,1,1,7,27 Jan 2026 11:14:03,47321566FF3CD33B1428
+SDIT IBNU SINA JATISRONO,20353955,SD,Swasta,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,63,6,6,1,1,20,04 Apr 2026 07:52:56,BBE80AA14FF757CFDF43
+SMP NEGERI 1 JATISRONO,20311212,SMP,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,41,15,911,30,30,5,1,36,11 Apr 2026 09:12:09,A98AEDAAF45FC34239A9
+SMP NEGERI 2 JATISRONO,20311219,SMP,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,22,6,566,18,18,6,1,11,15 Apr 2026 08:33:03,95105342FC3B1DD0BF8A
+SMP NEGERI 3 JATISRONO,20311083,SMP,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,23,12,639,21,21,4,2,10,16 Apr 2026 08:24:12,B11B1B8D2EE941A6FA5A
+SMP NEGERI 4 JATISRONO,20311092,SMP,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,15,9,206,8,12,3,1,146,29 Apr 2026 07:20:11,039906FA6D071F557D77
+SMP ISLAM RUMPUN MUSLIM JATISRONO,69913505,SMP,Swasta,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,10,3,97,4,6,2,1,14,22 Apr 2026 10:19:11,D45D3D6AFC400488CDD1
+SMP PANCASILA 10 JATISRONO,20311019,SMP,Swasta,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,8,3,5,2,1,4,03 Apr 2026 16:07:49,D5C4C5779718A1128613
+SMA NEGERI 1 JATISRONO,20311308,SMA,Negeri,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,52,10,854,24,24,8,1,27,22 Apr 2026 10:35:56,909577556CE5CAE1FEAC
+SMK PANCASILA 2 JATISRONO,20337648,SMK,Swasta,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,45,17,1030,30,30,5,1,20,28 Apr 2026 08:25:01,5214F2D72DA2F794B5BA
+SMK PANCASILA 6 JATISRONO,20311322,SMK,Swasta,Kec. Jatisrono,031222,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,39,18,804,25,27,5,1,26,21 Apr 2026 09:46:42,2F121ABE23A60842EA8F

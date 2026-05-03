@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BALINGGA,60301385,SD,Negeri,Kec. Balingga,380707,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,10,1,385,12,7,0,0,10,21 Apr 2026 12:54:40,92759C5F3B49BA5AAAF4
+SD INPRES BRUME,60301389,SD,Negeri,Kec. Balingga,380707,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,11,1,263,9,10,0,0,12,30 Apr 2026 19:44:33,197F533DCF0B54E7268F
+SMAN 1 BALINGGA,60304054,SMA,Negeri,Kec. Balingga,380707,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,5,1,221,7,6,1,0,49,18 Apr 2026 11:32:10,A5800FB958AD2BF22445

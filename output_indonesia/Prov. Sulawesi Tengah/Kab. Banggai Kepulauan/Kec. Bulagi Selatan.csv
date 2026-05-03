@@ -1,0 +1,28 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BABANG,40200183,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,1,59,6,6,0,1,23,06 Mar 2026 09:25:13,FBDF29B0CE8767BB8CEC
+SD INPRES KOKONDONG,40200283,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,1,21,6,6,0,0,8,11 Apr 2026 20:00:05,32C11EF49DCD7D49F48B
+SD INPRES LOLANTANG,40200389,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,10,2,56,6,6,1,1,16,10 Apr 2026 23:18:51,36C6FA709169B8C3B74F
+SD INPRES PALABATU 2,40200402,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,2,30,6,3,0,0,34,30 Apr 2026 22:04:29,39AC07B0CEE919828B08
+SD INPRES PANDALUK,40200404,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,5,80,6,6,0,0,10,13 Mar 2026 08:49:46,09FB731B7F0972A6E6AD
+SD INPRES TOI-TOI,40200347,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,8,3,62,6,6,0,0,13,22 Apr 2026 11:56:24,098E150B2E970D454A1B
+SD NEGERI BALALON,40200161,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,2,95,6,6,1,1,29,17 Apr 2026 07:23:55,C2AC9ABF1023822F1642
+SD NEGERI MOMOTAN,40200108,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,3,2,41,6,6,0,0,9,28 Feb 2026 08:09:27,EF3858EA0ABA507E6566
+SD NEGERI OSAN,40200104,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,8,6,68,6,6,1,2,10,15 Apr 2026 20:29:30,8C806683E17B8C0F7668
+SD NEGERI PALABATU I,40200119,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,1,20,5,6,0,0,18,11 Mar 2026 09:27:39,15C8F1C4CF2AE1C7F805
+SD NEGERI PIPILOGOT,40209789,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,6,2,25,4,5,0,0,4,25 Mar 2026 20:46:02,235631C819C3367D6549
+SD NEGERI SABELAK,40200132,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,2,47,6,6,0,0,9,29 Apr 2026 22:00:44,21DA478B0982CF631D80
+SD NEGERI SUIT,40200239,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,5,1,26,6,6,0,0,5,24 Jan 2026 16:10:39,24D474F0D924341EAAB7
+SD NEGERI TATARANDANG,40200232,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,6,4,131,6,6,0,1,17,06 Apr 2026 08:25:17,2B6F820059D57081A2B0
+SD NEGERI UNU,40200256,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,2,72,9,9,0,1,19,10 Apr 2026 16:20:28,4DA99F2834CEB6BF05D5
+SDN INPRES BONEPUSO,40200278,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,10,1,88,6,7,0,0,11,10 Apr 2026 07:23:27,C94AC037F58083DC5C52
+SDN INPRES LABOTANKANDI,69934409,SD,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,1,46,6,6,0,1,8,15 Apr 2026 05:46:45,5C05C5F4D4A65684F2B9
+SD GKLB LEMELU,40200329,SD,Swasta,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,5,62,6,6,0,1,2,22 Jan 2026 08:00:33,E491DEDDDCF1C709C58E
+SMP NEGERI 1 BULAGI SELATAN,40200202,SMP,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,11,3,130,6,9,1,1,15,23 Apr 2026 08:32:40,CF5CA6EBDD2A1945EA7A
+SMP NEGERI 2 BULAGI SELATAN,40206741,SMP,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,16,2,103,6,6,2,1,8,05 Apr 2026 20:26:56,A63517D34A7D696CC579
+SMP NEGERI 3 BULAGI SELATAN,40200201,SMP,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,11,1,46,3,3,2,1,10,28 Apr 2026 08:11:04,5B1262676BD6C6830778
+SMP NEGERI SATAP TATARANDANG,40204223,SMP,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,9,3,54,3,4,2,1,11,17 Apr 2026 04:45:54,9943F59CB182E28B973B
+SMP SATU ATAP OSAN,69974945,SMP,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,7,3,70,3,5,3,1,22,15 Apr 2026 15:31:39,D25A23FEB7EED389C53F
+SMPN 4 BULAGI SELATAN,69960392,SMP,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,8,5,37,3,3,1,1,21,28 Apr 2026 05:07:59,E18E78DE5719B5F83F96
+SMA NEGERI 2 BULAGI SELATAN,69945305,SMA,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,16,2,92,4,5,5,2,30,07 Apr 2026 09:20:52,2655D640C019DE0D4B6F
+SMAN 1 BULAGI SELATAN,69728485,SMA,Negeri,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,16,4,116,6,8,5,1,70,24 Apr 2026 08:55:30,6C860B834781FC08F0C7
+SMK SEA-SEA TATARANDANG,69974946,SMK,Swasta,Kec. Bulagi Selatan,180110,Kab. Banggai Kepulauan,180100,Prov. Sulawesi Tengah,180000,1,1,45,3,3,1,1,2,30 Jan 2026 22:38:16,909E03CFF38B2A73D4F4

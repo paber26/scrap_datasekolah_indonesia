@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 BAREMADA,30104133,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,3,94,6,7,0,1,11,02 Apr 2026 22:48:48,E56704978E070B0421FE
+SD NEGERI 02 SEMPAYUK,30104105,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,10,1,187,8,7,0,1,14,28 Apr 2026 09:14:56,10811B63D4501B5626AA
+SD NEGERI 03 LUMAR,30104100,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,9,4,200,9,9,0,1,8,21 Apr 2026 09:26:47,0B88491985C33D85FFB0
+SD NEGERI 04 DOYOT,30104125,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,6,1,32,6,6,0,1,9,21 Apr 2026 16:17:41,E34F2C3893BBFE89FDCC
+SD NEGERI 05 JELATOK,30104092,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,7,2,60,6,6,0,1,7,12 Apr 2026 07:52:26,41AD7E553A9757CB9366
+SD NEGERI 06 MADI,30104217,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,6,2,78,6,6,0,1,12,13 Apr 2026 19:57:14,BF1F428AF37DF0E67679
+SD NEGERI 07 TRANS MABAK,30104223,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,1,74,6,6,0,1,15,10 Mar 2026 10:42:26,0ED9D5F4ED50E14A6DA3
+SD NEGERI 08 TRANS MAGMAGAN,30104167,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,6,2,48,6,6,0,1,7,10 Mar 2026 21:54:15,0A27E582AB808AA07D6E
+SD NEGERI 09 SEI SIBO,30108311,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,4,1,40,6,6,0,1,5,13 Feb 2026 08:37:27,1945754C54D6CA4EA78F
+SD NEGERI 10 MOLO,69901076,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,3,3,47,6,2,0,0,6,23 Jan 2026 11:17:25,B8A6C9F38833881127D3
+SD NEGERI 11 SEREN SELAYU,70061210,SD,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,0,0,0,0,0,0,0,0,,BF4B05F9C5B0CA9E298B
+SMP NEGERI 1 LUMAR,30104039,SMP,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,15,3,215,9,9,2,1,26,15 Apr 2026 07:49:54,82E6D6E411C16B256E18
+SMP NEGERI 2 LUMAR,69901062,SMP,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,11,2,163,6,9,1,1,12,13 Apr 2026 12:58:01,38DD33455C80072EAD85
+SMAN 1 LUMAR,30108274,SMA,Negeri,Kec. Lumar,130813,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,15,3,164,6,8,2,2,16,16 Apr 2026 21:21:39,6FB6FCAFBC8EC28BE1EC

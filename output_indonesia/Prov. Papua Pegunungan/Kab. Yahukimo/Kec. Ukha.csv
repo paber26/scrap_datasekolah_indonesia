@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES UWEIMA,60303313,SD,Negeri,Kec. Ukha,380319,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,527,19,6,0,1,168,01 May 2026 12:46:12,9D497D379E86710815F6
+SD NEGERI AMISANGI,69831587,SD,Negeri,Kec. Ukha,380319,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,4,1,0,0,0,0,0,0,,B650559E4BF37E0F9975
+SD NEGERI KULEKEM,69831597,SD,Negeri,Kec. Ukha,380319,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,5,1,471,14,6,0,0,15,30 Apr 2026 12:11:02,B708D324226A327E05CD
+SMP NEGERI UKHA,70049066,SMP,Negeri,Kec. Ukha,380319,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,6,0,0,0,0,0,0,0,,C5CB38F905F0FBD76A23

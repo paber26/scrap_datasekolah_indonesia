@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 SEUBADEH,10102689,SD,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,14,3,186,9,9,0,1,24,28 Apr 2026 20:57:09,254E9B3190FE4F776973
+SD NEGERI 2 SEUBADEH,10102808,SD,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,14,4,60,6,6,0,0,17,28 Apr 2026 09:57:20,5AE3838E204A326AAB66
+SD NEGERI SAWAH TINGKEUM,10102605,SD,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,11,0,112,6,6,1,1,24,28 Apr 2026 09:46:54,2770692FE3E9A4AAB178
+SD NEGERI SELEUKAT,10102597,SD,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,9,3,84,6,6,0,1,9,28 Apr 2026 21:50:26,D102268185232C3FF04D
+SD NEGERI UJUNG PULO,10102624,SD,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,12,2,125,6,6,0,1,34,30 Apr 2026 08:48:06,F61A1088B644EB8B93C2
+SD NEGERI UJUNG PULO CUT,10102970,SD,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,9,3,74,6,6,0,0,10,17 Apr 2026 23:04:35,2437AABF626D5817E946
+SDN Lhok Jamin,10102845,SD,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,8,2,49,6,7,1,1,35,24 Apr 2026 09:54:37,AC1E514F889F06F814B2
+SMP NEGERI 1 BAKONGAN TIMUR,10102705,SMP,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,22,6,222,9,14,1,2,13,11 Apr 2026 17:43:15,8671AB03E596A54E9048
+SMP TARUNA ALFAHIMI,70036430,SMP,Swasta,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,11,2,68,3,3,0,0,8,01 Mar 2026 23:05:46,12E47B83702EE7880C24
+SMAN 1 BAKONGAN TIMUR,10111579,SMA,Negeri,Kec. Bakongan Timur,060713,Kab. Aceh Selatan,060700,Prov. Aceh,060000,23,10,138,6,8,2,1,44,02 May 2026 11:49:10,A82CFE73959271C97ED0

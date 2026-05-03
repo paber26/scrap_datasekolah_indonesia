@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI INPRES ESSANG,40101724,SD,Negeri,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,10,3,55,6,6,0,1,23,02 May 2026 01:47:05,88F1ADE9638C2452CF46
+SD NEGERI INPRES MARIRIK,40101735,SD,Negeri,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,12,1,31,6,6,0,1,12,27 Apr 2026 18:32:35,0EEEAED0F7CE9D6D4F96
+SD NEGERI LALUE,40101699,SD,Negeri,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,12,1,117,6,6,0,1,14,09 Apr 2026 08:21:10,D8E50CC10EA5E765D08D
+SD KRISTEN BUKIT SION ESSANG,40101808,SD,Swasta,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,9,1,41,6,6,0,1,24,10 Apr 2026 11:34:16,0B5EF373E80C4C5C542D
+SD KRISTEN NAZARI BULUDE,40101852,SD,Swasta,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,7,1,105,6,7,0,1,66,23 Apr 2026 06:50:24,A3FB559AC03126458D83
+SD SMP SATU ATAP NEGERI 1 ESSANG DI BULUDE,40103568,SMP,Negeri,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,25,9,51,3,6,1,3,21,28 Apr 2026 20:55:47,9C1B532A9B4CD8BC336D
+SMP NEGERI 1 ESSANG,40101743,SMP,Negeri,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,17,3,127,5,6,2,1,27,01 Apr 2026 23:51:18,C55D10FA05E8E1B0A7E1
+SMA NEGERI 1 ESSANG,40101775,SMA,Negeri,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,19,4,129,6,9,4,1,21,24 Feb 2026 14:00:22,8336EAA891FA630DD1BE
+SMAS ADVENT AMBIA,40101750,SMA,Swasta,Kec. Essang,170406,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,4,2,71,3,6,2,1,11,06 Mar 2026 15:54:58,F5D6270B4AF689103DC0

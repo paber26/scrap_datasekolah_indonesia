@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 LUMBIS OGONG,30402733,SD,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,2,57,6,6,0,1,29,12 Apr 2026 08:22:54,970DE207CC19E80CACD6
+SD NEGERI 002 LUMBIS OGONG,30402660,SD,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,5,3,54,6,7,0,0,52,01 May 2026 21:47:50,D6838CDB7B5349E55A5C
+SD NEGERI 003 LUMBIS OGONG,30402673,SD,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,4,31,6,6,0,1,30,28 Apr 2026 01:52:29,ADCE6828C9006D8AA0FC
+SD NEGERI 004 LUMBIS OGONG,30402715,SD,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,3,4,34,6,3,0,0,8,22 Mar 2026 11:09:53,86790E96CFBE88BC16A1
+SD NEGERI 005 LUMBIS OGONG,30402721,SD,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,8,3,58,6,6,0,1,27,09 Apr 2026 05:44:13,866B6AF3AEFB0F91A3CB
+SD NEGERI 006 LUMBIS OGONG,30402727,SD,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,3,40,6,6,0,1,14,23 Apr 2026 21:57:44,7F6C4DB8550D2A5E53C8
+SD NEGERI 007 LUMBIS OGONG,30405652,SD,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,4,2,83,6,6,0,0,25,30 Apr 2026 15:42:46,0E9B0DFC846B51B934BF
+SMP NEGERI 1 LUMBIS OGONG,30402792,SMP,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,3,47,3,3,1,1,1,01 Apr 2026 23:25:45,BD11BF815F67535C5FC4
+SMP NEGERI 2 LUMBIS OGONG,30405240,SMP,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,9,1,79,4,4,0,1,15,13 Mar 2026 00:28:54,7DB64490D08E68897D57
+SMKN 1 Lumbis Ogong,70040777,SMK,Negeri,Kec. Lumbis Ogong,340523,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,7,3,48,3,3,2,1,10,04 Mar 2026 10:27:57,35CC9CB2D01714231710

@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+Sekolah Rakyat Dasar Terintegrasi 27 Aceh Singkil,70058775,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,2,0,50,4,2,0,1,31,24 Apr 2026 10:07:11,CF75AFCD7CE1E1E152FE
+UPTD SPF SD Negeri 1 Siompin,10104015,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,9,5,83,6,7,0,1,20,29 Apr 2026 08:40:16,F4347135D4E16C119AAC
+UPTD SPF SD Negeri 2 Siompin,10104034,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,13,4,194,11,11,1,2,20,01 May 2026 20:47:27,67195891CC1A6297B390
+UPTD SPF SD Negeri Alur Linci,10113441,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,7,4,54,6,4,0,1,22,15 Apr 2026 09:40:14,AECA1AE7A990BDEFF8A4
+UPTD SPF SD Negeri Bulu Ara,10107697,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,11,7,80,6,6,1,1,42,01 May 2026 22:31:19,F54582561FFC331D4624
+UPTD SPF SD Negeri Bulusema,10107698,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,9,2,178,7,8,0,1,26,17 Apr 2026 08:57:50,B86218F112739694AEF8
+UPTD SPF SD Negeri Keras,10104154,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,7,4,89,6,7,0,1,11,16 Apr 2026 08:37:41,ED621C3CEAC06F5977EE
+UPTD SPF SD Negeri Ketangkuhan,10111439,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,8,4,65,6,6,0,1,24,02 May 2026 09:53:33,001DAA562A94EBC14C87
+UPTD SPF SD Negeri Lae Bangun,10107711,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,6,4,49,6,8,1,1,19,11 Apr 2026 21:01:45,7C5CD682DA5DA93EB537
+UPTD SPF SD Negeri Lae Cikala,10108180,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,8,5,50,6,6,0,1,11,06 Apr 2026 10:30:07,B47CAF48362FC2A6A10F
+UPTD SPF SD Negeri Mandumpang,10107714,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,11,4,171,8,9,0,2,19,29 Apr 2026 20:26:19,68819CC91A5765BBEA80
+UPTD SPF SD Negeri Pangkalan Sulampi,10104008,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,6,4,101,6,8,0,2,17,01 May 2026 20:17:03,59D956D0A8E7DE6DD45F
+UPTD SPF SD Negeri Sirimomungkur,69966024,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,10,4,71,6,6,1,1,9,06 Apr 2026 22:30:59,54A542ACFD331B116F54
+UPTD SPF SD Negeri Suro Baru,10107732,SD,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,10,4,74,6,6,0,1,20,06 Apr 2026 13:10:58,4D122035B0746DF3A9EB
+Sekolah Rakyat Menengah Pertama Terintegrasi 27 Aceh Singkil,70058776,SMP,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,10,4,47,4,2,1,1,39,26 Feb 2026 20:34:20,E226EBC311C5AD08F7DA
+UPTD SPF SMP Negeri 1 Suro,10107790,SMP,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,16,4,183,8,12,2,2,32,16 Apr 2026 10:46:17,4C0D3F780A6BE37F9C3B
+UPTD SPF SMP Negeri 2 Suro,10104076,SMP,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,8,3,73,3,8,2,1,55,20 Apr 2026 11:17:27,9E09306D7ACFA309604C
+UPTD SPF SMP Negeri 3 Suro,10108192,SMP,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,11,6,51,3,6,1,1,19,13 Apr 2026 06:00:58,7132921929B04806DB5E
+SMP IT AL-MUHTADIN,70053864,SMP,Swasta,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,3,1,44,3,3,0,0,2,21 Jan 2026 22:08:19,1C1C0D72211296E01D82
+SMA NEGERI 1 SURO,10104049,SMA,Negeri,Kec. Suro Makmur,061308,Kab. Aceh Singkil,061300,Prov. Aceh,060000,29,6,298,11,14,6,1,45,30 Apr 2026 12:11:36,1869B7120EB1F4CEA608

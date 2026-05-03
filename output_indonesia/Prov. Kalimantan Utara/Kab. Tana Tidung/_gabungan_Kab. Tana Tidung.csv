@@ -1,0 +1,47 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 001 Tana Tidung,30402403,SD,Negeri,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,26,8,439,18,18,2,1,33,09 Apr 2026 09:27:09,7D31BAB26355D3C816F5
+SD Negeri 002 Tana Tidung,30402416,SD,Negeri,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,12,7,133,6,12,0,0,45,04 Apr 2026 19:46:44,D2DA0AD8F1FD37A2A803
+SD Negeri 008 Tana Tidung,30402441,SD,Negeri,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,11,4,114,6,6,1,1,10,08 Mar 2026 08:28:16,ABC9C4F795CDF5F26389
+SD Negeri 012 Tana Tidung,30402505,SD,Negeri,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,6,52,6,6,0,1,37,30 Apr 2026 10:46:33,0C30AF86CFC3157B6A1D
+SD Negeri 013 Tana Tidung,30402497,SD,Negeri,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,19,7,288,12,7,1,0,26,30 Apr 2026 08:56:27,604F4721A6D6A32429BA
+SD Negeri 021 Tana Tidung,30402477,SD,Negeri,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,1,57,6,6,0,1,22,22 Apr 2026 18:37:19,A29D38B807E34EBBD68F
+SD Al-Amin,69984367,SD,Swasta,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,16,6,205,11,11,0,1,11,24 Apr 2026 14:01:07,D0BFEDBF21D42619F21E
+SDIT Tidung Ceria,70026965,SD,Swasta,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,1,60,6,6,0,1,28,12 Apr 2026 10:25:42,CF0E873FC89720708030
+SMP Negeri Terpadu Unggulan 1 Tana Tidung,30402550,SMP,Negeri,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,26,17,461,16,19,4,1,36,09 Apr 2026 06:51:54,BC57E915676D25FAA001
+SMP AL-Khairaat,69984369,SMP,Swasta,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,5,2,46,3,3,1,1,24,27 Apr 2026 07:30:25,59904CFB9600F6913780
+SMAN TERPADU UNGGULAN 1 TANA TIDUNG,30402592,SMA,Negeri,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,38,15,545,17,23,6,1,22,29 Apr 2026 08:49:04,F2FE38BB57BF86F433AD
+SMA ALKHAIRAAT TANA TIDUNG,70013937,SMA,Swasta,Kec. Sesayap,340301,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,6,1,29,3,3,0,1,13,12 Feb 2026 22:52:40,F84FC30A4DB749EC4958
+SD Negeri 006 Tana Tidung,30402455,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,8,2,83,6,10,0,0,7,12 Mar 2026 06:50:18,8D55E7F439775A10A313
+SD Negeri 010 Tana Tidung,30402468,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,16,6,157,7,9,0,0,17,30 Apr 2026 06:58:04,DB437BD9CE91D5DBFC9B
+SD Negeri 011 Tana Tidung,30402488,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,10,4,54,6,6,0,1,22,17 Apr 2026 09:32:59,C678F4878828FCDFFB12
+SD Negeri 015 Tana Tidung,30407382,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,5,74,6,7,0,1,28,01 May 2026 19:25:34,1ACBE862C6ED47A86649
+SD Negeri 017 Tana Tidung,30402430,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,3,38,6,6,0,0,23,30 Apr 2026 09:11:17,B26B36EB7A340AB703AC
+SD Negeri 022 Tana Tidung,30402478,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,8,8,129,6,6,0,1,15,27 Apr 2026 07:26:34,0BDE8CA144CB1B1ED005
+SD Negeri 023 Tana Tidung,30402417,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,8,3,88,6,7,1,1,25,30 Apr 2026 08:59:57,E7996B77234E553C5CBB
+SD Negeri 025 Tana Tidung,60725308,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,8,2,107,6,3,0,0,31,23 Apr 2026 07:33:11,F3A9BCE548D2D66ED937
+SD Negeri Terpadu Unggulan 2 Tana Tidung,30402404,SD,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,17,12,260,12,14,0,0,22,28 Apr 2026 07:30:46,EBD082FFD27B3E3AB2D0
+SD Swasta Trurich 01,69969297,SD,Swasta,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,6,1,133,7,7,1,1,32,02 May 2026 08:00:37,E46AE5F7F09D4DD85BE0
+SMP Negeri Terpadu Unggulan 2 Tana Tidung,30402551,SMP,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,26,12,253,8,10,2,1,51,27 Apr 2026 10:29:08,74D50D9D3100267701EF
+SMPN 2 Tana Tidung,30402579,SMP,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,10,5,73,3,6,1,1,33,30 Apr 2026 08:47:49,106223F1FB6C56DEB648
+SMPN 7 Tana Tidung,70003148,SMP,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,3,55,3,3,0,0,14,25 Apr 2026 21:40:34,70439C21A43FBE82F428
+SMA NEGERI 1 TANA TIDUNG,30402587,SMA,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,26,13,236,9,9,3,1,30,29 Apr 2026 07:37:38,84A89131549FE0CD0AD3
+SMK NEGERI 1 TANA TIDUNG,69955535,SMK,Negeri,Kec. Sesayap Hilir,340302,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,17,8,68,7,12,4,0,36,28 Apr 2026 07:47:56,6041EAE4F40BB4D39A3E
+SD Negeri 007 Tana Tidung,30402487,SD,Negeri,Kec. Betayau,340304,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,10,1,78,6,8,0,1,44,07 Apr 2026 21:24:23,AAF54E7C9C49FBD0148B
+SD Negeri 014 Tana Tidung,30402510,SD,Negeri,Kec. Betayau,340304,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,8,2,63,6,6,0,1,18,27 Apr 2026 10:47:00,CECF3BF8C428B157893C
+SD Negeri 018 Tana Tidung,30402467,SD,Negeri,Kec. Betayau,340304,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,1,50,6,10,0,1,19,16 Apr 2026 01:51:17,5E25C49C09392089D9AB
+SD Negeri 019 Tana Tidung,30402442,SD,Negeri,Kec. Betayau,340304,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,10,5,83,6,9,0,1,41,29 Apr 2026 06:53:45,FFA97557281C6F75ED4B
+SD Negeri 020 Tana Tidung,30407377,SD,Negeri,Kec. Betayau,340304,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,11,4,162,6,9,1,1,18,29 Apr 2026 13:24:47,9231C266F6BB2279EF4F
+SMPN 3 Tana Tidung,30402578,SMP,Negeri,Kec. Betayau,340304,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,23,6,188,8,9,2,1,34,06 Mar 2026 22:01:24,397D1045A85BB32C7FF0
+SMAN 3 Tana Tidung,70050667,SMA,Negeri,Kec. Betayau,340304,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,8,5,65,2,2,0,0,25,30 Apr 2026 08:02:46,1B7F68EFE284E3AEE6F3
+SD Negeri 004 Tana Tidung,30402454,SD,Negeri,Kec. Muruk Rian,340305,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,8,2,53,6,8,0,0,48,28 Apr 2026 21:08:29,ADC686297F6B4F944BF7
+SD Negeri 005 Tana Tidung,30402429,SD,Negeri,Kec. Muruk Rian,340305,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,13,2,68,6,7,1,1,47,20 Apr 2026 13:47:37,4CA714CFC06F3B56B498
+SD Negeri 016 Tana Tidung,30407376,SD,Negeri,Kec. Muruk Rian,340305,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,8,3,32,6,6,0,1,21,02 Apr 2026 08:28:30,5452F492DC4F17613997
+SD Negeri 024 Tana Tidung,60725300,SD,Negeri,Kec. Muruk Rian,340305,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,2,50,6,6,0,1,109,20 Apr 2026 21:04:13,A03BDB7C85AAACDAA54A
+SMPN 5 Tana Tidung,30407378,SMP,Negeri,Kec. Muruk Rian,340305,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,15,5,33,3,3,3,1,32,16 Apr 2026 06:36:00,4A7FA7A7CF811504EC44
+SMPN 6 Tana Tidung,30407379,SMP,Negeri,Kec. Muruk Rian,340305,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,25,9,263,10,15,2,1,25,27 Apr 2026 08:40:30,C6159F62023E5E59B7F0
+SD Negeri 003 Tana Tidung,30402418,SD,Negeri,Kec. Tanah Lia,340303,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,9,2,46,6,6,0,0,16,16 Apr 2026 08:15:08,E05BA0197885B2390312
+SD Negeri 009 Tana Tidung,30405097,SD,Negeri,Kec. Tanah Lia,340303,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,10,3,33,6,7,0,0,27,13 Apr 2026 08:52:19,535D412EE7070719A9CF
+SD Negeri Terpadu Unggulan 1 Tana Tidung,30402405,SD,Negeri,Kec. Tanah Lia,340303,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,19,11,319,13,15,2,0,13,07 Mar 2026 09:23:56,1D903427573DCE62BE0E
+SMPN 1 Tana Tidung,30402552,SMP,Negeri,Kec. Tanah Lia,340303,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,17,10,155,6,6,2,1,45,09 Apr 2026 21:31:26,5C9678FDFD383FC19C0B
+SMPN 4 Tana Tidung,30407375,SMP,Negeri,Kec. Tanah Lia,340303,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,12,2,19,3,3,1,0,15,09 Apr 2026 16:34:55,DDC2DA90BC11786ED42B
+SMA NEGERI 2 TANA TIDUNG,30402589,SMA,Negeri,Kec. Tanah Lia,340303,Kab. Tana Tidung,340300,Prov. Kalimantan Utara,340000,17,8,153,6,5,2,1,25,10 Apr 2026 08:08:10,78C486F25F565AAA47A3

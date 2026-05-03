@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 PULAU BESAR,10900940,SD,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,8,5,161,6,10,0,1,19,15 Apr 2026 08:36:16,80F761F1B3967F3B57CC
+SD NEGERI 2 PULAU BESAR,10900942,SD,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,8,3,132,6,7,0,1,8,06 Apr 2026 08:49:47,48F57EB87C1F11357016
+SD NEGERI 3 PULAU BESAR,10900944,SD,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,6,5,115,6,6,0,1,13,27 Apr 2026 07:34:57,51CA9F9E38A2F2F1C43E
+SD NEGERI 4 PULAU BESAR,10900947,SD,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,8,4,140,6,6,0,1,9,16 Mar 2026 12:02:34,55D1C8F7943715E8785B
+SD NEGERI 5 PULAU BESAR,10900949,SD,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,10,4,188,8,9,0,1,10,28 Apr 2026 07:38:01,13FF32D6A0A4B16F3893
+SD NEGERI 6 PULAU BESAR,10900906,SD,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,6,4,110,6,6,0,1,13,14 Apr 2026 16:28:32,3B997D4AF2190B70C5B6
+SD NEGERI 7 PULAU BESAR,10900938,SD,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,6,3,66,6,6,0,1,14,08 Apr 2026 11:12:25,8906E6AA7FC3D5BD9FFE
+SMP NEGERI 1 PULAU BESAR,10900877,SMP,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,14,10,229,8,12,3,1,23,29 Apr 2026 20:20:56,CE7B259A3C3DC495085D
+SMP NEGERI 2 PULAU BESAR,69947244,SMP,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,10,4,180,6,6,2,1,13,24 Apr 2026 10:43:29,0EBFE51504CB20D74CDA
+SMA NEGERI 1 PULAU BESAR,69899943,SMA,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,17,8,261,9,8,5,1,30,13 Apr 2026 10:51:55,A2E1B2C0089E47070678
+SMK NEGERI 1 PULAU BESAR,10901755,SMK,Negeri,Pulau Besar,290506,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,11,9,130,6,8,4,1,15,02 Apr 2026 12:52:55,D76EC35E88851FCCB05F

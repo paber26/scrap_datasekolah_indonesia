@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 GELIK,30100599,SD,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,14,2,260,12,12,0,1,19,09 Apr 2026 16:32:47,EBA854DB0A558559A469
+SDN 02 SELAKAU TUA,30100583,SD,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,16,2,307,12,10,0,1,25,09 Apr 2026 01:32:15,F2DA110DB07DDCAB0610
+SDN 03 SELAKAU TUA,30100203,SD,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,14,2,394,12,11,0,1,15,10 Apr 2026 10:14:28,9EFD034ED9523F150732
+SDN 04 SERANGGAM,30100194,SD,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,8,3,204,9,6,0,1,16,10 Apr 2026 11:35:51,A4EBA1F1A844233789CE
+SDN 05 SEBETUNG,30100239,SD,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,6,1,93,6,6,0,1,9,25 Feb 2026 10:59:39,C5B12159F175DBABF6B6
+SDN 06 SELOBAT,30100227,SD,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,4,0,135,6,6,0,1,10,16 Apr 2026 11:23:10,BF7B7DA7DBC0A80B1129
+SDN 07 SERANGGAM,30100101,SD,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,8,2,145,7,6,1,1,35,28 Apr 2026 11:42:02,157FAAB48C0EE8DA1A85
+SDN 08 BUDUK SEMPADANG,30100114,SD,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,3,3,67,6,6,0,1,5,02 Mar 2026 19:05:21,87EB61D0E587DE1A5BF6
+SMPN 1 SELAKAU TIMUR,30100319,SMP,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,21,4,423,14,14,2,1,23,13 Apr 2026 13:43:45,CA5DFBBF2398003CF7CF
+SMPN 2 SELAKAU TIMUR,30107294,SMP,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,8,2,168,6,6,2,1,19,28 Apr 2026 11:00:09,B94FD37DF2A5A8B4AAF1
+SMPN 3 SATU ATAP SELAKAU TIMUR,30110157,SMP,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,6,1,21,3,3,1,1,16,14 Apr 2026 09:10:15,B390ED7B9FBCB8CE85D1
+SMPN 4 SATU ATAP SELAKAU TIMUR,69899686,SMP,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,6,1,60,3,3,2,1,14,03 Mar 2026 12:13:52,F49FBFF1B8421EEA3CFF
+SMKN 1 SELAKAU TIMUR,30106217,SMK,Negeri,Kec. Selakau Timur,130118,Kab. Sambas,130100,Prov. Kalimantan Barat,130000,30,7,484,18,8,1,1,24,07 Apr 2026 10:38:48,0EF63D6D429DB0E7EC75

@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SELA,60303318,SD,Negeri,Kec. Sela,380337,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,600,17,6,0,0,35,30 Apr 2026 15:01:05,EB618E07F4C5786B864F
+SD NEGERI ORISIN,69831580,SD,Negeri,Kec. Sela,380337,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,6,1,427,14,10,0,0,47,30 Apr 2026 09:57:44,EC080C562BA5F8B309DB
+SDN MEGOM,60303534,SD,Negeri,Kec. Sela,380337,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,2,1,581,17,24,0,0,98,17 Apr 2026 12:57:58,6E30E793983C5B0A9E6F
+SDN UNNA YAHUKIMO,69924483,SD,Negeri,Kec. Sela,380337,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,0,1,287,9,6,0,0,1,23 Feb 2026 06:28:49,66B1D50F5C43682AC3A9
+SD Charis Eas Star Papua,70031741,SD,Swasta,Kec. Sela,380337,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,10,1,167,7,7,0,1,32,02 May 2026 16:56:07,50E1BBF5D7CF5AEF280E
+SMP NEGERI SELA,60303478,SMP,Negeri,Kec. Sela,380337,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,6,2,282,7,7,0,1,157,01 May 2026 09:56:15,8046FC38B1416DE101A8

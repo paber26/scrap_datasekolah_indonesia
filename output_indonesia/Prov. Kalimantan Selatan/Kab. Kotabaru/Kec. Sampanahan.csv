@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 GUNUNG BATU BESAR,30303406,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,1,98,6,6,0,1,37,30 Apr 2026 08:21:54,C288547E8FE68056D47B
+SD NEGERI 1 SUNGAI NYAMUK,30303262,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,17,1,238,12,12,0,1,25,28 Apr 2026 08:09:06,B2762A1A9CA3EB4A7339
+SD NEGERI 2 GUNUNG BATU BESAR,30303407,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,1,97,6,7,0,1,5,13 Apr 2026 19:39:31,78B2A4412FC49EF45BD1
+SD NEGERI BASUANG,30303440,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,1,35,6,6,0,0,8,18 Apr 2026 09:43:13,137F150CDF2F15E1DC3E
+SD NEGERI RAMPA MANUNGGUL,30303472,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,7,1,95,6,6,0,1,10,04 Mar 2026 09:24:05,0A13D2AD520260784999
+SD NEGERI SAMPANAHAN HILIR,30303500,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,11,2,160,7,8,0,1,18,03 Apr 2026 00:27:54,A33E80E217B2AB92814E
+SDN 2 SUNGAI NYAMUK,30303263,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,1,54,6,6,0,1,8,18 Mar 2026 13:01:45,B8FC75E78D575BC7FEEB
+SDN SAMPANAHAN,30303499,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,13,1,149,9,9,0,1,16,16 Mar 2026 22:32:42,8749DE2061E5CC28E420
+SDN SUNGAI BETUNG,30303276,SD,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,6,1,54,6,6,0,1,5,03 Apr 2026 15:44:42,14BDAB34BA0D79DDAC1E
+SD SWASTA SAFIR,69892431,SD,Swasta,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,1,91,6,6,0,1,22,27 Apr 2026 09:48:38,D902BB851FD1F0C7CBCD
+SMP NEGERI 1 SAMPANAHAN,30303363,SMP,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,11,2,121,6,6,2,1,10,24 Apr 2026 09:30:05,1405EA96329AAD3C0465
+SMP NEGERI 2 SAMPANAHAN,30303287,SMP,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,15,3,158,6,9,2,1,16,15 Apr 2026 11:44:59,FE18DF3E1E5E515661FC
+SMP IT RAUDHATUL AMININ,70044868,SMP,Swasta,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,11,1,53,3,2,1,1,19,06 Apr 2026 07:44:54,3492D88FF0BD20CD4A62
+SMAN 1 SAMPANAHAN,30311505,SMA,Negeri,Kec. Sampanahan,150919,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,24,3,370,11,11,2,1,29,28 Apr 2026 07:55:43,4F7ADDFB30DA0B5442BF

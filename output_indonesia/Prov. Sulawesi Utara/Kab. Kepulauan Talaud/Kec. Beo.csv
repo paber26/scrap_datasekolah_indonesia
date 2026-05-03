@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI INPRES 1073 BEO,40101822,SD,Negeri,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,11,2,80,6,6,1,1,16,20 Apr 2026 21:34:32,B3D421A64FB6291E92A1
+SD NEGERI INPRES 377 BEO,40101824,SD,Negeri,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,10,3,117,6,6,0,1,42,23 Apr 2026 15:13:36,DEDF7AC76E31D6082E1E
+SD NEGERI INPRES 783 BANTIK,40101834,SD,Negeri,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,8,1,149,6,6,0,1,11,19 Apr 2026 21:40:27,D926C8AA2A73FEED1CA5
+SD KRISTEN IMANUEL BEO,40101782,SD,Swasta,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,9,3,126,6,8,0,1,49,13 Apr 2026 08:41:18,AFD7BE658DD75421E901
+SD KRISTEN SCRIPTURA BENGEL,40101816,SD,Swasta,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,6,1,31,6,6,0,1,66,02 May 2026 18:25:03,14A0578D0CF91A0D1D7A
+SMP NEGERI 1 BEO,40101759,SMP,Negeri,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,23,8,260,9,10,3,1,31,20 Apr 2026 07:45:55,5A1C2E170E16267F9CB0
+SMP NEGERI 3 BEO,40101770,SMP,Negeri,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,14,3,92,4,6,3,1,14,08 Apr 2026 13:57:55,1894829204C0CD59BD7B
+SMAN 1 BEO,40101752,SMA,Negeri,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,39,10,451,14,22,7,1,68,30 Apr 2026 17:40:42,B488623D7B83D4FEEDFE
+SMK NEGERI 3 TALAUD,40101749,SMK,Negeri,Kec. Beo,170404,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,25,6,67,12,11,4,1,17,09 Apr 2026 23:06:07,10A4E24738693B660DDF

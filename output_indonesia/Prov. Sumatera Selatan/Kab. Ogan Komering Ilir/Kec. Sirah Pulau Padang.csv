@@ -1,0 +1,34 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 RENGAS PITU,10600462,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,8,6,108,6,6,0,1,17,03 Mar 2026 07:15:30,4A7BE9F11470DDDC388C
+SDN 1 AWAL TERUSAN,10600722,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,14,6,230,10,8,1,1,20,06 Apr 2026 22:50:07,CE7E141C2A94AFB0E485
+SDN 1 BATU AMPAR,10608979,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,16,5,333,12,10,0,1,18,02 May 2026 14:07:01,3FDEE0418972F8C6FBAC
+SDN 1 BERKAT,10600756,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,9,4,154,7,8,0,1,7,15 Mar 2026 11:39:12,E4D7A4ED518C329A2343
+SDN 1 MANGUN JAYA,10600448,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,10,0,145,7,7,0,1,12,30 Apr 2026 11:40:33,423BEF446730950D9255
+SDN 1 PEMATANG GAIB,10600472,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,10,4,101,6,6,0,1,15,02 May 2026 16:21:39,FD0820D4710007134FB8
+SDN 1 SIRAH PULAU PADANG,10600388,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,19,6,298,13,10,0,0,40,22 Apr 2026 19:21:19,A824D58AD30DAA78D5D2
+SDN 1 SUKARAJA,10609191,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,10,3,148,7,7,0,1,15,06 Apr 2026 19:25:20,BC94810135748381A423
+SDN 1 TANJUNG ALAI,10600542,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,11,3,171,7,9,1,1,11,13 Apr 2026 10:26:00,C8769C51D8FBB6B49B81
+SDN 1 TERUSAN MENANG,10600534,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,10,6,214,9,6,0,1,55,01 May 2026 06:52:49,E0312713B034E95D2BFD
+SDN 1 ULAK JERMUN,10600558,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,10,3,163,8,11,0,1,15,02 Apr 2026 09:32:40,654F04F5820674D6717B
+SDN 2 AWAL TERUSAN,10600723,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,20,1,207,12,10,0,1,33,02 May 2026 14:04:15,A5D0AB4E01BFBA507DC6
+SDN 2 BATU AMPAR,10600755,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,9,2,133,8,8,0,0,24,02 May 2026 13:57:29,CB590F613E40D9FC0273
+SDN 2 BERKAT,10600757,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,10,3,121,6,7,0,1,9,04 Mar 2026 08:37:33,3C102305AF97E30A7FFE
+SDN 2 MANGUN JAYA,10600449,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,9,6,60,6,6,0,1,22,23 Apr 2026 18:10:24,25CA6503018655731774
+SDN 2 SIRAH PULAU PADANG,10600399,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,8,3,66,6,6,0,1,12,05 Mar 2026 07:49:22,5EBE9F405C496198455A
+SDN 2 TANJUNG ALAI,10600543,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,10,1,128,6,7,0,2,13,06 Apr 2026 09:27:13,F9222F77DD5E1ABC633B
+SDN 2 TERUSAN MENANG,10600535,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,14,6,158,8,8,0,1,15,27 Apr 2026 15:58:52,0B9F1673E33AE44BB5DA
+SDN 2 ULAK JERMUN,10600561,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,7,7,136,6,6,0,1,21,23 Apr 2026 18:00:20,F53C8EC314E3F8CC52A2
+SDN 3 AWAL TERUSAN,10600735,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,7,7,163,7,7,0,1,8,02 Mar 2026 10:50:03,9063813789AFAC33B3F8
+SDN 3 BERKAT,10600758,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,9,6,120,6,6,0,1,50,20 Apr 2026 06:00:45,3344F865A4AB8E78111C
+SDN 3 SIRAH PULAU PADANG,10600400,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,9,5,129,6,5,0,1,13,05 Apr 2026 00:03:25,C241FA1A3D1BCC724E3F
+SDN 3 TERUSAN MENANG,10600536,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,9,3,61,6,6,0,1,11,03 Mar 2026 07:54:19,66765C41B3829177E34A
+SDN 4 AWAL TERUSAN,10609070,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,16,2,226,11,9,0,1,50,28 Apr 2026 20:29:02,17150B43284043E7C782
+SDN 4 BERKAT,10609071,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,12,4,93,6,6,0,1,15,03 Mar 2026 07:25:58,5A63796C2B9A88C7EF36
+SDN 4 SIRAH PULAU PADANG,10600389,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,12,4,173,7,9,0,1,13,12 Mar 2026 19:45:28,6F48BC7DA00774438FD1
+SDN 5 AWAL TERUSAN,10600736,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,9,5,186,8,9,0,1,12,16 Apr 2026 18:07:08,57F9601AA4799B41B906
+SDN 5 SIRAH PULAU PADANG,10600387,SD,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,8,2,68,6,8,0,0,17,07 Apr 2026 19:28:32,4F5AD104A407293ECDA0
+SMPN 1 SIRAH PULAU PADANG,10600484,SMP,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,43,6,604,21,23,2,1,22,30 Apr 2026 21:49:11,D78519DCF949DB670D3C
+SMPN 2 SIRAH PULAU PADANG,10600521,SMP,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,33,3,407,15,16,3,1,27,22 Apr 2026 15:53:33,5DAC3294E07967CF8BFB
+SMPN 3 SIRAH PULAU PADANG,10609225,SMP,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,20,3,242,9,11,1,1,28,24 Apr 2026 18:49:47,48040CD2B17894C85660
+SMAN 1 SIRAH PULAU PADANG,10600481,SMA,Negeri,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,41,10,761,22,19,4,1,36,20 Apr 2026 08:59:03,95D053DA3CC56E46A775
+SMAS AL HIJRAH SIRAH PULAU PADANG,10648097,SMA,Swasta,Kec. Sirah Pulau Padang,110212,Kab. Ogan Komering Ilir,110200,Prov. Sumatera Selatan,110000,11,5,240,8,10,0,0,35,02 May 2026 14:10:29,517F300F1C7FED1414C3

@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD KECIL DANTE AMBA,40305876,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,8,2,23,6,6,0,0,23,06 Mar 2026 20:59:51,0AE7D6BF3E861F3D3374
+SD NEGERI 128 PANATAKAN,40305972,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,8,1,99,6,6,0,1,9,02 Mar 2026 22:34:44,1563F3612C7A5943ACE8
+SD NEGERI 188 NATING,40305964,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,10,1,60,6,6,0,1,6,29 Apr 2026 19:38:47,500C10F13A6544F0986A
+SD NEGERI 189 PALEMBONGAN,40305963,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,9,2,77,6,8,0,1,21,25 Apr 2026 10:10:35,99D45E9BEC059FECBA1C
+SD NEGERI 86 BULO,40305829,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,9,1,58,6,6,0,0,6,07 Apr 2026 03:51:45,16675DFA1A7DA1202C42
+SD NEGERI 87 TALLANG RILAU,40305828,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,8,2,57,6,6,0,1,20,02 Apr 2026 05:45:20,DC86B367A7B52140EF09
+SD NEGERI 9 BUNGIN,40305825,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,9,1,58,6,9,0,1,5,04 Mar 2026 09:25:19,BB00F19FF7B677075109
+SD NEGERI KECIL KAMPUNG BARU,40313147,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,9,2,31,6,6,0,0,7,02 Mar 2026 22:38:43,B41C04A7E23ECEA5CCAB
+SD NEGERI KECIL MABU,40305966,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,9,2,33,6,6,0,0,8,29 Mar 2026 19:30:12,D65ADA2F4B07066FF79C
+SD NEGERI KECIL SERANG,40313046,SD,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,10,2,49,6,6,0,0,13,27 Feb 2026 07:43:34,22D17B7DDD09D33CFF53
+SMP NEGERI 3 MAIWA,40305792,SMP,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,19,5,174,7,10,1,1,14,06 Apr 2026 09:29:19,80249DC49EDA8BFDBBAE
+SMP NEGERI 6 SATU ATAP MAIWA,40313037,SMP,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,13,2,44,3,5,0,1,23,29 Apr 2026 12:35:53,D354CED0C7A3B4BCF370
+SMAN 8 ENREKANG,40314532,SMA,Negeri,Kec. Bungin,191606,Kab. Enrekang,191600,Prov. Sulawesi Selatan,190000,25,3,229,9,9,1,1,23,06 Apr 2026 16:15:14,81C1A8182DCA5EDD66E6

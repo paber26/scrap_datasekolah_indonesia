@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 INSIL,40100463,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,14,1,72,6,6,0,1,19,09 Apr 2026 07:16:20,856AE698B8557A13B4F9
+SD NEGERI 1 PANGIAN,40100470,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,13,1,120,6,6,0,0,34,02 Apr 2026 16:19:02,D4CBF8417C561470F538
+SD NEGERI 1 POOPO,40100477,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,17,1,107,6,6,0,1,8,30 Jan 2026 13:42:55,DD4A3D7083405083E1FA
+SD NEGERI 1 SINSINGON,40100483,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,69,6,6,0,0,7,10 Apr 2026 20:42:55,16696F8E5B115F11B618
+SD NEGERI 2 INSIL,40100735,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,1,57,6,6,0,1,11,02 Mar 2026 20:04:45,4782083D0A8E8A3553D8
+SD NEGERI 2 PANGIAN,40100592,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,21,1,52,6,6,0,1,22,17 Apr 2026 09:09:53,51F85819CC2F13450A21
+SD NEGERI 2 POOPO,40100602,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,14,1,124,6,6,0,1,21,28 Apr 2026 14:01:58,2B7E2B9E77DCFD3DDA37
+SD NEGERI 2 SINSINGON,40100653,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,15,1,41,6,6,0,1,15,12 Apr 2026 18:06:04,FFA2E26C762550133015
+SD NEGERI 3 PANGIAN,40100199,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,14,1,73,6,8,0,0,25,27 Apr 2026 22:02:51,8652D1D302B303C75A33
+SD NEGERI 3 SINSINGON,40100228,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,1,69,6,6,0,1,20,29 Apr 2026 17:29:29,937DB9AF7485F1AC5C57
+SD NEGERI MOBUYA,40100373,SD,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,9,1,57,6,6,0,1,14,09 Apr 2026 10:43:45,D31CD5D0FFF260F664A6
+SD MADISON,70036651,SD,Swasta,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,8,1,85,6,6,0,0,12,12 Apr 2026 12:09:01,5F43927B18D3B02F680C
+SMP NEGERI 4 PASSI,40100285,SMP,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,15,3,50,3,8,1,1,16,06 Mar 2026 22:38:55,86F248C9D9489FA896F1
+SMPN SATAP MOBUYA,40103437,SMP,Negeri,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,15,2,26,3,3,0,0,15,27 Apr 2026 07:19:55,273CCD5D5D35DAF0D9AC
+SMP MADISON,70036650,SMP,Swasta,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,6,2,35,3,3,0,0,13,27 Apr 2026 06:40:32,879414BF2AE59F04A448
+SMP PGRI INSIL,69856234,SMP,Swasta,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,9,2,67,4,3,4,3,17,28 Apr 2026 20:01:06,E5E70333F166A7E551B3
+SMP PGRI POOPO,40100397,SMP,Swasta,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,62,3,11,2,1,18,29 Apr 2026 10:12:46,5E493CE135D73EE47901
+SMKS POOPO,40105164,SMK,Swasta,Kec. Passi Timur,170129,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,17,1,52,9,6,1,1,30,21 Feb 2026 10:09:27,519F3F12FA2D9581813B

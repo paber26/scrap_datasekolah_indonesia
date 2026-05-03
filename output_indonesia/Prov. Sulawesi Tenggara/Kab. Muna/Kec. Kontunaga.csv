@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPTD SD NEGERI 1 KONTUNAGA,40400893,SD,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,15,2,172,10,9,1,1,11,30 Apr 2026 11:09:13,19D69F1F733923AAF46D
+UPTD SD NEGERI 2 KONTUNAGA,40400606,SD,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,17,3,216,12,10,0,1,23,01 May 2026 02:03:21,5277DAD8E17DC97D7692
+UPTD SD NEGERI 3 KONTUNAGA,40400655,SD,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,21,8,196,11,10,0,1,8,15 Apr 2026 11:20:21,A1A77448A7C9E950C485
+UPTD SD NEGERI 4 KONTUNAGA,40400591,SD,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,18,5,170,9,6,0,1,5,04 Mar 2026 09:51:49,B37F17DA30BC6CA1AA89
+UPTD SD NEGERI 5 KONTUNAGA,40400782,SD,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,24,2,154,9,7,0,1,31,14 Apr 2026 21:56:54,7F2A3DBDDE425B96B421
+UPTD SD NEGERI 6 KONTUNAGA,40400812,SD,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,14,8,60,6,7,0,2,11,14 Apr 2026 12:27:10,6623AC8E8869A2969C9F
+UPTD SD NEGERI 7 KONTUNAGA,40400968,SD,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,21,4,64,6,6,0,1,17,14 Apr 2026 18:46:57,C6B1AF30EB51B32A83AA
+UPTD SMP NEGERI 1 KONTUNAGA,40400714,SMP,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,30,8,264,10,14,3,1,3,03 Mar 2026 08:37:23,2B9F31559B7E2A566148
+SMAN 1 KONTUNAGA,40404005,SMA,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,40,16,295,11,15,4,1,38,22 Apr 2026 10:34:56,3F0B6F8045C70EC6336E
+SMKN 7 MUNA,69849407,SMK,Negeri,Kec. Kontunaga,200216,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,34,5,102,12,11,3,1,25,08 Apr 2026 13:03:48,8E5F09CA0308FB1B4937

@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MULIA,60301946,SD,Negeri,Kec. Mulia,360201,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,22,1,529,21,21,0,1,66,02 May 2026 09:52:43,055C5A451D549CB786F8
+SD INPRES WUYUNERI,60303936,SD,Negeri,Kec. Mulia,360201,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,12,1,191,8,7,0,0,39,30 Apr 2026 18:56:10,B5AE4D0F22BE21880304
+SD NEGERI MULIA,60301975,SD,Negeri,Kec. Mulia,360201,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,22,1,392,16,13,1,1,56,30 Apr 2026 08:54:37,7D669EC38805097201C1
+SD YPPGI MULIA,60301980,SD,Swasta,Kec. Mulia,360201,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,8,2,260,12,12,0,0,59,24 Apr 2026 16:16:13,6361DBA51715FA3F8294
+SMP NEGERI 1 MULIA,60301987,SMP,Negeri,Kec. Mulia,360201,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,28,8,563,19,22,3,1,77,30 Apr 2026 10:18:47,9A986128ED9A5C9C2995
+SMAN 1 MULIA,60301990,SMA,Negeri,Kec. Mulia,360201,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,27,3,457,15,15,2,0,41,02 May 2026 19:16:36,836A3388950C2A5A35BD
+SMK Negeri 1 Agrobisnis Dan Agroteknologi Puncak Jaya,60304363,SMK,Negeri,Kec. Mulia,360201,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,18,2,262,10,13,1,1,71,01 May 2026 16:36:46,EE6E79978F8FAE198932

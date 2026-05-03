@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES HAMAHENA,50304428,SD,Negeri,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,9,3,60,6,6,0,1,109,22 Apr 2026 07:51:43,577517BDC6574DCFEF75
+SD INPRES TOKOJAENG,50304478,SD,Negeri,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,7,1,53,6,6,0,1,17,15 Apr 2026 07:15:18,F9FC7638DA27D2CABC26
+SD INPRES WAIWARU,50304496,SD,Negeri,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,8,2,69,6,6,1,1,68,16 Apr 2026 21:31:38,DCFB97E5C68BED130C4F
+SD NEGERI LAMAU,50305128,SD,Negeri,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,8,4,78,6,6,1,1,33,30 Jan 2026 22:10:31,7BD13653E8257E2E7805
+SD KATHOLIK ATAWATUNG,50304317,SD,Swasta,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,5,3,29,6,6,0,1,106,21 Apr 2026 06:57:27,879C146E37790464D96C
+SD KATHOLIK TOKOJAENG,50304401,SD,Swasta,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,7,3,125,6,6,1,1,126,10 Apr 2026 20:20:44,5CD80C958E36758CDE71
+SD KATOLIK BAOPUKANG,50304316,SD,Swasta,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,9,1,111,6,7,0,1,100,08 Apr 2026 09:53:42,0271066986A6A733CB3D
+SDK EBAK,50304328,SD,Swasta,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,6,1,38,6,6,0,1,20,07 Mar 2026 11:08:26,320F498CCC4D0BEC36CF
+SMP Negeri 02 Ile Ape Timur Satu Atap Waiwaru,50308941,SMP,Negeri,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,17,2,106,5,6,2,1,74,22 Apr 2026 22:06:46,74D0F5C96C28E604C299
+SMP NEGERI 1 ILE APE TIMUR,50304386,SMP,Negeri,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,17,4,126,6,7,3,1,108,27 Apr 2026 10:30:15,16091E7C0ED910982447
+SMP Negeri 3 Ile Ape Timur Satu Atap Hamahena,69930508,SMP,Negeri,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,14,4,53,3,3,0,0,30,20 Apr 2026 12:13:43,03F201E5E7E0E3EA5E40
+SMA NEGERI 1 ILE APE TIMUR,69967658,SMA,Negeri,Kec. Ile Ape Timur,241409,Kab. Lembata,241400,Prov. Nusa Tenggara Timur,240000,23,3,105,3,5,1,1,31,24 Apr 2026 08:45:22,79B67D8E804CB77BBE6D

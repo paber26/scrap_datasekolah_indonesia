@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 SUNGAI BOH,30400505,SD,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,10,1,60,6,6,0,1,13,11 Mar 2026 11:49:47,1D8B53780C9F055FF7D5
+SD NEGERI 002 SUNGAI BOH,30400490,SD,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,13,3,73,6,6,0,1,66,13 Apr 2026 19:29:21,8204765B80D744948188
+SD NEGERI 003 SUNGAI BOH,30402603,SD,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,13,2,32,6,6,0,0,11,26 Apr 2026 21:35:07,973B0CA363C9C0D6E4E3
+SD NEGERI 004 SUNGAI BOH,30405595,SD,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,10,2,34,6,6,0,0,17,03 Mar 2026 10:35:59,2C74BD8D89169188A7B3
+SD NEGERI 005 SUNGAI BOH,69949759,SD,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,8,1,11,6,4,0,0,15,26 Apr 2026 21:33:02,9C8477F0BC9628C7284D
+SD NEGERI 006 SUNGAI BOH,69992281,SD,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,6,1,69,6,6,0,0,33,28 Apr 2026 12:33:43,4F96654BC0A53767BD5D
+SMP NEGERI 1 SUNGAI BOH,30400481,SMP,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,17,2,95,3,3,2,1,22,30 Apr 2026 18:54:11,B0619EE45988D2593C47
+SMP NEGERI 2 SUNGAI BOH,30400469,SMP,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,17,1,38,3,3,2,1,14,26 Apr 2026 21:34:20,1B9070CB2E48B2279732
+SMA NEGERI 6 MALINAU,30405857,SMA,Negeri,Kec. Sungai Boh,340106,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,13,3,79,3,3,0,1,12,22 Apr 2026 09:33:35,DED4BB2269F688239CE1

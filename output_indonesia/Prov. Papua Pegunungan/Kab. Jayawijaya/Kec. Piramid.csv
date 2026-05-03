@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ALGONIK,60301381,SD,Negeri,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,1,0,0,0,0,0,0,,C066F556852FBFCA810F
+SD INPRES PERABAGA,60301450,SD,Negeri,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,11,1,114,6,6,0,0,19,30 Apr 2026 20:02:13,8AC29159654D8D23EB3E
+SD INPRES PIRAMID,60301451,SD,Negeri,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,8,1,210,7,6,0,0,29,22 Apr 2026 14:24:11,DA99BDF1B818D02FCF17
+SD NEGERI ABUNERI,60304977,SD,Negeri,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,10,1,140,6,6,0,1,10,15 Apr 2026 09:08:42,C431DB5DC486F799C92A
+SD NEGERI SATU ATAP NINIKI PYRAMID,70035266,SD,Negeri,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,0,97,6,6,0,0,7,27 Feb 2026 12:30:50,CA4EE6D8CC6C2EEDB272
+SD YPPGI BAMBAK DOUW,70037477,SD,Swasta,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,0,1,98,4,3,0,0,4,29 Apr 2026 20:18:25,35F5A854EB6CF5292C09
+SD YPPGI PYRAMID,60301519,SD,Swasta,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,3,1,216,8,6,0,1,14,29 Apr 2026 20:46:08,2DEE51FE240FDDB4EFA6
+SMP NEGERI 2 ASOLOGAIMA,60302819,SMP,Negeri,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,11,1,102,4,6,0,1,40,02 May 2026 03:50:46,5A92EB9256E032AB48C9
+SMP NEGERI SATU ATAP NINIKI PYRAMID,70035267,SMP,Negeri,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,5,1,27,3,3,0,0,5,27 Feb 2026 13:20:19,C3987E051402860E2814
+SMA YPPGI PYRAMID,70043272,SMA,Swasta,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,7,1,101,4,4,0,0,104,30 Apr 2026 18:58:09,B00CCE3447A47D352179
+SMK NEGERI PERTANIAN PYRAMID,70043284,SMK,Negeri,Kec. Piramid,380131,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,4,2,101,4,3,0,0,32,09 Apr 2026 04:23:27,E21EFD2C412883F3B62E

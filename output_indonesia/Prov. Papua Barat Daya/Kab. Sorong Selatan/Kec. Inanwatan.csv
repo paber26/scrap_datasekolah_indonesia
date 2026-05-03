@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 10 INANWATAN,60401646,SD,Negeri,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,14,1,197,11,11,0,1,25,29 Apr 2026 13:42:09,88A2EF7B0D5AF2C795AE
+SD INPRES 91 ISOGO,60401672,SD,Negeri,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,11,3,36,6,6,0,1,54,04 Apr 2026 11:40:56,36865DFCF9DF78EDA6E0
+SD NEGERI ODEARI,69992566,SD,Negeri,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,9,0,14,5,3,0,0,18,20 Apr 2026 19:34:27,11EC3CEF70046CE68E34
+SD NEGERI PERSIAPAN SIRI SIRI,69985568,SD,Negeri,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,6,0,8,4,5,0,0,9,29 Apr 2026 14:19:15,8C05CC0000B9348394E2
+SD YPK INANWATAN,60401701,SD,Swasta,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,1,1,66,6,6,0,1,15,30 Apr 2026 20:57:35,AABF7FCDDE823CA61B3B
+SD YPK MOGIBI,60401676,SD,Swasta,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,4,2,82,6,3,0,0,11,09 Feb 2026 05:59:38,7B86FADD0016123F3A40
+SMP NEGERI 1 INANWATAN,60403384,SMP,Negeri,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,20,1,146,6,9,2,1,40,27 Apr 2026 18:48:50,F670C97B4DD68204E314
+SMP NEGERI 2 ISOGO,70003741,SMP,Negeri,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,11,1,18,3,3,0,2,34,01 May 2026 21:00:44,2BD211FD40B270A05BB6
+SMP YPK INANWATAN,60401759,SMP,Swasta,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,9,2,180,7,6,1,1,13,01 May 2026 05:26:40,3AFE32EB819EF645606B
+SMAN 1 INANWATAN,60401775,SMA,Negeri,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,18,4,177,6,10,5,1,26,01 May 2026 18:06:16,CFA7B2D5558D8AF07860
+SMKN INANWATAN,69725941,SMK,Negeri,Kec. Inanwatan,390304,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,22,4,173,12,7,1,1,45,08 Apr 2026 07:32:37,A4D5DCBE48C5AFF1EC3B

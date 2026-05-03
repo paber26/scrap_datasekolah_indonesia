@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri Inpres Bawei,60301781,SD,Negeri,Kec. Teluk Umar,360108,Kab. Nabire,360100,Prov. Papua Tengah,360000,4,1,0,0,0,0,0,0,,FCAE5587310F2FE78731
+SD Negeri Inpres Yeretuar,60301806,SD,Negeri,Kec. Teluk Umar,360108,Kab. Nabire,360100,Prov. Papua Tengah,360000,3,1,79,6,6,0,0,8,30 Apr 2026 22:54:42,FBD33AF6CD0CDBE9DC20
+SD YPK Inri Napan Yaur,60301818,SD,Swasta,Kec. Teluk Umar,360108,Kab. Nabire,360100,Prov. Papua Tengah,360000,2,1,67,6,6,0,0,17,05 Mar 2026 14:40:53,922AF04B6576FC40B27E
+SD YPK Ottow Geisler Goni,60301814,SD,Swasta,Kec. Teluk Umar,360108,Kab. Nabire,360100,Prov. Papua Tengah,360000,3,1,72,6,7,0,0,9,23 Apr 2026 14:39:35,2A4BAC19365CF55616C8
+SMP Negeri 1 Teluk Umar,60301873,SMP,Negeri,Kec. Teluk Umar,360108,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,0,68,3,3,1,1,30,02 Mar 2026 15:44:17,B24FB999E218AE289BAD

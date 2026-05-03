@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPTD SD NEGERI 1 KONTUKOWUNA,40400604,SD,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,12,3,86,6,6,0,1,37,14 Apr 2026 14:11:14,41BCFD3C2C669124C75F
+UPTD SD NEGERI 2 KONTUKOWUNA,40400572,SD,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,12,2,70,6,6,0,1,14,03 Feb 2026 21:21:02,52CADBBCAE4E119450BE
+UPTD SD NEGERI 3 KONTUKOWUNA,40400981,SD,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,13,3,60,6,6,1,1,18,11 Apr 2026 07:53:52,F405007137BA4EF4541A
+UPTD SD NEGERI 4 KONTUKOWUNA,40400889,SD,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,14,2,89,6,6,0,1,53,28 Apr 2026 09:23:59,8899E635E3BCEB55F74F
+UPTD SD NEGERI 5 KONTUKOWUNA,40400616,SD,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,15,2,76,6,6,0,0,10,19 Feb 2026 21:39:02,7E5B06E565A3245C960C
+UPTD SD NEGERI 6 KONTUKOWUNA,40400571,SD,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,13,2,42,6,6,1,1,47,29 Apr 2026 09:05:54,BBE76619E23CA3260A69
+UPTD SD NEGERI 7 KONTUKOWUNA,69925238,SD,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,11,3,33,6,6,1,1,20,30 Apr 2026 18:18:49,F63BFD000765958FE795
+UPTD SMP NEGERI 1 KONTUKOWUNA,40400661,SMP,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,23,5,174,7,11,3,1,26,27 Apr 2026 08:01:41,B6E2F2A21A84CB92D59F
+SMP SWASTA BAHUTARA,69971602,SMP,Swasta,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,12,3,14,3,1,1,1,18,10 Apr 2026 22:26:18,56C91621336FF6402EE7
+SMAN 1 KONTUKOWUNA,40404879,SMA,Negeri,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,25,6,146,6,12,3,1,17,17 Apr 2026 07:42:55,1B6F312342A9FC9235C1
+SMKS LAGHUMBO,69900000,SMK,Swasta,Kec. Kontu Kowuna,200234,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,12,4,39,6,6,1,0,17,24 Apr 2026 10:50:25,6A57FB229C0E503D5477

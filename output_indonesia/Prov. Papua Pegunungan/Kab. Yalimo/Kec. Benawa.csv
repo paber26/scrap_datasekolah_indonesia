@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BENAWA,60303934,SD,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,2,1,306,11,11,1,1,24,15 Apr 2026 11:48:22,85B7FAE69DEB4D031F8C
+SD NEGERI DIGOBO,69988623,SD,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,1,1,325,11,3,1,1,4,23 Feb 2026 16:58:17,AAC3CBDA3CBEB25FE1FA
+SD NEGERI GILIKA,60304523,SD,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,3,1,170,6,6,1,1,27,02 May 2026 10:16:35,7F02415F29DE0D14C8B3
+SD NEGERI KEY,60325038,SD,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,7,1,218,8,7,1,1,31,30 Apr 2026 10:54:32,1183F40CCC5D0DB70C53
+SD NEGERI LAWE,60325036,SD,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,3,1,335,10,6,0,1,61,23 Apr 2026 12:46:26,1BC111922968C7EBE713
+SD NEGERI MELILI,69978272,SD,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,2,1,215,8,10,0,0,4,22 Mar 2026 10:56:20,8D3AD77A0D5073C8F06B
+SD NEGERI NAIRA,60325033,SD,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,0,1,61,6,6,0,0,2,20 Jan 2026 17:02:15,F9502E2AD9AC63FDB60C
+SD NEGERI YAKWA,70035242,SD,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,1,1,101,6,7,0,0,65,01 May 2026 09:14:42,D245E32FED1A546B043B
+SMP NEGERI KEY,69921124,SMP,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,3,1,130,4,6,9,3,23,29 Apr 2026 17:16:23,792D3B068467B73209DE
+SMP NEGERI LAWE,69940377,SMP,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,3,1,101,4,4,2,1,12,11 Feb 2026 09:48:06,36779905427A189E8065
+SMPN BENAWA,60304869,SMP,Negeri,Kec. Benawa,380604,Kab. Yalimo,380600,Prov. Papua Pegunungan,380000,10,1,146,5,4,2,1,19,29 Apr 2026 13:50:26,63D298FFC0E56E614682

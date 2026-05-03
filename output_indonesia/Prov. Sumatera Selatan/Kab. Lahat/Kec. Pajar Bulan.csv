@@ -1,0 +1,16 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 PAJAR BULAN,10601551,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,12,3,221,10,12,0,1,41,30 Apr 2026 10:52:52,DBDB5574CE695746E8F3
+SDN 10 PAJAR BULAN,10601822,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,1,51,6,6,1,1,15,06 Mar 2026 08:52:02,F87AD903200DCB1AD054
+SDN 11 PAJAR BULAN,10601738,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,1,32,6,4,0,0,25,29 Apr 2026 08:56:04,6D908E9202EB82DB1274
+SDN 12 PAJAR BULAN,10601755,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,13,0,62,6,6,0,0,46,28 Apr 2026 17:14:12,3F0837B1EE4C43D0A6DB
+SDN 13 PAJAR BULAN,10647025,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,3,35,6,5,0,0,20,14 Apr 2026 05:47:43,1E1CD4FF575E910DF31E
+SDN 2 PAJAR BULAN,10610350,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,10,4,129,6,6,0,1,60,01 May 2026 19:28:02,37824214B7FB4FE94652
+SDN 3 PAJAR BULAN,10601301,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,15,1,37,6,6,0,1,38,27 Apr 2026 10:55:53,91D8553B8248DCFD293A
+SDN 4 PAJAR BULAN,10610352,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,1,22,6,5,0,0,22,06 Apr 2026 09:14:18,D4E687A48ABF0EAC2E25
+SDN 5 PAJAR BULAN,10610351,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,1,59,6,7,0,1,13,09 Apr 2026 08:51:35,6139A64BC9CE954A8F44
+SDN 6 PAJAR BULAN,10601140,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,2,51,6,6,1,1,23,28 Apr 2026 22:30:07,563A862A9F8B5FB5F64C
+SDN 7 PAJAR BULAN,10601798,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,12,4,66,6,7,0,0,42,07 Apr 2026 20:30:14,561DB5BFCB271B599820
+SDN 8 PAJAR BULAN,10610349,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,10,2,94,6,5,0,1,39,02 May 2026 11:54:38,D2B05C6096685A37D485
+SDN 9 PAJAR BULAN,10601742,SD,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,14,3,80,6,6,0,0,24,29 Apr 2026 11:00:23,F6BB05AD0EC111FC8559
+SMPN 1 PAJAR BULAN,10601352,SMP,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,38,10,300,11,22,2,1,65,27 Apr 2026 09:14:40,84A3075DAA589C904BD7
+SMAN 1 PAJAR BULAN,10644272,SMA,Negeri,Kec. Pajar Bulan,110515,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,27,14,198,7,10,1,1,24,28 Apr 2026 10:18:51,0075B08F02B481314D67

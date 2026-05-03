@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI NGKERAN MUARA,10103054,SD,Negeri,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,26,3,241,13,13,1,1,81,28 Apr 2026 09:34:41,4851BD26DB281BFF407F
+SD NEGERI SALIM PINIM,10103015,SD,Negeri,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,11,1,134,7,7,0,1,18,16 Apr 2026 21:35:20,8C5662D36CC530B47787
+SD NEGERI TENEMBAK ALAS,10102998,SD,Negeri,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,21,1,176,10,7,1,1,49,30 Apr 2026 18:27:15,0E3304E5E485B8A89A78
+SD SWASTA ISLAM DARUL HUFFAZH,69908058,SD,Swasta,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,18,1,257,12,6,0,1,30,17 Apr 2026 09:17:17,E2FDE93FDE4D656B930B
+SMP NEGERI 4 LAWE ALAS SATAP,10110329,SMP,Negeri,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,21,5,108,6,6,1,1,70,02 May 2026 09:07:36,C36540EE3CCCB1663915
+SMP SWASTA DARUL HUFFAZH,10113648,SMP,Swasta,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,7,3,70,3,3,1,0,77,22 Apr 2026 09:48:00,E5FDEB29740345D51BD2
+SMP SWASTA DARUL MUHABBAH,69991555,SMP,Swasta,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,7,1,76,3,3,0,0,9,06 Mar 2026 14:56:20,2842C11B552C5DF5C44C
+SMP SWASTA MUZAMMIL AL-AZIZIYAH,69973114,SMP,Swasta,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,16,1,161,6,8,1,1,30,27 Apr 2026 12:44:11,0594AC4FB95990A5ADEC
+SMAN 1 TANOH ALAS,69773523,SMA,Negeri,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,16,11,87,4,7,4,1,54,22 Apr 2026 22:58:30,C73AB5E1D94DBE241A50
+SMKS Muzammil Al Aziziyah,70023907,SMK,Swasta,Kec. Tanoh Alas,060825,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,6,1,87,3,4,0,1,20,14 Apr 2026 13:04:01,3E5A04267F62803027F1

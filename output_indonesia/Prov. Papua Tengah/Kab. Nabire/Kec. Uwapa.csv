@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri Inpres Argomulyo,60302751,SD,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,2,131,6,6,0,1,31,11 Apr 2026 06:06:25,860D1A58D4AB046A1F81
+SD Negeri Inpres Gamei Jaya,60302753,SD,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,10,1,134,6,6,0,0,50,06 Apr 2026 06:09:36,4F669F41B9BF05CB5344
+SD Negeri Inpres I/F Marga Jaya,60301795,SD,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,3,142,6,7,0,0,32,24 Apr 2026 09:06:08,FC3E1F2C68E29D88F975
+SD Negeri Inpres Topo,60302772,SD,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,1,78,6,6,0,0,5,06 Feb 2026 12:58:01,74431CB254397F9F53DD
+SD Negeri Inpres Topo Jaya III/F,60302752,SD,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,4,1,43,6,6,0,0,11,11 Mar 2026 07:45:35,9B9358201FB91BC66F06
+SD Negeri Inpres Urumusu,60301801,SD,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,1,75,6,6,0,0,16,23 Apr 2026 03:52:35,E697210FB2E0DF691058
+SMP Negeri 1 Uwapa,60301874,SMP,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,10,3,106,5,6,2,1,41,29 Apr 2026 06:58:16,C1B189B30B0205996C8D
+SMP Negeri 2 Uwapa,60301877,SMP,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,3,34,3,6,2,2,28,01 May 2026 03:50:00,04A411B8BD3BF41E0E5A
+SMA Negeri 7 Nabire,60302984,SMA,Negeri,Kec. Uwapa,360104,Kab. Nabire,360100,Prov. Papua Tengah,360000,11,1,50,5,6,1,1,23,23 Apr 2026 07:06:48,08EB9E3B26CECFD6B720

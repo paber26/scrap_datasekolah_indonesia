@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 02 SIGAPOKNA,10303016,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,6,3,94,6,6,0,1,9,27 Apr 2026 13:03:50,258633A5302938802838
+SD NEGERI 05 SIMATALU,10303028,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,4,6,80,6,6,0,0,147,28 Apr 2026 08:51:16,C35469DB68CBA330975A
+SD NEGERI 11 SIMALEGI,10303038,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,4,58,6,7,0,0,26,29 Apr 2026 21:28:42,73547EEF50FD0A931682
+SD NEGERI 14 SIMALEGI,10302963,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,6,4,45,6,6,0,0,15,20 Apr 2026 10:47:41,C09DEB31B7E842653CCC
+SD NEGERI 16 SIGAPOKNA,10302955,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,3,94,6,7,0,2,11,23 Apr 2026 21:46:47,500A404FA0E53418C52F
+SD NEGERI 17 SIMATALU,10302958,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,6,5,24,6,6,0,0,41,27 Apr 2026 12:29:25,3E13AE2DFE487015B640
+SD NEGERI 18 SIMALEGI,10309860,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,12,4,166,8,10,0,0,15,16 Apr 2026 11:30:04,A2B99CCB374E56EB6CD6
+SD NEGERI 19 SIGAPOKNA,10309861,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,3,60,6,6,0,0,52,20 Apr 2026 10:35:23,68A155A843FFE152954F
+SD NEGERI 22 SIMATALU,69809571,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,6,5,200,7,6,0,1,20,26 Apr 2026 21:40:38,31B529F1BA4001B84944
+SD NEGERI 24 SIGAPOKNA,69809514,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,7,3,60,6,6,0,1,16,22 Apr 2026 11:13:13,0513E57F1AABBFE106BC
+SD NEGERI 25 SIMATALU,69809515,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,4,6,81,6,6,0,0,101,22 Apr 2026 08:16:48,F643E0ACC3A7F4FC5749
+SD NEGERI 26 SIMALEGI,69984842,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,5,5,53,6,5,0,0,38,02 May 2026 10:35:34,2203AE9E2BDA5C87F2C1
+SD NEGERI 27 SIMATALU,69985133,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,7,4,81,6,5,0,1,25,09 Apr 2026 15:34:30,0186E80B0ED85269B404
+SD NEGERI 28 SIMATALU,69985273,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,3,4,55,6,6,1,1,16,25 Apr 2026 22:46:39,ABC5DA4EEDBCDCBB9A7D
+SD NEGERI 29 SIMATALU,69992887,SD,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,1,62,6,6,0,0,8,03 Mar 2026 21:33:46,6D47B55E346C080DFE84
+SMP NEGERI 1 SIBERUT BARAT,10309877,SMP,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,10,3,86,4,8,1,1,11,23 Apr 2026 07:33:30,3E2E25E9F9D93E7DEFEC
+SMP NEGERI 2 SIBERUT BARAT,69810032,SMP,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,15,2,49,3,5,2,1,16,23 Apr 2026 10:18:37,669B3AA5067161079EE9
+SMP NEGERI 3 SIBERUT BARAT,69903691,SMP,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,12,4,166,6,6,2,1,36,29 Apr 2026 09:51:01,4A6952A7752C8BF76313
+SMA NEGERI 1 SIBERUT BARAT,69917690,SMA,Negeri,Kec. Siberut Barat,081005,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,16,4,108,4,7,1,1,11,21 Apr 2026 20:54:15,27289D6D2868CDECE33E

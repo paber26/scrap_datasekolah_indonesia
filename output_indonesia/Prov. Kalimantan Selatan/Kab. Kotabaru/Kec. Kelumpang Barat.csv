@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BUNGKUKAN,30303375,SD,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,1,145,7,8,0,1,1,12 Apr 2026 20:50:25,C6E685B4F7DE64CD8510
+SD NEGERI 2 SIAYUH,69787206,SD,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,0,87,6,8,0,0,11,05 Mar 2026 21:20:01,57B152B423E011F29835
+SD NEGERI BATANG KULUR,30311716,SD,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,12,1,230,8,6,0,1,11,27 Apr 2026 19:48:55,5A7E14FBE84735C82004
+SD NEGERI MAGALAU HILIR,30303537,SD,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,4,1,58,6,6,0,0,14,18 Feb 2026 09:55:53,BF5FCCCCBC63925A6FA4
+SD NEGERI MAGALAU HULU,30303538,SD,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,10,0,131,6,6,0,1,6,14 Apr 2026 19:27:50,337AF29CE191B0A4C050
+SD NEGERI SIAYUH,30303246,SD,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,1,111,6,6,0,1,17,02 May 2026 14:19:55,A8429FE8D07E2972FD21
+SDN TANJUNG SARI,30311533,SD,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,7,1,106,6,7,1,1,5,23 Apr 2026 08:10:20,6406F07BC7B29AD27536
+SMP NEGERI 1 KELUMPANG BARAT,30311485,SMP,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,16,1,244,9,12,3,2,32,30 Apr 2026 11:20:37,134CCEEF045AB9A710CC
+SMAN 1 KELUMPANG BARAT,30313820,SMA,Negeri,Kec. Kelumpang Barat,150909,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,14,1,205,7,7,1,1,34,01 May 2026 13:20:35,EF94A896A7093B8562B3

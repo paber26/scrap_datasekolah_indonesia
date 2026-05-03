@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BANGKEH,10100833,SD,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,11,2,96,6,6,0,1,29,25 Apr 2026 22:34:14,5FFB2D1978B7DE790926
+SD NEGERI GEUMPANG,10100448,SD,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,11,4,201,7,6,1,1,19,08 Apr 2026 10:13:38,921D40E91FD04B4FA2CB
+SD NEGERI GEUMPANG II SIMPANG V,10108070,SD,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,1,1,1,1,6,0,0,8,15 Apr 2026 21:47:31,24304F5F4D2E1CBEE9AF
+SD NEGERI KEUNE,10100464,SD,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,11,6,68,6,6,0,1,8,03 Apr 2026 22:28:01,961FD3C833182A9A3658
+SD NEGERI PANTON LUPU,10100413,SD,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,11,3,154,6,6,0,1,12,14 Apr 2026 22:21:14,555EE3F7DB180930ACBF
+SD NEGERI PUCOK LUPU,10100393,SD,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,8,2,127,6,7,0,1,16,07 Apr 2026 12:41:41,C6A0E53A5A3EA1E3A8D5
+SD NEGERI PULO LHOIH,10100395,SD,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,9,3,113,6,6,1,1,19,01 May 2026 14:31:37,8E667DF9EF7C00E92EB1
+SMP NEGERI 1 GEUMPANG,10100539,SMP,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,19,4,217,8,14,2,1,37,27 Apr 2026 12:35:01,F884E10D204FCBEBD8C2
+SMAN 1 GEUMPANG,10100571,SMA,Negeri,Kec. Geumpang,060201,Kab. Pidie,060200,Prov. Aceh,060000,38,7,239,9,19,2,1,23,14 Apr 2026 23:15:42,6AE7B84C979CBAB8D712

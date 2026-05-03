@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES TAUPOPU,50308317,SD,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,14,2,92,10,10,0,1,17,29 Apr 2026 20:35:54,94C77ED300FBB6331F6F
+SD NEGERI DAMEKA,50303949,SD,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,14,5,166,8,12,1,1,12,30 Mar 2026 12:08:36,48D93E40B2AF25D78A3E
+SD NEGERI LIANGU DOWU,50308320,SD,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,2,115,6,12,0,1,6,27 Mar 2026 09:32:53,2216F8C31C19646CC9A6
+SD NEGERI MALOBA,50303969,SD,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,13,3,154,7,7,1,1,20,08 Apr 2026 08:25:54,5F1407A107A13BE1DC43
+SD Negeri Manurara,50305091,SD,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,11,4,127,6,9,0,1,13,14 Mar 2026 08:22:00,FBCAA4AE28C98AE7C655
+SD Negeri Pantai Maloba,50309556,SD,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,12,0,74,6,7,0,1,14,03 Apr 2026 20:50:07,6578203F50AD42B27771
+SD NEGERI TAMAN MAS,50308323,SD,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,13,0,91,6,7,0,1,13,18 Apr 2026 08:55:29,FC4CF0B073F03F988073
+SD KATOLIK WAILAWA,50304236,SD,Swasta,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,9,4,172,6,7,0,1,18,08 Apr 2026 19:31:44,24A9203BC3AEFCA0F677
+SD MASEHI LAIGOLI,50303961,SD,Swasta,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,3,111,6,9,0,1,19,08 Apr 2026 07:44:44,3541410118C14CBE79E6
+SD MASEHI MAMBITUL,50308318,SD,Swasta,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,20,3,302,13,12,0,1,25,07 Mar 2026 00:17:22,F898AF198E7061E80AEC
+SD MASEHI WAIMANU,50304028,SD,Swasta,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,4,106,6,7,0,1,19,23 Apr 2026 16:18:59,C45C8D7556B335C74559
+SMP NEGERI 2 WAIBAKUL,50308334,SMP,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,24,4,195,8,13,2,2,54,08 Mar 2026 23:24:18,25845C486E99EFFDDD22
+SMP NEGERI 3 WAIBAKUL,50308337,SMP,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,25,7,194,8,13,2,2,37,11 Apr 2026 12:27:22,8B79C3B9F9BEE5F32E4E
+SMP NEGERI 5 WAIBAKUL,69957019,SMP,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,15,5,107,5,6,1,1,14,13 Mar 2026 07:36:55,DB19FB6E946016378A36
+SMP Negeri Satap Pantai Maloba,60726629,SMP,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,1,34,3,4,1,1,23,23 Apr 2026 09:03:36,F6B2A9C82835FD9D16F2
+SMP NEGERI SATAP TAMAN MAS,50309400,SMP,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,12,3,47,3,5,2,1,14,17 Apr 2026 07:34:40,C46A5F2998BF1E742CAE
+SMA NEGERI 1 WAIBAKUL,50308342,SMA,Negeri,Kec. Katiku Tana Selatan,241805,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,45,13,715,22,22,5,1,80,29 Apr 2026 11:04:49,0E9D91D51E172E76B67C

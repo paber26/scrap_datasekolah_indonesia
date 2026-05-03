@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 13 KUMURKEK,60401653,SD,Negeri,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,17,0,160,8,10,1,1,23,24 Apr 2026 09:40:54,4B198FB3551A7CDE761B
+SD NEGERI KOCUAS UTARA,69981032,SD,Negeri,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,8,2,18,6,3,0,0,23,29 Apr 2026 08:33:31,AD330FE6F1841B36CB92
+SD YPK EMAUS SUSUMUK,60401728,SD,Swasta,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,11,1,100,6,6,0,1,64,29 Apr 2026 12:18:36,915C4A4A20680603E6F7
+SD YPK KOCUWER,60401677,SD,Swasta,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,6,1,17,6,6,0,1,68,23 Apr 2026 07:54:34,5FC1A5C550BC5AB52EE7
+SD YPK ROMA AIFAT,69906320,SD,Swasta,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,5,1,30,6,6,0,0,13,27 Mar 2026 06:17:40,6EDF612F77B5FB8C2FF5
+SD YPPK BORI,60401740,SD,Swasta,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,7,1,24,6,6,0,0,26,07 Apr 2026 19:35:16,A5DBDC5EBD04E29B197F
+SD YPPK KOCUAS,60401744,SD,Swasta,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,7,1,15,6,6,0,1,89,19 Mar 2026 08:19:17,B976BB65D69D8C9CA32E
+SMP NEGERI 2 AIFAT,60401767,SMP,Negeri,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,18,3,138,6,6,2,1,27,28 Apr 2026 12:47:52,3E4FA99F8D3A5F1AB30F
+SMA NEGERI 1 AIFAT,60403921,SMA,Negeri,Kec. Aifat,390101,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,28,1,94,6,9,5,1,165,02 May 2026 17:55:52,4CE404FAD0F48D1E6835

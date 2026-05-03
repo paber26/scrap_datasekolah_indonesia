@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 ASAM KUMBANG,10308197,SD,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,16,4,133,8,8,0,1,32,16 Apr 2026 11:32:10,E7D2B17B9EF634C75D0A
+SDN 02 TERATAK TELENG,10307575,SD,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,9,4,64,6,6,0,1,11,21 Apr 2026 10:32:41,D070341B5A6D4E686806
+SDN 03 PANCUNG TEBAL,10307576,SD,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,10,3,122,7,7,0,1,9,02 Apr 2026 12:23:40,07885616811E0948BCB9
+SDN 04 KOTO RANAH,10307581,SD,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,3,69,6,9,0,2,19,10 Apr 2026 23:42:46,6916A55E090FC4EA8696
+SDN 05 MUARA AIR,10308199,SD,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,9,2,49,6,6,0,1,27,28 Mar 2026 20:12:47,7777E3875E047177793B
+SDN 06 PULUT-PULUT,10307586,SD,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,10,3,66,6,6,0,1,6,07 Apr 2026 10:22:05,4C75EDFE57AE3CE1144D
+SDN 07 NGALAU GADANG,10307585,SD,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,1,55,6,6,0,2,12,27 Apr 2026 15:23:50,4DE9452506B66985BA4E
+SDN 08 LIMAU-LIMAU,10308198,SD,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,11,2,62,6,6,0,1,13,08 Apr 2026 22:29:34,B5F1A1660E429C8EE1B3
+SMP NEGERI 1 BAYANG UTARA,10301974,SMP,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,20,4,142,6,6,2,1,21,25 Apr 2026 19:57:02,CA8097113E13175CDFFB
+SMPN 2 BAYANG UTARA,10308317,SMP,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,14,3,36,3,3,0,2,54,07 Apr 2026 11:49:43,5BD05B988ADDCF36DEDF
+SMAN 1 NAGARI IV BAYANG UTARA,10302034,SMA,Negeri,Kec. Bayang Utara,080612,Kab. Pesisir Selatan,080600,Prov. Sumatera Barat,080000,24,9,171,6,12,2,1,27,01 May 2026 13:20:37,9F774E5DED5898294BB0

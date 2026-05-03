@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LEPAR,10900898,SD,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,13,6,203,11,13,1,1,33,07 Apr 2026 08:37:32,A8D38545C9DB3795AFA8
+SD NEGERI 2 LEPAR,10900926,SD,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,19,7,378,17,21,0,1,17,10 Mar 2026 09:41:16,43EEFA5EC95728C2566F
+SD NEGERI 3 LEPAR,10900856,SD,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,12,7,186,10,12,0,2,19,02 Apr 2026 18:26:11,F658A3A1976177FC627A
+SD NEGERI 4 LEPAR,10900864,SD,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,7,3,45,6,11,0,1,8,15 Apr 2026 00:03:23,E3EFA2165F80A1BF4FA0
+SD NEGERI 5 LEPAR,69900287,SD,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,8,5,120,6,7,0,1,94,17 Apr 2026 21:02:58,7FCD3D638124E08E1387
+SMP NEGERI 1 LEPAR,10900872,SMP,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,5,7,122,5,7,2,1,12,09 Apr 2026 08:03:15,DC10CA5B9738BBE8366E
+SMP NEGERI 2 LEPAR,10901360,SMP,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,9,6,122,5,8,1,1,17,16 Apr 2026 07:23:48,22B69563BDE9D9E39935
+SMP NEGERI 3 LEPAR,10901404,SMP,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,7,5,108,4,4,2,1,20,28 Apr 2026 09:53:08,C93C73BEB2A6ACF7830F
+SMAN 1 LEPAR PONGOK,10901410,SMA,Negeri,Lepar,290505,Kab. Bangka Selatan,290500,Prov. Kepulauan Bangka Belitung,290000,15,11,275,9,10,3,1,25,20 Apr 2026 17:26:57,7562BEC73ABA32B4941F

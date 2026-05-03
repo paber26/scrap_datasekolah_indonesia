@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BEUTONG ATEUH,10104774,SD,Negeri,Kec. Beutong Ateuh Banggalan,061510,Kab. Nagan Raya,061500,Prov. Aceh,060000,11,2,119,6,6,0,1,17,28 Apr 2026 14:06:16,87CD85B8BACCF80A90E7
+SD NEGERI 2 BEUTONG ATEUH,10112828,SD,Negeri,Kec. Beutong Ateuh Banggalan,061510,Kab. Nagan Raya,061500,Prov. Aceh,060000,9,3,89,6,6,0,0,18,06 Apr 2026 20:48:37,8C77388255ABA549EC5C
+SMP NEGERI BEUTONG ATEUH,10108214,SMP,Negeri,Kec. Beutong Ateuh Banggalan,061510,Kab. Nagan Raya,061500,Prov. Aceh,060000,17,2,95,5,6,1,1,26,28 Apr 2026 11:58:27,E9BEB68EF722CD64D5B3

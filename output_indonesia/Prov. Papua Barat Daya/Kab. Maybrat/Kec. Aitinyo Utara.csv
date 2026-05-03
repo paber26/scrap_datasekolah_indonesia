@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI SUBRIET,70051457,SD,Negeri,Kec. Aitinyo Utara,390107,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,0,0,0,0,0,0,0,0,,2F7DE8BC98C2BC1EB690
+SD YPK GOHSAMES,60403816,SD,Swasta,Kec. Aitinyo Utara,390107,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,1,1,16,6,6,0,0,43,19 Apr 2026 11:23:50,C50542D8E67DFC9BE3CD
+SD YPK PERSIAPAN MIRAFAN,60403817,SD,Swasta,Kec. Aitinyo Utara,390107,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,6,1,28,6,3,0,1,16,25 Apr 2026 08:19:53,81B71FD6028497F7E99C
+SD YPK PISON FATEGOMI,60403934,SD,Swasta,Kec. Aitinyo Utara,390107,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,7,1,13,6,12,0,1,29,01 May 2026 16:51:27,40BB4C80A51BC730D201

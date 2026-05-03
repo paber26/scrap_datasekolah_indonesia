@@ -1,0 +1,24 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI AMOL,50301151,SD,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,5,150,7,9,0,1,15,20 Apr 2026 10:54:12,67B453FAF66933B07987
+SD NEGERI BOKON,50300965,SD,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,1,46,6,6,0,1,23,13 Apr 2026 08:26:16,1B3D15B6BCE3722B5A34
+SD NEGERI FATUSENE,50300957,SD,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,2,48,6,6,0,1,30,05 Apr 2026 15:20:37,2283C2E72AB4E9277CEC
+SD NEGERI NEON O,50300926,SD,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,0,65,6,8,0,1,19,16 Apr 2026 11:08:19,C427949485F51ABADF5C
+SD NEGERI NUNPENE,50300950,SD,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,12,2,146,6,14,0,1,27,10 Apr 2026 12:36:41,58AD0B568CF56C92A001
+SD NEGERI OEFUI,50300946,SD,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,1,49,6,6,0,1,6,02 Mar 2026 08:44:39,85BAD8F72742806F8A14
+SD NEGERI SONTOI,50301021,SD,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,1,84,6,6,0,1,12,01 May 2026 13:07:46,131E1D58842306717DC6
+SD KATOLIK FEMNASI,50301182,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,1,140,6,7,0,1,13,07 Apr 2026 07:11:02,209C619D54FC1A3CDEFD
+SD KATOLIK JAK,50306235,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,2,107,6,6,0,1,13,17 Apr 2026 08:50:14,361AC189C36762A2D1DE
+SD KATOLIK KAENBAUN,50301084,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,6,1,72,6,7,0,1,19,02 May 2026 08:46:48,DC9F0678FA65D172E497
+SD KATOLIK KUATNANA 2,50306224,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,5,1,80,6,6,0,0,13,13 Apr 2026 07:05:14,C99312DF728C4BEBA5DC
+SD KATOLIK KUT,50301177,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,6,3,182,6,10,0,1,10,05 Mar 2026 09:10:59,B8C432325370041A6CA9
+SD KATOLIK NIMASI,50301139,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,6,2,99,6,7,1,1,19,28 Apr 2026 10:32:55,DD84A4B62747E7E6ED26
+SD KATOLIK TUAMESE,50306232,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,11,1,166,9,13,1,1,23,07 Apr 2026 07:51:15,46D57801B6E846A278E5
+SDK KUATNANA I,50301089,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,4,93,6,6,0,1,16,29 Apr 2026 10:13:23,D8B26E236C308DC5780A
+SDK TUNTUN,50301164,SD,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,0,106,6,6,0,4,18,30 Apr 2026 11:12:23,4CF221701FED29C84BD7
+SMP NEGERI 1 MIOMAFFO TIMUR,50307394,SMP,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,18,6,195,8,14,4,1,40,24 Apr 2026 08:24:57,B6586B4E167C68CD0405
+SMP NEGERI BITEFA,50307366,SMP,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,16,3,115,6,4,3,0,33,29 Apr 2026 10:00:31,21A16C28CAA039F55F4B
+SMP SATAP NEGERI AMOL,50309287,SMP,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,14,2,66,3,8,1,1,25,09 Apr 2026 18:03:26,799402C553474EBF4639
+SMP SATAP NEGERI NEON O,50307377,SMP,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,17,4,156,6,6,2,1,21,13 Mar 2026 11:28:59,5CAFE4C328C0B8328BFB
+SMPN FEMNASI,69820119,SMP,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,16,3,99,4,5,1,1,16,03 Mar 2026 07:53:25,A63DBE3E377D7F1CC752
+SMAN 1 TAEKAS,50307416,SMA,Negeri,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,41,9,524,17,17,3,1,19,30 Apr 2026 12:37:46,6A6A6379227AC2BB98C1
+SMK SUARA TIMUR TUNBABA,69899025,SMK,Swasta,Kec. Miomafo Timur,240402,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,18,2,155,12,7,0,1,19,29 Apr 2026 10:58:33,2EDCB02CDAE40E91B961

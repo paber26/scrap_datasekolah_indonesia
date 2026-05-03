@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI INPRES KAKOROTAN,40101727,SD,Negeri,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,10,1,29,6,6,1,1,31,30 Apr 2026 09:54:07,05BE62285F13A6CC5B6C
+SD NEGERI INPRES KARATUNG,40101729,SD,Negeri,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,12,1,47,6,6,0,1,31,05 Mar 2026 09:16:19,D0834CB92A9F44A9F58A
+SD NEGERI INPRES LALUHE,40101732,SD,Negeri,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,8,1,17,6,6,0,1,30,27 Apr 2026 14:08:17,0DD82F88DFB7B54050E3
+SD KRISTEN BATUKARANG KAKOROTAN,40101778,SD,Swasta,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,7,1,27,6,6,0,1,25,30 Apr 2026 10:06:22,ED94D4A2F4603E660A07
+SD KRISTEN IMANUEL KARATUNG,40101854,SD,Swasta,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,8,1,23,6,6,0,1,27,16 Apr 2026 18:36:12,1A9D2663B90A72CF67E2
+SD KRISTEN PENGHARAPAN DAMPULIS,40101838,SD,Swasta,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,6,1,64,6,6,0,1,25,27 Apr 2026 11:08:25,AFF98B78E94C39456904
+SD KRISTEN SION MARAMPIT,40101851,SD,Swasta,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,9,1,55,6,6,0,1,20,18 Mar 2026 07:56:21,2456B4EA5C6B099FB663
+SD SMP SATU ATAP NEGERI 1 NANUSA DI LALUHE,40103565,SMP,Negeri,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,16,4,89,4,4,1,1,36,03 Apr 2026 20:21:17,BA9062D98D9B204DF09C
+SD SMP SATU ATAP NEGERI 2 NANUSA DI KAKOROTAN,40103566,SMP,Negeri,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,9,6,34,3,3,1,1,35,02 May 2026 05:02:33,8B886E887754B3BC4E95
+SMP NEGERI 1 NANUSA,40101762,SMP,Negeri,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,19,5,58,3,6,2,1,21,24 Apr 2026 08:01:12,502235379E4E86D04F53
+SMA NEGERI 1 NANUSA,40101745,SMA,Negeri,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,16,11,45,3,8,5,1,23,22 Apr 2026 11:31:04,A5A211F106B793CB0279
+SMA NEGERI 1 PULAU MARAMPIT DI DAMPULIS,69953879,SMA,Negeri,Kec. Nanusa,170407,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,19,6,60,3,3,4,1,37,09 Apr 2026 05:02:09,AAE58E6598EDE41656B9

@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 BUNYU,30402399,SD,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,17,4,288,12,12,0,1,13,02 Apr 2026 12:14:47,A985F45A9C8B953709C2
+SD NEGERI 002 BUNYU,30402412,SD,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,15,4,253,12,12,0,1,17,30 Mar 2026 18:16:33,C706623B57C112CB4198
+SD NEGERI 003 BUNYU,30402425,SD,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,9,3,164,6,7,0,1,19,29 Apr 2026 07:03:27,232FB2EC30B6A98486C2
+SD NEGERI 004 BUNYU,30402437,SD,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,5,3,76,6,6,0,1,10,30 Apr 2026 10:56:52,8A3860861687DC13DA4B
+SD NEGERI 005 BUNYU,30402450,SD,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,17,3,267,12,12,2,1,16,02 May 2026 10:23:07,70C94F8EF328BEED8EE0
+SD NEGERI 006 BUNYU,30402463,SD,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,7,2,75,6,6,0,1,43,16 Apr 2026 13:28:08,B7BE77DFA2D816FE4D77
+SDIT CENDEKIA AL HAKIM,70057473,SD,Swasta,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,3,3,19,2,2,0,0,11,11 Feb 2026 07:49:36,B547F8CE5F5C8FA86E1F
+SMP NEGERI 1 BUNYU,30400429,SMP,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,14,3,277,9,13,3,1,14,07 Apr 2026 11:18:31,1A5EBB41EA20C029BA6D
+SMP NEGERI 2 BUNYU,30402560,SMP,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,10,3,189,7,7,2,1,28,02 Apr 2026 12:36:39,929C1BD9E03F00D74309
+SMP NEGERI 3 BUNYU,30402568,SMP,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,8,3,129,6,6,2,1,12,07 Apr 2026 10:13:06,E85EE70944E34F4E8D46
+SMAN 1 BUNYU,30402591,SMA,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,23,10,312,10,16,3,1,27,09 Apr 2026 10:53:37,0ABAA47D9A90E8D6E896
+SMK Negeri 1 Bunyu,69911762,SMK,Negeri,Kec. Pulau Bunyu,340205,Kab. Bulungan,340200,Prov. Kalimantan Utara,340000,19,4,231,13,13,4,1,95,30 Apr 2026 12:55:44,E85E450485CACE43A7B5

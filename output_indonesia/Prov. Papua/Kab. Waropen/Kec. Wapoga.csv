@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI  BASE CAMP WAPOGA,60303006,SD,Negeri,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,4,2,106,6,8,1,1,35,21 Apr 2026 20:10:12,55B7787043FAF92E5B98
+SD NEGERI AWERA,69726117,SD,Negeri,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,8,1,31,6,6,0,0,4,31 Jan 2026 20:58:19,3FC14AFF2401EA4C3F88
+SD NEGERI DOKIS,69726112,SD,Negeri,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,3,1,28,6,6,0,0,6,03 Mar 2026 19:06:51,80AC7EDCEB12833A2162
+SD NEGERI INPRES WAPOGA,60303020,SD,Negeri,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,2,1,61,6,6,0,0,14,17 Mar 2026 09:12:03,82BA7E10E8AA03942224
+SD NEGERI SEWA MIRARE,60303039,SD,Negeri,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,8,1,47,6,6,0,0,18,24 Mar 2026 20:20:14,EB0F4D9469705CF0BCD4
+SD ADVENT KAMARSANO,60304979,SD,Swasta,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,0,1,17,6,6,0,1,6,03 Mar 2026 13:53:00,C2778338C002D5F73A02
+SD YPK BETHANIA WAWERI,69786997,SD,Swasta,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,4,1,90,6,6,0,0,17,26 Apr 2026 18:34:06,8FE957EE045EEAE61113
+SMP NEGERI WAPOGA,69726127,SMP,Negeri,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,11,2,76,4,6,1,2,4,12 Feb 2026 09:33:04,692D4A6F979C8DF8E1B7
+SMP NEGERI WAWERI,69969448,SMP,Negeri,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,8,2,70,3,3,1,1,14,01 May 2026 08:32:30,1E4F029EDC043C2A7E2F
+SMK Negeri 3 Agribisnis Dan Agroteknologi Waropen,69767766,SMK,Negeri,Kec. Wapoga,252610,Kab. Waropen,252600,Prov. Papua,250000,8,4,85,3,9,0,0,24,09 Apr 2026 09:33:14,A0E4282E2E73ACB05F1E

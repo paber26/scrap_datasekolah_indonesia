@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SUBU,60300912,SD,Negeri,Kec. Apawert Hulu,251913,Kab. Sarmi,251900,Prov. Papua,250000,7,1,78,6,6,1,0,28,20 Apr 2026 15:20:40,AAEDBAA8E7457DCF5933
+SD INPRES WAMARIRI,60300906,SD,Negeri,Kec. Apawert Hulu,251913,Kab. Sarmi,251900,Prov. Papua,250000,3,1,52,6,6,0,0,35,29 Apr 2026 03:14:33,20CF926752019FB87932
+SD NEGERI AURIMI,60302005,SD,Negeri,Kec. Apawert Hulu,251913,Kab. Sarmi,251900,Prov. Papua,250000,2,2,18,3,3,0,0,51,10 Apr 2026 10:11:19,7DFEB10356D670256463
+SD PERSIAPAN KWAPITANIA,69896507,SD,Negeri,Kec. Apawert Hulu,251913,Kab. Sarmi,251900,Prov. Papua,250000,4,1,0,0,0,0,0,0,,415B570DD4F5C67C4FF4
+SD PERSIAPAN MANIWA,69896508,SD,Swasta,Kec. Apawert Hulu,251913,Kab. Sarmi,251900,Prov. Papua,250000,1,1,0,0,0,0,0,0,,8F50A587344A535B5C73
+SDS ADVENT AURIMI,60300938,SD,Swasta,Kec. Apawert Hulu,251913,Kab. Sarmi,251900,Prov. Papua,250000,3,1,87,6,3,0,0,30,26 Apr 2026 20:21:49,EB7495299BF33F757DD6
+SMPS ADVENT AURIMI,60303773,SMP,Swasta,Kec. Apawert Hulu,251913,Kab. Sarmi,251900,Prov. Papua,250000,3,2,47,3,3,0,0,17,26 Apr 2026 20:55:25,A178FEAF2CC0CA3965B5

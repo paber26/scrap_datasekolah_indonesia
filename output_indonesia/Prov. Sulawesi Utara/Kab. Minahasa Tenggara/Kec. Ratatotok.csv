@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BASAAN,40102305,SD,Negeri,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,11,2,177,7,8,0,1,21,04 Mar 2026 10:13:56,D4F1E4F422A00ADA739B
+SD INPRES MOREAH,40101910,SD,Negeri,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,1,163,7,7,0,1,9,03 Mar 2026 18:08:02,87CE2A038BC23ACAAF95
+SD INPRES RATATOTOK,40102291,SD,Negeri,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,13,3,247,11,10,0,2,31,02 Apr 2026 13:03:49,924A7D4250A013D485B2
+SD NEGERI BASAAN,40102201,SD,Negeri,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,11,1,163,7,8,0,1,21,01 May 2026 06:09:04,B0E92B6CB49A9CBA63E7
+SD NEGERI SOYOWAN,40101899,SD,Negeri,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,1,100,6,8,0,1,8,12 Mar 2026 05:56:38,7D7B0DA37F7E20B33FFE
+SD COKROAMINOTO RATATOTOK,40103514,SD,Swasta,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,1,202,7,7,0,1,20,09 Apr 2026 13:18:05,2ED9F3DA80594CF1913D
+SD GMIM 364 RATATOTOK,40102148,SD,Swasta,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,0,150,7,6,0,1,9,26 Feb 2026 09:20:13,F5F74BB3B8B2DD724CBF
+SMP NEGERI 1 RATATOTOK,40102071,SMP,Negeri,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,1,107,6,8,2,5,16,01 May 2026 20:40:21,DE0BBC1E05841668A7B7
+SMP KRISTEN BASAAN,40102046,SMP,Swasta,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,1,107,5,5,1,1,11,17 Apr 2026 06:50:04,4E2C8E358EB687A4203C
+SMP KRISTEN RATATOTOK,40102045,SMP,Swasta,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,1,149,6,7,3,1,24,06 Mar 2026 09:42:57,918166C05E74C0EF2F05
+SMP MUHAMMADIYAH RATATOTOK,40103663,SMP,Swasta,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,1,129,6,6,2,1,21,27 Apr 2026 09:08:02,477E8082799265B42431
+SMAS KRISTEN RATATOTOK,40102023,SMA,Swasta,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,5,1,68,3,7,2,1,13,22 Apr 2026 09:13:12,7A9C5736D82996B07430
+SMAS MUHAMMADIYAH RATATOTOK,40102010,SMA,Swasta,Kec. Ratatotok,171001,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,2,1,76,3,6,2,1,38,22 Apr 2026 19:13:50,62E3FF07E4489013E912

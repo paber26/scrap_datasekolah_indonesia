@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Pakue,40402218,SD,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,10,3,201,8,10,0,1,25,30 Apr 2026 07:55:59,EDB7272CE39051EE33B4
+SD Negeri 2 Pakue,40402273,SD,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,14,1,180,9,10,0,1,20,30 Apr 2026 15:38:45,4511D709F44DA4E9D16E
+SD Negeri 3 Pakue,40402275,SD,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,8,2,141,7,9,0,1,14,15 Apr 2026 22:26:47,47CA6CB8A3A46A2994E0
+SD Negeri 4 Pakue,40402206,SD,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,10,3,100,6,6,0,1,9,06 Apr 2026 19:48:38,7ED4DC3A80B812F7DDF7
+SD Negeri 5 Pakue,40402156,SD,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,11,3,195,8,8,1,1,25,29 Apr 2026 09:24:26,90241594B7D04F95413E
+SD Negeri 6 Pakue,40403624,SD,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,11,3,134,7,7,0,1,12,10 Apr 2026 04:14:11,B289BDD1C6B6EC9B6386
+SD Negeri 7 Pakue,40404281,SD,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,8,2,72,6,6,0,1,16,29 Apr 2026 22:58:29,1DE309568FFDD6364933
+SD Negeri 8 Pakue,40404699,SD,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,9,2,71,6,6,0,1,17,02 Mar 2026 21:03:45,AF2AB60B9FEE6DFA768C
+SMP Negeri 14 Kolaka Utara,40404681,SMP,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,13,6,137,6,7,3,1,29,24 Apr 2026 17:26:29,A74C4C936E413B7C16AC
+SMP Negeri 2 Kolaka Utara,40402189,SMP,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,14,5,160,6,11,2,1,15,23 Apr 2026 10:39:12,0123B5DF0EEF41309E03
+SMAN 1 PAKUE,40402182,SMA,Negeri,Kec. Pakue,200802,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,68,12,798,24,27,4,1,40,29 Apr 2026 14:12:07,7E3CC296476CB24B500E

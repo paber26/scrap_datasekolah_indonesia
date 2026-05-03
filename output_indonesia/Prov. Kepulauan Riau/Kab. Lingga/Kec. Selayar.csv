@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 SELAYAR,11001437,SD,Negeri,Kec. Selayar,310409,Kab. Lingga,310400,Prov. Kepulauan Riau,310000,8,2,131,6,9,0,1,9,14 Apr 2026 22:08:06,DC41AA10D0610776DF9C
+SD NEGERI 002 SELAYAR,11001463,SD,Negeri,Kec. Selayar,310409,Kab. Lingga,310400,Prov. Kepulauan Riau,310000,7,1,46,6,6,0,1,9,04 Feb 2026 21:00:27,02B1A5FBA6AD66E2A1BE
+SD NEGERI 003 SELAYAR,11001504,SD,Negeri,Kec. Selayar,310409,Kab. Lingga,310400,Prov. Kepulauan Riau,310000,7,1,38,6,7,0,1,7,07 Apr 2026 12:16:03,28F8D402B70B8BF4BFBC
+SD NEGERI 004 SELAYAR,11001506,SD,Negeri,Kec. Selayar,310409,Kab. Lingga,310400,Prov. Kepulauan Riau,310000,7,1,30,6,6,0,1,7,22 Apr 2026 09:11:33,DA82C6FD31960D36CAD7
+SD NEGERI 005 SELAYAR,11002809,SD,Negeri,Kec. Selayar,310409,Kab. Lingga,310400,Prov. Kepulauan Riau,310000,8,2,29,6,3,0,0,5,04 Mar 2026 14:41:13,EEE2CC325485FFD3C00F
+SD NEGERI 006 SELAYAR,60730363,SD,Negeri,Kec. Selayar,310409,Kab. Lingga,310400,Prov. Kepulauan Riau,310000,8,1,37,6,6,0,0,6,30 Apr 2026 09:09:20,3AA45C415D5FEEED7573
+SMP NEGERI 1 SELAYAR,11001530,SMP,Negeri,Kec. Selayar,310409,Kab. Lingga,310400,Prov. Kepulauan Riau,310000,12,4,117,6,6,1,0,1,22 Apr 2026 09:20:35,4C5140B99FF217E73536
+SMAN 1 SELAYAR,11003243,SMA,Negeri,Kec. Selayar,310409,Kab. Lingga,310400,Prov. Kepulauan Riau,310000,18,8,122,6,8,5,1,20,06 Apr 2026 10:19:03,B6C2B1B28AD999D7DB08

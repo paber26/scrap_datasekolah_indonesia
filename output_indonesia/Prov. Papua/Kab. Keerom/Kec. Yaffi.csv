@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES YABANDA,60303510,SD,Negeri,Kec. Yaffi,252011,Kab. Keerom,252000,Prov. Papua,250000,8,2,127,6,3,0,0,10,30 Apr 2026 19:44:56,83A5AC99B46A37110060
+SD NEGERI FAVENUMBU,69787857,SD,Negeri,Kec. Yaffi,252011,Kab. Keerom,252000,Prov. Papua,250000,10,0,145,8,6,0,0,17,28 Apr 2026 14:24:16,9AC9C171CA3D8689DFC6
+SD YPPK AMGOTRO YURUF,60303449,SD,Swasta,Kec. Yaffi,252011,Kab. Keerom,252000,Prov. Papua,250000,5,1,87,6,8,0,1,15,01 May 2026 09:05:35,0A673EDB0D819DF3D96A
+SMP NEGERI 2 WEB,69952761,SMP,Negeri,Kec. Yaffi,252011,Kab. Keerom,252000,Prov. Papua,250000,15,4,69,3,3,1,1,32,30 Apr 2026 07:36:37,F1738C2721FD69CD4454

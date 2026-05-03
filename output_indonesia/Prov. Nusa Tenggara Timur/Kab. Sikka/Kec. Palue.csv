@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES LANGAWAI,50302319,SD,Negeri,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,0,39,6,6,0,0,16,07 Apr 2026 19:10:17,77BA2928C0D148BB138B
+SD INPRES UWA,50302474,SD,Negeri,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,9,0,103,6,6,0,1,24,13 Apr 2026 05:09:52,DA3A64C916867A56E980
+SDN  UWA I,50302140,SD,Negeri,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,9,0,60,6,6,0,2,118,15 Apr 2026 10:08:53,880CDC574E7B124EBD55
+SDN KUJUWONGGA,50309276,SD,Negeri,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,10,1,74,6,6,0,0,10,23 Apr 2026 11:01:09,959CBB6929623D2445F5
+SDN OKA,50309277,SD,Negeri,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,11,0,72,6,6,0,2,9,03 Mar 2026 13:39:23,DC290C9772F01EC40275
+SD KATOLIK EDO,50302442,SD,Swasta,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,1,136,6,6,0,2,16,11 Apr 2026 09:49:44,16FCCA0711D582CD81BE
+SD KATOLIK NITUNG PALUE,50302209,SD,Swasta,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,7,1,104,6,6,0,0,20,27 Apr 2026 12:40:11,0F2EF6B670119216C724
+SD KATOLIK TOMU PALUE,50302137,SD,Swasta,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,9,0,84,6,6,0,1,19,30 Apr 2026 07:55:51,8A87C206503DF9176548
+SDK AWA,50302497,SD,Swasta,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,5,1,57,6,6,0,0,20,30 Apr 2026 11:15:30,E74CEC1526C4FE68C668
+SDK CAWALO,50302435,SD,Swasta,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,0,89,6,6,0,1,28,30 Apr 2026 11:56:47,61E42205D0FE60F350BF
+SDK LEI,50302451,SD,Swasta,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,6,0,90,6,6,0,1,25,22 Apr 2026 10:25:04,2F86FCA5D96E6D933F87
+SDK UWA II,50302141,SD,Swasta,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,8,0,76,6,6,0,1,21,17 Apr 2026 09:16:36,14BDA400F7AF54D2D50B
+SMP NEGERI 1 PALUE,50305296,SMP,Negeri,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,19,2,193,8,8,1,1,32,02 May 2026 14:08:39,402F46F171989490A5E3
+SMP ROKATENDA,50302216,SMP,Swasta,Kec. Palue,240811,Kab. Sikka,240800,Prov. Nusa Tenggara Timur,240000,17,1,184,7,7,1,1,50,30 Apr 2026 10:21:07,BD38EA2A96FE003C8E54

@@ -1,0 +1,41 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI - 1 AMIN JAYA,30201913,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,13,2,274,12,12,1,1,49,13 Apr 2026 12:14:01,88061EA90FB833515CC5
+SD NEGERI - 1 ARGA MULYA,30201912,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,0,98,6,6,0,1,10,02 Mar 2026 12:13:27,1A84565001A27EA6D2D6
+SD NEGERI - 1 BERAMBAI MAKMUR,30201995,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,5,2,46,6,6,0,1,10,02 Apr 2026 07:13:35,D77AD08D114982451461
+SD NEGERI - 1 KARANG MULYA,30201870,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,12,2,239,11,12,0,1,23,25 Apr 2026 11:02:26,DDF73926302EBAF540B9
+SD NEGERI - 1 KARANG SARI,30201994,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,4,2,88,6,6,1,1,4,02 Mar 2026 09:44:00,247092EF6E378FFBC430
+SD NEGERI - 1 KEBUN AGUNG,30201752,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,7,0,111,6,6,0,1,19,27 Apr 2026 07:59:48,5EE0333FEDF2A2E5B08D
+SD NEGERI - 1 MARGA MULYA,30201748,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,2,158,6,6,0,1,12,05 Mar 2026 07:38:35,35DF9100523CA83EA50D
+SD NEGERI - 1 MULYA JADI,30201860,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,0,126,6,6,0,1,16,08 Apr 2026 21:57:00,35D1784ECD969A2F2BC9
+SD NEGERI - 1 NATAI KERBAU,30201858,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,1,157,6,6,1,1,7,04 Feb 2026 15:14:20,B6B0568E7D9806AA0571
+SD NEGERI - 1 PANGKALAN BANTENG,30201874,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,8,1,127,6,6,0,1,20,28 Apr 2026 11:49:42,F2654ECEE50547612C17
+SD NEGERI - 1 SIDOMULYO,30201879,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,5,2,163,6,8,0,1,13,01 May 2026 18:00:07,57007CAC1CEB72A6DBEE
+SD NEGERI - 1 SIMPANG BERAMBAI,30203675,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,1,141,6,7,0,1,10,29 Apr 2026 14:32:55,A2F76C02DC646801BCFE
+SD NEGERI - 1 SUNGAI BENGKUANG,30201985,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,5,0,116,6,6,0,1,11,08 Apr 2026 20:33:30,E43A5B852BBFBB1CCFA0
+SD NEGERI - 1 SUNGAI HIJAU,30201993,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,5,0,133,6,2,0,1,17,01 May 2026 19:42:08,52ACF9E86E5E59038121
+SD NEGERI - 1 SUNGAI KUNING,30201968,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,7,1,94,6,6,0,1,6,24 Apr 2026 18:25:15,285D30B5738D712CD902
+SD NEGERI - 1 SUNGAI PAKIT,30201974,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,8,0,135,6,6,1,1,13,06 Apr 2026 09:11:47,3AE962FBA86B87AC0854
+SD NEGERI - 1 SUNGAI PULAU,30201936,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,1,67,6,6,0,1,11,23 Apr 2026 13:47:46,D345719B8F39D43348C0
+SD NEGERI - 2 KARANG MULYA,30204248,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,18,3,470,14,16,0,1,75,22 Apr 2026 11:32:42,2A23DCE0CF58C0990195
+SD NEGERI - 2 PANGKALAN BANTENG,30201997,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,1,70,6,6,0,1,1,16 Apr 2026 04:39:34,E610BB399655890FB325
+SD NEGERI - 2 SUNGAI HIJAU,30201973,SD,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,0,72,6,6,0,1,11,23 Apr 2026 08:28:17,C5AEA28947C80DB2D8C4
+SD SWASTA 2 WANA SAWIT,30204260,SD,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,8,2,123,6,6,0,1,46,21 Apr 2026 09:39:50,101250D0E7618E5CCDD6
+SD SWASTA INDOTRUBA TENGAH,30201919,SD,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,11,2,217,7,6,0,1,45,27 Apr 2026 18:48:12,2B08F2341B2D3AE1C5FC
+SDS 01 BANGUN JAYA,30201921,SD,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,15,2,192,11,15,0,1,28,13 Apr 2026 23:04:25,E1E4B908B1B720FCB670
+SDS 1 WANA SAWIT,30201915,SD,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,14,2,187,10,11,2,1,94,30 Apr 2026 13:33:48,28A1014C57D745238B07
+SDS HARAPAN SEJAHTERA,30204702,SD,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,14,3,293,12,14,2,1,26,22 Apr 2026 08:56:16,3DD83A9F5CFA53B7E840
+SDS PESONA ASTRA,30201916,SD,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,8,3,239,10,12,1,1,16,25 Apr 2026 09:09:56,031BB9F3A034034F681D
+SD SMP SATU ATAP NEGERI 1 PANGKALAN BANTENG,30204265,SMP,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,7,1,78,3,4,0,0,30,20 Apr 2026 17:04:01,3FCA47956722A965BD05
+SMP NEGERI 1 PANGKALAN BANTENG,30201790,SMP,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,22,6,492,16,15,3,1,33,16 Apr 2026 22:04:10,9399DC8028165E334C79
+SMP NEGERI 2 PANGKALAN BANTENG,30201802,SMP,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,9,3,96,5,6,2,1,31,28 Apr 2026 11:50:10,18E545549618AAEC26EC
+SMP NEGERI 3 PANGKALAN BANTENG,30201815,SMP,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,14,3,246,9,12,3,4,32,21 Apr 2026 04:10:23,A1D4B98C352B68031673
+SMP NEGERI 4 PANGKALAN BANTENG,30204247,SMP,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,7,1,83,3,3,6,2,9,09 Apr 2026 09:03:30,DB330E549A9E09D3BC37
+SMP NEGERI 5 PANGKALAN BANTENG,30205290,SMP,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,6,3,73,3,3,4,3,17,29 Apr 2026 09:35:20,AEE4692B18809E80F4C8
+SMP ASY-SYIFA,70027687,SMP,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,8,1,38,3,3,0,0,19,02 Mar 2026 11:30:41,31AA586F3BD7A9AEB69D
+SMP BEST AGRO INTERNATIONAL,30204211,SMP,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,8,1,148,6,7,2,1,30,16 Apr 2026 12:18:55,8FEE82A6DB8031B8B01A
+SMP INDAH MAKMUR,69753584,SMP,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,12,2,201,8,9,2,1,15,11 Mar 2026 08:47:16,D1E9071BA45AF819220B
+SMP PESONA ASTRA,30203679,SMP,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,7,2,135,6,6,3,1,14,18 Apr 2026 11:09:10,1DAAC4E3D4FA89D89467
+SMP PGRI 6 AMIN JAYA,30201798,SMP,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,4,2,82,3,3,3,1,40,30 Apr 2026 09:37:12,83EBCBC72A953096AD1B
+SMAN 1 PANGKALAN BANTENG,30203696,SMA,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,33,5,691,20,18,4,1,26,15 Apr 2026 05:44:26,4B3AA83AE3CF07807223
+SMAS PGRI 5 PIRSUS,30203693,SMA,Swasta,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,2,2,25,3,3,1,1,11,24 Apr 2026 18:49:28,7C569D1289F04CD4528D
+SMKN 1 PANGKALAN BANTENG,30204256,SMK,Negeri,Kec. Pangkalan Banteng,140508,Kab. Kotawaringin Barat,140500,Prov. Kalimantan Tengah,140000,40,11,681,23,23,4,1,34,22 Apr 2026 15:08:19,CC87AF8280127D326D80

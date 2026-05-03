@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Lambai,40402231,SD,Negeri,Kec. Lambai,200808,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,9,3,125,6,7,0,1,17,30 Apr 2026 07:33:47,368790BB30BAB7873837
+SD Negeri 2 Lambai,40402178,SD,Negeri,Kec. Lambai,200808,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,9,2,83,6,6,0,3,6,14 Apr 2026 11:57:01,813771D03D4B50AAE11E
+SD Negeri 3 Lambai,40402268,SD,Negeri,Kec. Lambai,200808,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,18,3,246,12,12,0,1,28,30 Apr 2026 12:44:15,76D2A2988109E11ACD17
+SD Negeri 4 Lambai,40403721,SD,Negeri,Kec. Lambai,200808,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,8,4,73,6,6,0,1,20,05 Mar 2026 12:15:02,15A5F3D97FA6949480AE
+SD Negeri 5 Lambai,40404673,SD,Negeri,Kec. Lambai,200808,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,9,3,126,7,7,0,1,17,29 Apr 2026 20:02:56,E51A1C9512D078F19D31
+SD Negeri 6 Lambai,40404697,SD,Negeri,Kec. Lambai,200808,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,10,4,135,7,6,0,2,19,02 Mar 2026 20:35:50,8FBC6AED585FC0A48AC2
+SMP Negeri 7 Kolaka Utara,40402208,SMP,Negeri,Kec. Lambai,200808,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,12,6,109,5,9,3,1,11,05 Mar 2026 10:10:38,108ECE1AB779E3D33153
+SMP Negeri Satu Atap 15 Kolaka Utara,40404674,SMP,Negeri,Kec. Lambai,200808,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,10,2,25,3,3,1,1,19,28 Apr 2026 14:27:33,0448453C9D7F448DF710

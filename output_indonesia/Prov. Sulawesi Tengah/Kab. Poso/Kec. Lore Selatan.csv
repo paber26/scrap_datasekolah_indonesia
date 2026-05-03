@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BAKEKAU,40203896,SD,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,11,2,53,6,6,0,1,21,28 Apr 2026 10:15:35,D91938C8B4C73CCEC99B
+SD NEGERI BEWA,40201164,SD,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,10,3,60,6,6,0,1,15,28 Jan 2026 18:38:58,E22E76E394B431B1D13B
+SD NEGERI BOMBA,40201163,SD,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,9,1,68,6,6,0,0,16,28 Apr 2026 07:53:44,0969700194E055D0B03E
+SD NEGERI BULILI,40201162,SD,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,9,2,54,6,6,0,1,12,30 Mar 2026 07:36:13,F8587F5CED85FE0AF73E
+SD NEGERI GINTU,40201174,SD,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,10,3,101,6,6,0,1,17,30 Apr 2026 08:08:28,40F52D67266E0F01DA1E
+SD NEGERI PADA,40201125,SD,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,8,2,51,6,7,1,1,12,03 Mar 2026 18:21:08,A81183AF609969F53623
+SD NEGERI RUNDE,40201154,SD,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,6,2,74,6,6,0,1,7,09 Feb 2026 21:59:38,B56B680307E6E62A4937
+SD GKST BADANGKAIA,40201393,SD,Swasta,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,8,2,81,6,6,0,0,8,25 Apr 2026 21:14:31,65EC81CD9E974AC55B4C
+SD GKST GINTU,40201390,SD,Swasta,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,8,1,72,6,6,0,1,26,03 Mar 2026 19:11:08,8B9FC6B2E303492B4DE2
+SMP NEGERI 1 LORE SELATAN,40201303,SMP,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,21,4,234,9,10,1,2,22,27 Apr 2026 08:16:09,3EF78DE45197A3C27E17
+SMP NEGERI 2 LORE SELATAN,40201193,SMP,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,11,2,61,3,5,1,1,24,20 Apr 2026 08:01:30,953F760A19A101CF1FEC
+SMP NEGERI SATU ATAP BULILI,69787795,SMP,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,12,2,30,3,3,1,0,18,30 Mar 2026 12:54:57,C5749F755788063A6835
+SMAN 1 LORE SELATAN,40201328,SMA,Negeri,Kec. Lore Selatan,180302,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,25,3,238,9,13,3,1,26,28 Apr 2026 09:35:17,20151784D39452AF43E0

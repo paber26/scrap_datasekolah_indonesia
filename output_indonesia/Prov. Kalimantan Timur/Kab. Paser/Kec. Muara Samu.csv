@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 MUARA SAMU,30405214,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,7,2,168,6,6,0,1,27,24 Apr 2026 13:14:22,BE9E851B67958606B780
+SD NEGERI 002 MUARA SAMU,30405289,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,7,2,89,6,6,0,0,23,02 May 2026 10:13:51,74F929B7B2D1FAF27820
+SD NEGERI 003 MUARA SAMU,30405432,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,8,2,143,6,6,0,0,5,04 Apr 2026 18:22:53,09151B2419F66287B597
+SD NEGERI 004 MUARA SAMU,30405128,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,9,1,104,6,6,0,1,25,15 Apr 2026 18:06:24,9D9A2BAF287FA4D4D194
+SD NEGERI 005 MUARA SAMU,30405433,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,8,2,110,6,6,0,1,20,29 Apr 2026 17:13:06,88DFF98A8D77D9277FFD
+SD NEGERI 006 MUARA SAMU,30405434,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,8,3,118,6,4,0,1,9,17 Apr 2026 09:15:39,387BD798380E264526A7
+SD NEGERI 007 MUARA SAMU,30405435,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,8,1,52,6,6,0,0,20,14 Apr 2026 23:11:45,3FE56C3C85B61B5EC817
+SD NEGERI 008 MUARA SAMU,30406114,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,8,2,39,6,5,0,0,18,13 Mar 2026 07:14:26,F59566E3AA48F75A085E
+SD NEGERI 010 MUARA SAMU,70031986,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,7,1,22,6,6,0,0,8,07 Apr 2026 19:57:09,30EDF68C624EF99188FD
+SDN 009 Muara Samu,69830477,SD,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,8,1,129,6,6,0,1,16,08 Apr 2026 23:00:24,12FBDACDA0600CFDD8F2
+SMP NEGERI 1 MUARA SAMU,30405204,SMP,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,13,3,181,7,8,1,1,26,09 Apr 2026 11:11:58,F56FC4D7675B7247B65E
+SMP NEGERI 2 MUARA SAMU,30406126,SMP,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,6,2,68,3,3,1,1,15,17 Apr 2026 06:34:07,3AF2DCE972658BB2E03E
+SMAN 1 MUARA SAMU,69786425,SMA,Negeri,Kec. Muara Samu,160109,Kab. Paser,160100,Prov. Kalimantan Timur,160000,16,4,177,6,6,5,0,26,23 Apr 2026 11:46:36,33E2FD4574782F4DF520

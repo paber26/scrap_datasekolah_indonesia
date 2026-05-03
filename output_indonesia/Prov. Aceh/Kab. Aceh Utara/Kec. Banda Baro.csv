@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BANDA BARO,10101640,SD,Negeri,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,16,2,133,7,6,0,1,32,10 Apr 2026 09:12:01,5A22F46EB3EE623DDCCB
+SD NEGERI 2 BANDA BARO,10105897,SD,Negeri,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,14,4,145,7,6,0,1,34,02 May 2026 12:16:09,A8F6264D2F56A25F4F5B
+SD NEGERI 3 BANDA BARO,10101694,SD,Negeri,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,7,4,85,6,8,0,0,20,27 Apr 2026 09:53:27,09ED43EF8E2AF2DD9303
+SD NEGERI 4 BANDA BARO,10101624,SD,Negeri,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,10,3,81,6,5,0,0,18,12 Apr 2026 19:33:39,DCDB6F98F17FF4AE400B
+SD NEGERI 5 BANDA BARO,10101636,SD,Negeri,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,10,4,109,6,6,0,1,24,25 Apr 2026 08:59:28,6C7370746F09688A96EE
+SD SWASTA PINUS,10106162,SD,Swasta,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,7,2,73,6,11,0,1,19,25 Apr 2026 12:52:08,07CEF2D155E36D770F5D
+SMP NEGERI 1 Banda Baro,10106233,SMP,Negeri,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,13,7,65,3,6,3,1,16,22 Apr 2026 19:45:31,2F5DA67182C778D88160
+SMP NEGERI 2 BANDA BARO,10106253,SMP,Negeri,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,15,8,71,4,6,1,1,24,23 Apr 2026 11:22:32,91E070E5B8DC000C2B89
+SMA NEGERI 1 BANDA BARO,69726918,SMA,Negeri,Kec. Banda Baro,060329,Kab. Aceh Utara,060300,Prov. Aceh,060000,19,7,110,5,6,3,1,41,30 Apr 2026 22:45:01,F58297F2E1A3FC83FDB9

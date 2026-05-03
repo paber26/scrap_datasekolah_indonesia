@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 12 LEBONG,10701919,SD,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,14,4,187,9,7,0,1,122,17 Apr 2026 16:59:33,7D9E2E70CB591E44EF16
+SDN 15 LEBONG,10701923,SD,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,11,3,50,6,9,1,1,20,13 Apr 2026 23:22:24,49EA59A0356727544D77
+SDN 30 LEBONG,10701960,SD,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,9,5,95,6,6,0,1,29,14 Apr 2026 21:11:02,5C33768C59A00180D84A
+SDN 45 LEBONG,10702009,SD,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,10,3,46,6,6,0,1,35,21 Apr 2026 17:47:05,3CB5144450784EAF4877
+SDN 48 LEBONG,10702013,SD,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,17,5,260,12,12,0,1,15,21 Mar 2026 19:08:46,48C7D999C02A8BFA47E6
+SDN 73 LEBONG,10702040,SD,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,15,4,232,11,8,1,1,11,11 Apr 2026 20:59:33,D7198BD07BAE370E8222
+SDN 82 LEBONG,10703092,SD,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,10,1,89,6,6,0,0,16,14 Apr 2026 10:02:10,C07E706F32B888C8CBDD
+SDN 86 LEBONG,69787446,SD,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,9,2,36,6,6,0,0,112,01 May 2026 09:53:43,BA789017BF9FD49BABF9
+SMPN 05 LEBONG,10701995,SMP,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,33,4,367,14,16,3,1,36,15 Apr 2026 11:23:38,6AF384FCC06455D542F3
+SMPN 19 LEBONG,10703093,SMP,Negeri,Kec. Bingin Kuning,260608,Kab. Lebong,260600,Prov. Bengkulu,260000,15,3,92,4,6,1,1,57,25 Apr 2026 09:25:52,B276A7CA2F947902811C

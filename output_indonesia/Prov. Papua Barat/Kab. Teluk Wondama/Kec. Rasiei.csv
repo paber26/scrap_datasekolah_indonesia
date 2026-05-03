@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES TANDIA,60401971,SD,Negeri,Kec. Rasiei,320303,Kab. Teluk Wondama,320300,Prov. Papua Barat,320000,12,1,252,11,10,0,1,14,29 Apr 2026 20:53:05,8C3A575FBE7116B73C93
+SD NEGERI SENDERAWOI,60402002,SD,Negeri,Kec. Rasiei,320303,Kab. Teluk Wondama,320300,Prov. Papua Barat,320000,10,1,56,6,6,0,1,22,11 Mar 2026 18:14:48,1B039190A6B6D29E0C95
+SD NEGERI SIKAMA,70031693,SD,Negeri,Kec. Rasiei,320303,Kab. Teluk Wondama,320300,Prov. Papua Barat,320000,3,1,24,4,4,0,0,4,03 Mar 2026 19:31:41,EEDEB308BDD088B36AF7
+SD YPK RASIEI,60401985,SD,Swasta,Kec. Rasiei,320303,Kab. Teluk Wondama,320300,Prov. Papua Barat,320000,15,1,341,12,12,0,0,22,16 Apr 2026 12:02:17,D5CFFBCB48C313324E1E
+SMP NEGERI DIOPUI,69888415,SMP,Negeri,Kec. Rasiei,320303,Kab. Teluk Wondama,320300,Prov. Papua Barat,320000,11,2,88,5,4,2,1,34,01 May 2026 10:06:49,FC6C3A86550CEC5E0551
+SMP NEGERI RASIEI,60403631,SMP,Negeri,Kec. Rasiei,320303,Kab. Teluk Wondama,320300,Prov. Papua Barat,320000,24,7,291,12,14,3,1,33,21 Apr 2026 18:59:12,C5586409A80683F87164
+SMKN TANDIA,60402011,SMK,Negeri,Kec. Rasiei,320303,Kab. Teluk Wondama,320300,Prov. Papua Barat,320000,24,3,282,12,13,4,1,13,25 Apr 2026 17:20:03,6E165C3A7E41AC6C653A

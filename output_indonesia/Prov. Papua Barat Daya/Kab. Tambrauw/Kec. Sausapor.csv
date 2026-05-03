@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 9 SAUSAPOR,69728598,SD,Negeri,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,16,3,162,7,8,0,1,21,25 Feb 2026 18:44:33,7C025FAEC8C1312F57B2
+SD ADVENT SAUSAPOR,69888658,SD,Swasta,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,10,2,213,8,9,0,0,46,22 Apr 2026 10:04:38,2250A8576FD4560BC19E
+SD AL MA ARIF,69962803,SD,Swasta,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,8,0,95,6,5,1,1,45,04 Apr 2026 20:50:38,4F616208C86E26A6AD18
+SD YPK JOKTE,60404168,SD,Swasta,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,8,2,74,6,6,1,1,23,20 Apr 2026 08:07:26,F1C87065DED20294F8A6
+SD YPK MARANATHA SAUSAPOR,69888661,SD,Swasta,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,11,2,177,8,6,1,1,77,02 May 2026 09:20:37,FCCD25DE5FAF35B5418B
+SD YPPK SANTO GABRIEL,69899798,SD,Swasta,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,10,1,68,6,6,0,1,17,23 Apr 2026 21:01:05,1636D61ED43A6DA1F53A
+SMP NEGERI 1 SAUSAPOR,60401356,SMP,Negeri,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,19,3,205,8,14,2,1,50,16 Apr 2026 06:41:20,273F010395DEDD938A1D
+SMP ADVENT SAUSAPOR,69888664,SMP,Swasta,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,4,1,94,3,3,1,1,11,29 Apr 2026 10:32:26,EC78388B48EB7FB92673
+SMP YPK Maranatha Sausapor,70044684,SMP,Swasta,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,6,1,44,3,3,0,0,19,24 Apr 2026 18:41:25,4335AED24DEC143B5E6E
+SMAN NEGRI 1 SAUSAPOR,60404175,SMA,Negeri,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,25,1,228,10,12,1,1,31,20 Apr 2026 07:29:20,A573BFBD2802E33CA42C
+SMKS ADVENT SAUSAPOR,70004139,SMK,Swasta,Kec. Sausapor,390505,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,8,2,108,7,2,4,1,15,14 Apr 2026 12:38:35,A3C7C3FB5AE8FBA2F268

@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 KARANGAN,30400823,SD,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,21,6,350,16,14,0,1,38,07 Apr 2026 07:59:11,3CCC3CCB017F6391B01D
+SDN 002 KARANGAN,30400826,SD,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,28,12,572,24,24,0,1,31,29 Apr 2026 11:00:13,93D14A18A7C7E28F9EBD
+SDN 003 KARANGAN,30400812,SD,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,8,4,127,6,7,0,1,38,29 Apr 2026 07:49:14,F93DB0D184377FDD1A00
+SDN 004 KARANGAN,30406961,SD,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,8,1,60,6,6,0,0,8,22 Apr 2026 09:36:38,4C1C1E4164A6E1909219
+SDN 005 KARANGAN,30406203,SD,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,16,3,347,14,15,0,1,45,22 Apr 2026 12:10:46,20E2F2DE11442FECB664
+SDN 006 KARANGAN,30409882,SD,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,19,5,333,14,15,0,1,18,29 Apr 2026 10:15:35,714A07ACB51E77548CEB
+SDN 007 KARANGAN,60728658,SD,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,10,1,128,6,6,0,3,72,28 Apr 2026 09:07:33,ECA12E3C052742A43AE9
+SDN 008 KARANGAN,69963131,SD,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,10,4,168,9,9,0,1,11,02 Mar 2026 09:21:38,A7B43AB1F51355E43FED
+SMP NEGERI 1 KARANGAN,30400790,SMP,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,13,6,304,10,12,2,1,17,28 Apr 2026 05:28:22,698295D4F445141B8FAA
+SMP NEGERI 2 KARANGAN,30407763,SMP,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,6,4,90,4,7,2,1,23,24 Apr 2026 07:12:11,953E6A23616C4E26A73C
+SMP NEGERI 3 KARANGAN,69734226,SMP,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,13,5,249,9,10,2,1,17,15 Apr 2026 09:05:58,09D07F84A55B4AB5D9E6
+SMP ISLAM NUR ANNISA KARANGAN,69982488,SMP,Swasta,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,3,6,53,3,4,0,1,22,24 Apr 2026 12:25:30,3A22F7E89667D943889A
+SMA NEGERI 1 KARANGAN,69991407,SMA,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,10,5,133,5,6,2,1,19,22 Apr 2026 11:03:33,098A3D3A6ADF9536198A
+SMKN 1 KARANGAN,30405621,SMK,Negeri,Kec. Karangan,161017,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,12,5,234,7,8,1,1,21,30 Apr 2026 11:16:02,58CC4E832993850E5755

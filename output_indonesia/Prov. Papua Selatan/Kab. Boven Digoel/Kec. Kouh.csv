@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPPGI KAWAGIT,60302095,SD,Swasta,Kec. Kouh,370204,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,3,1,68,6,6,0,1,41,28 Apr 2026 20:02:22,A31EDDFE68CA1281669A
+SD YPPGI KOUH,60302097,SD,Swasta,Kec. Kouh,370204,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,4,1,259,9,8,0,1,39,20 Apr 2026 19:47:35,A74674B4DC806B527D92
+SMP YPPGI KOUH,60302146,SMP,Swasta,Kec. Kouh,370204,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,5,1,44,3,10,1,1,31,25 Apr 2026 17:48:46,9092747E550195A3F196

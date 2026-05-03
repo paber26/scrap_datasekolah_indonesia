@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 KIKIM TENGAH,10601412,SD,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,4,208,7,10,0,1,13,09 Feb 2026 09:23:44,9322BD4E4ECFEAE0CB7B
+SDN 2 KIKIM TENGAH,10601096,SD,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,8,148,6,7,1,1,29,23 Apr 2026 09:36:54,686A41A5D7F1C2C7D9C5
+SDN 3 KIKIM TENGAH,10644014,SD,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,16,6,259,12,12,0,1,27,20 Apr 2026 16:14:18,A7D36435E45BE8FCBA66
+SDN 4 KIKIM TENGAH,10601103,SD,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,5,147,7,9,0,1,23,24 Apr 2026 10:07:40,033CF0B41B98ACB43E0E
+SDN 5 KIKIM TENGAH,10601435,SD,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,4,102,6,6,0,1,34,28 Apr 2026 11:37:56,4737E6E352012A7D9CFC
+SDN 6 KIKIM TENGAH,10644015,SD,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,2,124,6,6,0,1,16,06 Mar 2026 22:10:53,65FAE5B1228806DAC2A6
+SMPN 1 KIKIM TENGAH,10601334,SMP,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,23,13,307,11,13,2,1,49,17 Apr 2026 09:51:54,24D029193F0683B8EECF
+SMPN 2 KIKIM TENGAH,10645046,SMP,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,13,4,119,6,6,2,1,14,07 Mar 2026 14:19:33,09A5942A4D540B5C3019
+SMAN 1 KIKIM TENGAH,10645759,SMA,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,16,10,141,6,11,4,1,31,01 May 2026 09:22:52,B63651D7FBB68149EF8C
+SMAN 2 KIKIM TENGAH,10601445,SMA,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,18,5,119,6,7,1,1,29,23 Apr 2026 08:55:59,9B32117993926A8753D1
+SMKN 1 KIKIM TENGAH,10646870,SMK,Negeri,Kec. Kikim Tengah,110521,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,23,6,282,11,14,2,1,11,07 Mar 2026 21:22:25,5B7FA7C645D294E91986

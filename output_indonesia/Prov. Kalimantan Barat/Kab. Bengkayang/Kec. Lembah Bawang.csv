@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 PAPAN UDUK,30103969,SD,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,1,104,6,6,0,1,11,27 Apr 2026 09:31:01,FBFA589D4BCC1C998B33
+SD NEGERI 02 SEJARUK PARAM,30103981,SD,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,5,1,98,6,9,0,1,21,07 Apr 2026 21:21:23,477054354C73E477390D
+SD NEGERI 03 BAKUAN,30104090,SD,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,10,1,81,6,6,0,1,12,01 May 2026 12:57:00,65622FDA86D707B94772
+SD NEGERI 04 KINANDE,30103974,SD,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,4,3,106,6,4,0,1,8,06 Apr 2026 10:20:17,C5BD4C5FA2B5A43252F1
+SD NEGERI 05 JERNANG,30103980,SD,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,1,136,6,6,0,1,1,17 Apr 2026 19:28:04,65EDD22DE13F18A9F64E
+SD NEGERI 06 PACONG,30104069,SD,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,7,1,104,6,6,0,1,9,24 Apr 2026 17:47:03,C95B96F42E838B2AE0F6
+SD NEGERI 07 CUMBU,30104066,SD,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,3,1,16,6,6,0,0,22,05 Apr 2026 16:32:21,EEB4F261B2E2A768776B
+SD DARMEX KINANDE,69990049,SD,Swasta,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,3,1,52,6,6,0,0,5,22 Mar 2026 20:25:40,FD4A7653A633171CF058
+SMP NEGERI 1 LEMBAH BAWANG,30104046,SMP,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,2,107,5,7,1,1,40,23 Apr 2026 19:31:46,D43A713A098136D35B8A
+SMP NEGERI 2 LEMBAH BAWANG,30108572,SMP,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,10,1,84,4,3,1,1,12,26 Feb 2026 21:34:55,644EF0905FF3E39A842B
+SMP NEGERI 3 LEMBAH BAWANG,69897129,SMP,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,8,1,97,4,6,2,1,12,13 Apr 2026 21:31:49,E5F56806D4CD84CBB639
+SMAN 1 LEMBAH BAWANG,69831556,SMA,Negeri,Kec. Lembah Bawang,130816,Kab. Bengkayang,130800,Prov. Kalimantan Barat,130000,17,3,104,6,6,2,1,21,30 Apr 2026 12:52:16,CBB1006E16B5C3D74E3E

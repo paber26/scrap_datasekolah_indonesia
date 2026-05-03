@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 TIWORO UTARA,40400901,SD,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,8,0,107,6,7,0,1,15,11 Mar 2026 16:48:40,7C629E94832ABCCFF1EF
+SDN 2 TIWORO UTARA,40400614,SD,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,12,0,63,6,4,0,1,6,20 Mar 2026 06:41:42,0EAFE68D7404C26F8ABB
+SDN 3 TIWORO UTARA,40400635,SD,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,2,195,9,11,1,1,18,02 Apr 2026 06:56:30,FF7815DBFD4C6AC00E5E
+SDN 4 TIWORO UTARA,40400601,SD,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,0,76,6,6,0,1,21,25 Apr 2026 13:35:49,1718F05CCCD3DADB1477
+SDN 5 TIWORO UTARA,40400787,SD,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,0,117,6,6,0,1,15,08 Apr 2026 19:57:26,DA2A6590E402F144E7B7
+SDN 6 TIWORO UTARA,40400936,SD,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,9,0,53,6,6,0,0,19,04 Apr 2026 21:24:48,3270E1C2B6B94FCD535D
+SDN 7 TIWORO UTARA,40400943,SD,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,0,106,6,6,0,1,15,23 Apr 2026 08:34:06,1E1D7C982C7F3EEF8CFF
+SDN 8 TIWORO UTARA,69957369,SD,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,9,1,40,6,6,0,0,9,13 Mar 2026 21:25:32,E82148CF65EC321234A7
+SMPN 1 TIWORO UTARA,40404645,SMP,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,0,65,3,3,1,1,37,29 Apr 2026 17:56:24,E1F44FF418F91AB3DFB2
+SMPN 2 TIWORO UTARA,69902189,SMP,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,15,0,106,6,8,2,1,12,02 Apr 2026 22:33:59,EEDE0F8837D8197C6A33
+SMPN SATAP 1 TIWORO UTARA,40403528,SMP,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,4,50,3,4,4,3,9,02 Mar 2026 16:35:36,693FF4275BB00E857E5C
+SMPN SATAP 2 TIWORO UTARA,40404725,SMP,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,8,1,24,3,2,2,1,7,11 Mar 2026 16:59:29,CA2537C7F660F355AFBC
+SMPN SATAP 3 TIWORO UTARA,69892241,SMP,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,10,1,20,3,3,1,0,21,03 Apr 2026 09:54:00,AAC14EE9A9A0FE7BFC71
+SMPN SATAP 4 TIWORO UTARA,69786275,SMP,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,13,3,35,3,3,3,1,14,30 Apr 2026 17:55:46,5CD51B9B59782718AD97
+SMPN SATAP 5 TIWORO UTARA,69957368,SMP,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,15,0,21,3,4,0,0,26,28 Apr 2026 20:02:07,E622D2D0C3371F647FF0
+SMKN 2 MUNA BARAT,40402944,SMK,Negeri,Kec. Tiworo Utara,201309,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,39,5,206,14,14,4,1,38,26 Apr 2026 19:25:42,056632AE00DED27CA51E

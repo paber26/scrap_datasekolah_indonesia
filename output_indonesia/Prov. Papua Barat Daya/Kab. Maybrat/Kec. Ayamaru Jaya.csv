@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 111 TEMEL,60401648,SD,Negeri,Kec. Ayamaru Jaya,390116,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,9,1,60,6,7,0,1,8,14 Mar 2026 20:27:16,BD5EF6887954988F6469
+SD YPK ARUS,60403945,SD,Swasta,Kec. Ayamaru Jaya,390116,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,4,1,55,6,6,0,1,70,11 Apr 2026 05:25:53,D959F3649B10CAA557E7
+SD YPK SEGIOR,60401723,SD,Swasta,Kec. Ayamaru Jaya,390116,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,7,0,69,6,6,0,1,19,28 Apr 2026 07:03:30,DB6E7695D7DCBB10B6E9

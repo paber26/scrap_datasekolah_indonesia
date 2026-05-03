@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 PADANG LAWEH,10303355,SD,Negeri,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,10,2,103,6,6,0,1,10,14 Apr 2026 08:21:31,FB5206A55552821AF976
+SDN 02 PADANG LAWEH,10303251,SD,Negeri,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,7,3,89,6,7,0,1,16,03 Mar 2026 23:12:59,544885EC49DB2A3815BE
+SDN 03 PADANG LAWEH,10303181,SD,Negeri,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,8,3,51,6,6,0,1,11,21 Apr 2026 13:36:49,19E3F3C9B4E79766E9B1
+SDN 04 PADANG LAWEH,10303242,SD,Negeri,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,19,3,355,14,20,0,1,26,28 Apr 2026 08:20:01,2B1C806C090F4A1A5FB8
+SDN 05 PADANG LAWEH,69945861,SD,Negeri,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,10,3,138,6,6,0,1,5,10 Feb 2026 12:23:54,8367F4243B31584FB0BF
+SD ISLAM MIFTAHUL ULUM,70015036,SD,Swasta,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,7,1,70,6,6,0,0,15,30 Apr 2026 13:53:58,84EF8C70F3E0C6279B14
+SMPN 1 PADANG LAWEH,10308172,SMP,Negeri,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,13,6,183,7,7,2,1,45,16 Apr 2026 15:52:14,7372D04E5F81D038C7F6
+SMP QURAN MIFTAHUL ULUM,70057490,SMP,Swasta,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,4,1,0,0,0,0,0,0,,DBB1BE28F7ACA3A05BED
+SMKN 1 PADANG LAWEH,69986158,SMK,Negeri,Kec. Padang Laweh,081209,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,12,3,74,6,7,5,1,41,06 Mar 2026 08:59:33,4B0C4F58E0D60902A9F9

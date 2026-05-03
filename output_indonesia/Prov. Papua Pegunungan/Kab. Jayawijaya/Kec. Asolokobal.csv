@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MEGAPURA,60301431,SD,Negeri,Kec. Asolokobal,380109,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,13,1,277,11,9,0,1,28,22 Apr 2026 08:12:07,EDBEC375B56ECA283D83
+SD INPRES UPIAGAIMA,60301469,SD,Negeri,Kec. Asolokobal,380109,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,8,4,72,6,6,0,1,18,30 Apr 2026 10:51:34,0DB56E1C8D2695C2E77E
+SD ANUGERAH WIAIMA,70052033,SD,Swasta,Kec. Asolokobal,380109,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,3,1,40,6,1,0,0,12,11 Feb 2026 11:06:07,09680C24F858AE00A918
+SD YPPK SANTO MICHAEL HEPUBA,60301531,SD,Swasta,Kec. Asolokobal,380109,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,7,1,150,6,6,0,2,60,01 May 2026 21:39:19,48A5540890D78E6B4451

@@ -1,0 +1,24 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BIJOBA,50300884,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,3,43,6,6,0,2,15,29 Apr 2026 13:58:28,EAA0B106B9ADDAFC5A72
+SD INPRES BISENE,50306912,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,1,59,6,6,0,1,12,06 Mar 2026 21:40:20,50A8D2371009709A4A4B
+SD INPRES ENOBESA,50300865,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,2,88,6,6,0,1,24,19 Apr 2026 15:51:40,1538DBFF718B51F2CCF1
+SD INPRES KLOFO,50300918,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,19,4,89,6,9,0,1,32,18 Apr 2026 20:29:32,5CD76BB5C2F7ABB78EF7
+SD INPRES NENONAHEUN,50300805,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,14,4,150,7,6,0,1,45,14 Apr 2026 10:48:39,DFEDA5F448527AF7A7AE
+SD INPRES SISO,50300518,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,3,100,6,6,0,1,19,24 Apr 2026 08:23:35,4A0EDCDECE3E560C9EE5
+SD NEGERI AENUT,69988045,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,46,6,6,0,0,32,29 Apr 2026 20:29:34,72CD054B20149DF8ADF8
+SD NEGERI KESETNANA,50307066,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,28,7,447,18,13,0,1,61,11 Apr 2026 12:15:36,4B10A8653FACC471F006
+SD NEGERI NEKMESE,69987834,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,1,38,6,5,0,0,5,11 Apr 2026 08:02:22,AF9DB71B690B5699761B
+SD NEGERI OEBEKO,50307105,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,1,97,6,8,0,1,15,01 May 2026 19:18:09,2DB44D364B97C4D90202
+SD NEGERI OEKLANI,69987351,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,4,73,6,3,0,1,24,09 Apr 2026 11:01:58,308A7EE367C1BE74020F
+SD NEGERI PENMINA,50307131,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,4,145,6,8,0,1,24,15 Apr 2026 07:46:15,76A12AC0DAF5436C5689
+SD NEGERI TUASENE,50307150,SD,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,4,117,6,6,0,1,44,28 Apr 2026 08:19:20,30BA7DF6FAE1FE10A43D
+SD GMIT BAKITBA,50300766,SD,Swasta,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,4,119,6,6,0,1,17,13 Apr 2026 11:11:39,411AFCADCC884C3D9349
+SD GMIT BILOTO,50300744,SD,Swasta,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,2,50,6,6,0,0,18,04 Apr 2026 20:56:30,5C7E8B599C81DAF5C2AA
+SMP NEGERI 1 MOLLO SELATAN,50307201,SMP,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,21,4,148,6,9,2,1,17,22 Apr 2026 10:30:27,063532364773B19E0BA9
+SMP NEGERI 2 MOLLO SELATAN,69987111,SMP,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,14,4,72,3,6,1,1,36,21 Apr 2026 18:57:52,D1E9F3462939D426AC16
+SMP NEGERI SATU ATAP PENMINA,50307259,SMP,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,17,2,109,5,6,2,3,22,13 Apr 2026 07:20:41,30725258A6510AE03D34
+SMP NEGERI SISO,50300623,SMP,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,4,63,3,11,1,2,25,17 Apr 2026 04:01:03,B0E3A597DD7B38A0EBF4
+SMP KRISTEN 1 MOLLO SELATAN,50300570,SMP,Swasta,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,4,170,7,11,2,1,28,20 Apr 2026 15:44:28,20510A61E1967E178AC1
+SMAN 1 MOLLO SELATAN,50300585,SMA,Negeri,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,40,9,313,10,17,5,1,56,21 Apr 2026 12:48:13,2F230F811582D8098CCF
+SMA KRISTEN KESETNANA,69934104,SMA,Swasta,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,19,1,285,10,3,1,0,75,01 May 2026 11:38:24,7D35576655DA1C5E0B30
+SMAS KARYA SOE,50300665,SMA,Swasta,Kec. Mollo Selatan,240302,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,4,192,8,10,4,1,19,30 Apr 2026 09:16:10,BC554D7AEA4EA71A6D85

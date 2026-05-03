@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 1 KAMARORA,40200761,SD,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,2,97,6,6,0,2,55,17 Apr 2026 07:21:31,66A0643B779DCC6953C7
+SD INPRES 2 KAMARORA,40200831,SD,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,2,99,6,6,0,1,9,08 Apr 2026 14:47:58,5E9488DBB9A5386F34BE
+SD INPRES KADIDIA,40201048,SD,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,8,2,49,6,6,0,1,9,23 Apr 2026 07:49:54,CEFFB86423DCDE8D63BA
+SD INPRES SOPU,40200941,SD,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,10,2,95,6,6,0,1,27,27 Apr 2026 07:39:41,A356E75635D84E2C981D
+SD INPRES WATUBOSE,40201015,SD,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,7,2,53,6,6,0,0,20,25 Apr 2026 11:30:42,9E497A1C30C4F965461F
+SD NEGERI BULILI,69982483,SD,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,0,61,6,4,0,0,25,29 Apr 2026 13:23:33,15CEBC1B7246B6910BE1
+SD BALA KESELAMATAN KAMARORA,40200902,SD,Swasta,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,9,2,303,12,13,0,1,23,15 Mar 2026 12:47:40,B0764BA17253BFC32951
+SMP NEGERI 17 SIGI,40200656,SMP,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,17,5,198,8,9,1,1,48,15 Apr 2026 05:24:53,709B4C99EE51ECB00228
+SMP SATAP NEGERI 1 SIGI,40204587,SMP,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,8,0,55,3,3,0,1,24,09 Apr 2026 13:19:15,DF42DE5082B57B3E0C0A
+SMP DDI WATUBOSE,40206190,SMP,Swasta,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,2,1,4,3,3,0,1,2,28 Jan 2026 08:39:00,430F2E1B81400C62E7A6
+SMK NEGERI 4 SIGI,69964003,SMK,Negeri,Kec. Nokilalaki,181006,Kab. Sigi,181000,Prov. Sulawesi Tengah,180000,14,3,84,4,5,1,1,72,20 Apr 2026 18:41:20,AFFA7626B83BED2E2655

@@ -1,0 +1,40 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BANGKONO,50300725,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,2,38,6,6,0,1,26,22 Apr 2026 11:34:26,EEDCDD16196C69FD01E8
+SD INPRES BATNUN,50300876,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,5,71,6,6,0,0,22,07 Apr 2026 20:57:54,EE4A40DE9A9B1EEA2B19
+SD INPRES BESTOBE,50300883,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,3,150,7,7,0,1,15,17 Apr 2026 07:19:08,4B13BC97A424FBDF8AEE
+SD INPRES HAUSUNAF,50300910,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,1,139,6,6,0,0,18,14 Apr 2026 10:17:08,C564002FAE433CA1FFCE
+SD INPRES HAUTEAS,50300911,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,2,157,6,7,0,1,44,06 Mar 2026 14:44:30,11DF774EC68C1B99E587
+SD INPRES KIUBAAT,50300914,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,2,121,6,9,0,0,12,12 Apr 2026 19:32:00,EF3EC09A978BCA92232E
+SD INPRES MAISKOLEN,50300901,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,5,257,8,12,0,0,10,01 May 2026 18:34:43,F4CCA81D53235E512719
+SD INPRES MIO,50300821,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,3,112,6,6,0,1,32,21 Apr 2026 09:07:05,18A53CE574F22EEBC8D9
+SD INPRES OEBOI,50300833,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,1,83,6,6,0,1,18,23 Apr 2026 08:53:14,F35B060C0B6AD648FDA2
+SD INPRES OENOAH,50300528,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,1,66,6,9,0,1,7,24 Jan 2026 13:59:31,430FAA027DBB474302B7
+SD INPRES PANITE II,50300519,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,3,209,9,7,0,1,29,02 May 2026 14:31:33,0AD2069A28CDF47CD5ED
+SD INPRES POLLO,50300509,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,17,3,256,12,12,0,1,19,28 Apr 2026 08:06:13,39A380A818683D2CD176
+SD INPRES TOINUNUH,50300540,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,108,6,6,0,1,36,30 Apr 2026 19:44:27,ABD8917905A96CB553FB
+SD INPRES TUAPANAN,50306984,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,0,156,6,6,0,1,6,28 Jan 2026 22:11:14,23757613CE8A0378E698
+SD NEGERI KIUUTENU,50309544,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,3,140,6,6,0,0,13,20 Apr 2026 11:04:58,100D72962A06061F6834
+SD NEGERI KOBEKAKA,50305390,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,5,139,6,7,0,0,21,08 Apr 2026 17:52:50,3023708F90C8D209A5AB
+SD NEGERI OEAYO,50307104,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,5,53,6,6,0,0,28,05 Apr 2026 20:17:18,757A0EEF253C22CFF0B8
+SD NEGERI OEBELO,50305387,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,22,3,289,12,11,0,0,43,25 Apr 2026 17:23:15,30E720A31C7B9454DE9D
+SD NEGERI OEKIU,50305385,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,4,82,6,8,0,0,23,01 May 2026 22:46:59,AEF3202058D1F6555245
+SD NEGERI OENONI,50307121,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,0,42,6,6,0,0,39,06 Apr 2026 22:28:36,2770A7D205FB0770C579
+SD NEGERI OETAMAN,50307122,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,15,2,197,9,9,0,0,19,13 Apr 2026 11:02:16,442B5E2DDB1E343BEADB
+SD NEGERI TOIFAU,69728275,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,14,2,147,7,10,0,1,12,02 May 2026 13:57:58,CE730940309F043E5A9C
+SD NEGERI TUATENU,69989748,SD,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,2,53,6,6,0,0,24,01 May 2026 12:21:17,ED391B4ED0908FB03162
+SD GMIT NOEMUKE,50300701,SD,Swasta,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,1,101,6,7,0,0,7,18 Feb 2026 19:33:57,AE4CECC1C3FDDFBAF10B
+SD GMIT OEUPUN,50300691,SD,Swasta,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,2,3,85,6,6,0,1,4,12 Apr 2026 21:05:48,B716BB319B41153916C9
+SD GMIT PANITE 1,50306855,SD,Swasta,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,179,8,11,0,1,16,14 Apr 2026 08:01:41,A4A465BEC7153C6D224E
+SD KATOLIK ST KANISIUS PANITE,50300470,SD,Swasta,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,4,158,6,6,0,1,28,27 Apr 2026 11:14:10,02C6E4721378AFDCFB43
+SMP NEGERI 1 AMANUBAN SELATAN,50300619,SMP,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,41,3,478,16,19,2,1,48,29 Apr 2026 19:33:29,DADDF008C48ECA3CDFB7
+SMP NEGERI KIUBAAT,69966405,SMP,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,3,99,4,3,1,1,54,22 Apr 2026 08:49:06,3291BA0C2447398C8FF7
+SMP NEGERI KOBEKAKA,50309176,SMP,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,4,103,6,6,0,1,16,16 Apr 2026 02:45:30,469DD40A42BD9AB55CD6
+SMP NEGERI LINAMNUTU,69987477,SMP,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,15,7,131,6,8,1,1,27,24 Apr 2026 18:29:19,312DA7A1E90909550EFD
+SMP NEGERI NOEMUKE,50307226,SMP,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,18,5,138,6,9,1,1,33,17 Apr 2026 07:11:16,D76EDB387FB487337F71
+SMP NEGERI SATU ATAP HAUTIMU,69987918,SMP,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,5,64,3,3,1,1,32,22 Apr 2026 07:29:29,2409D88B118E3B1F0B4E
+SMP NEGERI SATU ATAP OEBELO,50307248,SMP,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,21,4,217,8,5,2,1,39,29 Apr 2026 20:36:46,0BD25C952ECBB7A31C93
+SMP SWASTA AMANEKTO OEKIU,69979691,SMP,Swasta,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,28,3,3,0,0,27,20 Apr 2026 14:27:33,C1CF26561E506194C815
+SMP SWASTA KRISTEN 1 AMANUBAN SELATAN,50307177,SMP,Swasta,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,14,4,171,6,7,0,1,39,01 May 2026 18:22:42,5534BC2884A25CA90A31
+SMA NEGERI KIUBAAT,70006452,SMA,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,18,5,182,7,7,0,1,22,30 Apr 2026 08:04:05,0D9EDB7628189E2DA4D6
+SMAN 1 AMANUBAN SELATAN,50300583,SMA,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,36,10,545,17,21,1,1,52,28 Apr 2026 07:23:51,A1CB510CA38830967DA6
+SMK NEGERI POLLO,70006278,SMK,Negeri,Kec. Amanuban Selatan,240305,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,21,2,68,8,1,0,1,36,30 Mar 2026 12:21:22,B0DF201B4901FDC2C586

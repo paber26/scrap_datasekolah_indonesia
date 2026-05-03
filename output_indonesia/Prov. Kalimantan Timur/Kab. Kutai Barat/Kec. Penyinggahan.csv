@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 PENYINGGAHAN,30402095,SD,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,9,4,107,6,6,1,1,35,10 Apr 2026 08:47:41,A5212F71D4A63105E38B
+SD NEGERI 002 PENYINGGAHAN,30402103,SD,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,7,3,83,6,6,0,1,13,09 Apr 2026 07:17:50,E5B1C33D6CEB2A8FF32D
+SD NEGERI 003 PENYINGGAHAN,30402114,SD,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,8,5,69,6,6,0,1,33,28 Apr 2026 07:33:01,8478EE28B902E0304C9B
+SD NEGERI 004 PENYINGGAHAN,30402128,SD,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,10,3,47,6,6,0,1,12,20 Apr 2026 10:44:36,3865022C5CF7C2557581
+SD NEGERI 005 PENYINGGAHAN,30402148,SD,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,7,3,44,6,6,0,1,8,29 Apr 2026 13:05:34,1204B32CBE17FA2C884F
+SD NEGERI 006 PENYINGGAHAN,30402149,SD,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,8,2,56,6,6,0,1,11,16 Apr 2026 11:13:14,4612E8FB651F90FFA831
+SMP NEGERI 1 PENYINGGAHAN ILIR,30400621,SMP,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,10,11,118,4,5,3,1,17,18 Apr 2026 16:18:58,A1D0CEB9E4CCB324C02C
+SMP NEGERI 2 MINTA,30406584,SMP,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,11,6,58,3,3,2,1,38,30 Apr 2026 13:01:12,C651901AF5944F36D7C3
+SMAN 1 PENYINGGAHAN,30400557,SMA,Negeri,Kec. Penyinggahan,160903,Kab. Kutai Barat,160900,Prov. Kalimantan Timur,160000,16,13,151,6,8,5,1,22,05 Mar 2026 12:33:44,7CA72C5220289D4FEF09

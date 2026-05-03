@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 SERASAN,11002364,SD,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,7,3,103,6,8,1,1,22,29 Apr 2026 11:14:52,09A75403C1199C33867F
+SD NEGERI 002 SERASAN,11001165,SD,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,4,79,6,6,0,1,20,14 Apr 2026 05:38:27,77925F49ADCC4550DE43
+SD NEGERI 003 TANJUNG BALAU,11001191,SD,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,6,45,6,6,0,1,4,26 Apr 2026 15:26:18,6FC3F3A80B942D6FFD03
+SD NEGERI 004 JERMALIK,11001197,SD,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,9,6,44,6,6,0,1,15,20 Apr 2026 08:52:52,3B7CDC746AACCE5D2999
+SD NEGERI 005 PANGKALAN,11001311,SD,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,7,41,6,8,0,1,28,01 May 2026 18:56:39,B1A4600D344F15A36787
+SD NEGERI 006 BATU BERIAN,11001316,SD,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,5,84,6,7,0,1,17,03 Apr 2026 00:31:35,369F3ACF6C6EABED695D
+SD NEGERI 007 HILIR,11001328,SD,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,9,7,97,6,6,0,2,18,28 Apr 2026 10:48:26,BB498AAF611C28C9EE7E
+SMP NEGERI 1 SERASAN,11000325,SMP,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,14,10,177,6,12,3,1,35,20 Apr 2026 12:29:34,FD61AC448C647C96AB73
+SMP NEGERI 2 SERASAN,69978814,SMP,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,9,7,33,3,3,0,0,26,21 Apr 2026 10:02:40,785C35CD141435FC6353
+SMP NEGERI 3 SERASAN,69978813,SMP,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,7,44,3,3,0,0,17,12 Mar 2026 21:56:04,76BDAD859382A638A282
+SMAN 1 SERASAN,11002047,SMA,Negeri,Kec. Serasan,310306,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,25,16,285,10,12,3,1,58,30 Apr 2026 21:30:49,7BDA910A4B32E84CA4D6

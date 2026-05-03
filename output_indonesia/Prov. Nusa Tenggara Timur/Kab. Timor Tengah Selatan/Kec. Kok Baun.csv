@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SANTAIN,50306899,SD,Negeri,Kec. Kok Baun,240324,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,4,87,6,6,0,0,16,17 Apr 2026 22:49:42,EBAFD2CBD3C1F1CA2A9D
+SD NEGERI LOTAS,50307017,SD,Negeri,Kec. Kok Baun,240324,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,2,62,6,6,0,0,53,17 Apr 2026 17:23:45,91B2BEDF0EB30E4704BF
+SD NEGERI OBAKI,69988513,SD,Negeri,Kec. Kok Baun,240324,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,65,6,6,0,0,34,02 Apr 2026 05:50:41,861418B07F0CA1589A7F
+SD GMIT SAPNALA,50306810,SD,Swasta,Kec. Kok Baun,240324,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,4,141,6,6,1,1,54,20 Apr 2026 17:48:45,B068620B92FF5263675A
+SD KATHOLIK YASWARI KUANNOE,50306994,SD,Swasta,Kec. Kok Baun,240324,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,1,81,6,6,0,0,9,22 Apr 2026 21:06:36,C1B4A2CA53E484106EF3
+SMP NEGERI LOTAS,50307223,SMP,Negeri,Kec. Kok Baun,240324,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,3,123,5,6,1,1,46,29 Apr 2026 11:21:45,540718CC771C35C45D16
+SMP NEGERI NITI,70037403,SMP,Negeri,Kec. Kok Baun,240324,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,4,70,3,5,0,0,17,05 Mar 2026 20:17:27,24E1C84C16F3AC68658D
+SMAN Kokbaun,69985439,SMA,Negeri,Kec. Kok Baun,240324,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,4,93,4,4,0,0,17,20 Apr 2026 07:38:23,F545543BAC14B0DE245C

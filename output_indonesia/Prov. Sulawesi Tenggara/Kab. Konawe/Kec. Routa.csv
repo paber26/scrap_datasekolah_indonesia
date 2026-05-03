@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI LALOMERUI,40405730,SD,Negeri,Kec. Routa,200139,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,4,55,6,3,0,0,11,29 Apr 2026 09:42:30,FAD17C0F4D70808AA12C
+SD NEGERI PARUBELA,40400288,SD,Negeri,Kec. Routa,200139,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,3,149,7,3,0,1,22,12 Apr 2026 12:18:23,E97DF5DFAAF57FDE9C5A
+SD NEGERI POLIHE,40400292,SD,Negeri,Kec. Routa,200139,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,4,173,8,6,0,1,21,01 May 2026 08:34:54,BE007C94F68DEC6AEC1D
+SD NEGERI ROUTA,40400286,SD,Negeri,Kec. Routa,200139,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,3,129,7,6,0,0,20,12 Apr 2026 21:04:29,A5FC527CDBDE5AA44AD9
+SD NEGERI WIWIRANO ATAS,40404072,SD,Negeri,Kec. Routa,200139,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,2,65,6,6,0,0,12,14 Apr 2026 07:14:34,7B3ACD724B52C431BF33
+SMP NEGERI 2 ROUTA,69966455,SMP,Negeri,Kec. Routa,200139,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,2,14,3,3,2,1,27,28 Apr 2026 19:24:27,26F2641CAC3A7AF3B4D9
+SMP NEGERI ROUTA,40404661,SMP,Negeri,Kec. Routa,200139,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,3,45,3,3,1,1,21,20 Apr 2026 13:41:57,B0DDB88E389076D39B31
+SMAN 1 ROUTA,69759039,SMA,Negeri,Kec. Routa,200139,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,8,1,53,3,3,5,1,17,28 Apr 2026 06:54:46,E85ACAB704500B720E37

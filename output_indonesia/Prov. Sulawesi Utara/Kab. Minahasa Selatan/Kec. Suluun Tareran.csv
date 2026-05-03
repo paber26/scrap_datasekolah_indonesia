@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KAPOYA,40101937,SD,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,3,47,6,6,0,0,11,12 Feb 2026 14:38:43,79CBC7931F53F8F10A98
+SD INPRES PINAPALANGKOW,40101959,SD,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,33,6,6,0,1,39,23 Apr 2026 13:11:10,085BDF9B712FB3DC41D9
+SD INPRES SULUUN SATU,40101946,SD,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,26,6,6,0,1,5,07 Mar 2026 17:18:02,05C471061D6625461171
+SD NEGERI TALAITAD,40101884,SD,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,0,33,6,9,0,1,8,25 Feb 2026 08:15:22,8B4FBD97AA1DABA39974
+SD ADVENT TALAITAD,40102163,SD,Swasta,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,4,1,26,6,6,0,1,4,21 Jan 2026 16:42:11,915827ECFB30EF155F9D
+SD GMIM 1 SULUUN,40102190,SD,Swasta,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,4,1,56,6,6,0,1,5,07 Mar 2026 16:51:54,D32CFF2420D4CD3B2F62
+SD GMIM 2 SULUUN,40102168,SD,Swasta,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,4,1,106,6,6,0,1,19,22 Apr 2026 15:54:49,2DCA240C760BF7CE6243
+SD GMIM KAPOYA,40102175,SD,Swasta,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,5,2,54,6,6,0,1,12,26 Feb 2026 20:26:59,0B4E3B98BEB5B11F88BE
+SD GMIM PINAPALANGKOW,40102128,SD,Swasta,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,4,1,44,6,6,0,1,13,26 Apr 2026 08:32:04,52FA1030AC87C566B4B1
+SD GMIM TALAITAD,40102116,SD,Swasta,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,28,6,6,0,1,8,17 Apr 2026 08:15:36,B19A46F60A78017F750A
+SD GP SULUUN,40102267,SD,Swasta,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,2,1,51,6,6,0,1,8,14 Apr 2026 17:04:01,FD1C1B82D591F685B5A1
+SMP NEGERI 1 SULUUN TARERAN,40102055,SMP,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,2,96,5,6,4,1,21,23 Apr 2026 07:22:57,E44B1A44307818A9E37C
+SMP NEGERI 2 SULUUN TARERAN,40101968,SMP,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,2,63,3,3,1,1,17,13 Mar 2026 11:16:55,2B08E559C49A4CB8CCFD
+SMP NEGERI 3 SULUUN TARERAN,40101982,SMP,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,46,3,6,1,1,13,11 Mar 2026 07:11:37,E4CCD0D1903AFE12A5BA
+SMP NEGERI 4 SULUUN TARERAN  (SATAP),40105015,SMP,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,0,31,3,3,0,0,9,26 Apr 2026 08:54:07,7E21A8F4E2D2D86D9CE7
+SMAS KRISTEN SULUUN,40102011,SMA,Swasta,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,5,2,26,3,6,2,1,43,26 Apr 2026 15:50:23,D4F91FEF7A37FB05D11F
+SMK NEGERI 1 SULUUN TARERAN,40103908,SMK,Negeri,Kec. Suluun Tareran,170522,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,12,6,53,9,4,2,0,12,28 Apr 2026 08:04:22,3A7B19957AD37580B652

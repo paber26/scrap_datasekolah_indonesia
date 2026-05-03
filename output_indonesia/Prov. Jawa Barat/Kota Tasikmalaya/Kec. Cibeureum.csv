@@ -1,0 +1,36 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 Awipari,20224497,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,2,307,12,11,0,1,30,25 Apr 2026 11:03:35,51C48B223BED93365C3F
+SDN 1 Karangsambung,20224371,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,2,258,11,8,0,0,37,30 Apr 2026 21:59:03,9F28774E4CA99DA7FA5D
+SDN 1 Kersanagara,20224386,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,2,140,6,6,0,1,21,24 Apr 2026 16:44:21,5ECED97691B49DF5240D
+SDN 1 Siluman,20224667,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,16,2,429,13,11,0,2,56,07 Apr 2026 10:44:17,02911713E6B24BC27551
+SDN 2 Awipari,20224496,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,13,2,235,11,5,0,1,24,02 May 2026 06:03:12,55504B8184B90EB066D7
+SDN 2 Karangsambung,20224370,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,3,230,7,7,0,0,17,02 May 2026 09:22:00,E4B0B90A89BDAD4927B0
+SDN 2 Kersanagara,20224387,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,1,149,6,6,0,1,34,18 Apr 2026 21:26:53,D29CBCA3D259DE8434A3
+SDN 2 Siluman,20224616,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,24,4,526,19,17,0,2,39,16 Apr 2026 08:32:20,ED42EB18D94FE07AAA5F
+SDN 3 Karangsambung,20224369,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,3,149,6,8,0,0,115,01 May 2026 20:07:33,B15DE8E963ADDC1ADF67
+SDN 4 Karangsambung,20224368,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,15,2,312,12,6,0,1,34,01 May 2026 08:55:38,1A395B4B7D2AB6EFBD1F
+SDN Bantargedang,20224491,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,6,2,195,6,8,0,0,14,01 Apr 2026 00:53:56,86DC5CBE3F8DBEC1BAF3
+SDN Cibangun Kidul,20224464,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,2,100,6,6,0,1,81,07 Apr 2026 13:01:00,C385B063E185A78C8176
+SDN Cibeureum,20224474,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,16,4,338,12,15,0,1,16,06 Apr 2026 08:36:23,BBE5D12690C13CA48D0A
+SDN Condong,20224329,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,1,267,12,10,0,1,11,05 Apr 2026 14:01:44,FFDF2F9F05F2BC3DAD45
+SDN Kotabaru,20224382,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,3,237,10,6,0,1,20,02 Apr 2026 05:13:14,EEB22527D434E8679798
+SDN Margamulya,20224362,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,2,83,6,6,0,1,16,24 Apr 2026 10:48:31,51FE92380E6CEB9ABA92
+SDN Sindangrasa,20224698,SD,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,3,141,6,6,0,1,26,05 Apr 2026 07:34:07,17E155C1B5EDE329CFC8
+SD Islamic Leader School,70006897,SD,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,19,3,194,10,10,1,0,29,24 Apr 2026 12:47:06,1E328F9F1E1DC8055DC4
+SMP Negeri 11 Tasikmalaya,20224570,SMP,Negeri,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,38,13,1015,32,35,4,1,22,20 Apr 2026 15:52:00,791F3F56DCAAD0692B9D
+SMP Al Mujahid,20253863,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,11,4,71,3,3,1,1,14,20 Apr 2026 10:19:36,7A9481A7F6364D095B6C
+SMP Islam Bahrul Ulum,20224603,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,37,3,446,16,25,1,1,16,01 May 2026 08:12:11,D4536DAD29F463F937BD
+SMP ISLAM TERPADU AL-IKHSAN,70032908,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,112,3,3,0,0,20,03 Apr 2026 02:41:42,9C89494DC83A5C1B4132
+SMP Islam Terpadu Daarul Anba,20271296,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,3,82,4,4,1,1,9,06 Mar 2026 22:38:01,C0A130F1E0F7F833884A
+SMP Islamic Leader School,70004017,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,6,133,6,6,0,0,24,29 Apr 2026 09:35:44,AA136FFBFC39F618F843
+SMP IT KH. Mu`min `Aenul Mubarok,70043342,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,154,6,6,0,0,10,01 May 2026 07:46:09,9E8D651C48FDCF0A2D54
+SMP Terpadu Asshulahaa,20276065,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,48,3,3,2,1,10,24 Apr 2026 17:12:27,C7BE5A8B334CD3EA63E8
+SMP Terpadu Mathlaul Khaer Cintapada,69967208,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,1,111,6,6,0,1,21,09 Mar 2026 09:52:14,7E37A911D7F1ECD8DE82
+SMP Terpadu Riyadlul Ulum Waddawah,20224575,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,40,11,673,22,29,2,1,40,28 Apr 2026 14:21:20,B0D59C2E94AB5B0306AC
+SMP Terpadu Riyadlul Ulum Waddawah Putri,69896703,SMP,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,40,10,607,19,26,2,1,78,29 Apr 2026 11:45:24,5A27A34A77EDE48A230F
+SMA ISLAMIC LEADER SCHOOL,70038408,SMA,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,18,3,127,5,6,2,1,26,13 Apr 2026 10:36:01,32A438DB2DBB6FE0ED00
+SMAS TERPADU RIYADLUL ULUM,20224512,SMA,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,62,12,1043,31,36,5,1,45,27 Apr 2026 08:59:41,8CC4430E1CD0F28761AC
+SMK AL BASITH,69895563,SMK,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,16,5,55,10,9,0,1,8,15 Apr 2026 14:27:40,28C8A0B717B344C4C926
+SMK AL IKHWAN,20267946,SMK,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,15,3,133,12,11,1,1,9,02 May 2026 09:25:52,913864635DBC3CB3DE3D
+SMK AL KHOERIYAH,20224515,SMK,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,34,10,287,17,21,1,1,63,27 Apr 2026 14:05:47,86D7D971B6268E1B7694
+SMK AL MUJAHID,20268808,SMK,Swasta,Kec. Cibeureum,026801,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,11,4,107,6,4,1,1,61,30 Apr 2026 11:34:39,FDD78033F442618F2965

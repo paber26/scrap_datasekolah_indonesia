@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 GUMAY ULU,10601436,SD,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,3,83,6,5,0,0,33,02 May 2026 15:57:48,C40FCEBDBFFF7F75A634
+SDN 2 GUMAY ULU,10601127,SD,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,2,58,6,6,0,1,1,29 Apr 2026 09:37:38,67DEF4A2E98039AE3EB6
+SDN 3 GUMAY ULU,10601054,SD,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,10,4,100,6,6,0,1,14,16 Apr 2026 06:08:50,8CF3726D8633C01FB1FA
+SDN 4 GUMAY ULU,10601086,SD,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,3,98,6,6,0,1,10,09 Apr 2026 09:13:38,45023004394865A06CF4
+SDN 5 GUMAY ULU,10644022,SD,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,2,37,6,6,0,0,11,11 Apr 2026 23:41:49,5C2599728D2EB438E88C
+SDN 6 GUMAY ULU,10601418,SD,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,3,156,8,8,0,1,12,09 Apr 2026 04:48:09,970379E0976592AFC23B
+SDN 7 GUMAY ULU,10601715,SD,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,2,94,6,6,0,1,12,22 Apr 2026 13:42:10,173FE66C4E32EA47B0FC
+SMPN 1 GUMAY ULU,10601337,SMP,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,5,77,3,4,3,1,31,09 Apr 2026 00:40:55,6FF05BFBC7A7EA0AD0C8
+SMPN 2 GUMAY ULU,10645858,SMP,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,14,10,107,6,7,2,2,34,10 Apr 2026 04:29:25,916D6AF8F1F167E82F34
+SMAN 1 GUMAY ULU,10648119,SMA,Negeri,Kec. Gumay Ulu,110530,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,21,8,152,6,6,3,2,22,29 Apr 2026 21:49:21,E9447339B51882C20C4B

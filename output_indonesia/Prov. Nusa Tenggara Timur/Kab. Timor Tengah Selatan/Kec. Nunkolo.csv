@@ -1,0 +1,26 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES FAIFNOME,50306876,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,3,87,6,6,0,0,60,15 Apr 2026 10:48:56,137E28FA7FEA222E92EB
+SD INPRES OTTO,50306896,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,79,6,4,0,0,30,08 Apr 2026 08:41:24,9A75012CF3922F44868D
+SD NEGERI BANLI,69989795,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,3,75,6,6,0,1,25,14 Apr 2026 16:12:48,838CD73AC41F14CD1F46
+SD NEGERI BIMETA,50307014,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,3,70,6,6,0,1,11,13 Apr 2026 20:41:07,1E11F6FE4B20049DC0C0
+SD NEGERI HAUHENA,50306920,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,5,145,7,6,0,1,17,10 Apr 2026 05:37:58,F775E20B43E4053CED4C
+SD NEGERI HAUMENI,50307016,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,23,3,327,16,14,0,1,21,01 May 2026 07:20:37,8C1DB336EA1066AAF66F
+SD NEGERI MENU,50307073,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,5,72,6,6,0,1,21,27 Apr 2026 00:54:36,13CC8D2AC3DFFB5FB537
+SD NEGERI OP,50307024,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,4,196,9,9,0,1,30,13 Apr 2026 15:07:26,A77097EF5F749272CDE3
+SD NEGERI POPNAE,69992665,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,77,6,6,0,1,10,10 Mar 2026 15:29:56,70A17755BE6022D9270B
+SD NEGERI SAENAM,50307135,SD,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,4,138,7,6,0,0,34,03 Mar 2026 11:12:04,F4AC0A8A68BEDF8FB8FF
+SD GMIT KUALEU,50300793,SD,Swasta,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,4,4,67,6,6,0,1,15,23 Apr 2026 10:52:56,110578350B9655C96EC1
+SD GMIT NENOAT,50300775,SD,Swasta,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,1,144,6,7,0,1,50,06 Apr 2026 10:20:35,516F101EFAA33DEB7520
+SD GMIT NUNKOLO 1,50306843,SD,Swasta,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,4,1,56,6,6,0,1,11,10 Apr 2026 06:30:53,AB3D68EF87EA8608BB4B
+SD GMIT NUNKOLO 2,50306844,SD,Swasta,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,1,116,7,6,0,0,27,19 Apr 2026 15:03:35,DAC696F234878D58DCBF
+SD GMIT OEUKI,50300690,SD,Swasta,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,1,99,6,12,0,0,11,21 Apr 2026 16:21:05,E406507D54AD2C0BD074
+SD KATHOLIK YASWARI SAHAN,50307008,SD,Swasta,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,2,79,6,6,0,0,5,09 Feb 2026 21:33:39,6161280909A887B18AFA
+SD KRISTEN ARASTAMAR BONE,70046286,SD,Swasta,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,1,3,0,0,0,0,0,0,,07D94FB8531DCD75F714
+SMP NEGERI HAUMENI,69987440,SMP,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,18,7,170,7,9,0,1,18,22 Apr 2026 09:11:34,FCB9BB69936F8E2F0E6F
+SMP NEGERI HOINENO,50300603,SMP,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,23,7,252,10,10,2,0,94,15 Apr 2026 21:31:34,27914E702B3E00283A3D
+SMP NEGERI SAHAN,69987357,SMP,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,89,4,3,0,0,21,29 Apr 2026 08:42:03,DC1B74C9772E5823A85D
+SMP NEGERI SATU ATAP OP,50307258,SMP,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,2,156,6,5,1,1,31,22 Apr 2026 12:07:17,EBA501D58D0567EDB812
+SMP KRISTEN SONG ARASTAMAR BONE,70046288,SMP,Swasta,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,2,1,0,0,0,0,0,0,,63B5FC0411BDD5E196E7
+SMA NEGERI NUNKOLO,69981042,SMA,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,14,3,209,7,7,1,1,31,21 Apr 2026 10:31:19,8CA58425E12CCB42C53C
+SMA NEGERI SAHAN,70016034,SMA,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,1,56,3,3,0,0,13,29 Apr 2026 18:38:49,C78DCEDE96F6ACC50E06
+SMKN OP,50309199,SMK,Negeri,Kec. Nunkolo,240317,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,26,1,109,9,6,2,0,45,29 Apr 2026 12:54:45,FF0E30AA139A848A59C4

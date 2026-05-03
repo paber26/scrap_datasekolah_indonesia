@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BALAWAIAN,30301542,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,6,8,56,6,6,0,1,12,01 May 2026 11:04:58,614851E71F2367C9858F
+SD NEGERI BALAWAIAN HILIR,69896782,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,7,0,13,6,3,0,0,7,11 Mar 2026 12:26:25,3B58498A87D9DCD6872E
+SD NEGERI BARAMBAN,30301566,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,4,125,6,6,0,1,9,02 May 2026 13:46:54,6267D9A251A0A8693EC9
+SD NEGERI BATU AMPAR,30301564,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,3,58,6,6,0,1,8,02 May 2026 13:52:57,FC2E08BAC16301108F21
+SD NEGERI BATUNG,30301561,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,8,1,107,6,6,0,2,9,29 Apr 2026 06:04:00,E9E69F3C981906BC443B
+SD NEGERI HARAKIT,30301647,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,9,0,37,8,6,0,0,25,10 Apr 2026 15:34:02,28D4777E9FE70B1472F7
+SD NEGERI LALAPIN,69896553,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,6,3,54,6,6,0,1,7,02 May 2026 07:57:16,2535C09851DA69D180A2
+SD NEGERI MIAWA,30301466,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,11,3,177,9,9,0,1,12,03 Apr 2026 09:12:24,1ED7584A6290E123F756
+SD NEGERI PIPITAK JAYA 1,30301471,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,7,2,10,6,6,0,1,17,21 Apr 2026 11:44:14,EFF063529E40A22D33AC
+SD NEGERI PIPITAK JAYA 2,30301470,SD,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,9,1,13,6,6,0,2,5,05 Apr 2026 15:14:33,D7824CF8B97C4342F168
+SMP NEGERI 1 PIANI,30301506,SMP,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,11,3,162,9,9,1,1,26,29 Apr 2026 20:51:58,116534513A11FEA37162
+SMP NEGERI 2 PIANI,30311961,SMP,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,10,2,75,4,6,3,1,17,30 Mar 2026 19:58:50,8D25CC0F2397C2C1E15A
+SMAN 1 Piani,70016004,SMA,Negeri,Kec. Piani,150405,Kab. Tapin,150400,Prov. Kalimantan Selatan,150000,9,6,104,4,6,2,1,45,27 Apr 2026 10:13:09,E217656FE17724183879

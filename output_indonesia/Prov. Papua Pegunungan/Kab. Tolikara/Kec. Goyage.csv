@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES YEMAKWI,60302237,SD,Negeri,Kec. Goyage,380405,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,8,2,135,7,3,0,0,52,29 Apr 2026 05:12:03,BA9B20E6FC6E2AE4727D
+SD NEGERI WAIRIMA,60302257,SD,Negeri,Kec. Goyage,380405,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,4,1,55,6,7,0,1,22,21 Apr 2026 16:45:04,FA786EEF812115EBC812
+SMP NEGERI GOYAGE,60302268,SMP,Negeri,Kec. Goyage,380405,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,8,1,153,7,8,2,1,20,19 Apr 2026 13:43:46,EE5E4C2335B85072B52F

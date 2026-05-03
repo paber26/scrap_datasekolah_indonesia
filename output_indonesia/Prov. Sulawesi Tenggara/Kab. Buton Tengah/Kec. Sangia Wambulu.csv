@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 SANGIA WAMBULU,40401193,SD,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,14,2,62,6,6,0,1,13,08 Apr 2026 11:16:57,F58AC3A5A21DCF694C9C
+SD NEGERI 2 SANGIA WAMBULU,40401358,SD,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,11,2,61,6,6,0,0,8,30 Mar 2026 00:10:49,E01EFB47BAFBC72D4DB7
+SD NEGERI 3 SANGIA WAMBULU,40401375,SD,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,9,2,76,6,6,0,1,11,02 Mar 2026 20:49:22,4DA1D14B06D4A5351C13
+SD NEGERI 4 SANGIA WAMBULU,40401430,SD,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,14,2,143,7,6,0,1,39,02 May 2026 06:58:52,6775F19B2295AF7DC212
+SD NEGERI 5 SANGIA WAMBULU,40401373,SD,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,15,3,100,6,6,0,1,4,21 Jan 2026 09:16:07,97CB1598AE34601F12DF
+SD NEGERI 6 SANGIA WAMBULU,40401024,SD,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,10,1,88,6,6,0,1,29,02 May 2026 15:46:01,68F507F2DA7AD10BFB77
+SD NEGERI 7 SANGIA WAMBULU,40401376,SD,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,8,1,50,6,10,0,1,13,22 Feb 2026 09:33:15,1073AB533E5199EFD1C9
+SMP NEGERI 2 BUTON TENGAH,40401104,SMP,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,13,3,163,6,9,2,1,33,30 Apr 2026 11:18:09,40F082C4E0A78A9AAB93
+SMP NEGERI 8 BUTON TENGAH,40401122,SMP,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,11,1,108,6,9,2,1,21,02 May 2026 09:18:36,81DB1199535AB152B5DF
+SMAN 1 SANGIA WAMBULU,60730083,SMA,Negeri,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,17,2,102,5,8,2,1,23,30 Apr 2026 07:42:01,A98C9E881CD586A46814
+SMAS LAKINA LIMBO,40401166,SMA,Swasta,Kec. Sangia Wambulu,201607,Kab. Buton Tengah,201600,Prov. Sulawesi Tenggara,200000,13,2,168,8,9,4,1,33,30 Apr 2026 14:06:46,827E736044415365D291

@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KANSAI,60300412,SD,Negeri,Kec. Numfor Barat,250201,Kab. Biak Numfor,250200,Prov. Papua,250000,8,0,35,6,6,0,1,14,16 Apr 2026 11:19:37,9FB5128FB4C22138A0EF
+SD YPK BARUKI,60300469,SD,Swasta,Kec. Numfor Barat,250201,Kab. Biak Numfor,250200,Prov. Papua,250000,2,1,59,6,6,0,1,7,16 Apr 2026 11:52:42,2C9AE028FAA803E0F9EA
+SD YPK KAMERI NUMFOR BARAT,60300429,SD,Swasta,Kec. Numfor Barat,250201,Kab. Biak Numfor,250200,Prov. Papua,250000,5,1,86,6,7,0,1,15,18 Apr 2026 15:05:30,724C83993C27605F0C6B
+SD YPK NAMBER,60300440,SD,Swasta,Kec. Numfor Barat,250201,Kab. Biak Numfor,250200,Prov. Papua,250000,2,1,101,6,6,0,0,26,30 Apr 2026 14:53:29,6A3CBC14CA500A46679E
+SMP NEGERI 1 NUMFOR BARAT,60300328,SMP,Negeri,Kec. Numfor Barat,250201,Kab. Biak Numfor,250200,Prov. Papua,250000,8,0,182,6,6,2,1,41,01 May 2026 14:06:20,1B5E119E4FF49EDCA5C2
+SMP NEGERI 2 NUMFOR BARAT,60300346,SMP,Negeri,Kec. Numfor Barat,250201,Kab. Biak Numfor,250200,Prov. Papua,250000,6,3,86,3,6,1,1,32,25 Mar 2026 20:34:18,DD0A5297F6A7EF8C194A
+SMAN 1 NUMFOR BARAT,60300369,SMA,Negeri,Kec. Numfor Barat,250201,Kab. Biak Numfor,250200,Prov. Papua,250000,18,2,280,9,7,2,1,30,02 May 2026 17:32:13,5AC0351ECB4BFF966AB1

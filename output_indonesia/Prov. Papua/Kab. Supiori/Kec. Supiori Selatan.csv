@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KUNEF,60302502,SD,Negeri,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,9,1,75,6,6,0,1,39,24 Apr 2026 20:07:46,6D3DE0EF52749652FD57
+SD NEGERI ABABIADI,60302512,SD,Negeri,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,8,3,117,6,6,1,1,40,21 Apr 2026 06:52:06,C4B5599ACC3D1DAB6F92
+SD NEGERI MARYAIDORI,60302539,SD,Negeri,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,5,4,91,6,6,1,1,26,03 Mar 2026 14:33:11,604FD505B9A71ECB063D
+SD NEGERI WARBEFONDI,60302505,SD,Negeri,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,7,1,52,6,6,0,1,28,14 Apr 2026 20:59:24,BEE98564001F4490E4B1
+SD YPK KORIDO,60302523,SD,Swasta,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,5,3,165,6,6,0,1,28,16 Apr 2026 07:39:17,D6B1CE757B3232151A31
+SD YPK RAMARDORI,60302529,SD,Swasta,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,7,1,56,6,6,0,1,35,17 Apr 2026 06:41:33,91B5847F197320035DD7
+SMP NEGERI 9 ABABIADI,60302665,SMP,Negeri,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,9,2,69,3,4,1,1,15,07 Mar 2026 12:12:10,AA0D126F8698699D28C0
+SMP YPK 1 KORIDO,60302535,SMP,Swasta,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,9,2,171,6,6,2,1,23,06 Mar 2026 23:13:16,C5064C834797CC8E2C09
+SMA NEGERI 1 KORIDO,60301625,SMA,Negeri,Kec. Supiori Selatan,252701,Kab. Supiori,252700,Prov. Papua,250000,21,2,227,8,7,3,1,28,30 Apr 2026 18:31:19,BF5D5613BAC53818516B

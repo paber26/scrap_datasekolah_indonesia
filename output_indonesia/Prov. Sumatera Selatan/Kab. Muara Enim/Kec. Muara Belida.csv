@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 MUARA BELIDA,10645322,SD,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,8,3,79,6,6,0,1,23,04 Mar 2026 09:16:07,FEA11E8AED525C09409B
+SDN 2 Muara Belida,10645525,SD,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,6,3,53,6,6,0,1,25,27 Apr 2026 10:39:34,1A3479D7FF7CCA8EB806
+SDN 3 Muara Belida,10645323,SD,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,7,3,97,6,6,0,1,11,22 Apr 2026 10:45:03,CC7FDDF8A4BFA0B4E388
+SDN 4 Muara Belida,10645305,SD,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,8,4,96,6,6,0,1,16,10 Apr 2026 23:17:54,6250274543623C17E0B3
+SDN 5 MUARA BELIDA,10645324,SD,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,7,5,168,6,6,0,1,13,18 Apr 2026 09:59:54,82550F99EEDD0B3202BA
+SDN 6 MUARA BELIDA,10645334,SD,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,8,3,64,6,6,0,1,10,10 Apr 2026 00:56:20,F0EDE9F31D4E6B93F113
+SMPN 1 MUARA BELIDA,10646053,SMP,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,13,5,229,7,6,1,1,17,09 Apr 2026 10:05:10,F14A9AD151305C8F31CB
+SMPN 2 MUARA BELIDA,10646350,SMP,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,11,3,49,3,3,0,1,16,06 Mar 2026 20:21:07,45CA6413A3875236DC55
+SMAN 1 MUARA BELIDA,69949016,SMA,Negeri,Kec. Muara Belida,110425,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,14,6,254,9,5,0,1,42,02 May 2026 05:33:54,846157752446CD1BBA84

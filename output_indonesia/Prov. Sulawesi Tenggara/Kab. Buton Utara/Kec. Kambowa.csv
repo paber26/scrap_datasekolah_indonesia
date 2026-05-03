@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BALUARA,40405219,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,19,3,57,6,6,0,1,27,04 Mar 2026 20:44:05,67490B3439048ACC933B
+SD NEGERI 1 BUBU,40403798,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,12,1,140,6,6,0,1,26,17 Apr 2026 08:07:29,3BA9F36A54168030F8EF
+SD NEGERI 1 KAMBOWA,40404146,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,13,0,75,6,7,0,1,17,02 May 2026 02:58:41,62E444D2B0D32C7451B8
+SD NEGERI 1 KONDE,40403811,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,12,1,81,6,6,1,1,38,25 Apr 2026 22:27:44,B1E37622C331FABBE3D4
+SD NEGERI 1 LAGUNDI,40403832,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,17,2,136,7,8,1,1,43,24 Apr 2026 17:46:34,1FA4D856D59C5C1ED5F7
+SD NEGERI 1 LAHUMOKO,40403816,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,16,5,60,6,6,1,1,31,23 Apr 2026 10:17:30,6BD112EFC9F3D115E3B9
+SD NEGERI 1 MATA,40403844,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,18,1,162,10,10,1,1,45,25 Apr 2026 21:43:11,0ACAB53E7B2E25F0EC35
+SD NEGERI 1 MORINDINO,40404145,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,15,3,68,6,6,0,1,26,22 Apr 2026 08:18:45,6AE8569B25A2C831D98F
+SD NEGERI 1 PONGKOWULU,40403839,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,14,2,162,8,6,0,1,11,02 May 2026 17:51:34,EFC1233A11555B5B1A8F
+SDN 1 Bubu Barat,69861081,SD,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,9,1,37,6,6,0,1,26,28 Apr 2026 07:31:12,A43904FF8C4CA7A36D7F
+SMP NEGERI 1 KAMBOWA,40403862,SMP,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,31,5,170,7,9,1,1,25,26 Feb 2026 10:56:12,1A9B0B6003632CE4BC50
+SMP NEGERI 2 KAMBOWA,40404135,SMP,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,21,2,107,5,6,2,1,33,22 Apr 2026 18:50:48,A124D1662DB2BCEB104E
+SMP NEGERI 3 KAMBOWA,69897052,SMP,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,16,2,48,3,3,1,1,46,23 Apr 2026 16:05:24,EDC76024413BC023B744
+SMP NEGERI 4 KAMBOWA,40404762,SMP,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,17,3,71,3,3,1,1,32,25 Apr 2026 21:05:36,585BB3087D68BA3CA4D3
+SMP NEGERI 5 KAMBOWA,40404773,SMP,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,13,0,20,3,4,1,1,18,25 Apr 2026 01:04:40,26AD5C5CE8378679C7DD
+SMAN 1 Kambowa,40403870,SMA,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,19,10,181,7,12,4,1,37,28 Apr 2026 17:32:38,08026BEB2C771413A897
+SMAN 2 Kambowa,40404750,SMA,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,21,3,140,6,11,3,1,28,15 Apr 2026 08:31:03,E793835BB7CC0D622393
+SMKN 3 BUTON UTARA,40404751,SMK,Negeri,Kec. Kambowa,201004,Kab. Buton Utara,201000,Prov. Sulawesi Tenggara,200000,41,8,60,9,8,5,1,40,22 Apr 2026 08:04:39,E17B8103BF55C4052CAE

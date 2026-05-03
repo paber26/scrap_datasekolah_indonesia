@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 61 BENGKULU SELATAN,10701084,SD,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,20,2,181,10,10,0,2,26,28 Apr 2026 22:19:52,14E0930FA5A8132AB991
+SDN 62 BENGKULU SELATAN,10701072,SD,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,13,1,59,6,9,1,1,17,02 Apr 2026 14:49:27,4762BDA5E80DEB30C176
+SDN 65 BENGKULU SELATAN,10701104,SD,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,13,1,46,6,7,0,1,24,29 Apr 2026 11:12:15,3B54B3A11856F4F46924
+SDN 67 BENGKULU SELATAN,10700919,SD,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,12,0,102,6,4,2,1,15,23 Apr 2026 13:00:59,B27CE25ECD31F998CD14
+SDN 70 BENGKULU SELATAN,10701125,SD,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,10,1,54,6,11,0,0,24,06 Apr 2026 20:05:05,597A257BB6A3DB3BD6C8
+SDN 71 BENGKULU SELATAN,10700894,SD,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,13,1,175,9,9,1,1,47,27 Apr 2026 09:26:30,8AE662BBFDFC128F0F34
+SDN 72 BENGKULU SELATAN,10701003,SD,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,13,2,200,9,9,0,1,20,17 Apr 2026 10:01:15,E0CEF66BC501420A037A
+SMPN 14 BENGKULU SELATAN,10700963,SMP,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,19,3,182,7,12,2,1,25,24 Apr 2026 09:32:21,D6A72FD9EE82E168D1E9
+SMPN 19 BENGKULU SELATAN,10700942,SMP,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,28,6,193,8,25,1,1,64,29 Apr 2026 08:13:32,F7EDA72D7B6D78A2D909
+SMK NEGERI 4 BENGKULU SELATAN,10703239,SMK,Negeri,Kec. Kedurang Ilir,260321,Kab. Bengkulu Selatan,260300,Prov. Bengkulu,260000,40,7,149,12,12,3,1,65,29 Apr 2026 10:14:31,B36C12D43994C5B1266E

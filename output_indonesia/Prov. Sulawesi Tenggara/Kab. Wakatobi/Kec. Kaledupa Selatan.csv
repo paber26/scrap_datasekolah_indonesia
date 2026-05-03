@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI  BAJO LOHOA,40403176,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,12,3,52,6,9,0,1,23,27 Apr 2026 07:28:23,8126AB4AC4F8BF6EFD2B
+SD NEGERI 1 LANGGE,40403173,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,17,5,67,6,6,0,1,9,26 Feb 2026 19:29:52,95BC71AEED6F2FF0BBBA
+SD NEGERI 2 LANGGE,40402363,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,10,2,76,6,8,0,1,20,14 Apr 2026 20:26:50,84C44DDFF334F489DB4D
+SD NEGERI 3 LANGGE,40402414,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,12,1,100,6,7,0,1,11,10 Apr 2026 18:25:32,648D3D734E866EAF595F
+SD NEGERI LENTEA,40402297,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,14,8,68,6,6,0,1,15,05 Mar 2026 20:34:54,82C685D5366B5C359A67
+SD NEGERI PALEA,40402279,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,16,3,77,6,9,0,1,18,28 Apr 2026 10:59:05,CA3046976FC982044656
+SD NEGERI PEROPA,40402278,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,19,2,124,6,6,0,1,19,22 Apr 2026 14:38:17,CBF5FC19BDA07FEDFF2C
+SD NEGERI TANOMEHA,40402285,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,14,1,78,6,1,0,1,5,03 Mar 2026 16:43:26,A834752DE78C9B5816F4
+SD NEGERI TEEWALI,40402288,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,12,1,89,6,6,1,1,5,22 Apr 2026 07:14:43,2443B867A1B5CE138543
+SD NEGERI WATUKOILA,40402332,SD,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,7,1,58,6,6,0,1,25,14 Apr 2026 20:49:19,A6123656CF94BA80E1D1
+SMP NEGERI 2 KALEDUPA,40402314,SMP,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,28,8,138,6,12,3,1,29,01 May 2026 09:23:52,197AAC7036B5F7CE3C7B
+SMP NEGERI 3 KALEDUPA,40402319,SMP,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,26,3,105,6,6,6,4,33,03 Feb 2026 13:27:53,F2E545D3F9EE02AA09B5
+SMP NEGERI LENTEA,40403194,SMP,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,13,3,29,3,5,1,1,13,04 Mar 2026 08:13:47,73D83BFD79AD791DC6E8
+SMP NEGERI SATU ATAP BAJO LOHOA,40405095,SMP,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,16,1,11,3,3,1,1,25,16 Mar 2026 13:06:26,4C6056491B2331A32B9D
+SMP NEGERI SATU ATAP PALEA,40404287,SMP,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,22,7,39,3,3,1,1,71,24 Apr 2026 16:03:58,4D10FF415EC17CEBAABD
+SMP NEGERI SATU ATAP WATUKOILA,40404288,SMP,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,19,4,27,3,3,2,1,18,10 Apr 2026 21:51:36,D494863D228E649D9AEA
+SMAN 2 KALEDUPA,40403259,SMA,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,29,8,139,6,10,2,1,22,17 Apr 2026 19:03:25,951D839AC1AAE1C527CD
+SMAN LENTEA,40405097,SMA,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,14,2,41,3,4,1,1,1,24 Apr 2026 09:50:46,BA808942DAFFBE823388
+SMKN 2 WAKATOBI,40403297,SMK,Negeri,Kec. Kaledupa Selatan,200606,Kab. Wakatobi,200600,Prov. Sulawesi Tenggara,200000,19,3,91,5,4,5,1,38,30 Apr 2026 06:05:35,0436A38D5D32AB0FB413

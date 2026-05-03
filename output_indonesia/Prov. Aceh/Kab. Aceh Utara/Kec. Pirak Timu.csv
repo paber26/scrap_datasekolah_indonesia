@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 PIRAK TIMU,10101062,SD,Negeri,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,15,4,190,8,7,0,1,11,28 Apr 2026 08:31:20,35E3D042952CD1B33862
+SD NEGERI 2 PIRAK TIMU,10106145,SD,Negeri,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,26,4,444,18,17,0,0,22,06 Apr 2026 10:33:19,B8E0388EF8E2B9F2BE68
+SD NEGERI 3 PIRAK TIMU,10105840,SD,Negeri,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,9,4,106,6,6,0,0,13,24 Apr 2026 23:30:58,FAFF3CD4B2015950B207
+SD NEGERI 4 PIRAK TIMU,10105858,SD,Negeri,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,13,4,205,9,6,0,0,10,09 Apr 2026 22:51:05,7E4C2DC761EE72ECFEDB
+SD NEGERI 5 PIRAK TIMU,10105922,SD,Negeri,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,11,2,102,6,8,0,1,10,27 Apr 2026 09:48:57,8BC9F970880D7B1432E5
+SD NEGERI 6 PIRAK TIMU,69964135,SD,Negeri,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,13,4,108,6,5,0,0,9,06 Apr 2026 08:53:28,A06ECB2739609ADC923E
+SMP NEGERI 1 PIRAK TIMU,10101388,SMP,Negeri,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,24,6,188,6,10,2,1,23,29 Apr 2026 08:23:13,8795A1C7FA90384813F0
+SMP Swasta Nurul Iman,70011870,SMP,Swasta,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,9,2,48,3,4,0,0,53,01 May 2026 00:28:20,6CA50B36AA3687237816
+SMA NEGERI 1 PIRAK TIMU,69759157,SMA,Negeri,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,22,7,175,7,7,2,1,14,27 Apr 2026 10:27:44,04460C874B989559EA0B
+SMKS Kafilul Yatim,69970964,SMK,Swasta,Kec. Pirak Timu,060327,Kab. Aceh Utara,060300,Prov. Aceh,060000,11,6,123,6,6,2,1,29,30 Apr 2026 19:24:49,1BF899C474AB4071D38E

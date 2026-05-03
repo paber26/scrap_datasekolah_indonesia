@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 28 LEBONG,10701957,SD,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,11,2,90,6,6,0,1,51,02 May 2026 02:58:41,7B49C62082050781E463
+SDN 32 LEBONG,10701963,SD,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,16,4,127,7,8,0,1,19,24 Apr 2026 17:25:03,DE6BD382700B6195E6E4
+SDN 39 LEBONG,10701970,SD,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,12,3,114,6,6,0,1,15,06 Mar 2026 12:29:05,1B00D86AA7F608B1179F
+SDN 41 LEBONG,10701972,SD,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,14,4,184,9,9,0,0,18,23 Apr 2026 18:46:53,AA5549E592A89C99AE8B
+SDN 51 LEBONG,10702016,SD,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,9,4,74,6,6,0,1,34,29 Apr 2026 19:32:53,C59535BA2C67415286AC
+SDN 88 LEBONG,69965729,SD,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,10,2,24,5,2,0,0,15,15 Apr 2026 08:32:40,D312E18EF1B38734216E
+SMPN 07 LEBONG,10701997,SMP,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,20,5,191,8,8,2,1,38,14 Apr 2026 21:26:07,92607B5BF160D795661B
+SMPN 17 LEBONG,10703086,SMP,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,14,6,89,4,7,2,1,61,06 Mar 2026 08:31:18,DF8F97F9E87E994B771F
+SMPN 23 LEBONG,10703378,SMP,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,8,3,12,2,3,1,1,16,07 Mar 2026 11:37:42,81BAAB594969EBF14723
+SMA NEGERI 4 LEBONG,10703077,SMA,Negeri,Kec. Topos,260607,Kab. Lebong,260600,Prov. Bengkulu,260000,13,9,148,6,9,4,1,8,08 Apr 2026 08:30:42,F7E037A9021143A0E060

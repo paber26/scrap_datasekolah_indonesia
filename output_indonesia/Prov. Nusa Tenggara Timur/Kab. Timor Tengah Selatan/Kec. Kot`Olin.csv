@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BNAFO,50306913,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,1,197,9,6,0,0,20,01 May 2026 19:40:37,DB05CA05D0F640D7EE05
+SD INPRES KOTOLIN,50306926,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,0,69,6,7,1,1,7,30 Apr 2026 07:20:31,747B211CCEEF3E19432F
+SD INPRES TUNFENU,50300543,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,1,149,7,5,0,1,44,01 May 2026 00:59:05,1850447353AEE3CD957E
+SD NEGERI BES AO,69987624,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,65,6,6,0,0,18,29 Apr 2026 11:37:59,B99579DD7E182B2D1697
+SD NEGERI KOLOTUNAN,50309215,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,5,110,6,6,0,0,10,21 Apr 2026 18:11:55,550F560F26D749C491FB
+SD NEGERI NUALUNAT,50300650,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,122,6,6,0,0,8,14 Apr 2026 11:08:23,B68ABC627D0D02F7578B
+SD NEGERI NUNBENA,50300638,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,4,117,6,8,0,1,21,16 Apr 2026 10:31:19,69B4AF1DEC4A0552D942
+SD NEGERI O OBIBI,50300672,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,2,112,6,4,0,1,24,22 Apr 2026 08:07:19,8E8ADF2FD0E9FB8E2B82
+SD NEGERI PNITE,50309557,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,4,102,6,6,0,0,13,16 Apr 2026 09:01:27,66898131325BE3624D10
+SD NEGERI TAEUSAPI,50307026,SD,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,6,100,7,8,1,1,22,19 Apr 2026 12:21:41,790616D684C816B5D311
+SD GMIT FATUAT,50300749,SD,Swasta,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,3,0,27,6,7,0,1,6,26 Feb 2026 19:23:32,3E5BE836D2E5460A9B99
+SD GMIT HOEBETI,50306828,SD,Swasta,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,4,3,120,6,6,0,0,28,28 Apr 2026 09:54:50,258DB389D805E4955C84
+SD GMIT KOTOLIN,50306829,SD,Swasta,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,7,104,6,6,0,1,66,26 Apr 2026 12:49:21,137D2021BD4B6DB4CB6D
+SMP NEGERI KOTOLIN,50307220,SMP,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,27,5,271,11,11,1,1,123,02 May 2026 17:56:44,76B8A779FEEC2BC02D09
+SMP NEGERI OOBIBI,69966406,SMP,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,4,164,6,3,0,1,120,30 Apr 2026 10:02:17,B61E3A596828C6F43850
+SMP SATU ATAP NUALUNAT,69728299,SMP,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,4,54,3,3,0,0,14,07 Mar 2026 14:24:21,550F303B3031006C9F1F
+SMP KARYA KOTOLIN,50307164,SMP,Swasta,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,1,62,3,6,0,1,44,28 Apr 2026 19:37:10,CED5C0296887BD3D5C9C
+SMA NEGERI KOTOLIN,69988075,SMA,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,21,3,174,6,7,1,1,39,22 Apr 2026 09:01:20,269FE711A0197C38DB09
+SMA NEGERI RESTORASI FATUAT,70032235,SMA,Negeri,Kec. Kot`Olin,240318,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,71,3,2,1,1,61,26 Apr 2026 22:55:32,8D9568B8952FE68B6FB3

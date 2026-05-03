@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES WAIPA,60302337,SD,Negeri,Kec. Teluk Deya,360316,Kab. Paniai,360300,Prov. Papua Tengah,360000,3,1,295,10,12,1,1,25,27 Apr 2026 18:07:24,0DB4F9B65A6032A970B9
+SD YPPGI OKAGO,60302379,SD,Swasta,Kec. Teluk Deya,360316,Kab. Paniai,360300,Prov. Papua Tengah,360000,13,1,164,9,6,0,0,2,27 Feb 2026 15:43:32,7412F5577AD3961114B3
+SD YPPGI PEKEGE,60303553,SD,Swasta,Kec. Teluk Deya,360316,Kab. Paniai,360300,Prov. Papua Tengah,360000,4,1,350,12,12,0,1,18,15 Apr 2026 19:58:19,139BC39DE1ADC1521A8D
+SD YPPGI TOTIYO,60302962,SD,Swasta,Kec. Teluk Deya,360316,Kab. Paniai,360300,Prov. Papua Tengah,360000,5,1,201,10,5,0,1,8,07 Mar 2026 20:38:22,7E779D15AF4629A8014D
+SD YPPGI UKAWO,60302384,SD,Swasta,Kec. Teluk Deya,360316,Kab. Paniai,360300,Prov. Papua Tengah,360000,9,3,382,12,6,0,1,10,11 Feb 2026 06:35:42,D64FA9DED6D9D3991662
+SMP NEGERI 2 UKAUWO,60303556,SMP,Negeri,Kec. Teluk Deya,360316,Kab. Paniai,360300,Prov. Papua Tengah,360000,14,1,319,9,10,0,1,148,01 May 2026 15:22:58,E13B7EBDC041D22629DD

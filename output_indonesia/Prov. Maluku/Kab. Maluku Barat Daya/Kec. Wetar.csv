@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI ARNAU,60101393,SD,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,6,3,63,6,6,0,1,28,08 Apr 2026 19:05:16,3CE76B8E0E1EAA9FB701
+SD NEGERI HIAY,60101477,SD,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,5,3,65,6,4,0,0,15,12 Apr 2026 18:29:46,99B4D80BC748BAF8EC96
+SD NEGERI ILWAKI,60101475,SD,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,7,1,125,6,6,0,0,8,27 Feb 2026 09:40:31,F78E3A3E916F74FB6EA0
+SD NEGERI MASAPUN,60103053,SD,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,9,1,120,6,6,0,0,5,06 Apr 2026 17:55:33,5A45100C9F97CC5F9477
+SD KRISTEN ILPUTIH,60101425,SD,Swasta,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,2,1,37,6,6,0,0,6,25 Apr 2026 10:30:14,2C4ABFB94ACDAB741E05
+SMP NEGERI 3 PULAU PULAU TERSELATAN,60101364,SMP,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,13,1,88,3,3,3,1,32,11 Apr 2026 23:12:24,297AFA3D0D60C78EB02A
+SMP NEGERI SATAP ARNAU,60103840,SMP,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,11,3,22,3,3,1,1,9,09 Apr 2026 07:53:14,31E8631D48DA57D12F14
+SMP NEGERI SATAP MASAPUN,60103842,SMP,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,7,3,36,3,5,0,1,16,08 Apr 2026 12:04:50,49BE357D60D62AACBE34
+SMA Negeri 16 Maluku Barat Daya,69822770,SMA,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,14,0,111,4,6,0,1,17,22 Mar 2026 18:49:57,5430B1DFD056ABC5BFCD
+SMA Negeri 6 Maluku Barat Daya,60101460,SMA,Negeri,Kec. Wetar,210808,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,17,1,82,4,6,2,1,14,28 Apr 2026 10:06:13,E849E7F4CBC6C2A6F616

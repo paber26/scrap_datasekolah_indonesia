@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LIABUKU,40402804,SD,Negeri,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,21,4,265,12,12,1,1,23,27 Apr 2026 22:41:45,FF3F141E50C8E8641660
+SD NEGERI 2 LIABUKU,40402808,SD,Negeri,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,10,1,79,6,7,0,1,28,29 Apr 2026 09:40:27,354E041382B329AFA2F1
+SD NEGERI 2 WONCO,40404654,SD,Negeri,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,12,2,132,6,8,0,1,17,24 Apr 2026 09:42:11,47FD0702B561BC66CF9B
+SD NEGERI KARING-KARING,40402734,SD,Negeri,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,16,3,222,11,16,1,1,12,15 Apr 2026 09:50:20,FBDD7759ADC5375B9510
+SD NEGERI WONCO,40402740,SD,Negeri,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,13,4,158,8,11,0,1,20,29 Apr 2026 19:15:24,554DCE860DCFA991304A
+SMP NEGERI 11 BAUBAU,40402758,SMP,Negeri,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,16,7,252,9,10,1,1,8,17 Apr 2026 08:05:00,D928D7586A7932E6DA9D
+SMP NEGERI 9 BAUBAU,40402779,SMP,Negeri,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,31,6,293,10,17,6,2,31,21 Apr 2026 08:59:45,0B95F0698172DE4CD39A
+SMPS DARUSSALAM,40403161,SMP,Swasta,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,14,1,172,7,8,1,1,15,28 Apr 2026 08:44:04,E4149279700551C04413
+SMPS INTEGRAL HIDAYATULLAH,69899953,SMP,Swasta,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,6,2,32,3,2,0,0,9,22 Jan 2026 08:59:05,A9FB35D6256B9CE38D8A
+SMAS DARUSSALAM,40404151,SMA,Swasta,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,14,1,280,9,6,1,0,4,28 Apr 2026 10:09:00,5F07423C44439F4A6857
+SMKN 6 BAUBAU,69874374,SMK,Negeri,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,37,6,128,13,11,1,1,92,28 Apr 2026 00:00:14,BBEA2A0D16B8964063A9
+Sekolah Menengah Kejuruan Swasta Pasir Merah Kota Baubau,70039156,SMK,Swasta,Kec. Bungi,206104,Kota Bau Bau,206100,Prov. Sulawesi Tenggara,200000,0,1,8,7,4,0,0,2,30 Jan 2026 21:20:04,F9CBE9085740E829E1AC

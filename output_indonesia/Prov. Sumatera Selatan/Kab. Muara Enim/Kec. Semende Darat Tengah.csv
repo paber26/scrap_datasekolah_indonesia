@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 2 SEMENDE DARAT TENGAH,10645792,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,6,33,5,6,0,1,15,29 Apr 2026 09:52:31,FF3AD44C5254C9BD876C
+SDN 1 SEMENDE DARAT TENGAH,10645794,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,11,5,106,6,6,0,1,1,28 Apr 2026 14:03:56,29712DAAE3A6667BAAA9
+SDN 10 SEMENDE DARAT TENGAH,10645787,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,8,7,62,6,6,0,1,7,03 Mar 2026 08:03:37,03E8FD683D06B9C950DF
+SDN 11 SEMENDE DARAT TENGAH,10645786,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,10,3,107,6,6,0,1,21,11 Apr 2026 08:00:40,9FC9E148442062FD9B0C
+SDN 3 SEMENDE DARAT TENGAH,10645788,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,4,93,6,6,0,1,51,30 Apr 2026 08:26:58,EE8246F2F4A7EBC2B627
+SDN 4 SEMENDE DARAT TENGAH,10645790,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,7,5,102,6,7,0,1,15,30 Apr 2026 08:42:01,7B450B81042807E8E1A0
+SDN 5 SEMENDE DARAT TENGAH,10645791,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,6,66,6,6,0,1,16,04 Mar 2026 09:02:18,E5303F32C74D2F67B23A
+SDN 6 SEMENDE DARAT TENGAH,10645785,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,10,3,90,6,6,0,1,18,28 Apr 2026 08:55:47,C40C228450001E2EEC5F
+SDN 7 SEMENDE DARAT TENGAH,10645793,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,4,61,6,6,0,1,7,07 Apr 2026 22:05:44,A3AA43D8B4C0302E23C1
+SDN 8 SEMENDE DARAT TENGAH,10645797,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,4,114,6,6,0,1,10,02 Feb 2026 20:52:16,270CD04FCACDB9D05E92
+SDN 9 SEMENDE DARAT TENGAH,10645796,SD,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,9,3,170,7,9,0,1,39,16 Mar 2026 05:53:31,8F22AE6D4D8E70CB880F
+SMPN 1 SEMENDE DARAT TENGAH,10600956,SMP,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,11,4,113,5,6,1,1,11,07 Apr 2026 10:44:44,56E57A2B3E7EAECAC805
+SMPN 2 SEMENDE DARAT TENGAH,10646051,SMP,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,13,4,69,3,5,1,1,12,07 Apr 2026 16:50:08,CE75A51B00FD688C1F56
+SMPN 3 SEMENDE DARAT TENGAH,10646197,SMP,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,10,3,73,3,3,1,2,31,15 Apr 2026 12:09:41,88DB8F2B5D570E97AA08
+SMPN 4 SEMENDE DARAT TENGAH,10647211,SMP,Negeri,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,11,6,77,3,6,2,1,20,12 Apr 2026 06:56:43,BEFE86B85FB812A2E04A
+SMP IT AL ASHRIYYAH NURUL ISLAM,70006892,SMP,Swasta,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,4,4,113,4,5,0,0,17,20 Apr 2026 23:51:27,99DD54C9B429994A032C
+SMA IT AL Ashriyyah Nurul Islam,70006548,SMA,Swasta,Kec. Semende Darat Tengah,110420,Kab. Muara Enim,110400,Prov. Sumatera Selatan,110000,8,1,126,5,3,0,0,20,28 Apr 2026 12:59:42,7B95439C213E67D10F7A

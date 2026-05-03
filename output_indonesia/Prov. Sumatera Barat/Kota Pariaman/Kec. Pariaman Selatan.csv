@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 PAUH KURAI TAJI,10307157,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,17,6,317,12,12,1,1,10,29 Apr 2026 13:33:11,35699BC830323ED2917A
+SDN 02 MARUNGGI,10307154,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,7,4,77,6,6,0,1,20,24 Apr 2026 08:32:30,CDDB52C788DB3B883F3A
+SDN 03 TALUK,10307162,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,9,3,145,6,6,0,0,7,01 May 2026 00:09:24,9196812DB9D932A9F85B
+SDN 04 BATANG TAJONGKEK,10307164,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,7,4,157,6,6,0,1,18,07 Apr 2026 10:26:58,47B83987C3DA32EBB807
+SDN 05 MARABAU,10307159,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,8,4,152,6,7,0,1,5,09 Apr 2026 11:33:16,9B83628941CEFE835EB3
+SDN 06 PUNGGUNG LADING,10306442,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,8,4,129,6,6,0,1,15,02 Apr 2026 09:05:40,59040AE78D3BD94738ED
+SDN 07 TOBOH PALABAH,10307168,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,8,4,150,6,6,0,1,18,06 Apr 2026 07:46:23,7D7F7C89A0875909E120
+SDN 08 MARUNGGI,10307170,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,9,3,139,6,6,1,1,10,23 Apr 2026 09:58:45,C83DDCE349902533787F
+SDN 09 KAMPUNG APA,10307173,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,9,4,60,6,6,0,1,24,04 Apr 2026 11:50:54,D12576B3D90A0047FB01
+SDN 10 PALAK ANEH,10307176,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,9,4,119,6,6,0,1,31,20 Apr 2026 10:58:27,4667BFE0FE7B1AD18155
+SDN 11 MARUNGGI,10307184,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,9,4,94,6,6,0,1,11,07 Apr 2026 12:31:38,D2D5EEC02EA4AF4BB66C
+SDN 12 TALUK,10307187,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,7,3,89,6,6,0,1,13,06 Apr 2026 10:55:21,4AC1D00E4DC20CABE6BF
+SDN 13 BALAI KURAI TAJI,10307188,SD,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,16,3,234,11,11,0,1,22,29 Apr 2026 11:19:20,3143B4E116157C28E297
+SD IT Unggulan Aisyiyah Pariaman,69970598,SD,Swasta,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,9,3,82,6,8,1,0,31,03 Mar 2026 12:14:18,1809F09713C1C85F0DEF
+SMP NEGERI 3 PARIAMAN,10307302,SMP,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,42,9,653,21,21,3,1,34,21 Apr 2026 09:34:22,B1585B8A486814D868D7
+SMP NEGERI 9 PARIAMAN,10307308,SMP,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,25,8,308,12,18,2,1,28,06 Apr 2026 13:42:18,D6548442DA159875316E
+SMAN 3 PARIAMAN,10307311,SMA,Negeri,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,57,12,938,27,29,6,1,49,30 Apr 2026 11:12:03,A525B4AE3FF051402F0A
+SMKS KARYA PARIAMAN,10307436,SMK,Swasta,Kec. Pariaman Selatan,086601,Kota Pariaman,086600,Prov. Sumatera Barat,080000,12,4,62,6,6,1,3,71,28 Apr 2026 08:53:15,FF1FB6A079C5D656DE00

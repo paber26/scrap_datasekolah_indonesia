@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BANDAR KARYA,30301399,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,8,3,136,6,6,0,1,14,31 Mar 2026 09:06:41,E14DAF046D74172584A1
+SD NEGERI KARYA JADI,30300930,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,9,2,133,7,7,0,1,52,28 Apr 2026 08:26:24,F63B55CDC36F8D24AD68
+SD NEGERI KARYA MAKMUR,30300944,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,7,2,119,6,6,0,1,11,30 Apr 2026 09:02:14,11B8FD7EC7E149860E56
+SD NEGERI PANTANG RAYA,30300956,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,7,3,104,6,6,0,1,9,03 Mar 2026 07:33:27,C32311316D1975EC5616
+SD NEGERI PULAU KARYA,30300980,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,7,4,80,6,6,0,1,22,17 Apr 2026 07:29:08,E1EF3912E23985AFE9A8
+SD NEGERI RANTAU BAMBAN,30300968,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,7,3,50,6,6,0,1,14,02 Apr 2026 05:45:53,19E3ABDB3EE3CCBE8646
+SD NEGERI TABUKAN RAYA,30301058,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,8,2,93,6,6,0,1,9,03 Mar 2026 08:41:33,2B71925DA12FC50120AC
+SD NEGERI TAMBA JAYA,30301053,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,6,4,45,6,6,0,1,15,29 Apr 2026 10:20:53,53C732AFA26B7E9C6484
+SD NEGERI TELUK TAMBA,30301088,SD,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,7,4,125,6,6,0,1,3,03 Mar 2026 09:21:05,B9B016832131BD6AC06D
+SMP NEGERI 1 TABUKAN,30300991,SMP,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,12,5,192,8,14,2,1,33,29 Apr 2026 08:12:57,863A21B3CFDC3CD3BF98
+SMP NEGERI 2 TABUKAN,30301035,SMP,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,11,6,111,6,6,2,1,21,02 Apr 2026 09:37:49,CB1EC5893A60B89D78B6
+SMAN 1 TABUKAN,30301004,SMA,Negeri,Kec. Tabukan,150315,Kab. Barito Kuala,150300,Prov. Kalimantan Selatan,150000,20,13,267,9,10,5,1,22,29 Apr 2026 14:25:17,122F838190939938172D

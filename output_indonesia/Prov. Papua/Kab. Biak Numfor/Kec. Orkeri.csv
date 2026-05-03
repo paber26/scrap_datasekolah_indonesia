@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SERBIN,60300387,SD,Negeri,Kec. Orkeri,250212,Kab. Biak Numfor,250200,Prov. Papua,250000,11,1,57,6,6,0,0,20,21 Apr 2026 05:39:32,D1379CDDEECBFB41924C
+SD NEGERI SARIBI,60300358,SD,Negeri,Kec. Orkeri,250212,Kab. Biak Numfor,250200,Prov. Papua,250000,10,1,99,6,6,0,1,12,31 Mar 2026 15:04:33,DFFDF8C62123A21008EE
+SD YPK PAKREKI,60300309,SD,Swasta,Kec. Orkeri,250212,Kab. Biak Numfor,250200,Prov. Papua,250000,3,1,111,6,6,0,0,13,30 Apr 2026 13:27:33,425A0313CDE922629848
+SD YPK WANSRA,60300313,SD,Swasta,Kec. Orkeri,250212,Kab. Biak Numfor,250200,Prov. Papua,250000,4,1,62,6,6,0,0,17,18 Apr 2026 16:48:22,FDDAC3EDD8E6412BC4F8
+SD YPK WARIDO,60300285,SD,Swasta,Kec. Orkeri,250212,Kab. Biak Numfor,250200,Prov. Papua,250000,2,1,34,6,6,0,0,18,16 Apr 2026 11:32:38,C677E147105F1CFF2176
+SD YPK YENBEBA,60300278,SD,Swasta,Kec. Orkeri,250212,Kab. Biak Numfor,250200,Prov. Papua,250000,3,2,71,6,6,0,1,27,24 Apr 2026 17:46:27,1A8BA392435091102D57
+SMP NEGERI 3 NUMFOR BARAT,60303662,SMP,Negeri,Kec. Orkeri,250212,Kab. Biak Numfor,250200,Prov. Papua,250000,9,4,138,6,4,1,1,28,21 Apr 2026 09:45:44,4F412E9F2D4988B40223

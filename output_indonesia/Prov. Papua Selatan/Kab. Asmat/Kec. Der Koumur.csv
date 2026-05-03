@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KUMURAI,60303771,SD,Negeri,Kec. Der Koumur,370414,Kab. Asmat,370400,Prov. Papua Selatan,370000,6,1,276,9,4,0,0,51,21 Apr 2026 11:34:03,0DC39C7511684B33F0C9
+SD INPRES YANKAP,60303782,SD,Negeri,Kec. Der Koumur,370414,Kab. Asmat,370400,Prov. Papua Selatan,370000,8,1,160,7,4,0,1,64,01 May 2026 17:11:22,041D91BC4D48AF6C6FFA
+SD NEGERI AMKAI,70032564,SD,Negeri,Kec. Der Koumur,370414,Kab. Asmat,370400,Prov. Papua Selatan,370000,6,1,133,6,3,0,0,34,02 May 2026 08:07:36,366C6027A61C5720C1A4
+SMP NEGERI DER KOUMUR,70042476,SMP,Negeri,Kec. Der Koumur,370414,Kab. Asmat,370400,Prov. Papua Selatan,370000,15,1,256,9,4,0,1,26,20 Apr 2026 09:27:00,111BFA9186024EE49A9A

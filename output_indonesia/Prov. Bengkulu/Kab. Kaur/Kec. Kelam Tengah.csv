@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 107 KAUR,10701835,SD,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,10,3,53,6,6,0,1,6,05 Mar 2026 21:17:03,278ACD2BAB7C653C1E7D
+SDN 20 KAUR,10702764,SD,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,11,2,138,6,8,0,1,16,01 Mar 2026 21:16:01,20C7BE3C8F4B097D1F64
+SDN 46 KAUR,10701866,SD,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,12,3,53,6,7,0,1,5,03 Feb 2026 08:09:38,1838783BF5A71F325769
+SDN 6 KAUR,10702757,SD,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,12,3,144,7,10,0,1,13,28 Apr 2026 11:26:31,ED0F839F9CD322BC756C
+SDN 69 KAUR,10701747,SD,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,14,2,93,6,7,0,1,8,29 Apr 2026 19:44:32,08A694E2D9687044A937
+SDN 70 KAUR,10702774,SD,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,16,1,62,6,6,0,1,17,24 Apr 2026 17:40:09,64B40211783CD1589600
+SDN 71 KAUR,10702778,SD,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,9,6,98,6,6,0,1,27,02 Apr 2026 22:10:03,02D486F8F468AC7331B6
+SDN 83 KAUR,10701742,SD,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,9,4,72,6,7,0,1,6,02 Mar 2026 10:19:22,D6F03DCCCBACB3A36A27
+SMPN 2 KAUR,10701788,SMP,Negeri,Kec. Kelam Tengah,260712,Kab. Kaur,260700,Prov. Bengkulu,260000,17,7,145,6,9,2,1,29,29 Apr 2026 11:25:06,CB444A1D2C43874D624D

@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SP.I SENGGI,60303077,SD,Negeri,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,12,3,237,10,11,0,1,13,24 Apr 2026 19:43:24,5C183E5460A8AECA6640
+SD NEGERI MOLOF SENGGI,60303090,SD,Negeri,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,6,1,42,6,6,0,0,3,14 Jan 2026 22:19:24,29187D37CF1D2403CB41
+SD NEGERI SENGGI,60303091,SD,Negeri,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,11,1,100,6,4,0,0,14,27 Mar 2026 20:23:01,FDADBE4112B647312F61
+SD NEGERI SOOM,69972102,SD,Negeri,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,14,0,73,6,5,0,0,11,25 Apr 2026 15:18:57,CCF589A30966872EB45D
+SD NEGERI USKU,60303081,SD,Negeri,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,7,1,50,6,6,0,1,12,30 Apr 2026 12:19:28,26E5142A38B0A988D878
+SD YPK ALFA OMEGA NAMBLA,60304717,SD,Swasta,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,3,2,42,6,6,0,1,21,02 May 2026 04:36:58,EFBE986F37AD84E4BF99
+SD YPK MATIUS SAE-SAE,60304614,SD,Swasta,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,4,1,24,6,5,0,0,2,29 Jan 2026 18:56:09,D32EEE5A950DFE3905F3
+SD YPK PENGHARAPAN FARWASI WALAI,60304854,SD,Swasta,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,6,2,40,6,6,0,1,8,30 Apr 2026 13:57:05,A7476B6736AAF4C44862
+SMP NEGERI I SENGGI,60303095,SMP,Negeri,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,20,2,229,9,9,1,0,34,01 May 2026 21:08:39,93756157E0C251A63687
+SMK Negeri 2 Agribisnis Dan Agroteknologi Keerom,69725912,SMK,Negeri,Kec. Senggi,252002,Kab. Keerom,252000,Prov. Papua,250000,16,7,137,6,5,2,2,13,16 Mar 2026 13:41:49,EE75D0471350B16152EC

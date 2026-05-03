@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI LAM URA,10107422,SD,Negeri,Kec. Simpang Tiga,060120,Kab. Aceh Besar,060100,Prov. Aceh,060000,13,1,95,6,8,0,1,36,24 Apr 2026 08:22:10,1F0C02B70A54DCC6CDC5
+SD NEGERI LAMKRAK,10107402,SD,Negeri,Kec. Simpang Tiga,060120,Kab. Aceh Besar,060100,Prov. Aceh,060000,15,3,80,6,6,0,1,12,07 Apr 2026 10:45:11,872EB8ED66A7D39A5328
+SD NEGERI SIMPANG TIGA,10107460,SD,Negeri,Kec. Simpang Tiga,060120,Kab. Aceh Besar,060100,Prov. Aceh,060000,16,2,218,11,11,0,1,21,08 Apr 2026 15:05:43,5216284D4D0AFE2DBEBE
+SMP NEGERI 1 SIMPANG TIGA,10100115,SMP,Negeri,Kec. Simpang Tiga,060120,Kab. Aceh Besar,060100,Prov. Aceh,060000,14,4,119,6,6,2,1,20,29 Apr 2026 11:12:06,E668B38A909E0C533D32
+SMA NEGERI 1 SIMPANG TIGA,10113363,SMA,Negeri,Kec. Simpang Tiga,060120,Kab. Aceh Besar,060100,Prov. Aceh,060000,20,5,64,3,5,2,1,31,29 Apr 2026 19:23:34,82FC39622F7263388C42

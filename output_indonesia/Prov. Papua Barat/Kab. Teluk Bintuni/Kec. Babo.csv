@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BABO,60401882,SD,Negeri,Kec. Babo,320402,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,20,0,217,12,13,0,1,29,02 May 2026 17:25:05,9F1F9647EBF465F121DF
+SD YPPK ST SANTUPETRUS,60401924,SD,Swasta,Kec. Babo,320402,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,7,0,77,6,5,0,0,31,10 Apr 2026 06:25:01,574C2B928DDD155090D7
+SMP NEGERI BABO,60401957,SMP,Negeri,Kec. Babo,320402,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,23,4,240,8,11,2,1,46,02 May 2026 10:03:02,13944C8601E2CBF98E4F
+SMA NEGERI BABO,60403488,SMA,Negeri,Kec. Babo,320402,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,20,1,223,8,10,3,1,75,16 Apr 2026 06:10:27,55D1E41B137D36810F26

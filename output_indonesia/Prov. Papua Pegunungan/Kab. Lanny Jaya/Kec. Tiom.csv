@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES TIOM,60301465,SD,Negeri,Kec. Tiom,380701,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,15,1,318,12,12,0,1,29,27 Apr 2026 15:37:52,E9F3161B54B897F3F70C
+SD Negeri Nawi Abua 1,70041498,SD,Negeri,Kec. Tiom,380701,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,161,6,6,0,0,11,29 Apr 2026 12:40:01,C5F00C3902A1D260A554
+SD NEGERI WUROM,60304859,SD,Negeri,Kec. Tiom,380701,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,7,1,274,10,9,0,0,21,02 May 2026 14:14:21,33A153CBB5E5A8654392
+SD YPPGI GUWOPAKA,60301511,SD,Swasta,Kec. Tiom,380701,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,210,9,11,0,0,16,30 Apr 2026 16:39:42,C068740EAE8CD2BE5AD0
+SMP Negeri Nawi Abua 1,70041499,SMP,Negeri,Kec. Tiom,380701,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,3,1,208,6,9,0,0,16,02 May 2026 17:54:48,2B981734C19A57A9AEC3
+SMP YPPGI TIOM,60301586,SMP,Swasta,Kec. Tiom,380701,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,12,1,265,10,13,1,0,311,01 May 2026 05:07:13,F040202A5BF241A2433F
+SMAN 1 TIOM,60301591,SMA,Negeri,Kec. Tiom,380701,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,33,1,683,21,21,1,2,73,29 Apr 2026 09:18:32,78B567D6E8E993A13C5F
+SMAS YPPGI TIOM,69822795,SMA,Swasta,Kec. Tiom,380701,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,17,1,271,8,7,5,1,38,29 Apr 2026 11:38:24,AC03FFBF7A220DAE98DF

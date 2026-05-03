@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BILEON,50300885,SD,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,3,104,6,6,0,1,36,29 Apr 2026 18:30:17,67189A91BA5B687B3572
+SD Inpres Tunis,50300544,SD,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,2,150,6,7,0,0,48,13 Apr 2026 04:27:53,D10977FA607C4DEBF845
+SD NEGERI KAENENO,50307063,SD,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,3,163,9,9,0,1,20,14 Apr 2026 22:50:45,3CA3A1FEF8E7F7A594FF
+SD NEGERI OELEON,50307114,SD,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,2,159,7,6,0,1,10,08 Apr 2026 20:25:32,5EFB2F00A2EE8AEDCEEA
+SD NEGERI TILUK O,70013180,SD,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,57,6,6,1,1,43,16 Apr 2026 15:23:37,FDB75D50F13DD20C47D8
+SD NEGERI UPUNKOI,69863300,SD,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,3,81,6,4,0,0,16,01 May 2026 21:01:19,941BE0D33F19E7482658
+SD GMIT NIPOL,50300783,SD,Swasta,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,2,4,60,6,6,0,1,2,27 Jan 2026 09:15:23,97DB4110FFCDE3BE0F81
+SD GMIT NUNUKNITI,50306846,SD,Swasta,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,1,32,6,6,0,2,23,27 Apr 2026 16:14:04,0E24EF7D54B6C77BC9B1
+SD GMIT OENAE,50300685,SD,Swasta,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,1,118,6,6,0,0,38,30 Jan 2026 11:08:35,6723019ACD608424C4DC
+SD GMIT TOL,50300739,SD,Swasta,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,3,2,57,6,6,0,1,11,26 Jan 2026 11:13:45,05421776F76A0C745DEB
+SD KAT. YAS.LETEMNEO,50300469,SD,Swasta,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,0,40,6,6,0,1,12,06 Apr 2026 21:21:58,FD56F3FF40947F60E7B7
+SMP NEGERI FAUTMOLO,69987832,SMP,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,26,6,151,6,9,0,1,42,01 May 2026 06:49:54,1AD8E09E535D099E39A4
+SMP NEGERI KAENENO,70046334,SMP,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,1,93,4,4,1,1,43,09 Apr 2026 06:39:41,70626118B4C57DCB3A44
+SMP NEGERI SATAP BILEON,70003278,SMP,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,17,5,65,3,3,1,1,26,29 Apr 2026 20:05:15,247AE922095270D76F4D
+SMP NEGERI TILUK OH,70002679,SMP,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,4,41,3,3,0,0,41,07 Apr 2026 14:38:48,224ABADFDE8BBCB41F1D
+SMP REFORMASI PLUS GERANDY OELEON,69991785,SMP,Swasta,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,3,16,3,3,0,0,10,17 Mar 2026 20:04:05,B23D3BCDE440278BEB54
+SMA NEGERI FAUTMOLO,70014745,SMA,Negeri,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,1,155,6,7,0,0,13,29 Apr 2026 11:04:08,4A46620D0774B7AA732C
+SMKS KRISTEN FAUTMOLO,50309163,SMK,Swasta,Kec. Fautmolo,240330,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,3,119,9,4,1,1,48,22 Apr 2026 09:28:31,8E1513DFA9D16744B1B7

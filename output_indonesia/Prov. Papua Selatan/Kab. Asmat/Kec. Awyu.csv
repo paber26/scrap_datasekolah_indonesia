@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SAGARE,60303724,SD,Negeri,Kec. Awyu,370422,Kab. Asmat,370400,Prov. Papua Selatan,370000,12,1,182,10,6,0,1,29,01 May 2026 06:43:55,EF4622C4D09E3DF90D7F
+SD INPRES SUAGAI,60303626,SD,Negeri,Kec. Awyu,370422,Kab. Asmat,370400,Prov. Papua Selatan,370000,3,1,257,8,2,0,0,21,30 Apr 2026 10:21:42,5B278986707F00E67773
+SMP NEGERI AWYU,69967019,SMP,Negeri,Kec. Awyu,370422,Kab. Asmat,370400,Prov. Papua Selatan,370000,14,1,157,6,6,1,1,30,09 Apr 2026 18:27:42,C7EB3F30E527C18EF252
+SMP YPPGI KEN JIM YOST COMORO,69967020,SMP,Swasta,Kec. Awyu,370422,Kab. Asmat,370400,Prov. Papua Selatan,370000,7,1,65,3,3,0,0,34,25 Apr 2026 15:17:50,20BA4B411DC9CB521ABA

@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPK WEFIANI,60401498,SD,Swasta,Kec. Amberbaken,390510,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,8,2,68,6,6,0,1,34,28 Apr 2026 12:24:39,64AB4AE58B35CD4DD7DC
+SMP NEGERI 8 AMBERBAKEN,60400181,SMP,Negeri,Kec. Amberbaken,390510,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,10,2,129,5,11,2,1,26,27 Apr 2026 21:34:38,0688AB7CE633159CBF41
+SMAN AMBERBAKEN,60402065,SMA,Negeri,Kec. Amberbaken,390510,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,11,3,95,6,7,4,1,24,30 Apr 2026 17:32:17,0AE3F4D7238D3BDB0B45

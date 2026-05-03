@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 DENGILO,40500705,SD,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,9,3,60,6,6,1,1,125,23 Apr 2026 11:23:46,418A65A0DF87E800EE76
+SDN 02 DENGILO,40500806,SD,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,2,100,6,6,0,1,70,30 Apr 2026 10:13:29,CAB910C51439BD87101C
+SDN 03 DENGILO,40500751,SD,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,2,109,6,6,1,1,20,21 Apr 2026 10:14:21,B7CAFE63A89D6127416C
+SDN 04 DENGILO,40500801,SD,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,2,92,6,6,0,1,10,22 Apr 2026 10:14:14,7B164A589F59F60C0D42
+SDN 05 DENGILO,40500706,SD,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,3,119,6,6,1,1,47,06 Mar 2026 21:48:11,DDB28AF96E7F03BF5AF9
+SDN 06 DENGILO,40501843,SD,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,7,1,47,6,6,0,1,28,10 Apr 2026 15:59:06,CD4E20D6F04C3EAAC4F2
+SDN 07 DENGILO,69964851,SD,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,8,2,50,6,6,0,1,47,17 Apr 2026 19:35:15,7C443B31C23A8935A1BF
+SMP NEGERI 1 DENGILO,40500737,SMP,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,12,5,106,5,7,2,1,25,30 Apr 2026 09:45:12,BBD8B82CD58772019210
+SMP NEGERI 2 DENGILO SATU ATAP,40501644,SMP,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,9,2,21,3,3,1,1,68,29 Apr 2026 07:59:28,C64D4A5E058BDED8A262
+SMK NEGERI 1 DENGILO,40502094,SMK,Negeri,Kec. Dengilo,300313,Kab. Pohuwato,300300,Prov. Gorontalo,300000,20,6,86,11,14,1,1,63,30 Apr 2026 14:31:42,25A3DE721307DE6B9458

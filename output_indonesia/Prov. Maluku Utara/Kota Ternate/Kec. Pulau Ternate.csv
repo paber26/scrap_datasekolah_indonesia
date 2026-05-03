@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 58 KOTA TERNATE,60200860,SD,Negeri,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,11,6,125,6,6,0,1,22,26 Apr 2026 22:29:25,66A6C5400F3D9F3D24FF
+SD NEGERI 59 KOTA TERNATE,60200865,SD,Negeri,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,12,2,110,6,6,0,1,20,16 Apr 2026 09:46:30,BEC7258EFF05D24EA7D2
+SD NEGERI 61 KOTA TERNATE,60202336,SD,Negeri,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,10,5,90,6,6,0,0,14,21 Apr 2026 07:20:33,C5D1335A927FCCA5B848
+SD NEGERI 65 KOTA TERNATE,60200843,SD,Negeri,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,16,6,215,12,10,0,1,26,20 Apr 2026 08:18:47,A0C83715E40BC51A2203
+SD NEGERI 66 KOTA TERNATE,60200740,SD,Negeri,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,8,5,86,6,6,1,1,13,27 Apr 2026 20:37:58,A942EF670EBF3D1516F5
+SD NEGERI 67 KOTA TERNATE,60200871,SD,Negeri,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,8,4,76,6,6,0,1,20,28 Apr 2026 06:35:52,3D830D9DBF63DAA4EE1B
+SMP NEGERI 11 KOTA TERNATE,60200761,SMP,Negeri,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,15,7,75,3,3,2,1,67,30 Apr 2026 18:53:57,8A69B11D50BBD18451B0
+SMP ISLAM 2 KOTA TERNATE,60200792,SMP,Swasta,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,13,4,127,5,6,2,1,42,28 Apr 2026 07:40:34,0EFC73BDC66E6C285C12
+SMK NEGERI 4 KOTA TERNATE,60200776,SMK,Negeri,Kec. Pulau Ternate,276001,Kota Ternate,276000,Prov. Maluku Utara,270000,31,5,99,15,17,1,1,27,29 Apr 2026 09:20:17,07A550AD0272175EFFFF

@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Inp. Akedaga 1,60201161,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,5,101,6,7,0,1,12,11 Apr 2026 05:55:54,8E62116BE89598E7ABC8
+SD Inp. Akedaga 2,60201162,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,10,2,154,7,7,0,1,13,20 Apr 2026 07:25:03,9B1EE3FA23F88A2BD6EE
+SD Inp. Dakaino 2,60201160,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,11,1,77,6,7,0,1,49,10 Apr 2026 06:11:48,7A435105924F6B8F919C
+SD Inpres Dakaino 1,60201159,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,2,164,6,6,1,1,32,27 Apr 2026 05:55:31,795A486B388922139876
+SD Inpres Toboino,60200698,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,3,125,6,8,1,1,9,08 Apr 2026 07:48:41,6771FB8744AF884F1758
+SD INPRES TUTULING JAYA,60201164,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,12,3,157,9,9,0,2,31,14 Apr 2026 08:16:22,1A7C3FC8A9D6B3768C0B
+SD Inpres Wokajaya,60200697,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,10,3,129,6,6,1,1,57,15 Apr 2026 12:02:05,BE5DAC56CA0B625DA7E9
+SD NEGERI DODAGA,60201197,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,3,184,6,7,0,1,27,30 Apr 2026 06:25:08,712D707215BE9FF59B10
+SD NEGERI TITIPA,69971752,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,11,2,27,6,4,0,0,22,12 Apr 2026 18:25:53,0CA9EE98BB510075A0E9
+SD NEGERI TUKUR-TUKUR,60200671,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,3,29,6,7,0,1,23,20 Apr 2026 19:53:20,3AF0B6C41A2A935DEFB9
+SDN BERINGIN JAYA,69787083,SD,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,10,2,51,6,5,0,1,44,10 Apr 2026 07:23:45,C261FB926A6ED014076C
+SMP NEGERI 4 WASILE,60201349,SMP,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,18,2,145,6,14,5,1,107,28 Apr 2026 08:15:49,09575946A32FBFBC4D08
+SMP NEGERI 6 WASILE,60203424,SMP,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,11,2,110,5,7,2,1,30,06 Apr 2026 20:42:05,1D1D7B94698B7F2225C4
+SMPN 12 WASILE,69958908,SMP,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,14,1,131,5,6,1,1,54,30 Apr 2026 09:19:55,5F15A586FF2F73685F08
+SMP MUHAMMADIYAH SUBAIM,60203411,SMP,Swasta,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,13,5,101,5,12,0,1,62,21 Apr 2026 09:40:56,4CC210EB52390EF6C03F
+SMA NEGERI 10 HALMAHERA TIMUR,69958905,SMA,Negeri,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,18,4,101,3,4,4,1,40,25 Apr 2026 09:04:12,24E18CB376EB25563377
+SMAS MUHAMMADIYAH SUBAIM,60201361,SMA,Swasta,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,11,2,170,6,8,3,1,16,17 Apr 2026 06:16:34,9E9088797D17003F7756
+SMKS MUHAMMDIYAH SUBAIM,60200658,SMK,Swasta,Kec. Wasile Timur,270607,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,13,2,169,8,8,2,1,17,20 Apr 2026 10:55:47,CAF952636DD23731E5A2

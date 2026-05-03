@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI DOMPASE,40104675,SD,Negeri,Kec. Siau Tengah,170905,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,7,1,25,6,6,0,0,59,01 May 2026 08:07:01,A127D3864C6D849C0879
+SD GMIST BUKIT HOREB LAI,40104655,SD,Swasta,Kec. Siau Tengah,170905,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,6,1,52,6,6,0,1,128,22 Apr 2026 11:02:53,AAE1BC0FDF6F8678F4E7
+SD GMIST MARANATHA BEONG,40104664,SD,Swasta,Kec. Siau Tengah,170905,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,4,1,41,6,6,0,1,66,30 Apr 2026 10:00:42,139895CB4545D20E030D
+SD GMIST PINTU ELOK SALILI,40104668,SD,Swasta,Kec. Siau Tengah,170905,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,6,1,38,6,6,0,1,18,01 May 2026 21:30:15,2F71E9E501767ECE7B90
+SMP NEGERI 2 SIAU BARAT,40104763,SMP,Negeri,Kec. Siau Tengah,170905,Kab. Kep. Siau Tagulandang Biaro,170900,Prov. Sulawesi Utara,170000,12,2,82,3,4,2,1,22,29 Apr 2026 07:12:53,EDC75E7F65544324DAA4

@@ -1,0 +1,23 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KOTAMENARA,40101925,SD,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,76,6,6,0,0,12,06 Mar 2026 13:23:29,3E623C00E697538FC215
+SD INPRES LOPANA,40101921,SD,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,2,115,6,6,0,1,23,07 Apr 2026 22:15:09,F213C82A20268443F74D
+SD INPRES MALIKU,40101923,SD,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,62,6,6,0,1,12,03 Mar 2026 19:02:19,E1A35B2DA4E85BC5BC2C
+SD INPRES PINALING,40101957,SD,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,9,2,50,6,6,0,0,9,16 Apr 2026 03:38:07,8E402B6650FFE37E7FB3
+SD INPRES PONDANG,40101961,SD,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,2,139,7,8,0,1,24,06 Apr 2026 06:24:59,3935FA79C7EE13D21D43
+SD INPRES RANOMEA,40101965,SD,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,86,6,8,0,1,18,24 Apr 2026 09:13:24,BE45446E3F0F0CB61FAD
+SD INPRES RITEY,40101952,SD,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,39,6,6,0,0,21,17 Mar 2026 08:21:07,95BCEE4E16257057F742
+SD ADVENT PINALING,40102161,SD,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,3,1,28,6,6,0,0,10,24 Apr 2026 11:15:05,72DE85354510939BC686
+SD GMIM LOPANA,40102094,SD,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,84,6,6,0,0,13,24 Apr 2026 10:53:16,370155F8D625363A79FC
+SD GMIM MALENOS BARU,40102084,SD,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,4,1,38,6,6,0,1,14,13 Mar 2026 10:15:34,9B7710ED0E8EA0F5016F
+SD GMIM MALIKU,40102085,SD,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,65,6,6,0,1,7,11 Apr 2026 08:46:29,3D6A35B0441FD932D353
+SD GMIM PINALING,40102126,SD,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,5,1,77,6,6,0,0,14,04 Mar 2026 10:11:31,A47DC68188B0913A539C
+SD GMIM PONDANG,40102131,SD,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,82,6,6,0,1,20,17 Apr 2026 10:42:36,EBB0F5A2B8977CD91B0E
+SD GMIM RANOMEA,40102109,SD,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,5,1,110,6,6,0,1,9,04 Mar 2026 23:37:07,654AE2219E2240C88043
+SD GMIM RITEY,40102113,SD,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,62,6,6,0,1,15,12 Mar 2026 10:40:56,EC1844E1283DCBBE9F88
+SMP NEGERI 1 AMURANG TIMUR,40101984,SMP,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,1,137,6,7,2,1,25,07 Mar 2026 21:03:25,B8640FD705F2EFED6B87
+SMP NEGERI 2 AMURANG TIMUR (SATAP),40103840,SMP,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,10,1,37,3,3,1,1,32,04 Mar 2026 18:12:25,7A9D9190BC7D565A6472
+SMP NEGERI 3 AMURANG TIMUR (SATAP PINALING),69946540,SMP,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,9,1,38,3,3,0,0,54,07 Mar 2026 08:56:07,3ED7D909D4C14B4C8AC1
+SMP KRISTEN MALIKU,40102050,SMP,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,4,2,45,3,3,2,1,11,11 Apr 2026 10:29:34,C956B5F54986770189BB
+SMP PGRI RITEY,40102036,SMP,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,40,3,3,1,1,13,22 Apr 2026 07:09:05,C6B57754BFAFA0703113
+SMA NEGERI 1 AMURANG TIMUR,40102005,SMA,Negeri,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,16,6,194,7,9,6,1,38,27 Apr 2026 09:27:14,8C121DA3CA15BA9BCE55
+SMK TRINITA AMURANG,70052969,SMK,Swasta,Kec. Amurang Timur,170518,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,4,1,21,4,4,0,1,7,28 Feb 2026 07:46:07,A3BA214E84F44FC7F95E

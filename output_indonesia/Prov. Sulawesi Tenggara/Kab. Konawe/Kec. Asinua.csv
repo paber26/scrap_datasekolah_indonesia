@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LASADA,40400334,SD,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,4,85,6,6,0,1,21,28 Apr 2026 20:43:08,92FA3D999BFBF44E4EA6
+SD NEGERI 2 LASADA,40400529,SD,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,5,34,6,5,0,0,43,28 Apr 2026 23:39:34,0D5DEB794ACB0A41F939
+SD NEGERI AMBONDIAA,40400176,SD,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,5,13,6,6,0,1,9,26 Feb 2026 09:21:12,F53F45350DD814EAADAD
+SD NEGERI ANGOHI,40400214,SD,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,15,10,14,6,6,0,1,58,29 Apr 2026 13:20:17,E0334921232E18C22438
+SD NEGERI ASINUA UTAMA,40400204,SD,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,8,2,64,6,6,0,1,31,21 Apr 2026 19:56:11,E4C296EE01C9647FACE1
+SD NEGERI AWUA JAYA,40405728,SD,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,1,48,6,6,0,1,125,25 Apr 2026 07:18:31,7582A749EDF31AEE88BC
+SD NEGERI LASAO JAYA,69759040,SD,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,11,4,32,6,6,0,1,27,27 Apr 2026 12:28:59,F0B0D65F29F3490564C1
+SMP NEGERI 1 ASINUA,40402849,SMP,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,5,42,3,3,1,1,11,28 Apr 2026 21:39:26,4AA58252A98EE05B943E
+SMP NEGERI SATU ATAP 1 ASINUA,40403684,SMP,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,7,104,4,5,1,1,48,30 Apr 2026 09:06:50,53524B7F526DF157A86A
+SMAN 1 ASINUA,60726578,SMA,Negeri,Kec. Asinua,200144,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,18,4,96,4,7,2,1,19,02 May 2026 05:27:28,A8AE266C2F863D1B8C14

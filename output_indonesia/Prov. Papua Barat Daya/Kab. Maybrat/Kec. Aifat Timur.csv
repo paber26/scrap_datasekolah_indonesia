@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 140 AITREM SAWIN,60401658,SD,Negeri,Kec. Aifat Timur,390103,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,8,1,32,6,6,0,0,51,30 Apr 2026 14:17:06,F41642AE4D634283D6F9
+SD YPPK AIKRER,60401737,SD,Swasta,Kec. Aifat Timur,390103,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,4,0,55,6,6,0,1,25,13 Apr 2026 15:58:23,E19D9BD86DFE75C9FC9C
+SMP NEGERI 1 AIFAT TIMUR,60403828,SMP,Negeri,Kec. Aifat Timur,390103,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,10,1,55,3,8,0,0,48,26 Apr 2026 19:09:12,6FF9755E1C848E99E410

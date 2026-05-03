@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES FAWI,60301930,SD,Negeri,Kec. Fawi,360203,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,5,1,317,11,6,0,0,31,30 Apr 2026 19:09:03,C13A659C5DAA6A04D361
+SMP Negeri Fawi,60301989,SMP,Negeri,Kec. Fawi,360203,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,2,1,194,6,3,0,0,60,02 May 2026 15:53:21,CA8B106940D045437AA8
+SMA NEGERI FAWI,70048914,SMA,Negeri,Kec. Fawi,360203,Kab. Puncak Jaya,360200,Prov. Papua Tengah,360000,4,1,94,2,4,0,0,25,17 Mar 2026 20:24:22,D2BE74FE4BF8C28D90D6

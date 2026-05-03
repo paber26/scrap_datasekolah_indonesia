@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES Atoou,69787839,SD,Negeri,Kec. Kapiraya,360805,Kab. Deiyai,360800,Prov. Papua Tengah,360000,3,1,99,7,4,0,0,8,21 Feb 2026 18:24:14,6EA262964E11F20CBA9C
+SD INPRES Kapiraya,60302296,SD,Negeri,Kec. Kapiraya,360805,Kab. Deiyai,360800,Prov. Papua Tengah,360000,4,1,232,6,4,0,0,7,17 Feb 2026 08:31:31,CA06116A07BD1D314683
+SD Inpres Mogodagi,70005304,SD,Negeri,Kec. Kapiraya,360805,Kab. Deiyai,360800,Prov. Papua Tengah,360000,2,1,537,15,3,0,0,5,08 Mar 2026 19:24:52,FF6992F1975F6F7E4202
+SD YPPGI Idego,60302367,SD,Swasta,Kec. Kapiraya,360805,Kab. Deiyai,360800,Prov. Papua Tengah,360000,1,1,423,13,4,0,0,20,26 Apr 2026 16:01:23,E69E79FA9551AF7E86ED

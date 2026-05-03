@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 SILUNGKANG TIGO,10303696,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,8,4,100,6,6,0,2,15,02 Apr 2026 21:50:54,D9A2DED26A5703C13E36
+SDN 04 SILUNGKANG,10303715,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,8,4,107,6,6,0,1,17,06 Apr 2026 08:30:53,29A902FE6E02CA4D86E8
+SDN 05 MUARO KALABAN,10303729,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,8,4,138,6,6,1,1,29,06 Apr 2026 12:40:41,2CDCE0A1CEB9458E73E0
+SDN 07 MUARO KALABAN,10303734,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,7,4,51,6,6,0,1,17,09 Apr 2026 08:19:47,84891744B87CCE0E7527
+SDN 08 SILUNGKANG DUO,10303716,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,8,3,55,6,6,0,1,12,08 Apr 2026 09:53:46,AC0CF3EBA4C63A4871DC
+SDN 09 MUARO KALABAN,10303717,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,8,3,38,6,6,0,1,17,22 Apr 2026 08:27:15,C613AA2A76235EE9E1AA
+SDN 10 TARATAK BANCAH,10303720,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,7,4,69,6,6,0,1,16,16 Apr 2026 10:24:58,C4C2976452D89C381E71
+SDN 11 MUARO KALABAN,10303722,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,9,3,155,7,8,0,1,19,06 Apr 2026 09:15:13,53A04FB2667BF43115ED
+SDN 12 SILUNGKANG DUO,10303665,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,8,4,48,6,6,0,1,24,06 Apr 2026 10:45:08,7E3632B3E46C147215BE
+SDN 13 SILUNGKANG OSO,10303670,SD,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,8,3,64,6,6,0,1,7,07 Apr 2026 20:15:47,BDCD16CE15879C38E0D5
+SD IT TAHFIZHUL QURAN,70005100,SD,Swasta,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,9,1,64,6,6,0,1,9,14 Apr 2026 19:54:31,E339DE0C8690B7DAB26C
+SDS MUHAMMADIYAH,10303712,SD,Swasta,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,8,4,91,6,7,0,1,17,29 Apr 2026 21:26:53,75E43D9465B54A00E970
+SMP NEGERI 6 SAWAHLUNTO,10303693,SMP,Negeri,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,22,6,262,9,10,2,1,22,29 Apr 2026 09:12:37,8F4CC985CDE8217B3BA6
+SMP MUHAMMADIYAH SILUNGKANG,10303675,SMP,Swasta,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,9,2,60,3,4,2,1,65,20 Apr 2026 11:51:23,8B507F2332ADEA7DBF72
+SMP-SDI SILUNGKANG,10303676,SMP,Swasta,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,13,5,152,6,9,2,1,102,17 Apr 2026 10:50:09,CA73D6FBA6BB8547F0C7
+SMAS SDI SILUNGKANG,10303690,SMA,Swasta,Kec. Silungkang,086301,Kota Sawahlunto,086300,Prov. Sumatera Barat,080000,13,3,123,6,7,2,1,4,23 Jan 2026 09:40:19,0195DF97A1F3B4846E2F

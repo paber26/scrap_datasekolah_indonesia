@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BATU TANGGA,30302264,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,4,50,6,6,1,1,35,29 Apr 2026 15:04:35,4430D4C20D0F20E26411
+SD NEGERI 2 BATU TANGGA,30302370,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,3,42,6,6,0,1,8,06 Apr 2026 10:04:05,37448D026E5DB5B9A7EB
+SD NEGERI HINAS KIRI,30302186,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,9,3,126,6,6,0,1,10,08 Apr 2026 22:07:41,AFCE14FB67F27453AEB3
+SD NEGERI KECIL BATU PERAHU,30302065,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,9,3,52,7,8,0,1,5,15 Mar 2026 19:08:00,0EA77268A21486ED5409
+SD NEGERI KECIL DATAR BATUNG,30311691,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,10,1,65,9,10,0,1,8,06 Apr 2026 16:36:45,6C13FCD79DBB8548FACF
+SD NEGERI KECIL JUHU,30302181,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,4,1,25,6,6,0,0,5,21 Feb 2026 07:48:27,3554190290F855DB102E
+SD NEGERI MUARA HUNGI,30302218,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,9,3,56,6,6,0,0,15,08 Apr 2026 08:09:29,14556AB2864B437D90A6
+SD NEGERI NATIH,30302210,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,3,107,6,6,0,1,17,09 Apr 2026 09:01:19,48F5C8E4F5284EF83887
+SD NEGERI PEMBAKULAN,30302207,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,7,4,41,6,6,0,1,17,19 Apr 2026 22:26:13,61ECB273C79841AF9199
+SD NEGERI SUMBAI,30311690,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,5,2,12,6,4,0,0,11,17 Apr 2026 16:52:46,4B307FEEA2B2CEC2DD30
+SD NEGERI TANDILANG,30302148,SD,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,8,3,95,6,6,0,1,15,18 Apr 2026 07:32:48,741EF0C5BB12649F91E5
+SMP NEGERI 24 HULU SUNGAI TENGAH,30302154,SMP,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,11,2,61,3,4,2,1,19,28 Feb 2026 18:54:11,FF1E132A565D6A00B2DF
+SMP NEGERI 25 SATU ATAP HULU SUNGAI TENGAH,30311617,SMP,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,17,3,115,5,8,1,1,32,29 Apr 2026 07:39:49,F7D0902B3439F75F363C
+SMP NEGERI 30 SATU ATAP HULU SUNGAI TENGAH,30311672,SMP,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,9,3,42,3,3,1,1,24,01 May 2026 10:17:02,A85351F1B6AC04AD0C8D
+SMP NEGERI 34 SATU ATAP HULU SUNGAI TENGAH,30311673,SMP,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,9,4,28,3,3,1,1,25,16 Apr 2026 10:20:40,4E6C9FFC7640F6B151EC
+SMAN 9 BARABAI,30314151,SMA,Negeri,Kec. Batang Alai Timur,150610,Kab. Hulu Sungai Tengah,150600,Prov. Kalimantan Selatan,150000,18,9,77,3,9,2,1,11,09 Apr 2026 17:28:28,F03B371CBA25E31E8CC9

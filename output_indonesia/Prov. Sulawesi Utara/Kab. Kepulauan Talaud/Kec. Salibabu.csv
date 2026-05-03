@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BITUNURIS,40101719,SD,Negeri,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,14,1,87,6,6,0,1,27,29 Apr 2026 08:54:47,AB98E718C80A9ED46946
+SD NEGERI BALANG,40101848,SD,Negeri,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,10,1,54,6,7,0,1,14,11 Mar 2026 15:00:47,86C22BD9E6597C4AD59F
+SD NEGERI INPRES 377 SALIBABU,40101825,SD,Negeri,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,9,2,84,6,6,0,1,11,04 Mar 2026 02:44:50,A5663BC507CD7B7A962B
+SD NEGERI INPRES 482 SALIBABU,40101827,SD,Negeri,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,10,1,126,6,6,0,1,13,02 Apr 2026 13:41:00,5ADEECA6C86EF6C22120
+SD KRISTEN MARANATHA SALIBABU,40101790,SD,Swasta,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,8,2,70,6,6,0,1,11,10 Feb 2026 21:38:15,DB347413CA7A1DA94FFC
+SD KRISTEN TORSINA BITUNURIS SELATAN,69876111,SD,Swasta,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,12,2,129,6,6,0,1,11,27 Apr 2026 17:00:08,D3E6CAEC8C5726C741BA
+SMP NEGERI 3 LIRUNG,40101773,SMP,Negeri,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,20,3,126,6,7,2,1,13,06 Apr 2026 15:11:12,2709FD6BD496CAE855C2
+SMP NEGERI 6 LIRUNG,69787880,SMP,Negeri,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,13,4,109,5,5,2,1,42,29 Apr 2026 09:08:28,99A6C7196C4D827062C2
+SMA NEGERI 2 LIRUNG,69889078,SMA,Negeri,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,19,6,90,3,11,5,3,23,11 Mar 2026 09:27:03,8C188622E76C8B331EE2
+SMKS KRISTEN KARYA BAHARI SALIBABU,40103560,SMK,Swasta,Kec. Salibabu,170420,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,3,3,44,6,8,2,1,34,20 Apr 2026 19:55:55,260D27E6E1624DDA2109

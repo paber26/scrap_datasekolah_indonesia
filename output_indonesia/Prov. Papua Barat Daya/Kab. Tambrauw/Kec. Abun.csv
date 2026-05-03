@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 36 WAU,69728595,SD,Negeri,Kec. Abun,390506,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,8,1,26,6,6,0,0,26,30 Apr 2026 18:46:48,EAA0C0DAA211379D0CC9
+SD NEGERI WAIBEM,69728604,SD,Negeri,Kec. Abun,390506,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,6,1,43,6,6,0,1,10,04 Apr 2026 19:46:55,5162EAEF195859E8D4F6
+SD NEGERI WARMANDI,60404166,SD,Negeri,Kec. Abun,390506,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,5,1,24,6,6,0,0,17,02 May 2026 08:57:47,EE83882A1412A53506B0
+SMP NEGERI ABUN,60404172,SMP,Negeri,Kec. Abun,390506,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,6,1,25,3,9,2,1,7,04 Feb 2026 05:47:49,2E9E92FED281847F8832

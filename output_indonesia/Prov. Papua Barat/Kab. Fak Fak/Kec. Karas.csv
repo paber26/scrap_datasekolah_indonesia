@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES FAUKIA,60401020,SD,Negeri,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,9,1,24,6,3,0,0,8,10 Apr 2026 14:41:13,0A3E3336B6D00604B93C
+SD INPRES MAAS,60401031,SD,Negeri,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,7,2,34,6,5,0,1,20,20 Apr 2026 13:53:41,50BA845C7AEBE18CC374
+SD NEGERI ANTALISA,60401083,SD,Negeri,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,9,2,25,6,6,0,0,19,08 Apr 2026 18:34:23,A6DF9E7006B5D1884C9C
+SD NEGERI KARAS,60403424,SD,Negeri,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,13,4,168,10,9,0,1,49,29 Apr 2026 16:54:15,B38CD418B6099E172224
+SD Negeri Kiaba,69882424,SD,Negeri,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,10,1,28,6,3,0,0,16,03 Feb 2026 06:00:38,EFB4291A5D39636D8286
+SD NEGERI TARAK,60403516,SD,Negeri,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,8,1,60,6,4,0,0,20,22 Apr 2026 19:44:54,350A5CBF8491A804CEAF
+SD YPK KARAS,60401058,SD,Swasta,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,2,1,31,6,6,0,0,6,26 Apr 2026 04:25:18,5AF5CD082CC7E0E9A171
+SMP Negeri 1 Karas,60401097,SMP,Negeri,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,16,5,147,6,8,2,1,54,20 Apr 2026 09:42:22,8441B6ACADA75E50D9AF
+SMA NEGERI KARAS,60403596,SMA,Negeri,Kec. Karas,320102,Kab. Fak Fak,320100,Prov. Papua Barat,320000,20,4,127,6,6,2,1,37,29 Apr 2026 11:00:13,D768E49365107DE2C0A3

@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LAPANG,10106028,SD,Negeri,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,10,5,142,6,6,0,1,14,09 Apr 2026 23:11:06,4A033FD2D0AE0DCFA728
+SD NEGERI 2 LAPANG,10101125,SD,Negeri,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,15,2,178,9,6,0,0,18,15 Apr 2026 09:24:57,864999109EE466318525
+SD NEGERI 3 LAPANG,10106137,SD,Negeri,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,14,3,175,8,10,0,1,16,10 Apr 2026 10:09:05,7155EFFE4026F038BCD9
+SD NEGERI 4 LAPANG,10106157,SD,Negeri,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,14,4,99,6,6,0,0,12,21 Apr 2026 20:27:15,E0E817780E1E739F839E
+SD NEGERI 5 LAPANG,10105852,SD,Negeri,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,17,6,184,8,8,0,0,22,21 Apr 2026 20:39:39,D28C2D11C15D811969E2
+SD NEGERI 6 LAPANG,10105886,SD,Negeri,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,13,3,187,9,9,0,1,17,30 Apr 2026 11:42:33,ED2D0FA313A8620A68EA
+SMP NEGERI 1 LAPANG,10106228,SMP,Negeri,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,30,9,463,15,14,1,1,42,29 Apr 2026 12:07:45,E2B7D4552E91C80DB5C2
+SMPS IT INSAN MUDA,70035644,SMP,Swasta,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,19,2,57,3,3,0,0,37,29 Apr 2026 22:28:44,63F45B518C54ECA8E5A3
+SMK NEGERI 1 LAPANG,10113067,SMK,Negeri,Kec. Lapang,060326,Kab. Aceh Utara,060300,Prov. Aceh,060000,38,13,239,11,10,3,1,18,14 Apr 2026 13:24:45,BEFBF96628C0261A3594

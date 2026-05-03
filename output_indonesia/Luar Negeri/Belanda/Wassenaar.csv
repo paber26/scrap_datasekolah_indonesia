@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Sekolah Indonesia Den Haag,90101057,SD,Negeri,Wassenaar,350101,Belanda,350100,Luar Negeri,350000,4,0,148,12,4,1,1,52,15 Apr 2026 19:21:03,E25CDAD61D860AC3C67E
+SMP Sekolah Indonesia Den Haag,90101058,SMP,Negeri,Wassenaar,350101,Belanda,350100,Luar Negeri,350000,2,1,75,6,4,0,1,39,15 Apr 2026 19:43:47,8BE22B575C15C922AE2C
+SMA Sekolah Indonesia Den Haag,90101003,SMA,Negeri,Wassenaar,350101,Belanda,350100,Luar Negeri,350000,5,2,52,6,3,0,0,55,30 Apr 2026 20:44:03,BB59C2C200B92C874245

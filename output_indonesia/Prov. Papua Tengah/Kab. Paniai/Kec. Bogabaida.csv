@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BOGOBAIDA,60302288,SD,Negeri,Kec. Bogabaida,360304,Kab. Paniai,360300,Prov. Papua Tengah,360000,10,1,275,11,6,0,0,42,28 Apr 2026 20:37:14,F95EA048C2B978E4CF18
+SD YPPGI NAWIPAUWO,60302375,SD,Swasta,Kec. Bogabaida,360304,Kab. Paniai,360300,Prov. Papua Tengah,360000,4,1,303,13,8,1,0,17,27 Feb 2026 18:58:14,6EF2C26702AEBDD7ADB2
+SD YPPK NAMUTADI,60302413,SD,Swasta,Kec. Bogabaida,360304,Kab. Paniai,360300,Prov. Papua Tengah,360000,13,1,288,10,8,0,0,28,27 Apr 2026 10:57:20,553CB0C8560863E891C2
+SD YPPK TIGIMUYA,60302418,SD,Swasta,Kec. Bogabaida,360304,Kab. Paniai,360300,Prov. Papua Tengah,360000,4,1,364,12,9,1,1,8,10 Mar 2026 07:52:53,00A995E3B305749BBFE2
+SMPN SATAP 1 BOGOBAIDA,60304585,SMP,Negeri,Kec. Bogabaida,360304,Kab. Paniai,360300,Prov. Papua Tengah,360000,17,1,61,4,5,1,1,52,23 Apr 2026 21:05:38,1ED29BB6C9623DA6D19E

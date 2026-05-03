@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BEAM,60301387,SD,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,9,1,239,10,7,0,0,2,15 Jan 2026 20:55:31,FE72376994852ADCF492
+SD INPRES INDAWA,60301409,SD,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,164,7,8,0,0,17,29 Apr 2026 14:19:44,FB7175D884295D3FBE07
+SD INPRES LOKME,60301423,SD,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,4,1,339,12,10,0,0,21,02 May 2026 04:56:50,03AAF86DB3859B56DEE9
+SD INPRES MAKKI,60301426,SD,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,7,1,174,8,8,0,0,17,02 May 2026 10:32:13,BE42575757E78A7CBB68
+SD NEGEGERI KUMULUME,60303480,SD,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,482,15,6,0,0,2,18 Jan 2026 09:17:55,A129BDD689523D92E3A4
+SD YPPGI ADIAPUTME,60301506,SD,Swasta,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,245,9,6,0,0,5,15 Apr 2026 09:49:55,75345805B0B19D2F9A87
+SD YPPGI INDUKAPAKA,60301513,SD,Swasta,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,12,2,158,6,6,1,1,28,28 Apr 2026 21:53:10,F33F413823DB023CE3B0
+SD YPPGI NAMBUME,60303492,SD,Swasta,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,1,1,190,7,7,0,0,15,02 May 2026 09:54:22,24BA1B0E0BF8F99E7D59
+SD YPPGI TOBANAPME,60301524,SD,Swasta,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,202,8,8,0,0,27,02 May 2026 09:12:38,EE8D30131A0884E93A19
+SMP NEGERI 1 MAKKI,60300790,SMP,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,16,1,346,11,13,1,1,30,29 Apr 2026 12:23:30,8BA8CA46F4C8EEB1C681
+SMP NEGERI 2 MAKKI,60303505,SMP,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,10,1,396,11,4,0,0,53,29 Apr 2026 18:56:45,34FE6A6B7155BE584848
+SMP NEGERI 3 MAKKI,60303494,SMP,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,158,6,7,0,1,19,02 May 2026 09:56:44,99F03B0AAF738508DA6E
+SMA Negeri 2 Makki,69901832,SMA,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,18,1,435,13,7,0,9,18,21 Apr 2026 09:06:14,249A8B3A74C682AC7318
+SMAN 1 MAKKI,60302992,SMA,Negeri,Kec. Makki,380703,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,18,1,303,11,13,0,1,70,22 Apr 2026 15:56:29,7576F64E166BF2A40CCA

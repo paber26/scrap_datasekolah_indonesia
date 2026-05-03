@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES WULUK,60302235,SD,Negeri,Kec. Aweku,380442,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,5,1,98,6,6,0,1,38,01 May 2026 22:35:54,FC22746C7140DA01F930
+SD NEGERI WENGGUME,70037520,SD,Negeri,Kec. Aweku,380442,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,4,1,65,3,3,0,0,2,17 Jan 2026 19:46:54,5A8FAF408E4D0560F339
+SMP NEGERI AWEKU,70050805,SMP,Negeri,Kec. Aweku,380442,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,4,1,44,2,2,0,0,17,20 Mar 2026 07:49:18,8E4F75EFD13173E4BE30

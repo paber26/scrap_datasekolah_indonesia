@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 NYAMUK,11001171,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,10,6,137,7,8,0,1,22,18 Apr 2026 10:00:46,05F5613EC085F39E8429
+SDN 002 MUNJAN,69821189,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,12,9,75,6,6,0,1,28,28 Apr 2026 18:34:06,65EFE4F5ED0C6740E905
+SDN 003 AIR PUTIH,11001334,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,10,12,6,6,0,1,12,02 Apr 2026 21:52:41,6762AE7CE0F3487BDC91
+SDN 004 SERAT,11001342,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,9,47,6,6,0,1,16,20 Apr 2026 11:23:32,C6A3E727EC4D9BDAE755
+SDN 005 TEMBURUN,11001373,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,8,59,6,6,0,1,13,10 Apr 2026 15:58:58,227803EB20640CA2A18F
+SDN 006 BATU BELAH,11001379,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,9,75,6,6,0,1,10,27 Apr 2026 08:05:08,9A4F58CD62D50E0AD372
+SDN 007 ETANG,11003255,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,7,15,6,6,0,1,9,02 May 2026 15:53:20,DA502170622F10D018FA
+SDN 008 PENEBUNG,11001318,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,3,6,5,2,0,0,7,07 Apr 2026 19:38:49,EB1A553B580009D5E9FC
+SDN 009 NOKOK,69787046,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,6,8,26,6,6,0,1,25,26 Apr 2026 08:13:11,54835413E7E6276940D0
+SDN 010 LUAP,69856266,SD,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,9,36,6,6,0,1,22,30 Apr 2026 09:27:38,6405D9727E90DD54CA37
+SMPN 1 SIANTAN TIMUR,11000331,SMP,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,13,12,92,3,5,3,1,21,29 Apr 2026 16:58:19,1728AF199CF1DA514CAB
+SMPN 2 BATU BELAH,11002505,SMP,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,7,49,3,7,1,0,19,21 Apr 2026 12:27:49,98E2279F446B15723E46
+SMPN 3  MUNJAN,69856270,SMP,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,11,7,43,3,6,1,1,35,23 Apr 2026 11:21:54,21C509986D7E7ED812CA
+SMAN 1 SIANTAN TIMUR,11002506,SMA,Negeri,Kec. Siantan Timur,310506,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,17,9,140,6,7,4,1,25,28 Apr 2026 18:49:00,6720366E5E80C8C1890A

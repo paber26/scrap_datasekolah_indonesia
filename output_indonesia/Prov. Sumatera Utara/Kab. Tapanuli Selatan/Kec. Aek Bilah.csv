@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN No. 100501 SIGOLANG,10207160,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,9,3,102,6,6,0,0,4,01 Mar 2026 21:28:12,BD98F0FB1DB7F923D974
+SDN No. 100502 TOLANG,10207159,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,8,2,78,6,6,0,0,6,14 Mar 2026 13:53:08,685E2BCB95B2EBF6307F
+SDN No. 100503 TAPUS SIPAGABU,10207158,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,8,2,99,6,6,0,0,6,26 Apr 2026 22:04:33,89EF2553C62D76F0A50D
+SDN No. 100504 HUTABARU,10207157,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,9,1,67,6,5,0,0,8,14 Mar 2026 00:15:51,0537248E60A4DCC4B8C8
+SDN No. 100505 SIHULAMBU,10257569,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,8,1,52,6,6,0,0,9,07 Mar 2026 10:59:31,509E048138A5E1565181
+SDN No. 100506 TAPUS NABOLAK,10207156,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,5,1,40,6,6,0,0,6,04 Mar 2026 02:07:16,69F9B97FD723C2358BA9
+SDN No. 100507 GONTING PEGE,10207155,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,8,1,61,6,6,0,0,5,04 Mar 2026 02:19:39,5EFD7C47F1A9FEB66396
+SDN No. 100508 SILANGKITANG,10257570,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,7,1,120,6,6,0,0,5,01 Mar 2026 23:07:01,F73FCB1005DB26E17932
+SDN No. 100509 TOLANG GUNUNG,69787484,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,7,1,68,6,5,0,0,6,04 Mar 2026 02:37:16,54B87652C9E0920E3EAB
+SDN No. 100510 AEK PISANG,10207153,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,8,1,32,6,7,0,0,3,24 Jan 2026 23:45:24,2B1660D6ED9488E6923D
+SDN No. 100511 AEK LATONG,10207152,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,11,1,33,6,6,0,0,7,16 Apr 2026 20:17:45,46B4340148B7D4DFBD6F
+SDN No. 100512 TANJUNG BARU,10207151,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,7,1,19,6,3,0,0,6,02 May 2026 12:10:19,5457D8949E0453551109
+SDN No. 100513 INPRES PARSANGGARAN,10257476,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,5,0,23,6,6,0,0,4,04 Mar 2026 03:29:04,DF6089B6FAEDEAAC28B0
+SDN No. 100514 PURBATUA,10257572,SD,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,8,1,39,6,5,0,0,7,12 Apr 2026 23:31:32,71B10D1DC48BE6490530
+SMP NEGERI 1 AEK BILAH,10220676,SMP,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,11,0,44,3,3,1,1,9,06 Mar 2026 05:20:54,A70F00440C573A75307A
+SMP NEGERI 2 AEK BILAH,10207125,SMP,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,9,2,55,3,6,1,1,6,11 Apr 2026 12:54:38,81E43A3D58A7D8678190
+SMK Negeri 1 Aek Bilah,70047361,SMK,Negeri,Kec. Aek Bilah,071027,Kab. Tapanuli Selatan,071000,Prov. Sumatera Utara,070000,15,3,32,6,6,0,1,11,24 Apr 2026 21:54:23,CAA283DC914ABEACB8F9

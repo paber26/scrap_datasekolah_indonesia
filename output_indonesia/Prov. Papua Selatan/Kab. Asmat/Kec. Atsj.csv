@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES AMBISU,60303722,SD,Negeri,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,6,2,69,6,6,0,0,75,23 Apr 2026 12:31:28,F50BEBAC86BDE31A04B0
+SD INPRES ATSJ,60303714,SD,Negeri,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,20,4,323,13,12,1,1,59,30 Apr 2026 07:15:17,23207D1ADFA7F3128875
+SD INPRES BINE,60303721,SD,Negeri,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,5,1,128,6,5,0,0,29,28 Apr 2026 21:50:59,75CC00F9D7296D1D980A
+SD INPRES BIPIM,60303718,SD,Negeri,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,4,2,80,6,6,0,0,27,29 Apr 2026 09:54:08,414C601DC40FD20CD5AA
+SD INPRES SOGONI,60303731,SD,Negeri,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,4,1,100,6,5,0,0,33,22 Apr 2026 20:02:36,4ADD354ABF410DF1881E
+SD NEGERI ATAMEC,60304939,SD,Negeri,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,8,1,86,6,5,0,0,19,23 Apr 2026 09:39:17,959438B31BBC59713707
+SD YPPK ST. PAULUS ATSJ,69787831,SD,Swasta,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,15,1,326,11,11,0,0,89,27 Apr 2026 09:34:46,8783015301EB3437A1F7
+SD YPPK STA. ROSA AMANAMKAI,60303723,SD,Swasta,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,4,2,167,6,7,0,1,56,25 Apr 2026 21:18:39,274401DD4E14174B8879
+SMP NEGERI 1 ATSJ,60304070,SMP,Negeri,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,23,4,383,12,12,2,0,128,02 May 2026 08:08:48,A883D681E103D6083047
+SMAN 1 ATSY,60304064,SMA,Negeri,Kec. Atsj,370402,Kab. Asmat,370400,Prov. Papua Selatan,370000,25,4,379,11,10,2,1,27,21 Apr 2026 09:00:42,083341E931E47E714FA1

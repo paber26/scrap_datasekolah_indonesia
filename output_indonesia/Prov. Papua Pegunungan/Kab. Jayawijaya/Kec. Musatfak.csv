@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ELABUKAMA,69787851,SD,Negeri,Kec. Musatfak,380107,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,3,181,6,6,0,1,17,28 Apr 2026 12:28:25,752615A6BC5620240E20
+SD NEGERI ANAGERA,60301382,SD,Negeri,Kec. Musatfak,380107,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,7,1,122,6,3,0,1,20,28 Apr 2026 12:12:49,B2F9C7E1F7759493F078
+SD NEGERI ISELEGA,70010694,SD,Negeri,Kec. Musatfak,380107,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,13,0,208,7,1,0,0,17,14 Mar 2026 23:56:30,07EE6043C2F844850CAF
+SD YPPK ST PETRUS MUSATFAK,60301540,SD,Swasta,Kec. Musatfak,380107,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,1,110,6,6,0,1,46,16 Apr 2026 11:28:23,B3E011182436E508DBB4
+SD YPPK ST YOHANES ABULUKMO,60301527,SD,Swasta,Kec. Musatfak,380107,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,5,0,178,7,5,0,0,10,13 Mar 2026 19:27:51,EA35C44D92614A6D8453
+SMP NEGERI ISELEGA,70033753,SMP,Negeri,Kec. Musatfak,380107,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,10,0,47,3,1,0,0,16,04 Feb 2026 12:41:29,64909A5F57B3C6A7FEF2
+SMPN MUSATFAK,60304584,SMP,Negeri,Kec. Musatfak,380107,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,9,2,141,5,7,2,1,15,02 May 2026 08:33:06,DAB09DA63264B31C4CA3
+SMK Negeri 1 Pariwisata Wamena,60302993,SMK,Negeri,Kec. Musatfak,380107,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,12,1,84,6,6,1,1,28,15 Apr 2026 02:30:53,7617C2694D6156F24C15

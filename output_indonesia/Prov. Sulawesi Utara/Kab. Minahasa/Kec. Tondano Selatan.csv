@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KOYA,40100809,SD,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,8,1,41,6,6,0,0,41,25 Mar 2026 20:16:09,E767AA3BB0245F27F228
+SD INPRES PELELOAN,40100855,SD,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,9,1,78,6,6,0,0,17,17 Apr 2026 08:40:24,B374E99B3EACA067CDD3
+SD INPRES TATAARAN I,40100763,SD,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,8,1,80,6,6,0,1,18,30 Apr 2026 13:15:29,86FDCF0A73A70D1978B7
+SD INPRES TATAARAN II,40100762,SD,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,9,0,88,6,6,0,1,20,08 Apr 2026 14:22:16,9DB579983CC963A1A23A
+SD NEGERI 2 TATAARAN,40101092,SD,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,14,1,271,12,13,0,0,29,12 Apr 2026 19:02:12,96DB044EEC23AB869E17
+SD NEGERI I TATAARAN,40101100,SD,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,9,2,164,7,7,0,0,24,13 Apr 2026 07:56:51,C88E9E2F27C9A1740907
+SD ANUGRAH TONDANO,40104895,SD,Swasta,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,4,1,27,6,6,0,0,13,23 Apr 2026 15:34:17,E3566A791FA57A432947
+SD GMIM KOYA,40100990,SD,Swasta,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,7,1,122,6,6,0,1,34,02 May 2026 00:09:42,3EFE91D5B8E146DE3204
+SD GMIM PELELOAN,40100975,SD,Swasta,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,4,1,50,6,6,0,0,19,13 Apr 2026 11:20:06,87B37BF1958246B76E17
+SD GMIM URONGO,40101087,SD,Swasta,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,4,2,71,6,6,0,1,14,26 Apr 2026 07:39:42,6745563FABC932C79BD5
+SD KATOLIK TATAARAN II,40101106,SD,Swasta,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,6,1,152,7,8,0,0,37,30 Apr 2026 11:15:39,374CDFD697320185F91B
+SDS GMIM TOUNSARU,40101014,SD,Swasta,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,4,1,41,6,6,0,1,11,04 Mar 2026 02:15:01,5C50C9BEFFC67919DBF1
+SMP NEGERI 3 TONDANO,40100881,SMP,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,21,2,148,6,14,1,1,18,21 Apr 2026 08:06:09,748FB47837FBB6468D7D
+SMP NEGERI 8 SATAP TONDANO,40103391,SMP,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,10,2,38,3,4,1,1,15,07 Apr 2026 10:31:33,21F5EBA94D4C83EA4B29
+SMP ANUGRAH TONDANO,40104905,SMP,Swasta,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,5,1,20,3,3,3,1,29,01 May 2026 23:02:03,EFD1124FA9BB8E3B3C7E
+SMAN 2 TONDANO,40100899,SMA,Negeri,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,20,8,90,3,11,6,1,17,30 Apr 2026 20:01:03,8EFA7BCCC109590BAD89
+SMKS ANUGRAH TONDANO,69725655,SMK,Swasta,Kec. Tondano Selatan,170238,Kab. Minahasa,170200,Prov. Sulawesi Utara,170000,2,2,0,0,0,0,0,0,,FB4CF8F34D77D1D656CA

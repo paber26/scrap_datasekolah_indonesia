@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI LENGGA,60100761,SD,Negeri,Kec. Kei Kecil Timur Selatan,210218,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,13,1,128,6,6,0,1,13,27 Apr 2026 12:32:42,D7C7548212F7F3FD1F74
+SD ALHILAL UF MAAR,69876144,SD,Swasta,Kec. Kei Kecil Timur Selatan,210218,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,5,1,102,6,6,0,1,8,04 Apr 2026 20:12:01,616D690BE1622CAA2A32
+SD KRISTEN ELAAR,60100851,SD,Swasta,Kec. Kei Kecil Timur Selatan,210218,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,4,0,50,6,6,1,1,25,26 Mar 2026 19:17:01,8B20FE33E0A8A4474688
+SD KRISTEN OHOISEB,60100896,SD,Swasta,Kec. Kei Kecil Timur Selatan,210218,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,6,1,104,6,6,1,1,12,13 Apr 2026 19:27:37,267D1A9A8188C5D026F0
+SD NASKAT LUMEFAR,60100906,SD,Swasta,Kec. Kei Kecil Timur Selatan,210218,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,4,1,56,6,6,0,1,15,27 Jan 2026 06:52:51,D4154884A5C74AB65573
+SMP NEGERI 2 KEI KECIL,60103297,SMP,Negeri,Kec. Kei Kecil Timur Selatan,210218,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,17,4,64,3,9,2,1,51,21 Apr 2026 08:07:22,DE2BF23C6FC42BF57A08
+SMP NEGERI 5 KEI KECIL,60103301,SMP,Negeri,Kec. Kei Kecil Timur Selatan,210218,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,23,6,142,6,8,1,1,13,05 Mar 2026 07:08:46,94BFD2199760C6925A64
+SMA Negeri 5 Maluku Tenggara,60103320,SMA,Negeri,Kec. Kei Kecil Timur Selatan,210218,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,18,1,108,4,6,1,1,17,22 Apr 2026 07:45:42,236E340D5C525B769CAD

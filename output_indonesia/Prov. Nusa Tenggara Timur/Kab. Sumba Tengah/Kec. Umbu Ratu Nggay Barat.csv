@@ -1,0 +1,31 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MADIDI PALAMEDU,50304137,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,13,2,119,6,9,0,1,24,28 Apr 2026 08:28:14,36F269724B83DE91105A
+SD INPRES PIDU WACU,50304153,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,9,3,102,6,6,0,1,16,24 Apr 2026 10:52:21,F9EB6AE283B1A46C7905
+SD INPRES UMA PAOHI,50304156,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,0,68,6,6,0,1,7,05 Mar 2026 05:39:13,E2B24152728566F7ECC0
+SD INPRES WAIKAJANGA,50304159,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,1,82,6,7,0,1,35,16 Apr 2026 08:51:12,FAD82795EA2591D64650
+SD NEGERI KAPALAS,50303980,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,2,118,6,9,1,1,13,15 Apr 2026 10:04:32,5752ACAE174FB058C2E5
+SD NEGERI KARANGGI ROWA,50303981,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,4,83,6,12,0,1,17,08 Apr 2026 08:12:29,F3E9E00757D6F196A6BF
+SD Negeri Pari Deta,60726621,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,19,4,80,6,8,0,1,17,24 Apr 2026 00:51:20,5E34E781F07D772FE4EE
+SD NEGERI PATEMBU,50304097,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,9,1,39,6,6,0,1,25,10 Apr 2026 09:57:56,922BB207974F4074A6CE
+SD NEGERI POGU LABA,50308322,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,4,51,6,6,0,1,11,04 Feb 2026 13:59:59,5098459C038AF604D85A
+SD Negeri Tana Toya,60726623,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,14,2,42,6,6,0,1,30,20 Apr 2026 12:50:02,BB2F40AE0FB8130360E9
+SD NEGERI WAIHALURI,70053996,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,1,34,6,6,0,0,26,27 Apr 2026 09:32:18,3A86C893A661A47C2DE7
+SD NEGERI WAIHIBUR,50304088,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,22,4,275,12,15,0,1,14,15 Apr 2026 22:14:11,142FCDA3305F47C82583
+SD Negeri Waimangu,50309563,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,3,66,6,6,0,1,18,17 Apr 2026 09:57:36,9B7500048B01BCE1AC24
+SD Negeri Wee Nibau,60726622,SD,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,9,3,65,6,7,0,1,19,31 Mar 2026 15:40:30,EE401FC911D0D87C1C24
+SD KATHOLIK WAIMAMONGU,50304297,SD,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,10,4,143,7,7,0,1,19,24 Apr 2026 08:22:34,D231865F22F7008364DA
+SD KATOLIK ANAJIAKA,50304282,SD,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,1,93,6,8,0,1,28,24 Apr 2026 12:22:13,7D9E44A2A1B4D81835E2
+SD MASEHI LAWONDA,50304254,SD,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,7,3,159,7,8,0,1,10,08 Apr 2026 15:50:38,A2F8AA14A7B1CC85E0B5
+SD MASEHI MADERI,50304255,SD,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,7,2,114,6,9,0,1,19,29 Apr 2026 09:00:27,54504ECC74D0BD7D159B
+SD MASEHI MATAWAI PANDANG,50303988,SD,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,8,0,88,6,9,1,1,12,18 Apr 2026 14:09:32,24AE94AA1FCADC3033E0
+SD MASEHI PAREWA TANA,50304005,SD,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,9,0,129,6,10,0,1,29,02 May 2026 09:55:29,F8B0EFEA80AAD156C43B
+SD MASEHI PONDOK,50309511,SD,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,6,4,42,6,6,0,1,13,17 Apr 2026 07:51:23,9690ED27AFEBBEFF9433
+SD MASEHI WAIRASA,50304029,SD,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,13,4,184,9,12,0,1,22,14 Apr 2026 15:51:00,73B0F9A231E5D23A388D
+SMP NEGERI 1 UMBU RATU NGGAY BARAT,50309384,SMP,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,20,7,183,7,10,2,1,16,17 Apr 2026 09:35:46,9E9B14B926E5121B37A9
+SMP NEGERI 3 UMBU RATU NGGAY BARAT,50308325,SMP,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,17,4,131,6,6,2,1,1,09 Apr 2026 19:17:59,1E03FB5783095ACCC97C
+SMP NEGERI SATAP KARANGGI ROWA,50309386,SMP,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,12,1,51,3,3,2,1,18,12 Mar 2026 20:08:17,AA03C4038920F4F1A79F
+SMP NEGERI SATAP UMA PAOHI,50309390,SMP,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,11,2,45,3,5,2,1,7,17 Apr 2026 10:17:04,4C9AF8FEF3E8AF2D9C2E
+SMP NEGERI SATAP WAIKAJANGA,50309392,SMP,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,11,1,45,3,4,0,1,29,22 Apr 2026 20:23:40,2F7081A4D1501901AA3E
+SMP RAKYAT PAREWATANA,50308341,SMP,Swasta,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,27,7,242,9,16,2,1,16,09 Apr 2026 06:12:10,F250B535171A572057DF
+SMAN 1 UMBU RATU NGGAY BARAT,60726630,SMA,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,31,6,415,12,14,4,1,11,29 Apr 2026 07:50:48,0631E30C58B5210C0DAC
+SMK NEGERI 1 WAIBAKUL,50308343,SMK,Negeri,Kec. Umbu Ratu Nggay Barat,241804,Kab. Sumba Tengah,241800,Prov. Nusa Tenggara Timur,240000,54,16,407,18,25,5,1,39,30 Apr 2026 21:50:45,856F5673C4A64E7F8EA9

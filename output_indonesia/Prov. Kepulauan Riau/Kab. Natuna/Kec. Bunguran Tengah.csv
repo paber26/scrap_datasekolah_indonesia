@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 HARAPAN JAYA,11001360,SD,Negeri,Kec. Bunguran Tengah,310318,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,14,3,183,11,10,0,1,22,28 Apr 2026 11:03:32,AAE2D8FBD643F74D871F
+SD NEGERI 002 TAPAU,11001365,SD,Negeri,Kec. Bunguran Tengah,310318,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,9,4,100,6,6,0,1,22,27 Apr 2026 08:32:00,939CCAF69A93148A6095
+SD NEGERI 003 AIR LENGIT,11001370,SD,Negeri,Kec. Bunguran Tengah,310318,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,10,3,97,6,7,0,1,11,04 Apr 2026 08:57:06,AFF3CB0DAF3E66CA0363
+SMP NEGERI 1 BUNGURAN TENGAH,11000329,SMP,Negeri,Kec. Bunguran Tengah,310318,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,14,5,157,6,10,3,1,42,27 Apr 2026 09:45:53,214E816D441FCB84B9F8
+SMAN 1 BUNGURAN TENGAH,69762629,SMA,Negeri,Kec. Bunguran Tengah,310318,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,20,6,112,5,9,5,1,30,23 Apr 2026 09:39:38,97A06F3B4CA59206DCF8

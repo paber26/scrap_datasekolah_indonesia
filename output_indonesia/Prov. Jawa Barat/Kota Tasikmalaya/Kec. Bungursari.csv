@@ -1,0 +1,37 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 Cibunigeulis,20224469,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,3,394,12,12,0,1,33,30 Apr 2026 11:24:50,D4C5426E712640394E70
+SDN 1 Manangga,20224340,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,17,2,315,13,12,0,1,14,13 Apr 2026 15:34:15,46FC1E7AF4DB98951637
+SDN 2 Cibunigeulis,20224468,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,2,324,12,9,0,1,57,27 Apr 2026 10:29:12,8EAFDBEDB821611FB919
+SDN 2 Manangga,20224339,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,13,2,316,11,8,0,1,12,04 Apr 2026 11:01:13,6AB1EF1ECE2A8427F03A
+SDN 3 Cibunigeulis,20224467,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,2,195,7,6,0,0,17,20 Apr 2026 13:38:35,4D09B1E83AE42F67265A
+SDN 3 Sukarindik,20224671,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,6,3,229,8,8,0,1,17,30 Apr 2026 08:52:05,37BD61C827A979282CE3
+SDN 4 Cibunigeulis,20224466,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,1,182,7,8,0,1,46,28 Apr 2026 21:06:34,8246CC283AFECDFD7D47
+SDN Bungursari,20224453,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,2,212,6,6,0,1,15,03 Apr 2026 14:39:31,5CCBF6EC7B0C0A0868F3
+SDN Cibunigeulis,20224470,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,1,152,7,6,0,1,14,05 Apr 2026 14:26:24,2293F938E9E0EE4EF7FD
+SDN Leuwikidang,20224349,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,2,316,12,9,0,1,35,01 May 2026 10:09:55,B1D10D8E6A02B139F648
+SDN Rancabendem,20224618,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,2,262,12,10,0,1,41,22 Apr 2026 10:27:38,C2D1A03BA1908088CCC8
+SDN Sukalaksana,20224716,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,3,185,7,7,0,1,20,01 May 2026 11:25:21,9811BACC99373281D414
+SDN Sukamulya,20224675,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,3,447,13,9,0,1,12,09 Apr 2026 09:34:56,D31008D69244785CDAA8
+SDN Sukarindik,20224673,SD,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,13,4,333,12,12,0,1,18,03 Apr 2026 08:32:12,6BB0BF85C3241CEABDDD
+SDIT AINUN,70051141,SD,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,3,3,43,2,5,0,2,12,07 Apr 2026 22:21:59,C23D01F3193E06A5E0E3
+SD Islam Al Jamal,20224482,SD,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,20,5,322,13,13,0,1,13,27 Apr 2026 14:21:56,49E7D0C96418D1DF4CE4
+SD Islam Terpadu Al-Istiqomah Hj. Aminah,70011416,SD,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,16,1,324,12,12,1,1,17,27 Apr 2026 11:20:03,1AD43BC917B13A2DCADF
+SD ISLAM TERPADU DARUL MUBTADIIN,70059536,SD,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,4,1,16,2,3,0,0,24,02 Mar 2026 10:10:56,2A59FD6B3F1C0658C7FB
+SMP Negeri 16 Tasikmalaya,20224576,SMP,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,36,7,829,26,24,3,1,75,01 May 2026 17:39:01,AFE580CBF929B55EC824
+SMP Islam Boarding System Darul Mutaalimin,20276109,SMP,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,2,72,4,6,1,1,30,15 Apr 2026 15:32:16,660DF78D4C8A9652D140
+SMP Islam Mabdaul Ulum,20224611,SMP,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,2,125,5,7,2,1,11,22 Apr 2026 15:54:25,22F8E3F550C96274D44B
+SMP Islam Tarbiyatul Ummah,70012230,SMP,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,1,89,3,5,0,0,26,09 Apr 2026 09:00:42,A69E45340A18FE994659
+SMP Miftahul Huda Al Husna,69949624,SMP,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,5,162,7,1,1,1,40,01 May 2026 14:02:59,17DE9E4DB4810A6D366C
+SMP PERSIS GANDOK,70041871,SMP,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,10,3,95,4,4,0,0,10,30 Jan 2026 18:19:23,E0B31BCDFF4707121BF3
+SMP PLUS NASHRUL HAQ,20224609,SMP,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,11,4,120,5,4,0,1,17,29 Apr 2026 21:03:49,F8176110778C7EE3C387
+SMP Terpadu Al Istiqomah,69862576,SMP,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,11,4,145,6,4,1,0,12,16 Apr 2026 12:17:25,0156971F0ABD3B19EFB1
+SMP Terpadu Fajrul Islam,20276064,SMP,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,5,114,6,8,2,1,16,18 Apr 2026 09:22:01,EE0CCD8A3889B6F17608
+SMAN 11 TASIKMALAYA,70055163,SMA,Negeri,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,12,2,30,1,6,2,1,42,01 May 2026 09:33:51,97797196B3D232DA29EE
+SMA ISLAM TARBIYATUL UMMAH,70051825,SMA,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,6,3,62,2,2,0,0,15,29 Apr 2026 14:19:20,585DA660D1BCAA86BC49
+SMA Terpadu Darul Muta`allimin,69895683,SMA,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,13,3,90,4,6,1,1,33,28 Apr 2026 12:10:13,35890B792D86431A33BB
+SMAS PLUS NASHRUL HAQ,20224544,SMA,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,6,2,84,3,3,1,1,25,09 Apr 2026 13:05:19,6515CF20B0FBC614FA99
+SMAS TERPADU LISDA,20253783,SMA,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,8,4,89,3,6,1,1,15,04 Mar 2026 00:02:04,BDE8F7EF340C56935511
+SMK AR RIDWAN BANTARSARI,70056731,SMK,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,5,1,21,1,1,0,0,15,27 Apr 2026 13:35:01,E22D168104CB481AAC08
+SMK Global Pasanggrahan,69940436,SMK,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,7,3,22,5,6,1,1,40,24 Apr 2026 19:45:41,9D36964E03512982096B
+SMK MABDAUL ULUM,20271009,SMK,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,9,4,175,8,9,1,1,13,16 Apr 2026 08:47:14,51CC88BF723857020570
+SMK Miftahul Huda Al Husna,69893732,SMK,Swasta,Kec. Bungursari,026810,Kota Tasikmalaya,026800,Prov. Jawa Barat,020000,14,1,130,10,4,1,1,26,28 Apr 2026 13:49:31,9292370E9C671333C814

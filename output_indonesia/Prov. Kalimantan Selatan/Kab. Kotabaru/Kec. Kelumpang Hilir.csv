@@ -1,0 +1,26 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 TEGALREJO,30303232,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,17,2,297,12,12,0,1,32,04 Mar 2026 05:52:06,75437E9E97E345ACCB01
+SD NEGERI 2 TEGAL REJO,30303233,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,18,3,375,13,12,1,1,14,11 Mar 2026 07:41:28,C6BE36CD1079ECECA71B
+SD NEGERI 3 LANGADAI,30303506,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,7,2,131,6,6,0,1,35,15 Apr 2026 10:37:04,4FE456495F98DD612226
+SD NEGERI 3 SERONGGA,30311715,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,1,107,6,7,1,0,26,30 Apr 2026 10:38:36,987C35A06C3C145C6CCB
+SD NEGERI MANDALA,30303539,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,0,98,6,6,0,0,11,23 Apr 2026 21:36:32,344379B13A333B6C53F6
+SD NEGERI PULAU PANCI,30303468,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,7,2,45,6,6,0,0,4,30 Jan 2026 20:04:48,63B4AD008C3BD4A897A5
+SD NEGERI SAHAPI,30311714,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,2,70,6,5,0,1,13,29 Apr 2026 14:34:50,776810555529CCBB51CA
+SD NEGERI TELAGA SARI,30303235,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,11,1,142,6,6,0,1,16,28 Apr 2026 11:42:41,51151870C00C2520CF5F
+SDN 1 SERONGGA,30303244,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,7,1,50,6,6,0,1,1,28 Apr 2026 14:02:35,3B33173BC782DD079C9A
+SDN 2 SERONGGA,30311530,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,2,154,7,8,0,1,8,04 Mar 2026 09:14:01,9BD6AC10FF2781915E41
+SDN 2 TARJUN,30311965,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,19,4,351,12,13,0,1,16,01 May 2026 06:08:00,4C24B5FD2514E701949F
+SDN INTI 1 TARJUN,30303398,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,15,3,365,12,10,0,1,10,20 Apr 2026 08:49:36,06775F4448A46B4403A6
+SDN Langadai,30303515,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,1,170,6,7,0,0,6,27 Apr 2026 20:50:27,1B50999B01B9EDBA1047
+SDN PELAJAU BARU,30303478,SD,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,11,1,141,7,7,0,0,37,30 Apr 2026 07:31:02,323A7067BC9B74BF2B90
+SD EKA TJIPTA SINAR KENCANA,30303371,SD,Swasta,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,2,123,6,6,0,1,41,02 May 2026 06:30:15,015245A96A9F9DA92E63
+SD ISLAM SOLUSI,70032784,SD,Swasta,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,6,2,42,6,6,0,1,1,23 Feb 2026 09:29:49,DB998DAB562E193EE29A
+SDIT DARUL HIJRAH KELUMPANG HILIR,30311532,SD,Swasta,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,26,3,456,18,18,0,1,62,02 May 2026 09:50:24,CFEA0A7B1D5D6ED2AC2E
+SMP NEGERI 1 KELUMPANG HILIR,30311483,SMP,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,32,5,558,18,19,3,1,17,07 Apr 2026 21:50:37,A8D8505866110BABC0CE
+SMP NEGERI 2 KELUMPANG HILIR,30312529,SMP,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,0,82,3,5,1,1,8,04 Mar 2026 07:11:26,B7CB9D3A942E8DF39994
+SMP INDOCEMENT TARJUN,30303366,SMP,Swasta,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,15,4,273,9,9,3,2,19,23 Apr 2026 09:58:03,F05DC1C3AE7649A7953D
+SMP IT DARUL HIJRAH KELUMPANG HILIR,70061297,SMP,Swasta,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,0,1,0,0,0,0,0,0,,622FAE70635915E1CC16
+SMAN 1 KELUMPANGHILIR,30311502,SMA,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,24,8,441,14,15,5,1,30,02 May 2026 11:26:05,EF02A7085FE258ED49EF
+SMAS ITP TARJUN,30312217,SMA,Swasta,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,7,5,119,5,6,4,1,11,24 Apr 2026 07:32:32,BCADCA2F67117670689C
+SMKN 1 TELAGASARI,30305069,SMK,Negeri,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,38,10,575,22,14,6,1,34,02 Apr 2026 13:41:31,6D5280C4A17256F7D8EC
+Sekolah Menengah Kejuruan Swasta (SMKS) Tunggal Prakarsa Tarjun,70056444,SMK,Swasta,Kec. Kelumpang Hilir,150908,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,5,4,69,2,4,2,0,8,23 Apr 2026 15:06:55,76E8E2EC93F3E94790AA

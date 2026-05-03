@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BAKAN,50307341,SD,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,2,113,6,6,0,1,14,20 Apr 2026 20:07:19,869BDC466A6F25B06D5A
+SD NEGERI BANOKO,69831993,SD,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,1,92,6,6,0,0,13,09 Mar 2026 11:55:13,F15DF831B7756721648E
+SD NEGERI BORONUBAEN,50300964,SD,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,11,3,214,12,8,0,1,32,09 Apr 2026 07:17:23,A615355FFF0009FC1260
+SD NEGERI OEEKAM,69728370,SD,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,2,92,6,6,0,1,15,12 Mar 2026 08:48:33,577F42A0B05F3FE31D98
+SD NEGERI OENAES,50301091,SD,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,3,117,7,7,0,1,23,30 Apr 2026 12:14:50,7E99ACFD62416C5CC6E0
+SD NEGERI SAMANKU,50307361,SD,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,3,111,6,6,0,1,19,20 Apr 2026 07:42:46,8F678052F3D428AC7327
+SDN KECIL INGGUREO,69989737,SD,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,0,119,6,9,0,1,28,05 Mar 2026 07:48:12,E3FE3A82D596BF6424BF
+SD KATOLIK BERSEON,50306357,SD,Swasta,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,2,136,6,6,0,1,21,27 Apr 2026 00:42:56,B1AE39067C7CD19D18E7
+SD KATOLIK BILOE,50301184,SD,Swasta,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,3,207,8,9,0,1,10,06 Mar 2026 05:46:19,29F41214AF9567245238
+SD KATOLIK OENALI,50301157,SD,Swasta,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,2,86,6,8,0,0,11,03 Mar 2026 11:45:13,036B5A59FFB5EA1BF931
+SDK LURASIK,50301131,SD,Swasta,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,6,4,129,6,6,0,2,47,16 Apr 2026 13:09:56,7EA3BA0F250782DEFF3D
+SDK NAITANU,50301128,SD,Swasta,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,1,124,7,15,0,1,28,15 Apr 2026 17:55:38,8FC52EA4918D3089FBB2
+SMP NEGERI 1 BIBOKI UTARA,50300985,SMP,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,32,2,419,15,15,2,1,37,01 Mar 2026 09:21:07,C32670EB1DF3D17010DB
+SMP NEGERI SATAP OENAES,50307384,SMP,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,17,2,145,6,8,1,1,39,17 Apr 2026 23:47:35,9DD02C006DA1C07A8DD4
+SMP SATAP NEGERI BAKAN,50309290,SMP,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,2,49,3,4,1,1,40,21 Apr 2026 09:30:19,625267CECFF4F6B5C2B0
+SMP SATAP NEGERI SAMANKU,50309291,SMP,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,11,5,95,4,6,1,1,32,30 Apr 2026 23:14:29,B09F1A899DB0A1D6DC67
+SMP Kristen Inggureo,70036246,SMP,Swasta,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,1,107,5,5,0,0,38,01 May 2026 09:42:34,4933BE4EA27BAD8E438C
+SMAN LURASIK,50300984,SMA,Negeri,Kec. Biboki Utara,240406,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,39,8,522,17,0,0,0,31,20 Apr 2026 19:56:00,963FD1ACCD0FF807C984

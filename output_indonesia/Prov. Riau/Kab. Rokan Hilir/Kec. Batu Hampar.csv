@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 BANTAYAN HILIR,10404850,SD,Negeri,Kec. Batu Hampar,091012,Kab. Rokan Hilir,091000,Prov. Riau,090000,10,4,138,6,6,1,0,8,12 Apr 2026 02:24:35,F74AF13B9CDCF337F2DD
+SD NEGERI 002 BANTAYAN,10493738,SD,Negeri,Kec. Batu Hampar,091012,Kab. Rokan Hilir,091000,Prov. Riau,090000,27,9,426,18,12,0,1,71,27 Apr 2026 22:10:26,94F091842A8F8E0B507E
+SD NEGERI 003 BANTAYAN BARU,10404857,SD,Negeri,Kec. Batu Hampar,091012,Kab. Rokan Hilir,091000,Prov. Riau,090000,17,5,183,10,11,1,2,22,30 Apr 2026 23:02:00,89BC89771CE402D606AE
+SD NEGERI 004 SEI SIALANG,10404860,SD,Negeri,Kec. Batu Hampar,091012,Kab. Rokan Hilir,091000,Prov. Riau,090000,21,4,276,12,12,0,1,18,10 Apr 2026 18:47:22,8DCE098996C9C9B0212B
+SD IT AL FURQON,70052287,SD,Swasta,Kec. Batu Hampar,091012,Kab. Rokan Hilir,091000,Prov. Riau,090000,3,1,14,2,2,0,1,12,29 Jan 2026 12:19:57,4ACBDF27B9BF2C4D8A04
+SMP NEGERI 1 BATU HAMPAR,10493776,SMP,Negeri,Kec. Batu Hampar,091012,Kab. Rokan Hilir,091000,Prov. Riau,090000,30,4,334,12,14,2,1,22,21 Apr 2026 09:55:31,F451B807E3F05AF5331E
+SMP NEGERI 2 BATU HAMPAR,10498702,SMP,Negeri,Kec. Batu Hampar,091012,Kab. Rokan Hilir,091000,Prov. Riau,090000,16,2,112,6,6,1,1,37,16 Apr 2026 03:38:18,E838709F64AE7724A41D
+SMAN 1 BATU HAMPAR,10493780,SMA,Negeri,Kec. Batu Hampar,091012,Kab. Rokan Hilir,091000,Prov. Riau,090000,30,10,181,12,17,3,1,29,22 Apr 2026 08:06:16,294D1CB398A856C40F4B

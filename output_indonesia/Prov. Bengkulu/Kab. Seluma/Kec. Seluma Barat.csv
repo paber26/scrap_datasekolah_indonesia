@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 04 SELUMA,10701645,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,17,3,204,11,11,0,1,58,30 Apr 2026 12:42:50,61EAAA297C00B94A9524
+SD NEGERI 145 SELUMA,10701475,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,9,2,61,6,3,0,1,30,06 Apr 2026 11:17:51,E19432DC59ECD0C2143B
+SD NEGERI 146 SELUMA,10701485,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,9,3,45,6,6,0,1,10,27 Apr 2026 11:23:29,B62E581D792C93232F37
+SD NEGERI 154 SELUMA,10701472,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,9,4,35,6,3,0,0,11,04 Apr 2026 18:47:49,DF419219E253FB6A996A
+SD NEGERI 158 SELUMA,10701403,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,10,2,151,7,7,1,1,22,15 Apr 2026 12:37:55,241ACA3347310E7CFE66
+SD NEGERI 171 SELUMA,10701421,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,9,1,83,6,6,1,1,25,14 Apr 2026 09:10:12,DFFE52D204AD74E4EE33
+SD NEGERI 40 SELUMA,10701611,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,12,5,95,6,7,1,1,1,23 Apr 2026 09:46:39,7585CECA54C8B0CEED7B
+SD NEGERI 46 SELUMA,10701713,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,9,6,140,6,8,0,1,18,20 Apr 2026 08:30:45,3EA929F69BFAF5339428
+SD NEGERI 90 SELUMA,10701663,SD,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,11,3,118,6,8,0,1,15,14 Apr 2026 09:00:44,991505A469A0BEABCDC2
+SMP NEGERI 17 SELUMA,10701526,SMP,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,19,3,139,6,8,2,1,31,25 Apr 2026 22:03:46,6BC99C00DB5709D7BC1C
+SMP NEGERI 26 SELUMA,10701570,SMP,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,18,3,167,6,6,1,1,21,20 Apr 2026 09:26:08,68DCF956825CA22A11D7
+SMK Negeri 6 SELUMA,69947024,SMK,Negeri,Kec. Seluma Barat,260810,Kab. Seluma,260800,Prov. Bengkulu,260000,22,6,107,9,8,2,3,11,04 Mar 2026 08:16:58,EB072AFE63BB200B2577

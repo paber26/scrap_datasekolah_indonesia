@@ -1,0 +1,16 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 1 MOTOLING,40102253,SD,Negeri,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,120,6,6,0,0,23,25 Apr 2026 19:58:07,55D7D9986EB3896E2DE8
+SD INPRES 2 MOTOLING,40102244,SD,Negeri,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,7,1,38,6,7,0,0,16,26 Apr 2026 18:16:24,66A72AB1409F9518C8EF
+SD INPRES PICUAN BARU,40102237,SD,Negeri,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,37,6,6,0,0,3,14 Mar 2026 15:40:43,8A0347F3ED5E950A6B57
+SD NEGERI I MOTOLING,40102219,SD,Negeri,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,65,6,6,0,0,19,07 Apr 2026 08:14:18,39080A6BE23E06DA3F59
+SD NEGERI II MOTOLING,40102248,SD,Negeri,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,99,6,6,0,0,20,09 Apr 2026 12:00:28,BCDDD8C1640120CB0EA9
+SD GMIM LALUMPE,40102099,SD,Swasta,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,3,1,23,6,6,0,1,14,02 Mar 2026 14:13:21,2EBC1904024FD9758FC2
+SD GMIM MOTOLING,40102088,SD,Swasta,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,99,6,6,1,0,11,06 Mar 2026 12:20:19,FDE4F77CC3DDD1A3D65D
+SD GMIM PICUAN BARU,40102125,SD,Swasta,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,5,1,45,6,6,0,1,29,25 Apr 2026 06:19:43,B6E4F2E6C7B17974E265
+SD GMIM RAANAN LAMA,40102134,SD,Swasta,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,6,1,47,6,6,0,0,20,01 May 2026 10:05:44,8E516F1D3ABB96008E6B
+SD GP LALUMPE,40102261,SD,Swasta,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,8,1,29,6,6,0,1,6,03 Mar 2026 15:05:41,2B0B0334E78A6F133A13
+SD KATOLIK ST MARKUS RAANAN LAMA,40102297,SD,Swasta,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,5,1,34,6,6,0,0,21,27 Apr 2026 06:42:59,E3096306564051FCBA37
+SMP NEGERI 2 MOTOLING,40102064,SMP,Negeri,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,9,4,55,3,3,2,1,8,26 Jan 2026 08:02:24,DBDEBB761D4C69C07E2B
+SMP NEGERI I MOTOLING,40102069,SMP,Negeri,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,12,1,105,5,6,3,1,13,19 Apr 2026 21:37:42,5F02091AAC2898A24979
+SMP KRISTEN MOTOLING,40102051,SMP,Swasta,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,13,2,183,6,8,1,1,17,30 Mar 2026 12:11:59,82511EE53FABF6D35FA6
+SMA NEGERI 1 MOTOLING,40102013,SMA,Negeri,Kec. Motoling,170504,Kab. Minahasa Selatan,170500,Prov. Sulawesi Utara,170000,46,7,620,19,23,5,1,62,27 Apr 2026 09:36:35,FEDD82BF7020B26553DE

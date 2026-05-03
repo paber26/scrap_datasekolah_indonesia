@@ -1,0 +1,45 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri Bendan 01,20329491,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,15,5,184,11,12,0,2,131,02 May 2026 09:35:34,F12D89E2EF5CD7EE494B
+SD Negeri Bendan 03,20329492,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,7,1,108,6,6,0,1,12,02 May 2026 13:28:03,F218E37DF2CE86DA7050
+SD Negeri Bendan 04,20329493,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,3,48,6,8,0,1,20,02 Mar 2026 11:54:05,9E2022ED41B5D558A696
+SD Negeri Bendan 08,20329494,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,3,89,6,6,1,1,32,02 May 2026 10:01:53,CED05F3DBDFD4CF11BBD
+SD Negeri Bumirejo,20329505,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,5,117,6,6,0,1,15,06 Apr 2026 00:11:37,586C6334FBD862106F5D
+SD Negeri Kebulen,20329429,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,1,66,6,6,0,1,10,06 Apr 2026 11:46:24,E1E24B1E043CF3DE416F
+SD Negeri Kramatsari 01,20329454,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,16,2,291,11,12,1,1,18,19 Apr 2026 22:06:16,C4D7177CFCDA7E6DB048
+SD Negeri Kraton Kidul,20329451,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,87,6,6,0,1,12,07 Apr 2026 08:01:26,121AEFC648309FBAC1CC
+SD Negeri Medono 01,20329563,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,15,3,249,11,12,0,1,29,30 Mar 2026 12:31:18,B530CC73E7F0A0D7E87D
+SD Negeri Medono 04,20329564,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,3,145,6,6,0,1,104,02 May 2026 12:44:51,CC55519422B13C67F8F6
+SD Negeri Medono 07,20329566,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,7,4,184,6,6,0,1,18,17 Apr 2026 07:06:26,23305276CEA44213154C
+SD Negeri Medono 08,20329568,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,10,3,171,6,6,1,1,16,04 Apr 2026 09:41:10,9979FAD882D3266A9F0B
+SD Negeri Pasirsari 01,20329554,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,4,77,6,6,0,1,21,27 Apr 2026 23:14:54,3EF0B6798B4FBB54C296
+SD Negeri Pasirsari 02,20332010,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,52,6,6,1,1,17,05 Apr 2026 21:50:19,C292EF1842442C8816DE
+SD Negeri Podosugih 01,20329556,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,3,198,6,6,0,1,6,04 Mar 2026 09:44:58,E9FF1152868C100AE8DD
+SD Negeri Podosugih 03,20329557,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,3,169,6,6,0,1,31,14 Apr 2026 12:15:07,9E7CA8D2914BD3197957
+SD Negeri Pringlangu,20329585,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,10,3,130,6,6,1,1,35,07 Apr 2026 19:21:11,60213567728BFB9C5666
+SD Negeri Sapuro 01,20329588,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,16,4,306,13,15,1,2,31,28 Apr 2026 17:13:03,541849BC90A61FAC8189
+SD Negeri Sapuro 05,20329572,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,14,5,290,12,11,0,1,17,30 Apr 2026 09:06:39,489276607F55D08A244E
+SD Negeri Tegalrejo,20329575,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,3,175,6,6,0,1,25,08 Apr 2026 06:57:14,1B7F1B092AA3AA54C709
+SD Negeri Tirto 01,20329576,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,4,147,7,11,1,1,11,28 Apr 2026 10:40:01,F359DC3573AFD760F563
+SD Negeri Tirto 03,20329578,SD,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,24,5,474,18,18,1,1,20,29 Apr 2026 18:47:12,712AB92AA67DC551C2E8
+SD Islam Baitussalam 01,20329471,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,2,116,6,6,2,1,18,07 Apr 2026 06:49:11,2308A978381F33D3E51A
+SD Islam Kergon 01,20329473,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,10,4,181,6,6,1,1,13,06 Apr 2026 10:16:14,5AE7DF19FDEEEC92C096
+SD Islam Kergon 02,20329484,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,1,159,6,6,0,1,50,02 May 2026 11:28:15,DEC227391470888505A2
+SD ISLAM NUSANTARA,70005863,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,16,2,264,11,11,0,1,25,27 Apr 2026 14:05:23,1482C47C73B1AFF0E9EA
+SD Islam Terpadu Ulul Albab,20329487,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,47,10,632,24,24,1,1,9,29 Apr 2026 10:58:46,12DC2C219C8A98DDEE80
+SD Masehi,20329499,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,6,4,35,6,6,1,1,9,08 Apr 2026 10:38:29,68B2E332DFECDFF8428C
+SD Muhammadiyah 02 Bendan,20332004,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,15,10,242,12,20,1,1,24,11 Apr 2026 08:09:50,6EEA02111BA52892D976
+SD Muhammadiyah Kramatsari,20329485,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,2,97,6,6,0,1,19,17 Apr 2026 07:59:41,1FD0EB1A776623EE9CC3
+SDIT LUQMAN AL HAKIM,69984511,SD,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,10,3,121,6,7,1,1,10,13 Apr 2026 09:08:21,AB26386319D698510362
+SMP Negeri 11 Pekalongan,20331629,SMP,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,34,6,670,21,21,3,1,33,27 Apr 2026 12:19:10,4DF5A33B9D1B563DA7C0
+SMP Negeri 13 Pekalongan,20331631,SMP,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,30,9,581,18,20,5,1,18,14 Apr 2026 08:46:27,33BCF6661685170F61BF
+SMP Negeri 15 Pekalongan,20329532,SMP,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,25,6,475,15,15,2,1,24,11 Apr 2026 10:58:47,FCDC3EC2DC80AF7F547B
+SMP Negeri 4 Pekalongan,20329535,SMP,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,27,8,561,18,18,3,1,20,27 Apr 2026 09:16:40,CBE70AA8D0CD1039E1A6
+SMP Muhammadiyah,20329546,SMP,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,9,7,99,3,7,4,1,19,30 Apr 2026 08:33:09,C1131915B87DE819074A
+SMK Negeri 1 Pekalongan,20329514,SMK,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,71,21,1218,35,19,3,1,46,27 Apr 2026 15:46:03,E23D0648959C6C5FA0F3
+SMK Negeri 2 Pekalongan,20329512,SMK,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,67,10,1375,39,35,5,1,50,13 Apr 2026 11:47:01,44AF21A0309312F16A10
+SMK Negeri 3 Pekalongan,20329528,SMK,Negeri,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,68,24,1224,35,39,7,1,43,20 Apr 2026 15:59:39,22AA6CA538EE3F93C41D
+SMK Baitussalam,20329510,SMK,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,27,4,382,13,16,2,1,25,13 Apr 2026 12:52:14,AB2BA68A86444AF4E05E
+SMK Dwija Praja,20329515,SMK,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,22,13,293,15,17,2,1,13,17 Mar 2026 13:05:01,D3A068F92C3139FBDC93
+SMK Medika,69759184,SMK,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,31,19,531,18,22,4,2,28,28 Apr 2026 10:01:18,E40F9C5A53DA5BBA77B3
+SMK Muhammadiyah,20329526,SMK,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,32,14,460,22,28,9,3,10,02 Apr 2026 07:10:13,4D529227650D4FD40017
+SMK Perikanan Irma,20329539,SMK,Swasta,Kec. Pekalongan Barat,036401,Kota Pekalongan,036400,Prov. Jawa Tengah,030000,8,3,31,5,6,1,1,15,04 Mar 2026 12:26:54,0C9D11E294231A85FD77

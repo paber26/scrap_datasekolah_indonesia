@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 NYAPAH BANYU,10803323,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,9,2,78,6,6,0,0,6,08 Apr 2026 01:11:57,DDE9D8933DC34D7EFA96
+SD NEGERI 1 PEKURUN UDIK,10803348,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,13,3,196,10,10,0,1,7,28 Mar 2026 12:19:09,CFA508940BFD58A4FBCB
+SD NEGERI 2 NYAPAH BANYU,10803219,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,9,1,60,6,5,0,0,11,11 Mar 2026 16:28:59,CD71A0A777F50BC7FDED
+SD NEGERI 2 PEKURUN UDIK,10803225,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,9,4,162,8,6,0,0,11,27 Mar 2026 11:07:09,B6D6A915005CE24A25B9
+SD NEGERI OGAN CAMPANG,10802779,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,8,1,56,6,3,0,0,17,05 Mar 2026 22:38:12,60756A28BB900E9B957C
+SD NEGERI OGAN JAYA,10802778,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,10,5,145,7,9,0,1,18,18 Apr 2026 11:25:48,60F3E2D53C2EDA44F0FE
+SD NEGERI PEKURUN,10802774,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,13,2,282,12,6,0,1,15,15 Apr 2026 16:27:27,F129410CB940FE0091A3
+SD NEGERI PEKURUN TENGAH,10802760,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,14,2,290,12,12,1,1,8,09 Feb 2026 08:32:31,6D4937EF726BBE27B8F4
+SD NEGERI SUMBER TANI,10802996,SD,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,7,3,84,6,6,1,1,1,10 Mar 2026 19:25:08,81BE22FAD3167871C80B
+SDS CAMPANG GIJUL,10803062,SD,Swasta,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,3,1,34,6,3,0,0,5,14 Mar 2026 04:48:44,8C1D8834DE805B12D40F
+SMP NEGERI 1 ABUNG PEKURUN,10810982,SMP,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,26,10,450,15,16,2,1,26,02 May 2026 06:06:50,ED7912F8F430EBD471AB
+SMP NEGERI 2 ABUNG PEKURUN,10809493,SMP,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,9,3,148,6,6,1,0,15,16 Apr 2026 10:44:50,C8B514527B89B9F7A01B
+SMAN 1 ABUNG PEKURUN,10814620,SMA,Negeri,Kec. Abung Pekurun,120319,Kab. Lampung Utara,120300,Prov. Lampung,120000,32,16,476,15,17,3,1,30,22 Apr 2026 19:09:00,E39AEB025FB451177E1E

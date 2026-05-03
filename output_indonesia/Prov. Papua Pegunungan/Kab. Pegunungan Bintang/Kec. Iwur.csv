@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES IWUR,60300976,SD,Negeri,Kec. Iwur,380204,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,7,2,187,6,7,1,0,25,01 May 2026 21:09:52,33EFA238E4BEFC199F5E
+SD INPRES NGETRIN,70002561,SD,Negeri,Kec. Iwur,380204,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,1,0,20,6,3,0,0,6,04 Feb 2026 20:18:12,D63E5CFD309FBCAD4F9D
+SD INPRES ULKUBI,70002121,SD,Negeri,Kec. Iwur,380204,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,6,0,53,6,6,0,0,13,29 Jan 2026 12:52:39,840E4B263F1BE95AE6CF
+SD INPRES WALAPKUBUN,60300978,SD,Negeri,Kec. Iwur,380204,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,5,1,114,6,6,1,0,15,24 Apr 2026 16:22:10,C83D005DC79A28B776AB
+SMP NEGERI SATU ATAP IWUR,60304478,SMP,Negeri,Kec. Iwur,380204,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,5,1,66,3,3,1,0,21,12 Apr 2026 06:44:20,F12ABB7EBBB549086D6A
+SMK NEGERI IWUR,70041018,SMK,Negeri,Kec. Iwur,380204,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,5,0,104,4,4,0,0,41,02 May 2026 19:12:34,5E48C92AC4372F6C0686

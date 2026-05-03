@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES DAIKOT,60304095,SD,Negeri,Kec. Joutu,370420,Kab. Asmat,370400,Prov. Papua Selatan,370000,7,1,110,7,6,0,0,43,02 May 2026 19:51:40,227D4848A6B7BB50E300
+SD INPRES SOMNAK,60304104,SD,Negeri,Kec. Joutu,370420,Kab. Asmat,370400,Prov. Papua Selatan,370000,2,1,139,7,6,0,0,32,26 Apr 2026 10:27:33,C2FEBA4D5FC59F80C91D
+SD INPRES VAKAM,69862409,SD,Negeri,Kec. Joutu,370420,Kab. Asmat,370400,Prov. Papua Selatan,370000,7,1,122,6,4,0,0,19,21 Apr 2026 21:44:34,CDDD38C7838D3751D9F5
+SD NEGERI WABAK,69896437,SD,Negeri,Kec. Joutu,370420,Kab. Asmat,370400,Prov. Papua Selatan,370000,2,1,119,7,6,0,0,37,16 Apr 2026 13:56:21,A43C5B0D8D780CF71FDB
+SMP NEGERI JOUTU,70057946,SMP,Negeri,Kec. Joutu,370420,Kab. Asmat,370400,Prov. Papua Selatan,370000,1,0,0,0,0,0,0,0,,EDACDA4999DB1A562EBE

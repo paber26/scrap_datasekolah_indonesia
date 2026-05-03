@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 11 KAUR,10701883,SD,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,11,4,138,6,7,0,1,54,02 Apr 2026 00:25:53,D382F875F6C9A789573D
+SDN 31 KAUR,10701780,SD,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,10,1,23,6,6,0,2,26,01 May 2026 17:43:57,B2AC42FD9FA260E11B79
+SDN 48 KAUR,10701882,SD,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,9,3,46,6,6,0,1,16,02 Mar 2026 10:31:55,194D0589C7B71DD359B3
+SDN 51 KAUR,10701744,SD,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,12,4,126,7,10,0,1,42,08 Apr 2026 10:40:00,1EA566C58B627285CEE1
+SDN 56 KAUR,10701836,SD,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,9,2,89,6,8,0,1,40,16 Apr 2026 20:28:34,416F0F844DDC12C36962
+SDN 73 KAUR,10701881,SD,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,10,3,67,6,6,0,1,16,02 Apr 2026 23:26:13,CE85A54C1D0C1084D09F
+SDN 9 KAUR,10701880,SD,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,10,2,41,6,6,0,1,19,28 Feb 2026 09:14:41,25A5A80F76EAB01B78B1
+SMPN 15 KAUR,10702818,SMP,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,16,6,73,3,6,1,1,22,10 Apr 2026 13:28:09,4D37D478531EE673D59F
+SMPN 7 KAUR,10701790,SMP,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,17,3,115,4,7,2,1,21,10 Apr 2026 09:49:13,B8C88ABD1B63E1A26F12
+SMA NEGERI 7 KAUR,10703261,SMA,Negeri,Kec. Kinal,260706,Kab. Kaur,260700,Prov. Bengkulu,260000,13,7,32,3,7,1,1,25,01 May 2026 13:27:12,DCC85DB8DD9042B2F3CE

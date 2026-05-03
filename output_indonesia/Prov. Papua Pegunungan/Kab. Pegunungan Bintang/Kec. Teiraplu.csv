@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES TEIRAPLU,69725983,SD,Negeri,Kec. Teiraplu,380231,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,6,1,70,7,6,0,0,4,19 Jan 2026 10:05:18,87BA8BC5FF874F964669
+SMP NEGERI TEIRAPLU,69987623,SMP,Negeri,Kec. Teiraplu,380231,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,7,1,126,5,3,1,1,23,22 Apr 2026 09:57:41,8AF9435103DB32649751
+SMA NEGERI TEIRAPLU,70056583,SMA,Negeri,Kec. Teiraplu,380231,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,0,0,47,1,2,0,0,4,31 Jan 2026 18:38:49,442BF9462897D53C297A

@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BOKONDINI,60302202,SD,Negeri,Kec. Bokondini,380402,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,8,1,157,8,10,0,0,17,24 Apr 2026 05:36:51,5D19EDE4516ECA270CA4
+SD INPRES UMAGA,60302233,SD,Negeri,Kec. Bokondini,380402,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,4,1,111,7,3,0,0,24,24 Apr 2026 14:35:47,483ADE9B2D1E6A5C5CD6
+SD YAPELIN OB ANGGEN BOKONDINI,69727999,SD,Swasta,Kec. Bokondini,380402,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,6,2,92,6,8,1,1,18,11 Mar 2026 09:11:52,BB356C8AD9F417C39EE3
+SD YPPGI BOKONDINI,60302263,SD,Swasta,Kec. Bokondini,380402,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,2,1,67,5,3,0,0,14,30 Apr 2026 12:52:57,9F2AB166B983C71BFA36
+SMP NEGERI BOKONDINI,60300998,SMP,Negeri,Kec. Bokondini,380402,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,13,1,241,8,9,2,1,14,24 Apr 2026 05:53:15,CEE59A76D2DED08D16D1
+SMP YAPELIN OB ANGGEN BOKONDINI,69973686,SMP,Swasta,Kec. Bokondini,380402,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,6,1,49,3,3,0,0,2,21 Jan 2026 10:02:02,354633A1AA6B21F96434
+SMA NEGERI BOKONDINI,60302279,SMA,Negeri,Kec. Bokondini,380402,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,10,2,119,5,6,5,1,32,30 Apr 2026 10:11:43,9F351DBC7FDF779D55AE
+SMA Yapelin Ob Anggen,69987981,SMA,Swasta,Kec. Bokondini,380402,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,6,1,46,3,3,0,1,5,05 Mar 2026 07:13:42,2CDD26F82A4017459D77

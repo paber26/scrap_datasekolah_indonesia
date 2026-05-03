@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI INPRES 2 DEMTA,60300272,SD,Negeri,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,7,3,89,6,6,0,2,9,13 Apr 2026 11:09:30,3EBBD82E9A587E4FFED8
+SD NEGERI INPRES I DEMTA,60300274,SD,Negeri,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,9,2,156,8,13,0,1,108,01 May 2026 09:23:39,2B38609567510DD1E848
+SD NEGERI MUAIF,60302745,SD,Negeri,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,4,1,30,6,4,0,1,25,07 Apr 2026 18:59:23,5F46C41612C2620E0A59
+SD NEGERI YAUGAPSA,70041770,SD,Negeri,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,3,1,37,5,3,0,0,13,24 Mar 2026 17:45:29,90EB73309A7D1D16845E
+SD YPK MURIS,60300211,SD,Swasta,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,6,1,106,6,6,1,1,22,16 Apr 2026 13:22:39,B82DA907BFD8CA92EA7D
+SD YPK TARFIA,60300235,SD,Swasta,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,7,2,86,6,7,0,1,21,19 Feb 2026 07:34:42,E0CEA68D09C70941D010
+SMP NEGERI 1 DEMTA,60300158,SMP,Negeri,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,13,3,181,6,8,1,1,47,30 Apr 2026 11:33:08,E7BEE861702D2F84FC3D
+SMP SATU ATAP TARFIA,60304730,SMP,Negeri,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,8,1,54,3,3,0,1,10,10 Apr 2026 06:59:51,9DCAA4EDBA07BA4BEA9D
+SMAN DEMTA,60303589,SMA,Negeri,Kec. Demta,250120,Kab. Jayapura,250100,Prov. Papua,250000,11,3,165,6,6,1,1,26,16 Apr 2026 11:21:03,B73445FF2D6C0AA9D352

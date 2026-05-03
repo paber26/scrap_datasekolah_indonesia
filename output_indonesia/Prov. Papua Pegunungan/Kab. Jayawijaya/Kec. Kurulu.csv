@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ABUSA,60301378,SD,Negeri,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,5,1,151,6,6,0,0,26,27 Mar 2026 07:44:17,93A329F95115C81072CB
+SD INPRES UMPAKALO,60301468,SD,Negeri,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,7,1,114,6,6,0,0,25,15 Apr 2026 21:56:35,C02A07221C7D53CDA3B7
+SD INPRES YIWIKA,60301488,SD,Negeri,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,4,4,82,6,6,0,1,1,02 May 2026 04:30:30,1FC386DB035F6F59D84E
+SD NEGERI WOBAREK,69900385,SD,Negeri,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,10,1,146,6,3,0,0,34,24 Apr 2026 12:17:40,A1A902571A65425693E4
+SD YPPK ERAGAMA,60301530,SD,Swasta,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,5,2,109,6,6,0,1,2,01 Feb 2026 19:27:58,D192A8A007C1F875B1EE
+SD YPPK MULIMA,60301539,SD,Swasta,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,1,116,6,6,1,1,21,30 Apr 2026 17:37:29,4F7501A7DEC2249C1E61
+SD YPPK WAGA-WAGA,60301545,SD,Swasta,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,7,1,151,7,6,0,1,18,15 Apr 2026 11:34:09,1837EA48DACC0C31872D
+SD YPPK YIWIKA,60301550,SD,Swasta,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,9,1,151,7,6,0,1,111,02 May 2026 17:58:44,1B0B8620E784878D42EC
+SMP NEGERI I KURULU,60301557,SMP,Negeri,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,18,1,248,9,12,0,1,64,02 May 2026 07:34:28,6D2DB12FE5BC1E00B92E
+SMAN KURULU,60304204,SMA,Negeri,Kec. Kurulu,380102,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,14,1,172,6,9,1,1,18,21 Apr 2026 12:12:02,B13E1C80480439B27F8B

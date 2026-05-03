@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES WONOME,69725988,SD,Negeri,Kec. Yiluk,380733,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,1,1,337,12,7,0,1,10,24 Apr 2026 12:12:34,78D2BB81D6AADAA97135
+SD YPPGI YUWGA,60303493,SD,Swasta,Kec. Yiluk,380733,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,5,1,166,7,6,0,0,3,26 Apr 2026 09:12:22,CC906DEB0F5B03432DD8
+SMP NEGERI 2 GAMELIA,60304906,SMP,Negeri,Kec. Yiluk,380733,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,12,1,386,11,4,0,0,22,30 Apr 2026 11:44:31,DC1C30BE831DE7296125

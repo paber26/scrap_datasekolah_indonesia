@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 KERAMUT,11001179,SD,Negeri,Kec. Jemaja Barat,310508,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,13,32,6,6,0,1,14,02 Apr 2026 18:01:28,414E4BD8C32998190A79
+SDN 002 IMPOL,11001317,SD,Negeri,Kec. Jemaja Barat,310508,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,7,4,36,6,6,0,1,7,11 Apr 2026 05:02:49,CFF398F78278CB1ECB67
+SDN 003 SUNGGAK,11001348,SD,Negeri,Kec. Jemaja Barat,310508,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,5,24,6,6,0,1,17,28 Apr 2026 14:53:34,AFEF0BA735099804566F
+SMPN 1 SUNGGAK,69734127,SMP,Negeri,Kec. Jemaja Barat,310508,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,10,9,41,3,3,2,1,16,02 Apr 2026 11:10:13,E27FF6976303120AC970

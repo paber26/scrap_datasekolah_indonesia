@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES PANIBAGATA,60302304,SD,Negeri,Kec. Yagai,360317,Kab. Paniai,360300,Prov. Papua Tengah,360000,9,1,243,10,6,1,1,49,11 Mar 2026 19:47:23,D346C015B84D4C42156D
+SD YPPGI AKAWEIDA,60303986,SD,Swasta,Kec. Yagai,360317,Kab. Paniai,360300,Prov. Papua Tengah,360000,5,1,484,16,6,0,0,25,30 Apr 2026 10:51:19,EC7CEC5892170DB2F4FE
+SD YPPGI DAPUGAIDA,60302355,SD,Swasta,Kec. Yagai,360317,Kab. Paniai,360300,Prov. Papua Tengah,360000,9,1,311,12,11,0,2,105,16 Apr 2026 15:38:18,2E8FA29B4198BD7124E2
+SD YPPGI PENIEL PUGAIDA,60303554,SD,Swasta,Kec. Yagai,360317,Kab. Paniai,360300,Prov. Papua Tengah,360000,5,1,451,16,6,0,0,32,01 May 2026 19:19:04,D3DF0445011664E69588
+SD YPPK YAGAI,60302427,SD,Swasta,Kec. Yagai,360317,Kab. Paniai,360300,Prov. Papua Tengah,360000,7,1,311,13,9,0,0,24,29 Apr 2026 12:34:57,18A8F0A858D2B5153064
+SMP YPPGI PANIBAGATA,69944133,SMP,Swasta,Kec. Yagai,360317,Kab. Paniai,360300,Prov. Papua Tengah,360000,9,0,227,9,6,1,0,17,30 Apr 2026 14:27:05,A1C4364DE874B38CB1DC

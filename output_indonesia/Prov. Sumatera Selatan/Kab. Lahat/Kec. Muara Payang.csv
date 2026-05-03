@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 MUARA PAYANG,10601313,SD,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,12,2,92,6,6,0,1,15,29 Apr 2026 18:04:32,D27CD443FB2BDB42BAB7
+SDN 2 MUARA PAYANG,10601198,SD,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,2,135,6,9,0,1,15,08 Apr 2026 09:25:04,FC5CF1D239177B4F87FE
+SDN 3 MUARA PAYANG,10601559,SD,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,1,49,6,6,0,2,56,11 Mar 2026 04:10:33,096B8FA11C0F4E0C7EAA
+SDN 4 MUARA PAYANG,10601539,SD,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,6,2,25,5,6,0,0,19,22 Apr 2026 21:32:48,684A442580F5235054DF
+SDN 5 MUARA PAYANG,10601681,SD,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,10,2,64,6,6,0,0,6,01 Apr 2026 23:20:50,35206C0134D9454A0B9E
+SDN 6 MUARA PAYANG,10601702,SD,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,12,2,83,6,6,0,1,8,29 Apr 2026 13:41:11,AEF77DB67B42460FBF2E
+SDN 7 MUARA PAYANG,10601684,SD,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,1,23,6,3,0,0,22,02 May 2026 19:13:14,8DCA1914D6ECA66C5023
+SMPN 1 MUARA PAYANG,10601370,SMP,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,16,7,82,3,17,1,1,38,28 Apr 2026 10:50:40,707DBD121150FF878A45
+SMAN 1 MUARA PAYANG,10645761,SMA,Negeri,Kec. Muara Payang,110533,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,17,4,77,3,13,3,1,24,14 Apr 2026 10:34:20,A4BCD40F1646A2D6B693

@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KLISHATU,60102985,SD,Negeri,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,8,4,109,6,6,0,0,19,30 Apr 2026 18:47:51,E060B5390FEDDC8B6B4C
+SD NEGERI KARBUBU,60101472,SD,Negeri,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,10,3,97,7,6,0,0,10,29 Apr 2026 22:30:25,99A660B984DD57DFBF87
+SD NEGERI TELEMAR,60101492,SD,Negeri,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,6,0,31,6,6,0,0,15,16 Apr 2026 11:47:17,A76671FCF525CA5A1D8F
+SD NEGERI USPISERA,60103060,SD,Negeri,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,9,1,54,6,6,0,0,9,03 Mar 2026 16:26:13,D4F987C74EE8FC7D448E
+SD KRISTEN ILMAMAU,60103003,SD,Swasta,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,2,1,51,6,6,0,0,7,14 Feb 2026 02:50:31,8917DCFF300F3DEB6D7C
+SD KRISTEN USTUTUN,60103853,SD,Swasta,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,4,0,107,6,5,0,1,19,07 Apr 2026 11:44:58,AA74429B5A85D5396473
+SMP NEGERI 7 PP. TERSELATAN,60103076,SMP,Negeri,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,13,4,113,4,6,1,1,47,28 Apr 2026 06:45:24,AD222D08AF7288216E78
+SMP NEGERI SATAP KARBUBU,60103841,SMP,Negeri,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,9,2,36,3,3,0,0,16,24 Apr 2026 20:22:16,87C10F12FEB64B5150B7
+SMK NEGERI 8 MALUKU BARAT DAYA,69772521,SMK,Negeri,Kec. Wetar Barat,210817,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,9,3,51,3,4,1,1,22,23 Apr 2026 09:04:59,AD6233C808FDCE692ED9

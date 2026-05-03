@@ -1,0 +1,36 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Balepanjang,20311606,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,80,6,6,0,1,9,11 Mar 2026 10:01:23,B8B61120358C71CA8DDA
+SD Negeri 1 Giriyoso,20311576,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,89,6,6,1,0,29,23 Apr 2026 10:28:59,2E42DD937D4ACE8327FC
+SD Negeri 1 Jatipurno,20311415,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,3,126,6,6,0,1,12,29 Apr 2026 08:41:48,1F58C7DD15ACD11FF3B3
+SD Negeri 1 Jatipurwo,20311416,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,87,6,6,0,1,10,07 Apr 2026 17:03:56,E4C2CE0CA63C29B7CB4B
+SD Negeri 1 Jeporo,20311422,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,10,2,213,11,12,0,1,13,03 Apr 2026 05:04:30,6FB4174DBA127153A652
+SD Negeri 1 Kembang,20311375,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,55,6,6,0,1,14,30 Apr 2026 09:03:18,C04B97213850F3B12FE3
+SD Negeri 1 Kopen,20311397,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,3,2,69,6,6,0,1,11,02 Apr 2026 09:08:57,12ACAB08C42695D2F7ED
+SD Negeri 1 Mangunharjo,20311390,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,60,6,6,0,1,8,02 Apr 2026 07:33:25,4E8883353B3CF4165648
+SD Negeri 1 Slogoretno,20311798,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,0,39,6,6,0,1,10,10 Apr 2026 07:46:43,20FCF97D8F8A10B5D8B6
+SD Negeri 1 Tawangrejo,20311774,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,47,5,7,0,1,26,28 Apr 2026 09:39:29,6AC56E4A0DFB19FBC90E
+SD Negeri 2 Balepanjang,20340765,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,80,6,6,0,1,35,20 Apr 2026 10:37:40,8E80DBFC41FE19CE8897
+SD Negeri 2 Giriyoso,20311659,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,0,55,6,6,0,1,13,30 Apr 2026 07:06:30,12581B4A24D22EA6ECE9
+SD Negeri 2 Jatipurno,20311673,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,68,6,6,1,2,12,11 Apr 2026 19:58:23,B6D169B1731D20A0A4CE
+SD Negeri 2 Jatipurwo,20311343,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,64,6,6,1,1,12,09 Apr 2026 10:19:57,72706A76238061ECE580
+SD Negeri 2 Jeporo,20311632,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,3,1,29,5,6,0,3,5,04 Mar 2026 08:00:54,D2C954ADA8927068FA60
+SD Negeri 2 Kembang,20311650,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,2,115,6,6,0,1,10,28 Apr 2026 13:45:07,C76B149E72D8DF08F6F2
+SD Negeri 2 Kopen,20311641,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,2,87,6,6,0,1,10,29 Apr 2026 07:41:36,A9BB698FC0C6F913F1DA
+SD Negeri 2 Mangunharjo,20311727,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,46,6,6,0,1,5,02 Apr 2026 06:58:25,63844CEEEA8F233B82B3
+SD Negeri 2 Slogoretno,20310887,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,83,6,6,0,2,7,02 Mar 2026 10:21:57,00B843513BD8C8186981
+SD Negeri 3 Giriyoso,20310970,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,34,6,6,0,1,6,02 Apr 2026 16:32:10,D1433C2D8EBCD1FF7CF9
+SD Negeri 3 Jatipurwo,20310960,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,75,6,6,0,1,20,04 Apr 2026 07:40:48,EBFAB5A14CFB164659B2
+SD Negeri 3 Jeporo,20310796,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,3,99,6,6,0,1,7,07 Apr 2026 07:59:32,99A53B2F0945FBBC3503
+SD Negeri 3 Kembang,20310788,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,0,37,5,7,0,0,9,03 Mar 2026 10:05:54,424E123D6DF17AD4F3BD
+SD Negeri 3 Kopen,20310813,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,5,1,47,6,6,0,1,16,25 Apr 2026 07:19:30,3C1C276D79114ECFB3FD
+SD Negeri 3 Tawangrejo,20310869,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,69,6,6,0,1,30,30 Apr 2026 14:39:16,88C789BA5387F77C80BF
+SD Negeri Gendungan,20311348,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,76,6,6,0,1,9,13 Apr 2026 23:36:54,73110367AF91A3E0D26E
+SD Negeri Girimulyo,20311347,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,6,1,104,6,6,0,1,10,02 Apr 2026 07:11:52,81FEA8ADB5B37C3A6210
+SD Negeri Gojati,20311344,SD,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,1,126,6,6,0,1,6,14 Apr 2026 08:10:28,73B819224022D35ED7F6
+SDIT BUDI UTOMO JATIPURNO,69974634,SD,Swasta,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,10,3,265,12,12,1,1,14,11 Apr 2026 10:13:44,6DAD8306A9CB7A84C20E
+SMP NEGERI 1 JATIPURNO,20311241,SMP,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,25,7,578,20,21,4,1,35,22 Apr 2026 10:52:22,4B4D689B95A073A8904A
+SMP NEGERI 2 JATIPURNO,20311221,SMP,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,15,6,330,12,15,4,1,10,05 Mar 2026 09:25:10,932D8088DDE2BCDCFA4C
+SMP NEGERI 3 SATU ATAP JATIPURNO,20353963,SMP,Negeri,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,10,5,108,5,6,1,1,31,02 Apr 2026 12:47:24,39F12605591D751A9340
+SMP BUDI UTOMO JATIPURNO,70040138,SMP,Swasta,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,2,179,6,6,0,0,16,05 Mar 2026 11:41:04,C3678211112EC383F20B
+SMP IBU S. SOEMOHARMANTO,20311063,SMP,Swasta,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,7,3,116,5,15,2,1,11,15 Apr 2026 09:48:56,607833A27884B51D59FB
+SMK IBU S. SOEMOHARMANTO,20311047,SMK,Swasta,Kec. Jatipurno,031223,Kab. Wonogiri,031200,Prov. Jawa Tengah,030000,31,5,926,27,21,5,1,13,28 Apr 2026 09:52:31,BA8B94A1427259212C77

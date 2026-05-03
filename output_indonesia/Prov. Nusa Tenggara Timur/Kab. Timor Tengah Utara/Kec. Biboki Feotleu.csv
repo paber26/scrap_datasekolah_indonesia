@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI HALIBESEKA,69838659,SD,Negeri,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,1,69,6,3,0,1,7,27 Apr 2026 10:17:48,67BE6557878ED6E9B007
+SD NEGERI HAUBESI,69728329,SD,Negeri,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,1,60,6,6,0,1,25,19 Apr 2026 15:21:18,0350278BE260878CAB3D
+SD NEGERI MANUMEAN,69831994,SD,Negeri,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,1,57,6,6,0,1,5,04 Mar 2026 08:48:20,DD4D4A4D4EBE363A71AF
+SD KATOLIK KUKINU,50306354,SD,Swasta,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,4,3,91,6,6,0,1,7,20 Apr 2026 18:29:59,7711B9D9BB9938F55D5F
+SD KATOLIK NON,50301142,SD,Swasta,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,4,2,86,6,6,0,1,8,18 Apr 2026 22:27:47,794DF8A5DBF6C460D88F
+SDK KUMONE,50301178,SD,Swasta,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,5,4,109,6,6,0,1,22,26 Apr 2026 20:21:09,5ACEC69BC9749F636283
+SDK MANUMEAN,50301130,SD,Swasta,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,4,2,77,6,6,1,1,29,30 Apr 2026 06:58:57,4BAD81C09BF1B51FFB65
+SMP NEGERI MANUMEAN,50301002,SMP,Negeri,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,14,4,127,6,6,1,1,11,07 Apr 2026 10:59:17,FC65BD01E2CF9678D5A2
+SMK NEGERI FEOTLEU,70033793,SMK,Negeri,Kec. Biboki Feotleu,240424,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,15,4,49,5,8,0,1,24,27 Apr 2026 10:32:28,EDD0E97020946728D656

@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KUYANGA,40101914,SD,Negeri,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,1,128,6,8,1,2,12,30 Apr 2026 13:18:23,EAADFA625DFC8D00F501
+SD INPRES TOMBATU 2,40101882,SD,Negeri,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,20,1,344,15,13,0,2,25,21 Apr 2026 06:29:25,2908F02470383FA596B5
+SDN INPRES WINORANGIAN,40101881,SD,Negeri,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,0,77,6,6,0,1,13,04 Mar 2026 11:30:41,4E670DB94B9C26F99A0E
+SD ADVENT WINORANGIAN,40102150,SD,Swasta,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,6,1,49,6,6,0,1,22,05 Mar 2026 11:40:46,1CEB55F0ACDA018258D1
+SD GMIM 2 TOMBATU,40102169,SD,Swasta,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,1,94,6,6,0,1,13,19 Mar 2026 20:45:45,FDB40CCED779FE569384
+SD GMIM KUYANGA,40102098,SD,Swasta,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,4,1,88,6,7,0,1,8,17 Apr 2026 06:38:23,E9047AB82000EB04E1AD
+SD GMIM WINORANGIAN TOMBATU,40102282,SD,Swasta,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,1,62,6,6,0,1,23,09 Apr 2026 11:14:23,C01B4B5933A3CCFFF09D
+SMP NEGERI 4 TOMBATU,40103652,SMP,Negeri,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,17,0,200,8,14,3,1,10,03 Mar 2026 19:42:22,C1D19C3EFF9453266B02
+SMP NEGERI 6 TOMBATU,40103653,SMP,Negeri,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,0,89,3,4,2,2,20,30 Apr 2026 15:29:10,201048877A0943466DB9
+SMP NEGERI 7 TOMBATU,40103654,SMP,Negeri,Kec. Tombatu Utara,171010,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,9,0,55,3,3,0,0,15,17 Apr 2026 08:36:44,99C14B1AE02181070F40

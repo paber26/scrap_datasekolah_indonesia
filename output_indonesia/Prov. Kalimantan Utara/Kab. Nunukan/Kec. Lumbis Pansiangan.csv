@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 LUMBIS PANSIANGAN,30402745,SD,Negeri,Kec. Lumbis Pansiangan,340526,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,6,2,41,6,6,0,1,15,01 May 2026 21:58:43,DBB89596F1E0E5F1F980
+SD NEGERI 002 LUMBIS PANSIANGAN,30402751,SD,Negeri,Kec. Lumbis Pansiangan,340526,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,7,2,35,6,6,0,1,26,21 Apr 2026 18:03:30,5C60B8E1EED57716BAFA
+SMP NEGERI 1 LUMBIS PANSIANGAN,70012257,SMP,Negeri,Kec. Lumbis Pansiangan,340526,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,8,3,41,3,3,0,0,19,09 Apr 2026 13:40:04,8402B0EFD5E421352931

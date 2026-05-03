@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES DOUFO,60304209,SD,Negeri,Kec. Doufo,360504,Kab. Puncak,360500,Prov. Papua Tengah,360000,6,1,88,6,6,0,1,9,12 Mar 2026 14:35:24,345E862B8202E0FC61F8
+SD INPRES IRATOI,60304138,SD,Negeri,Kec. Doufo,360504,Kab. Puncak,360500,Prov. Papua Tengah,360000,4,0,95,6,6,0,0,6,08 Mar 2026 19:31:16,379A42E0C3C9F2B7B0CC
+SMP NEGERI 1 DOUFO,69915351,SMP,Negeri,Kec. Doufo,360504,Kab. Puncak,360500,Prov. Papua Tengah,360000,3,1,61,3,3,0,0,27,24 Apr 2026 15:55:26,42834855053071F6AF3A

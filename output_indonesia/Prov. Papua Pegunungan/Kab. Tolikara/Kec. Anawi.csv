@@ -1,0 +1,3 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ANAWI,60302199,SD,Negeri,Kec. Anawi,380436,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,5,1,347,11,6,0,1,1,22 Apr 2026 10:38:02,2BDCDE83D421ACA3CBD7
+SMP NEGERI SATU ATAP ANAWI,60302276,SMP,Negeri,Kec. Anawi,380436,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,10,2,147,5,5,1,1,22,14 Apr 2026 15:59:31,B4A638E6CFA6FDC13549

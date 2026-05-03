@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 AIR DIKIT,10701390,SD,Negeri,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,9,3,104,6,10,0,1,18,20 Apr 2026 10:09:16,9491B71AFA5FEBCD4C2B
+SD NEGERI 02 AIR DIKIT,10701366,SD,Negeri,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,7,4,104,6,9,0,1,24,30 Apr 2026 10:13:09,1621EC28D54D3B91BEC4
+SD NEGERI 03 AIR DIKIT,10701371,SD,Negeri,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,16,4,156,10,15,0,1,47,29 Apr 2026 17:55:35,0FF49F085184815A806C
+SD NEGERI 04 AIR DIKIT,10701160,SD,Negeri,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,12,2,169,8,14,1,1,11,09 Apr 2026 09:13:34,5E92E99C1A3D56061117
+SD ISLAM NAILUL ANWAR,70023635,SD,Swasta,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,8,4,104,5,5,0,1,23,10 Apr 2026 17:12:06,4727845E1BA26BB7007F
+SMP NEGERI 14 MUKOMUKO,10703131,SMP,Negeri,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,17,6,131,6,14,3,1,14,29 Apr 2026 20:47:03,6A1FCDEFCC951DA3EA5A
+SMP NEGERI 41 MUKOMUKO,69881562,SMP,Negeri,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,15,4,182,7,12,4,2,34,27 Apr 2026 10:50:47,2B62EE66345615E153AE
+SMP ISLAM NAILUL ANWAR,70023749,SMP,Swasta,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,13,3,222,7,8,0,0,19,03 Mar 2026 10:41:06,59BBEF5356E8F579DFB0
+SMA NEGERI 12 MUKOMUKO,10703504,SMA,Negeri,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,12,5,37,3,4,3,1,41,14 Apr 2026 09:23:04,790A9E09F1334E9269A2
+SMK ISLAM NAILUL ANWAR,70058150,SMK,Swasta,Kec. Air Dikit,260412,Kab. Mukomuko,260400,Prov. Bengkulu,260000,2,0,0,0,0,0,0,0,,6836F29F895036135A6B

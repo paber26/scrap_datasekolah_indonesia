@@ -1,0 +1,38 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES FAE,50300866,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,5,79,6,6,0,1,21,16 Apr 2026 21:05:50,8756099DE4DCE7B066AE
+SD INPRES FATUKOLO,50300870,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,0,32,6,6,0,0,27,23 Apr 2026 16:00:23,E70D9D8919B7D99C2515
+SD INPRES KLONE,50300919,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,4,116,6,6,0,1,30,24 Apr 2026 10:29:25,2CA8A9E4859FFC057DA6
+SD INPRES OINLASI,50300521,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,1,146,7,12,0,1,27,23 Apr 2026 21:35:59,45D3008CA57247A2BFCE
+SD INPRES SAHAN,50300510,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,2,202,12,6,0,0,19,27 Apr 2026 18:13:23,AB236985D4FC6EA0F1E6
+SD INPRES USAPIKOM,50300545,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,87,6,6,0,0,23,02 May 2026 14:31:38,8E2A44898BC5F2F5C79C
+SD NEGERI OEKIU,50307109,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,104,7,7,0,1,9,10 Apr 2026 21:08:37,F31A8E022C3606A6B89C
+SD NEGERI OEYEK,50309052,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,1,50,6,6,0,0,29,02 May 2026 17:03:25,F0393B8DAAE77CDF84C6
+SD NEGERI SUNU,50307141,SD,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,14,2,239,10,7,0,0,72,10 Apr 2026 17:59:30,60F6AFEE1E30607FF61F
+SD GMIT LANU,50306832,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,1,151,6,6,0,1,69,19 Apr 2026 20:23:51,ACF5DE03656A36AB92E5
+SD GMIT LUNU,50306834,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,3,0,68,6,8,0,1,6,09 Mar 2026 10:35:00,199F73097300F011EBEB
+SD GMIT NENU,50300776,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,1,61,6,6,0,1,27,30 Apr 2026 12:13:58,23F56FD2B54751A27CCD
+SD GMIT OEBUBUN,50300711,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,1,129,6,6,0,0,42,02 May 2026 12:27:46,A0CA0E2789021161BB96
+SD GMIT OESUSU,50306851,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,1,167,6,7,0,0,34,28 Apr 2026 14:45:48,BF5D0E23619678389309
+SD GMIT OETUNE,50300689,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,2,126,6,6,0,1,28,02 May 2026 09:00:36,91BD312CCC39C5DC572E
+SD GMIT OINLASI,50300692,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,1,121,6,7,0,1,5,07 Apr 2026 19:23:44,AEBA3AF8F55830AEADC0
+SD GMIT TOI,50306864,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,1,118,6,6,0,1,28,03 Mar 2026 08:33:36,66243C4A70A19B4EF0D6
+SD KATHOLIK YASWARI FATUHILIK,50306989,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,2,69,6,6,0,1,37,28 Apr 2026 11:47:05,A326CFA3EEE2B24B7129
+SD KATHOLIK YASWARI KOKOI,50309050,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,1,105,6,6,0,0,10,12 Apr 2026 05:05:36,E4F0D9FD1B7DAC02C680
+SD KATHOLIK YASWARI NOETOKO,50307001,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,3,189,6,10,1,1,10,26 Apr 2026 10:25:23,886DA2D1812962BE2721
+SD KATHOLIK YASWARI OINLASI,50300474,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,2,142,6,5,0,2,12,09 Apr 2026 12:18:39,971925B0A7EC706580D5
+SD KRISTEN MUTIARA INDAH KUALEU,70046287,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,1,1,0,0,0,0,0,0,,9BCB4A1A1B38F95918F1
+SDK YASWARI OEKOLO,50307002,SD,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,2,88,6,6,0,0,21,02 May 2026 16:49:25,2E279AD0B86ABC9F3305
+SMP NEGERI 1 AMANATUN SELATAN,50307194,SMP,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,67,9,681,23,28,2,1,78,02 May 2026 17:57:42,0A1AD8F9B86B38E73851
+SMP NEGERI NUNUH POSMANU,69987350,SMP,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,19,4,176,7,7,0,0,30,30 Apr 2026 16:27:57,C485A2CDD8657CD86E04
+SMP NEGERI SATU ATAP OEKIU,50307251,SMP,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,17,3,97,3,3,1,1,40,24 Apr 2026 17:27:50,1FD3A661CF0282C6A728
+SMP SATU ATAP SUNU,50307262,SMP,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,19,3,182,6,6,1,2,34,01 May 2026 03:33:41,463382B63D3AAE974B19
+SMP KRISTEN SINAR LUNU,69728364,SMP,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,4,84,3,3,0,1,73,27 Apr 2026 13:55:23,82ABD1BEF79622F54CD3
+SMP REFORMASI PLUS LANU,70030109,SMP,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,1,34,3,3,0,0,6,24 Feb 2026 11:53:10,6E0CEA556BBDD171423E
+SMP ST. PAULUS OINLASI,50307171,SMP,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,1,4,1,3,0,0,2,27 Feb 2026 07:06:17,F3E3E80D6151F48C60A0
+SMP SWADAYA KUALEU,50309047,SMP,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,2,1,0,0,0,0,0,0,,F832F30C07181EDBC7F7
+SMP SWADAYA NOETOKO,50307270,SMP,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,1,91,4,4,0,0,24,01 May 2026 10:08:35,3F931109A08626F7B528
+SMP SWASTA KATOLIK ST PETRUS OINLASI,50307172,SMP,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,139,6,12,1,0,36,02 May 2026 08:21:42,68FD016CA25330C91FC1
+SMAN OINLASI,50309622,SMA,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,32,9,513,16,17,2,1,61,24 Apr 2026 08:55:31,EF5C98CB0EA37BC24580
+SMAS KRISTEN AMANATUN SELATAN,50307286,SMA,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,2,130,6,6,1,2,21,27 Apr 2026 09:56:43,C6A27F578ABD44D1A98B
+SMK NEGERI SUNU,70031328,SMK,Negeri,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,15,8,64,7,1,1,0,57,30 Apr 2026 16:10:45,EDBF576FF3AC946EC749
+SMKS KRISTEN OINLASI,50309049,SMK,Swasta,Kec. Amanatun Selatan,240310,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,32,6,450,22,21,2,1,59,02 May 2026 09:38:25,0DF740EA925E2FAFA03D

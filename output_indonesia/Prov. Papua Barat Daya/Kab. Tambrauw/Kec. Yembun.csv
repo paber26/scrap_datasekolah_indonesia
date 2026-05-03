@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 28 METNAYAM,69728594,SD,Negeri,Kec. Yembun,390503,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,9,2,98,6,6,0,0,27,30 Apr 2026 17:15:44,E35A1ABF457FDAA06BA2
+SD NEGERI BAUN,69787907,SD,Negeri,Kec. Yembun,390503,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,8,2,61,6,6,0,1,116,27 Apr 2026 07:23:03,0007678C2C9C73897249
+SMP NEGERI YEMBUN,60404174,SMP,Negeri,Kec. Yembun,390503,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,6,2,50,3,3,2,1,17,14 Apr 2026 08:39:48,5A9A00FBA982435D986A
+SMK NEGERI 1 YEMBUN,69899493,SMK,Negeri,Kec. Yembun,390503,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,15,3,41,8,3,1,1,56,09 Apr 2026 04:13:17,E891A8ACB993B296C549

@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES OKILIK WAMENA,60301447,SD,Negeri,Kec. Napua,380113,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,10,1,157,8,6,0,1,36,30 Apr 2026 13:38:56,18BA540BCC2060E75DA5
+SD YPPGI NAPUA,60301517,SD,Swasta,Kec. Napua,380113,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,1,322,13,12,0,0,68,01 May 2026 20:27:55,BBE45E480B51D0244B6B
+SD YPPK SINATMA WALESI,60301544,SD,Swasta,Kec. Napua,380113,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,7,2,176,6,6,0,1,8,16 Apr 2026 19:46:33,26EBE5E79311AA304477
+SD YPPP SAPALEK,70036719,SD,Swasta,Kec. Napua,380113,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,10,1,332,12,3,0,0,32,18 Apr 2026 06:38:01,CAD048B2BD675B5A9E15
+SMP YPPP SAPALEK,70049194,SMP,Swasta,Kec. Napua,380113,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,2,1,0,0,0,0,0,0,,880477F916857551D178
+SMK NEGERI 2 WAMENA,70043385,SMK,Negeri,Kec. Napua,380113,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,0,62,5,10,0,0,64,02 May 2026 12:38:37,F852EBE6944A04AF1CBC

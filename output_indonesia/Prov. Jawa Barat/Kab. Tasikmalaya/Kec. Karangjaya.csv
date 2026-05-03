@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 KARANGLAYUNG,20210087,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,7,0,79,6,7,0,1,16,02 Mar 2026 09:58:37,97F512CAE10BB9D1E49D
+SDN 2 KARANGLAYUNG,20210086,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,5,0,80,6,6,0,1,20,24 Apr 2026 08:26:25,EC42AB506DEADF5FF1A6
+SDN AWILUAR,20210464,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,4,2,90,6,6,0,0,8,07 Apr 2026 11:50:18,46D40C0C41124F1460D7
+SDN CITALAHAB,20210533,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,5,1,110,6,6,0,1,16,15 Apr 2026 07:44:17,2FDE36DAFC1A48308EF4
+SDN CITAMBAL,20210531,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,8,1,143,6,8,0,1,20,13 Apr 2026 20:23:54,F2036CFF84B68AB67EA2
+SDN GUNUNGSANGKUR,20210573,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,4,2,81,6,6,0,1,19,15 Apr 2026 11:28:08,9A8FC93C53D88468505C
+SDN KARANGPETE,20210090,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,7,1,112,6,6,1,1,32,15 Apr 2026 11:50:18,B7589CBABAAA6BC9BA61
+SDN KARANGSARI,20229341,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,6,0,87,6,6,0,0,9,29 Apr 2026 20:47:28,465789F4BEE9B8E7EE81
+SDN SIRNAJAYA,20229436,SD,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,6,1,88,6,6,0,0,6,03 Mar 2026 11:26:27,7615C9BD9C95523EFB74
+SMPN 1 KARANGJAYA,20210856,SMP,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,12,5,150,6,21,2,1,18,05 Mar 2026 15:14:15,B687EB543D8DA417F53E
+SMPN SATU ATAP 1 KARANGJAYA,20229500,SMP,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,6,2,30,3,8,1,1,17,30 Apr 2026 11:29:49,04A59BB58D85FFD60065
+SMPN SATU ATAP 2 KARANGJAYA,20262695,SMP,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,6,4,66,3,5,1,1,13,04 Mar 2026 04:13:24,C3BDE222E26E675FBEC3
+SMKN KARANGJAYA,69752266,SMK,Negeri,Kec. Karangjaya,021238,Kab. Tasikmalaya,021200,Prov. Jawa Barat,020000,24,8,364,16,7,0,1,21,13 Apr 2026 14:00:39,C45D37A6021FCC15B473

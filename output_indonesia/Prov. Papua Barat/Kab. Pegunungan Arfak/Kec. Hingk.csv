@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 06 NUNGKIMOR,60401420,SD,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,6,1,74,6,4,0,0,8,10 Mar 2026 09:19:21,53E59E7D84A38273240A
+SD NEGERI 17 PINIBUT,60403772,SD,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,8,0,61,6,6,0,1,34,17 Apr 2026 15:03:57,3D3533101B78AFC998F7
+SD Negeri 28 Aryon,60403891,SD,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,7,0,48,6,3,0,0,24,05 Apr 2026 20:18:34,96FC3273B855813504F8
+SD NEGERI 30 UMCEP,60403892,SD,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,5,2,31,6,3,0,0,14,14 Apr 2026 22:41:12,BF5C9B23EB25C9F27F2A
+SD NEGERI 35 KWOK,69870667,SD,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,6,2,49,6,3,0,0,25,09 Apr 2026 05:40:07,D1B35181289DC8861624
+SD NEGERI 36 IGKMABOUW,69864706,SD,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,6,1,41,6,6,0,0,24,24 Mar 2026 19:24:19,CBF79528BF9B298B895A
+SD Negeri 45 Leihak,69939236,SD,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,7,0,95,6,6,1,0,26,23 Apr 2026 15:05:04,8E3C875FC539871DDBDF
+SD Negeri 59 Humeisi,69989969,SD,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,9,1,54,7,2,0,0,20,03 Apr 2026 07:55:12,127E356E72D5AC7481F6
+SMP NEGERI 08 HINGK,60403621,SMP,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,11,1,126,5,6,1,1,13,27 Apr 2026 09:52:04,87809AC347026FE37CBB
+SMP NEGERI 10 IGKIMABOUW,69955237,SMP,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,3,1,22,2,3,1,1,13,08 Apr 2026 20:33:59,65992C3530674FA0A502
+SMA NEGERI 5 HINGK,69943853,SMA,Negeri,Kec. Hingk,321119,Kab. Pegunungan Arfak,321100,Prov. Papua Barat,320000,12,1,101,4,6,1,1,19,26 Mar 2026 09:42:11,B88BF92BC71987FC9305

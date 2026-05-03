@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Katoi,40402216,SD,Negeri,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,18,4,222,11,15,0,1,36,27 Apr 2026 17:38:00,8D35B2072FCC04B498AA
+SD Negeri 2 Katoi,40403715,SD,Negeri,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,10,2,121,7,7,0,1,13,18 Apr 2026 07:41:54,3937A19387411193FD34
+SD Negeri 3 Katoi,40402271,SD,Negeri,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,15,1,186,10,9,0,1,9,29 Mar 2026 10:46:45,C09594990F773BE837EC
+SD Negeri 4 Katoi,40402170,SD,Negeri,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,8,5,96,6,7,0,1,26,30 Apr 2026 09:07:10,7262A13DDE4BF54DE481
+SD Negeri 5 Katoi,40403720,SD,Negeri,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,11,2,152,9,7,0,1,21,29 Apr 2026 10:26:05,5733B444D5F66EF718ED
+SMP Negeri Satu Atap 14 Kolaka Utara,40404619,SMP,Negeri,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,10,1,64,3,3,1,1,38,20 Apr 2026 12:40:07,1CE68A7CF5F31DA895CC
+SMP Swasta Haji Agus Salim,40402183,SMP,Swasta,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,15,5,136,6,12,1,0,27,03 Apr 2026 15:10:44,80D907E6906E181BF7B9
+SMAS H AGUSSALIM KATOI,40404690,SMA,Swasta,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,13,2,63,3,6,1,1,30,08 Apr 2026 22:58:27,BFDCA25AC0F8C030E077
+SMKN 1 KOLAKA UTARA,40403525,SMK,Negeri,Kec. Katoi,200813,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,31,2,140,13,19,2,1,37,01 May 2026 09:20:19,BD86AC483A24D6049B70

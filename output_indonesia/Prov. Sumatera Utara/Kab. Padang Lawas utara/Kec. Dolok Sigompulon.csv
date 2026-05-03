@@ -1,0 +1,25 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 100490 GONTING BANGE,10207238,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,8,2,45,6,6,0,0,11,01 Mar 2026 16:38:03,1BDCE8BD6EA3874D9FB5
+SDN 100500 SABABANGUNAN,10207237,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,13,3,168,9,7,0,1,26,13 Mar 2026 11:30:46,6D1032146394E34D72BC
+SDN 100510 SAYUR MATINGGI,10207236,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,9,3,63,6,6,0,1,28,27 Apr 2026 11:34:28,8FF1448813BCAF7F3340
+SDN 100520 PINARIK,10257477,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,8,1,76,6,6,0,1,17,23 Apr 2026 08:25:13,1533B05128FE4E9085F6
+SDN 100530 SIMUNDOL,10207235,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,11,3,153,8,7,0,1,96,22 Apr 2026 10:55:36,0C43A56F843C46F29196
+SDN 100540 HUTAIMBARU,10207246,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,9,2,78,6,7,0,1,7,10 Feb 2026 13:41:44,214EA83A380336D822E1
+SDN 100550 HATIRAN,10207247,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,16,3,148,9,10,1,1,16,30 Apr 2026 10:48:26,9000A47C204C04AC1853
+SDN 100560 NAHULA,10207248,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,10,1,29,6,6,0,1,12,05 Mar 2026 22:24:12,08BDD28455DE26F95A47
+SDN 100570 SIMADIHON,10257478,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,11,0,45,6,6,0,1,15,04 Apr 2026 12:48:00,2357F7AC6B230922EEBA
+SDN 100580 SAYUR MATINGGI,10257479,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,8,2,115,6,8,0,2,14,03 Mar 2026 15:54:37,135F4D188A6CD394A856
+SDN 100590 AIR KANAN,10220921,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,13,3,28,10,9,0,1,28,01 May 2026 16:20:42,3F80DCC17C20C792EE67
+SDN 100600 SIPOGAS JANJI MANAHAN,10207259,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,8,2,48,6,6,0,1,18,28 Apr 2026 20:27:24,06B391A4F9139E403E65
+SDN 100610 AEK SIMANAT,10207258,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,15,3,207,12,12,0,1,53,24 Apr 2026 14:46:14,E45D6E1936A35D06D73C
+SDN 100620 PASAR SIMUNDOL,10207257,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,12,3,253,11,7,0,1,28,15 Apr 2026 23:04:15,3A4961322F822040CF61
+SDN 100630 UNTE MANIS,10207256,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,8,1,37,6,6,0,0,10,11 Mar 2026 11:03:14,94C3164689DA62259E5B
+SDN 100640 SIHALO - HALO,10207255,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,7,2,21,6,6,0,1,22,23 Apr 2026 11:40:29,6AF55A2FDE0891B875A0
+SDN 100650 SIMANINGGIR,10207353,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,10,1,35,6,6,0,1,11,08 Apr 2026 00:21:50,95D48E883E3B38B8EE97
+SDN 101960 GUNUNG SORMIN,10259917,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,7,3,67,6,6,0,1,30,04 Mar 2026 23:17:46,5E8A4CA03E6E41554FE4
+SDN 101980 NAHULA JULU,10261326,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,9,3,58,6,7,0,1,11,04 Mar 2026 13:56:36,1E3057B66A846531F00B
+SDN 103080 AEK JABUT,69978029,SD,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,9,2,42,6,3,0,0,28,12 Apr 2026 22:36:05,ED08CC6B26D29F8128B7
+SMPN 1 DOLOK SIGOMPULON,10207058,SMP,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,10,2,91,4,6,2,1,23,26 Apr 2026 22:42:00,6515BB62233B750B948F
+SMPN 2 DOLOK SIGOMPULON,10207146,SMP,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,10,0,81,4,8,1,1,10,21 Feb 2026 12:44:33,D8815FCA8C434B9BD0D7
+SMPN 3 DOLOK SIGOMPULON,10261477,SMP,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,10,1,54,3,3,1,1,44,24 Apr 2026 11:37:28,E454CD84BDF0AB3B31A4
+SMAN 1 DOLOK SIGOMPULON,10220615,SMA,Negeri,Kec. Dolok Sigompulon,072304,Kab. Padang Lawas utara,072300,Prov. Sumatera Utara,070000,23,6,135,5,10,4,1,32,28 Apr 2026 17:09:40,C501573B065300402D7E

@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri Damei Jaya,69758479,SD,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,1,118,6,4,0,1,11,13 Mar 2026 03:57:32,DF54531BDCBCFA8679E3
+SD NEGERI INPRES 01 WIRASKA,69876145,SD,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,1,94,6,7,0,0,28,02 May 2026 16:33:23,BFA25854906D146A0C0E
+SD Negeri Inpres 02 Wiraska,60301770,SD,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,13,2,215,10,12,0,1,13,30 Apr 2026 05:52:26,7E0BD3CBE9CDF2AD64BD
+SD Negeri Inpres Jaya Mukti,60300819,SD,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,10,1,162,7,7,0,0,27,19 Apr 2026 09:57:46,088084361CDA1EE4F684
+SD Negeri Inpres Wanggarsari,60302775,SD,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,12,1,191,9,6,0,1,12,11 Mar 2026 18:58:02,6D350354E7808D6A2710
+SD Negeri Inpres Yaromakmur,60301773,SD,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,11,0,82,6,8,1,0,25,04 Mar 2026 05:16:45,ABE4AB9CA592A52786DF
+SD Negeri Muko Tanah Merah,69758481,SD,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,10,1,206,10,9,0,1,30,21 Apr 2026 09:45:20,CA6A34C6E48807522718
+SD Negeri Pagauto,69847244,SD,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,1,80,6,3,0,0,11,05 Mar 2026 19:27:46,85B65F5EB766E6E3FA8F
+SD YPK Silo Wanggar,60301820,SD,Swasta,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,1,55,6,6,0,0,32,16 Apr 2026 06:06:25,EDE08E1C9BC2219D527A
+SD YPK Viadolorosa Ororodo,60301813,SD,Swasta,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,4,3,78,6,6,0,1,16,23 Apr 2026 18:30:17,CA5283DB259274E1576B
+SMP Negeri 1 Wanggar,60301875,SMP,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,26,1,314,12,14,3,1,31,28 Apr 2026 21:36:00,CBDFB7D4FB6B927C0177
+SMP Negeri 2 Yaro,69774770,SMP,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,12,1,115,6,5,0,1,33,08 Apr 2026 18:29:49,BCF49C6C33249318CB90
+SMP Negeri 3 Wanggar,60302996,SMP,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,11,1,105,5,5,3,1,16,24 Apr 2026 18:20:20,9D0CA965AA98F56B0C40
+SMPN 6 Satap Wanggar,69774773,SMP,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,10,1,69,3,3,0,0,23,02 May 2026 18:13:52,C0E07ABC5D5C0B16D1F2
+SMP RIYADHUL QURAN NABIRE,70058593,SMP,Swasta,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,0,0,0,0,0,0,0,0,,E26306C7EDD8FF60987A
+SMP YPK ORORODO,70051482,SMP,Swasta,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,1,0,0,0,0,0,0,0,,F9C7FA703616E045744A
+SMA RIYADHUL QURAN NABIRE,70058923,SMA,Swasta,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,0,0,0,0,0,0,0,0,,6D8A08BEFAE8EA2320A8
+SMA Setia Yaro,60301897,SMA,Swasta,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,1,113,6,6,2,1,18,30 Apr 2026 12:55:33,9948E67E703655BAB6B2
+SMK Negeri 5 Pariwisata Nabire,69933284,SMK,Negeri,Kec. Yaro,360110,Kab. Nabire,360100,Prov. Papua Tengah,360000,10,2,88,6,6,0,1,19,31 Mar 2026 06:11:42,45E33A1C78D5595AF090

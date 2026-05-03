@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI KALEMAGO,40204283,SD,Negeri,Kec. Lore Timur,180323,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,9,3,127,6,6,0,0,48,01 May 2026 15:08:23,BEF7B22ACC3F0E61A965
+SD NEGERI MAHOLO,40201138,SD,Negeri,Kec. Lore Timur,180323,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,8,2,156,6,8,0,1,16,14 Apr 2026 03:05:30,3FFB8D82ADCE9D4B2E7F
+SD NEGERI MEKARSARI,40201130,SD,Negeri,Kec. Lore Timur,180323,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,9,1,182,7,8,1,1,7,03 Mar 2026 23:00:57,58AD021F68141887C9ED
+SD NEGERI TAMADUE,40201142,SD,Negeri,Kec. Lore Timur,180323,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,7,2,97,6,8,0,0,17,25 Apr 2026 06:44:11,AF20C0D2BB34A415119E
+SEKOLAH DASAR NEGERI WINOWANGA,40201367,SD,Negeri,Kec. Lore Timur,180323,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,7,2,89,6,9,1,1,18,24 Apr 2026 07:22:18,FC7F61C8B7EA2A7A32C0
+SMP NEGERI 1 LORE TIMUR,40201192,SMP,Negeri,Kec. Lore Timur,180323,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,18,7,304,11,12,1,1,24,02 May 2026 08:46:39,307C0C7CE06845F40E61
+SMPN SATAP KALEMAGO,69768151,SMP,Negeri,Kec. Lore Timur,180323,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,8,2,64,3,3,1,0,58,29 Apr 2026 14:19:34,74ABDCAECD0824115A85
+SMKN 1 LORE TIMUR,40205708,SMK,Negeri,Kec. Lore Timur,180323,Kab. Poso,180300,Prov. Sulawesi Tengah,180000,18,4,144,8,16,1,1,43,30 Apr 2026 14:21:37,2649756A72051A0ADBB8

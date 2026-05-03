@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 ARGA MULYA,40400420,SD,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,3,48,6,6,0,0,46,10 Apr 2026 06:06:29,02F60F1AF319D2760069
+SD NEGERI 1 PANCA KARYA,40400380,SD,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,5,101,6,6,0,1,41,23 Apr 2026 11:32:33,B0688EE7C233395ADD5D
+SD NEGERI 2 ARGA MULYA,40400537,SD,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,8,3,47,6,6,0,1,11,27 Apr 2026 12:32:22,8D581399863C23BE7CA8
+SD NEGERI 2 PANCA KARYA,40403091,SD,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,3,83,6,6,1,1,25,30 Apr 2026 19:50:38,A9D5540593CD13829962
+SD NEGERI LAMELAY,40400112,SD,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,8,36,6,6,0,1,31,28 Apr 2026 23:16:55,69B6C66658581568C889
+SD NEGERI LAROWIU,40400152,SD,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,3,63,6,7,0,1,17,28 Apr 2026 10:20:39,9DB3D8D98AC8464E20DD
+SD NEGERI MELUHU,40400150,SD,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,5,85,6,6,0,1,47,17 Apr 2026 22:38:36,FB02B005A7669E64C455
+SMP NEGERI 1 MELUHU,40400257,SMP,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,16,7,77,5,6,1,1,50,29 Apr 2026 19:42:15,6518FF488EEFBDEA3B0B
+SMP NEGERI 2 MELUHU,69964331,SMP,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,14,6,52,3,3,3,1,44,20 Apr 2026 09:21:10,6939F9C937AD7578A15D
+SMAN 1 MELUHU,40403661,SMA,Negeri,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,18,5,69,3,11,2,1,29,28 Apr 2026 18:09:04,006EB5DFD65CDD4461CC
+SMKS AL MUJAHIDIN,40404099,SMK,Swasta,Kec. Meluhu,200133,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,8,2,86,9,6,1,1,7,07 Apr 2026 05:32:18,087030CFB4B904F178D8

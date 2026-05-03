@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI COBODOE,60201080,SD,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,9,2,105,6,6,2,1,21,13 Apr 2026 06:00:12,46142DABD781AC5A23E0
+SD NEGERI DOWORA,60201078,SD,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,9,1,73,6,9,0,1,8,02 May 2026 06:46:01,17347AC26F014655E0A4
+SD NEGERI DOYADO,60200975,SD,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,8,2,84,6,6,1,1,16,25 Apr 2026 03:27:30,B6BB98DD29ECE18159C7
+SD NEGERI ITOKICI,60200937,SD,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,8,2,53,6,6,0,1,13,07 Apr 2026 04:27:48,F7EB532D4FE4D9C6839E
+SD NEGERI KALAODI,60200934,SD,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,9,1,50,6,6,0,1,12,23 Apr 2026 07:22:47,65C43662BD8A0B54B985
+SD NEGERI MAFUTUTU,60200893,SD,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,11,2,152,8,11,0,1,12,24 Apr 2026 10:09:29,97F1B4C7FA51B6E57643
+SDIT INSANTAMA TIDORE,70060686,SD,Swasta,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,0,0,0,0,0,0,0,0,,20E3C4E03D1D4E7F9396
+SMP NEGERI 12 TIDORE KEPULAUAN,60200958,SMP,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,14,7,127,5,10,2,1,11,15 Apr 2026 02:56:06,EF5F1F7D7EAA025D593D
+SMA NEGERI 9 KOTA TIDORE KEPULAUAN,60200953,SMA,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,17,2,126,5,7,3,1,16,28 Apr 2026 18:13:09,8978EAA805EAD978B279
+SMK NEGERI 3 KOTA TIDORE KEPULAUAN,60200948,SMK,Negeri,Kec. Tidore Timur,276109,Kota Tidore Kepulauan,276100,Prov. Maluku Utara,270000,25,4,69,9,9,2,1,208,02 May 2026 11:02:57,DD0B29247C3C25A00A8C

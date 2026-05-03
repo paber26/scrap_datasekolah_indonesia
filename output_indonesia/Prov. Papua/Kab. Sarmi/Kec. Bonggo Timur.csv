@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ARMOPA IV,60302002,SD,Negeri,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,7,2,77,6,6,0,0,31,29 Apr 2026 11:58:40,3684B1ED1C47329954C5
+SD INPRES ARMOPA V,60302003,SD,Negeri,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,10,1,127,6,7,1,1,29,30 Apr 2026 08:48:17,A75A69D369F6ACA3AA15
+SD INPRES ARMOPA VI,60302004,SD,Negeri,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,7,1,103,6,6,0,0,12,16 Apr 2026 10:00:00,78C505602C1BF8070006
+SDN PERSIAPAN TARAWASI,60303770,SD,Negeri,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,6,1,36,6,7,0,0,8,04 Mar 2026 07:11:41,97257FB4C06BB3992E1C
+SD YPK KAPITIAU,60302040,SD,Swasta,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,2,2,48,6,6,0,0,11,07 Feb 2026 05:58:53,051BBA3B18537880F60E
+SD YPK ORA ET LABORA MAWESDAY,60302024,SD,Swasta,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,3,1,81,6,6,0,1,7,21 Apr 2026 20:05:06,1CBB34C202C06B108964
+SMP N 2 BONGGO,60302051,SMP,Negeri,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,9,3,87,4,6,1,1,62,29 Apr 2026 04:41:46,06C2B3C67E13A7A5BD22
+SMP NEGERI SATU ATAP ARMOPA VI,60304212,SMP,Negeri,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,9,1,175,6,9,3,0,27,29 Apr 2026 06:51:11,B5720D3680AA166B2652
+SMAN 2 SARMI,60302055,SMA,Negeri,Kec. Bonggo Timur,251910,Kab. Sarmi,251900,Prov. Papua,250000,27,3,362,12,10,2,1,33,20 Apr 2026 16:59:44,A05A8E4BB4868CFD7281

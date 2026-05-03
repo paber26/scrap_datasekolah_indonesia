@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 ONEMBUTE,40403081,SD,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,4,68,6,6,0,2,26,30 Apr 2026 10:22:09,1DEED3235FD9205A9C9E
+SD NEGERI 1 SUKAMAJU,40403083,SD,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,2,86,6,6,0,1,17,31 Mar 2026 06:22:09,42FAC4CD78CD48DE47FC
+SD NEGERI 1 TRIMULYA,40400515,SD,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,13,3,87,6,6,1,1,12,24 Feb 2026 09:16:06,E6EB60AA0EC9D7787377
+SD NEGERI 2 ONEMBUTE,40400460,SD,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,10,3,112,6,6,0,1,30,23 Apr 2026 20:23:58,81B54393E1CE641E0474
+SD NEGERI 2 SUKAMAJU,40403094,SD,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,9,4,68,6,6,0,1,18,07 Mar 2026 21:32:16,CDF1AF1E4B91868EBA58
+SD NEGERI 2 TRIMULYA,40403095,SD,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,13,3,95,6,6,0,1,12,01 May 2026 07:56:13,F2D76D950E99132A7C27
+SMP NEGERI 1 ONEMBUTE,40405002,SMP,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,20,7,91,4,10,2,1,54,22 Apr 2026 21:43:37,22FAD36D68CC9D0C8E9A
+SMP NEGERI 2 ONEMBUTE,69787684,SMP,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,12,3,111,6,10,2,1,49,20 Apr 2026 16:30:21,846F47B44E225C7A7308
+SMKN 3 KONAWE,40404101,SMK,Negeri,Kec. Onembute,200148,Kab. Konawe,200100,Prov. Sulawesi Tenggara,200000,16,2,48,5,8,2,1,21,08 Mar 2026 23:51:03,149AAE596C78336E6CF7

@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 26 KAUR,10702766,SD,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,15,1,122,6,7,0,1,22,28 Apr 2026 10:25:59,239B733F419054BA4E4F
+SDN 62 KAUR,10702769,SD,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,10,3,69,6,6,0,1,16,23 Apr 2026 09:55:46,77F3F8A863B38C32B260
+SDN 63 KAUR,10702771,SD,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,12,2,130,6,6,0,1,4,30 Jan 2026 20:35:40,D7F0182400591524A500
+SDN 64 KAUR,10701871,SD,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,13,3,114,6,7,0,1,17,14 Apr 2026 09:30:25,A4B1AD3C1B5B93B6DAB9
+SDN 74 KAUR,10702780,SD,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,10,3,127,6,6,0,1,33,05 Mar 2026 04:04:20,E00C617D208DA4D39629
+SDN 8 KAUR,10701749,SD,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,10,2,113,6,9,0,1,29,30 Mar 2026 14:28:25,087382EC0D8922EF039A
+SDIT CAHAYA DIATAS CAHAYA,70051997,SD,Swasta,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,4,2,0,0,0,0,0,0,,14C267480E928D75C54B
+SMPN 13 KAUR,10701801,SMP,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,23,2,113,6,8,3,1,51,23 Apr 2026 11:44:32,47A407634D55CBFBFEC0
+SMPN 34 SATU ATAP KAUR,69766206,SMP,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,15,1,20,3,4,1,0,23,05 Mar 2026 14:39:59,6A202497AD87BA909203
+SMPS QURANIYAH,69766209,SMP,Swasta,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,5,0,12,3,3,0,1,10,16 Apr 2026 19:17:00,19B1954D7C3909D75891
+SMK NEGERI 1 KAUR,10702822,SMK,Negeri,Kec. Semidang Gumay,260711,Kab. Kaur,260700,Prov. Bengkulu,260000,36,12,242,15,15,2,1,23,29 Apr 2026 07:47:30,ECF04D64484CC749229D

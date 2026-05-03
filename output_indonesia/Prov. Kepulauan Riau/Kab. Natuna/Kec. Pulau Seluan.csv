@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 KELARIK BARAT,11001189,SD,Negeri,Kec. Pulau Seluan,310327,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,4,76,6,8,0,1,22,30 Apr 2026 15:16:08,D7906C4587C02CE1637D
+SMP NEGERI 1 PULAU SELUAN,11002508,SMP,Negeri,Kec. Pulau Seluan,310327,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,8,4,43,3,5,2,1,23,23 Apr 2026 20:07:30,4750ED509D00E76E64A1
+SMA NEGERI 1 SELUAN,70048467,SMA,Negeri,Kec. Pulau Seluan,310327,Kab. Natuna,310300,Prov. Kepulauan Riau,310000,12,3,24,3,3,0,0,27,30 Apr 2026 10:05:07,62BFA77546C04F4920A9

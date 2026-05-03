@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ABAUGI,60301725,SD,Negeri,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,8,1,227,7,8,0,0,34,29 Apr 2026 22:22:12,CE94190D92EB4CF38F35
+SD INPRES ATOU,60304203,SD,Negeri,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,2,1,92,6,11,0,0,7,03 Feb 2026 22:11:45,10E9B7D065070A02F7A8
+SD INPRES DIYEUGI,60302750,SD,Negeri,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,7,1,379,12,10,0,0,61,30 Apr 2026 05:50:51,32C5D171096F50B11799
+SD NEGERI WANEUWO,70043783,SD,Negeri,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,0,1,0,0,0,0,0,0,,8A2C245E6BC946708090
+SD YPPGI ADAUWO,60301827,SD,Swasta,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,4,1,302,9,9,0,1,37,30 Apr 2026 18:53:35,0F503FEBF324B3D41123
+SD YPPK MODIO,60301850,SD,Swasta,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,7,1,371,12,13,0,1,48,30 Apr 2026 18:58:59,E1F44F8DED2358984F29
+SD YPPK PUTAAPA,60301855,SD,Swasta,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,5,1,138,7,8,0,0,64,30 Apr 2026 09:58:26,AED7D3D22880DF912323
+SD YPPK SANTA MARIA TIMEEPA,60301860,SD,Swasta,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,10,1,163,6,8,1,1,86,01 May 2026 06:11:15,D118604C616CE2B1F58A
+SMP NEGERI 1 MAPIA TENGAH,60303619,SMP,Negeri,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,12,1,272,7,8,0,1,77,30 Apr 2026 01:00:31,132380C15C49216C979A
+SMPN 2 MAPIA TENGAH,60304165,SMP,Negeri,Kec. Mapia Tengah,360609,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,4,1,211,7,17,1,1,46,22 Apr 2026 11:40:47,1473168C618E09654088

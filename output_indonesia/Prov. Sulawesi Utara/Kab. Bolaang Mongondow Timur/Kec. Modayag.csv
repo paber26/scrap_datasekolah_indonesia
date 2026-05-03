@@ -1,0 +1,25 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LANUT,40100163,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,10,1,138,6,6,0,1,30,29 Apr 2026 22:54:20,4A38BB7258B12E90E52D
+SD NEGERI 1 LIBERIA,40100440,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,16,6,124,7,6,1,1,16,13 Apr 2026 08:20:20,E0006FA3CB95947E1B42
+SD NEGERI 1 LIBERIA TIMUR,40100714,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,12,1,56,6,6,0,1,12,07 Mar 2026 16:05:07,C7799944F6D70BDDAD79
+SD NEGERI 1 MODAYAG,40100490,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,16,3,201,10,11,0,1,17,28 Apr 2026 22:32:05,5ABC250F35E33AC9E02F
+SD NEGERI 1 MODAYAG BARAT,40100587,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,11,8,142,7,7,0,1,17,03 Mar 2026 15:48:48,6B5001B00EC365294BE5
+SD NEGERI 1 PURWOREJO,40100625,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,10,3,94,7,6,0,1,29,12 Mar 2026 10:07:48,1C966F530197007213A4
+SD NEGERI 1 PURWOREJO TIMUR,40100479,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,11,3,123,7,9,0,1,48,12 Mar 2026 09:36:57,3FAA5996FDEF9C96C699
+SD NEGERI BADARO,40100239,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,13,0,39,6,6,0,1,15,14 Apr 2026 17:01:08,209247453DDAD29338DC
+SD NEGERI BUYANDI,40100136,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,9,2,47,6,6,1,1,14,06 Apr 2026 11:03:55,B089A6D14719B4CF932E
+SD NEGERI I MODAYAG TIMUR,40100208,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,16,3,126,6,6,0,1,33,28 Apr 2026 20:29:58,BFEA272C7E2ADB6D235E
+SD NEGERI TOBONGON,40100387,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,20,1,84,6,6,1,1,14,28 Apr 2026 17:13:54,A9B67569E6B1BBC8ADE9
+SDN I KOKAPOI,69728220,SD,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,10,1,37,6,6,0,1,30,12 Mar 2026 14:56:29,520709E72F555BB0FC29
+SD KATOLIK PAULUS,40100575,SD,Swasta,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,8,1,159,7,7,0,1,45,23 Apr 2026 09:31:23,E6512B6B9B242254430B
+SD NIZAMUDIN,70029395,SD,Swasta,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,8,1,21,3,1,0,0,18,13 Apr 2026 11:32:42,F18E44F101FE61683257
+SMP NEGERI 1 ATAP LANUT,40103434,SMP,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,11,1,46,3,5,2,1,27,28 Apr 2026 09:38:16,73A2699761822AA8E6E1
+SMP NEGERI 1 MODAYAG,40100303,SMP,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,29,2,259,10,8,2,1,38,06 Apr 2026 02:43:15,3DAD7384728EA5AC863A
+SMP SATAP Badaro,69728230,SMP,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,13,1,18,3,4,1,0,25,16 Mar 2026 08:59:08,9B2385C7EABAF9357312
+SMP SATAP Buyandi,69728226,SMP,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,14,1,17,3,3,4,2,40,21 Apr 2026 09:51:00,2EAB9E27786E1665F4DD
+SMPN SATAP TOBONGON,69728231,SMP,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,17,4,48,3,4,4,1,15,06 Apr 2026 05:02:53,93BD239450E063A72DCA
+SMP NIZAMUDIN,70029396,SMP,Swasta,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,12,2,79,4,6,1,0,86,27 Apr 2026 10:21:56,D6BDDF77F5F2209068FB
+SMAN 1 MODAYAG,40103446,SMA,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,28,9,386,12,16,5,1,59,29 Apr 2026 09:13:51,A3572A071DECCD57D095
+SMA Nizamudin,70040625,SMA,Swasta,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,9,2,15,3,3,0,0,65,28 Apr 2026 18:26:10,4C58E0F744888328AE19
+SMK NEGERI TOBONGON,69873973,SMK,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,17,2,52,11,9,0,0,25,14 Apr 2026 18:26:53,24AD2D36FB2064BC51B5
+SMKN MOOAT,69897206,SMK,Negeri,Kec. Modayag,171104,Kab. Bolaang Mongondow Timur,171100,Prov. Sulawesi Utara,170000,17,6,87,9,6,2,0,21,30 Apr 2026 08:53:09,DB0F4609A8B97BB84B55

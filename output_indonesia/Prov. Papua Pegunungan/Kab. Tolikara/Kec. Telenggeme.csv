@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES TELENGGEME,60302232,SD,Negeri,Kec. Telenggeme,380435,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,8,1,227,8,6,0,0,54,02 May 2026 17:54:32,08CD4B9755D47CE86106
+SD NEGERI KIMUNUK,60302242,SD,Negeri,Kec. Telenggeme,380435,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,6,1,143,7,3,0,0,59,29 Apr 2026 10:24:46,1679596C1F1FB1B7692A
+SMP NEGERI SATU ATAP KAGI,60303704,SMP,Negeri,Kec. Telenggeme,380435,Kab. Tolikara,380400,Prov. Papua Pegunungan,380000,5,1,154,6,3,0,1,22,16 Apr 2026 17:51:24,8E9942607927C8B85C4C

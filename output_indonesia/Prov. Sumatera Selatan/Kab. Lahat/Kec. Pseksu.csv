@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 PSEKSU,10601689,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,19,3,90,12,10,0,1,30,27 Apr 2026 10:15:43,570CACCFE84AC8214580
+SDN 2 PSEKSU,10601674,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,10,5,148,6,6,1,1,33,30 Apr 2026 20:33:23,35BD1C8EB0E81612929A
+SDN 3 PSEKSU,10601659,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,12,2,137,7,7,0,1,22,04 Mar 2026 08:39:58,57A6F7E1108D89D5AEB8
+SDN 4 PSEKSU,10601655,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,7,167,9,14,0,1,56,06 Apr 2026 22:39:15,0D9C312DBFCEFE18CED2
+SDN 5 PSEKSU,10601721,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,6,72,6,6,0,1,19,24 Apr 2026 10:17:51,ABD115B9913B179AC103
+SDN 6 PSEKSU,10601718,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,10,1,36,6,6,0,1,28,29 Apr 2026 08:19:32,3E30626560DE43E0B467
+SDN 7 PSEKSU,10601162,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,9,5,103,6,7,0,1,35,11 Apr 2026 14:15:35,36C92D18648169322525
+SDN 8 PSEKSU,10601138,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,12,7,138,7,6,0,1,27,04 Mar 2026 15:39:38,EA5BF9955E727031B15A
+SDN 9 PSEKSU,10601150,SD,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,8,7,31,6,3,0,1,14,04 Apr 2026 21:44:52,6C39057342DA6EC08D03
+SMPN 1 PSEKSU,10645036,SMP,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,3,124,5,7,1,1,31,14 Apr 2026 06:49:05,661BEFE1173C39A60C99
+SMPN 2 PSEKSU,10601398,SMP,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,11,6,118,5,8,1,1,6,21 Apr 2026 08:59:35,6A871AE796CA24BB1F13
+SMPN 3 PSEKSU,10601324,SMP,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,13,8,110,5,6,2,1,27,27 Apr 2026 09:45:15,0B8CDD72C3D92103CD4D
+SMAN 1 PSEKSU,60725233,SMA,Negeri,Kec. Pseksu,110526,Kab. Lahat,110500,Prov. Sumatera Selatan,110000,16,6,72,3,3,3,1,23,30 Apr 2026 07:45:18,AF0E834D5CB950FEF838

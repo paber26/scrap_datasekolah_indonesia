@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES LUALO,60301424,SD,Negeri,Kec. Poga,380710,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,8,1,295,10,6,0,1,6,27 Apr 2026 11:22:42,DFD900432CF67C0BED69
+SMP NEGERI 1 POGA,60304538,SMP,Negeri,Kec. Poga,380710,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,16,0,351,13,8,1,1,44,23 Apr 2026 14:52:48,5F107EF5817D0F2EE797
+SMA Negeri Poga,70040090,SMA,Negeri,Kec. Poga,380710,Kab. Lanny Jaya,380700,Prov. Papua Pegunungan,380000,6,1,190,5,7,0,0,152,02 May 2026 13:41:23,D1A605CF73E546A7E599

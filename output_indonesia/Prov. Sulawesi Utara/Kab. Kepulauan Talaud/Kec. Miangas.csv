@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI MIANGAS,40101716,SD,Negeri,Kec. Miangas,170419,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,9,1,69,6,6,0,1,15,06 Apr 2026 20:12:45,8BB9E6B902BFAB8F67DD
+SMP NEGERI 2 NANUSA,40103554,SMP,Negeri,Kec. Miangas,170419,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,7,2,32,3,3,1,1,4,05 Mar 2026 09:46:39,99C2C09CD6B2D00B1E59
+SMK NEGERI 2 TALAUD,40103558,SMK,Negeri,Kec. Miangas,170419,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,11,2,38,5,5,2,1,20,02 May 2026 08:14:30,AC1300EE78E644830DB9

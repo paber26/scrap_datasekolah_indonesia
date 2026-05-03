@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BAJAYAU TENGAH,30301877,SD,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,1,67,6,6,0,0,12,02 May 2026 14:13:55,10C3D4D3E960203668C9
+SD NEGERI 2 BAJAYAU TENGAH,30308178,SD,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,6,2,49,6,6,0,1,18,02 May 2026 14:34:14,B4D71F682B7ECE7D4D3A
+SD NEGERI BADAUN,30301881,SD,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,3,72,6,6,0,1,22,25 Apr 2026 11:36:25,38DD1D38363F628FD73C
+SD NEGERI BAJAYAU,30301875,SD,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,1,86,6,6,0,1,37,09 Apr 2026 08:38:05,A38914CA1A6AF8C1F852
+SD NEGERI BAJAYAU LAMA,30301876,SD,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,2,92,6,6,0,1,16,01 Apr 2026 00:17:04,025FBB9D5B4E1254F4C2
+SD NEGERI BARU,30301991,SD,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,3,101,6,6,0,1,21,01 Apr 2026 00:24:13,1D1333B213AC37D74A6E
+SD NEGERI SIANG GANTUNG,30301701,SD,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,3,118,6,6,0,1,8,14 Apr 2026 21:45:48,524C29721FE960822ABE
+SD NEGERI TANJUNG SELOR,30301841,SD,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,2,145,7,9,0,1,21,12 Apr 2026 19:14:37,B95502205F95DB7F51C0
+SD BAJAYAU LESTARI,69922112,SD,Swasta,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,0,208,9,6,0,1,33,29 Apr 2026 10:52:08,78F80FF45568EA7CB285
+SMP NEGERI 1 DAHA BARAT,30301792,SMP,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,11,4,142,6,7,3,1,43,28 Apr 2026 10:57:29,407806F4A8D2B7FEDCB7
+SMP BAJAYAU LESTARI,69971809,SMP,Swasta,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,6,1,67,3,3,0,1,16,26 Apr 2026 10:29:51,5C1FD1AE6FEBFC2DFFB0
+SMAN 1 DAHA BARAT,30314207,SMA,Negeri,Kec. Daha Barat,150511,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,15,8,145,6,7,6,1,31,16 Apr 2026 09:32:42,C691360E716125637F4B

@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BEA SUHANG,50307868,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,9,3,80,6,7,0,0,35,23 Apr 2026 22:42:42,74663C5C2CC092D7C876
+SD INPRES DANTAR,50307871,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,8,2,104,6,6,0,1,35,17 Apr 2026 13:11:35,4F272FFA38F3431DA477
+SD INPRES KENGGU,50303482,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,1,138,7,8,0,1,11,12 Apr 2026 21:14:19,30E2E451F3D902FB3472
+SD INPRES MOWOL,50303663,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,12,1,183,7,7,1,1,15,08 Apr 2026 06:50:26,3325616394FAD78A1C7A
+SD INPRES PONGWAKAR,50307887,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,11,1,192,8,9,1,1,37,26 Apr 2026 21:11:46,1C6D3DC90B2D9E64D5E3
+SD INPRES RUANG,50303676,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,1,151,7,13,1,1,1,07 Apr 2026 08:10:53,1FF198BA6299178842DA
+SD INPRES TUNGGA,50307904,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,0,98,6,6,1,1,30,29 Apr 2026 10:15:16,3EC45F8321D0EC41F39E
+SD INPRES WATU WOHE,50303633,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,12,1,146,7,7,0,1,11,25 Apr 2026 09:43:34,42867588905A50C48B97
+SD INPRES WEJANG RACI,50303635,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,2,126,6,7,0,1,20,13 Apr 2026 22:17:16,038D624B8BB2F2D637F4
+SDN Ranging,69888814,SD,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,2,68,6,5,0,1,25,30 Apr 2026 07:33:17,B1969D9EA71334EA343B
+SDK KOLE,50307910,SD,Swasta,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,16,2,226,11,10,0,1,11,17 Apr 2026 09:10:20,468BA8588F2484F2D801
+SDK LANGKE MAJOK,50303301,SD,Swasta,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,8,1,175,6,6,0,1,9,11 Apr 2026 20:25:12,C51B8C779529F0E1830F
+SDK LUKUP,50303313,SD,Swasta,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,0,108,6,8,0,2,16,23 Apr 2026 19:06:34,7EF8C314001F9A63303F
+SDK TODO I,50307917,SD,Swasta,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,8,2,72,6,9,0,1,12,23 Apr 2026 09:36:28,BA44C3A839E005D1FFBF
+SDK TODO II,50307918,SD,Swasta,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,10,1,148,7,9,0,1,12,03 Mar 2026 10:21:01,799C1878851B8D377F7B
+SD-SMPN SATAP MOWOL,69760878,SMP,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,13,3,159,6,7,1,1,42,22 Apr 2026 09:12:46,37BBB93E2858F6E3C3B6
+SMP NEGERI 1 SATARMESE UTARA,50303363,SMP,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,20,6,221,9,14,1,1,22,10 Apr 2026 06:44:10,1BA448861596E99388B7
+SMP Negeri 16 Satarmese,69988514,SMP,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,13,0,135,6,7,1,1,24,10 Apr 2026 11:26:54,79186E2C441A94C195FE
+SMP NEGERI 2 SATARMESE UTARA,50307936,SMP,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,21,3,245,9,9,1,2,74,12 Apr 2026 17:59:52,410957FD09290C159BDB
+SMP NEGERI 4 SATARMESE UTARA,70004259,SMP,Negeri,Kec. Satar Mese Utara,241124,Kab. Manggarai,241100,Prov. Nusa Tenggara Timur,240000,16,1,72,3,3,1,1,10,06 Mar 2026 09:54:54,71C39A92DDF67E62E24C

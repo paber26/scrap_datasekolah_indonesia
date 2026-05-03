@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPTD SD NEGERI 1 BONE,40400870,SD,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,11,2,137,7,6,0,1,26,15 Apr 2026 19:06:32,D351203EFDB3322A09A3
+UPTD SD NEGERI 2 BONE,40400545,SD,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,11,4,82,6,6,0,1,12,14 Mar 2026 21:38:56,27DFAF33D557189CECCC
+UPTD SD NEGERI 3 BONE,40400599,SD,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,15,4,81,6,6,0,0,38,28 Apr 2026 21:53:13,027E16D9B69D8F62D143
+UPTD SD NEGERI 4 BONE,40400646,SD,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,11,5,73,6,6,0,0,29,11 Apr 2026 08:03:19,E5B8A92D767A10C5A12E
+UPTD SD NEGERI 5 BONE,40400647,SD,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,10,3,70,6,6,0,1,9,02 Mar 2026 05:01:44,1FACFF50203FE4126CE5
+UPTD SD NEGERI 6 BONE,40404092,SD,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,8,2,56,6,3,0,0,9,15 Apr 2026 10:02:17,B98D47C58B1FAB155741
+UPTD SD NEGERI 7 BONE,40400957,SD,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,7,4,107,6,8,0,1,50,04 Apr 2026 02:49:51,E4F677577B627FF634EB
+UPTD SMP NEGERI 1 BONE,69850903,SMP,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,20,4,79,3,6,1,1,26,28 Apr 2026 18:45:37,383C9C50F29F5B92B360
+UPTD SMP NEGERI SATU ATAP 1 BONE,69786273,SMP,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,12,5,58,3,5,2,1,23,04 Mar 2026 20:25:33,E9ACD187490008459895
+SMA NEGERI 1 BONE,40404214,SMA,Negeri,Kec. Bone,200233,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,32,9,328,12,19,5,1,23,29 Apr 2026 19:09:15,C9715975286F6B37FA19

@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES NUNAIN,50300852,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,133,6,7,0,2,10,30 Apr 2026 07:53:27,8989F5BFB3848A741F58
+SD INPRES SALBAIT,50300511,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,3,120,6,6,0,1,27,30 Apr 2026 13:14:30,1EFDEE61EBC012A0C7CE
+SD NEGERI BAKIBAIT,50307032,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,15,2,78,9,9,0,1,14,16 Apr 2026 07:41:21,188CC6431681D8C55AAC
+SD NEGERI FAFIOBAN,50307043,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,2,108,6,6,0,1,40,18 Apr 2026 09:01:18,36F6074ACBAB00794089
+SD NEGERI FATUKOKO,50307047,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,3,74,6,6,0,1,27,02 May 2026 02:30:58,FD8CC38D0DED623A4C91
+SD NEGERI FONIBAIT,50307056,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,3,80,6,8,0,1,26,29 Apr 2026 21:39:25,46DC87A3D88FAC6CA5E6
+SD NEGERI HAUSUSU,69987626,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,4,53,6,6,0,0,17,29 Apr 2026 20:44:30,E458201C38820D06CF74
+SD NEGERI KOA,50307067,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,4,146,6,6,1,1,168,02 May 2026 19:44:57,E40C21B18B6919C443E5
+SD NEGERI NEFOTUFE,50307082,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,74,6,6,0,1,18,02 May 2026 19:32:36,192FA62305092954B917
+SD NEGERI USAPITOKO,69987581,SD,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,2,65,6,6,0,0,10,02 Apr 2026 20:08:05,B044C20251E50B5B2C8B
+SD GMIT BESANA,50306818,SD,Swasta,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,3,1,80,6,6,0,1,37,06 Mar 2026 06:44:04,3662864CE97F5D2CC452
+SMP NEGERI NUNAIN,50309175,SMP,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,2,86,3,3,1,1,18,23 Apr 2026 10:53:56,D2CBEA114BE975A13CB8
+SMP NEGERI OEUBAN,69987826,SMP,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,2,84,4,3,1,0,19,20 Apr 2026 06:19:44,E122C35EB3D22392447F
+SMP NEGERI SATU ATAP KOA,69728362,SMP,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,4,105,5,3,1,1,39,25 Apr 2026 17:02:59,AF7833141D3F33499807
+SMP SATU ATAP SALBAIT,50307260,SMP,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,87,3,6,0,1,16,14 Apr 2026 07:03:49,3A78C2CA3C23B959FD0C
+SMA NEGERI SALBAIT,70012744,SMA,Negeri,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,16,4,73,3,6,0,1,11,05 Apr 2026 21:51:35,9C42A06BDCA4B1F1A7E9
+SMK Kristen Nunain,69972272,SMK,Swasta,Kec. Mollo Barat,240323,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,4,1,43,3,3,1,1,11,20 Apr 2026 20:00:09,631BF0A3EF6C9E0A2AE2

@@ -1,0 +1,16 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPTD SPF SD Negeri 1  Biskang,10104026,SD,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,8,4,175,8,9,1,2,19,29 Apr 2026 08:40:26,A0F2E6729F77E318A5AD
+UPTD SPF SD Negeri 1 Lae Balno,10104145,SD,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,5,3,135,6,7,0,0,24,06 Apr 2026 08:39:11,94DBB2C6DB810CA73DF1
+UPTD SPF SD Negeri 2 Biskang,69864639,SD,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,6,4,76,6,7,0,1,18,13 Apr 2026 22:15:52,02C81F895E2E7BEC4739
+UPTD SPF SD Negeri 2 Lae Balno,10108179,SD,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,6,3,24,6,5,0,1,11,28 Apr 2026 14:28:19,F1D1EEC9C0A05C77C281
+UPTD SPF SD Negeri Napa Galuh,10104151,SD,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,7,3,215,8,8,0,1,16,13 Apr 2026 15:24:16,B017BB236F68D708FAA8
+UPTD SPF SD Negeri Sikoran,69864638,SD,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,5,3,26,6,4,0,0,24,02 Apr 2026 13:26:06,3B1133F1B043A2CE4C21
+UPTD SPF SD Negeri Sintuban Makmur,10104152,SD,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,7,2,60,6,6,1,1,6,28 Jan 2026 12:34:22,5BEB896F30975A2D63D3
+UPTD SPF SD Negeri Situbuh tubuh,10104001,SD,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,6,5,106,6,6,1,1,19,30 Apr 2026 16:16:20,1D5EC7FCFE7421D6D3EF
+SDS DELIMA SINTUBAN MAKMUR,10107700,SD,Swasta,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,17,3,580,23,20,0,1,57,02 May 2026 08:21:21,45063ABD465D2EFA0F5C
+UPTD SPF SMP Negeri 1 Danau Paris,10104066,SMP,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,12,7,277,10,10,1,1,14,24 Apr 2026 09:56:14,B4A4DB3A991F26B5309C
+UPTD SPF SMP Negeri 2 Danau Paris,10111445,SMP,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,14,7,184,7,5,2,1,35,29 Apr 2026 12:30:09,E827983455F3324F3B7A
+SMP SWASTA AL ANSHAR LAE BALNO,10108195,SMP,Swasta,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,6,3,56,3,4,1,1,11,29 Apr 2026 09:58:39,75046EA8D656CE86DA81
+SMPS Safinatussalamah,10113075,SMP,Swasta,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,10,3,98,4,10,0,1,28,24 Apr 2026 23:09:57,C93117EFE2C3AD62E62D
+SMA NEGERI 1 DANAU PARIS,10104046,SMA,Negeri,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,18,4,250,9,11,5,1,31,28 Apr 2026 09:16:43,AF3D5BE5C01ACA5476D6
+SMAS SAFINATUSSALAMAH,69762597,SMA,Swasta,Kec. Danau Paris,061307,Kab. Aceh Singkil,061300,Prov. Aceh,060000,7,3,117,5,9,2,1,16,18 Apr 2026 15:25:32,2F3D1418AB7B358D4126

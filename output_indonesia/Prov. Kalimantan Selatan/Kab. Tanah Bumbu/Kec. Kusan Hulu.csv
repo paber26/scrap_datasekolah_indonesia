@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI ANJIR BARU,30303677,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,7,3,68,6,6,0,1,16,15 Apr 2026 13:54:21,86E12BC719A3397F71AF
+SD NEGERI BAKARANGAN,30303676,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,7,2,48,6,7,0,1,12,01 May 2026 20:24:25,439BDAC7C4BFDC19E847
+SD NEGERI BINAWARA,30303764,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,10,6,239,12,13,0,1,11,15 Apr 2026 19:54:09,4B57B1CEC11D139D61A3
+SD NEGERI KARANG MULYA,30303763,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,7,1,122,6,6,1,1,13,30 Apr 2026 07:34:45,C280F9A7E52E65A855CB
+SD NEGERI KARANG SARI,30303762,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,8,2,81,6,6,0,1,9,02 Apr 2026 08:06:52,6234CA1BAD9AB823A77D
+SD NEGERI LASUNG,30303736,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,7,1,64,6,7,1,1,13,01 May 2026 21:30:30,07B6DE938D6D8059213A
+SD NEGERI MANUNTUNG,30303760,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,7,3,79,6,8,1,1,7,17 Apr 2026 05:31:23,676F6460CC8271DCE8CC
+SD NEGERI PACAKAN,30303750,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,8,3,105,6,10,0,1,15,17 Apr 2026 18:47:59,2AAD02C3FC2BC15E3343
+SD NEGERI RINGKIT,30303580,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,10,0,154,6,6,1,1,10,03 Apr 2026 19:02:19,AC09ED845BC9796AE21B
+SD NEGERI TUNAS MULYA,30303642,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,8,2,89,6,6,0,1,10,11 Apr 2026 19:39:27,9BE0E6160FD71597CDCE
+SD NEGERI WONOREJO,30303667,SD,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,10,4,216,8,11,0,0,9,14 Feb 2026 13:33:59,E7EC37142E7D2BDFE81F
+SMP NEGERI 1 KUSAN HULU,30303611,SMP,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,12,7,155,6,7,1,1,13,29 Apr 2026 09:48:25,AB7B7D019CE4AD3D695F
+SMP NEGERI 3 KUSAN HULU,30303628,SMP,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,12,4,140,6,8,1,1,1,13 Apr 2026 12:39:26,4B238786E1FAC1D9F23C
+SMPN 4 SATU ATAP KUSAN HULU,30311654,SMP,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,9,4,70,3,6,1,2,5,07 Apr 2026 19:50:40,4BBA59CA2D0C445C422A
+SMAN 1 KUSAN HULU,30303655,SMA,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,22,12,347,11,10,4,3,28,30 Apr 2026 11:46:24,9249014D52351AAA630C
+SMK Negeri 1 Kusan Hulu,69914279,SMK,Negeri,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,26,17,231,11,10,1,1,19,30 Apr 2026 13:16:56,EB04325ACEE7CD318609
+SMKS Teluk Kepayang,69772939,SMK,Swasta,Kec. Kusan Hulu,151104,Kab. Tanah Bumbu,151100,Prov. Kalimantan Selatan,150000,7,5,103,5,7,1,0,25,14 Apr 2026 13:20:49,A3738EE7206CBA4F32C5

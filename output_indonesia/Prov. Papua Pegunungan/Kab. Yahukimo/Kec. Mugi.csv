@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES HITUGI,60303303,SD,Negeri,Kec. Mugi,380315,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,9,1,230,8,6,0,0,25,25 Feb 2026 13:14:59,3DA2371112E88E1C86B8
+SD INPRES SEIMA,60303308,SD,Negeri,Kec. Mugi,380315,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,13,4,464,13,13,0,0,9,28 Apr 2026 08:48:25,8553402B3A1B2AC1AEED
+SD INPRES WUSEREM,69725945,SD,Negeri,Kec. Mugi,380315,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,8,6,383,10,11,0,0,12,16 Apr 2026 16:31:59,40EEE279698C1BAA0105
+SDN MUGI,60303288,SD,Negeri,Kec. Mugi,380315,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,172,7,6,0,0,10,24 Apr 2026 21:00:15,38E3AB957AD337787FE7
+SD YPK SYOKOIMO,60303321,SD,Swasta,Kec. Mugi,380315,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,409,11,6,0,0,9,29 Apr 2026 20:56:10,C89E889B51E2823CBEFA
+SMPN MUGI HITUGI,60303544,SMP,Negeri,Kec. Mugi,380315,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,7,2,411,11,12,0,0,39,27 Apr 2026 20:47:03,B23AA3216B52F1B310B7

@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 MOPUGAD,40100146,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,2,190,8,10,0,1,10,04 Mar 2026 08:32:28,183E3EB0D27D89CBC7E0
+SD NEGERI 1 MOPUYA UTARA,40100498,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,1,46,6,6,0,0,12,02 Apr 2026 14:35:31,6E013627D41F5D6825DC
+SD NEGERI 1 RESET MOPUYA,40100147,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,1,85,6,11,0,0,27,11 Apr 2026 05:46:52,D1346A311D410017BE85
+SD NEGERI 2 KONAROM,40100737,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,8,3,68,6,6,0,1,13,05 Mar 2026 18:51:54,0FFC16E26C2780F4C450
+SD NEGERI 2 MOPUGAD,40103420,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,21,1,181,11,10,1,1,25,30 Apr 2026 19:39:38,402C3ED0E64DDA12B351
+SD NEGERI 2 MOPUYA,40100620,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,19,1,148,8,7,0,1,30,26 Apr 2026 19:29:21,0B885387E338176CA9B2
+SD NEGERI 2 RESETTLEMENT MOPUYA,40100647,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,13,2,64,6,6,0,1,11,15 Apr 2026 19:57:03,2A6FFB3E761E0C2B7712
+SD NEGERI 3 MOPUGAD,40100130,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,13,1,44,6,6,0,1,9,16 Apr 2026 09:27:01,44DDEFC95C53E8B26DE3
+SD NEGERI 3 MOPUYA,40100256,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,10,3,76,6,6,0,2,17,29 Apr 2026 04:49:01,E3293C470844FE5B4D8B
+SD NEGERI 4 MOPUYA,40100257,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,14,2,35,6,6,0,1,15,21 Apr 2026 19:39:29,BC875481B495221C310B
+SD NEGERI 5 MOPUYA,40100232,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,13,1,133,7,7,1,1,13,04 Mar 2026 07:41:43,ACA94A49E2D7AB6F8D84
+SD NEGERI TUMOKANG BARU,40100415,SD,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,11,1,110,6,8,0,1,67,02 May 2026 11:46:56,1DF08B781A93F2C29309
+SD KATOLIK SANTA MARIA MOPUYA,40100576,SD,Swasta,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,8,1,50,6,6,0,1,10,08 Apr 2026 20:50:07,4A6B1D9121DEF1CA01EB
+SMP NEGERI 13 DUMOGA,69901083,SMP,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,16,1,97,5,6,1,1,46,22 Apr 2026 07:56:51,58EA55EF2C5FF42FFA3C
+SMP NEGERI 2 DUMOGA,40100298,SMP,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,28,3,295,11,15,3,1,21,23 Apr 2026 06:50:42,F0B317E47EB6C1FDAA31
+SMP PGRI DUMOGA UTARA,69948648,SMP,Swasta,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,8,2,43,3,3,0,0,16,03 Apr 2026 07:29:17,40FF3666EFFD0718CE11
+SMP SWADHARMA MOPUGAD,40100399,SMP,Swasta,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,12,2,136,6,7,1,1,12,03 Mar 2026 09:14:10,A752CB90D8B1C6B09148
+SMAS SWADHARMA MOPUGAD,40103462,SMA,Swasta,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,18,2,254,9,8,1,1,24,30 Apr 2026 10:16:46,4E2BFC50F5462A9A26BC
+SMKN 1 MOPUYA,40100326,SMK,Negeri,Kec. Dumoga Utara,170117,Kab. Bolaang Mongondow,170100,Prov. Sulawesi Utara,170000,50,6,601,27,29,6,1,80,27 Apr 2026 09:19:38,AC8BD9CCDFF8902DBF83

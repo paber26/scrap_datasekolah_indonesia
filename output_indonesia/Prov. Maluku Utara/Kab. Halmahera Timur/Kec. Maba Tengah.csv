@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BEBSILI,60201166,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,7,1,29,6,6,0,1,51,23 Apr 2026 13:30:50,EFABEB5A603383043EB2
+SD INPRES DOROLAMO 2,60201171,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,1,26,6,6,0,1,48,16 Mar 2026 05:11:58,FD9B25A09406436B4E5C
+SD INPRES DOROLAMO I,60201170,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,3,105,6,9,0,1,62,09 Apr 2026 07:11:56,1D28596A0A2DFECD7CF5
+SD INPRES GAIFOLI,60201173,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,7,2,57,6,6,0,1,34,26 Apr 2026 16:36:57,D35661F6EF9AC9EC357F
+SD INPRES MARASIPNO,60201181,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,2,47,6,6,0,1,81,13 Apr 2026 07:11:43,9A0EAF29C1C761439A58
+SD INPRES MIAF,60201311,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,5,1,50,6,6,0,1,12,02 Feb 2026 21:22:58,6B09F068E29E79B8E0AE
+SD INPRES TELUK BULI 1,60200692,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,11,3,153,6,7,0,1,51,16 Apr 2026 16:48:32,378E2E50CC61418568C1
+SD INPRES TELUK BULI 2,60201192,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,3,40,6,6,0,1,26,03 Mar 2026 11:11:49,FDC3E0FD7A15BD10ED48
+SD Negeri Watan,60728494,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,3,2,30,6,6,0,0,25,27 Mar 2026 15:23:35,1A05166B575327C2F383
+SD NEGERI WAYAMLI,60201328,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,8,3,202,7,7,0,1,33,30 Mar 2026 07:22:09,D3D0ADF8C6D38A34D0E9
+SDN  TATANGAPU,69787082,SD,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,6,4,44,6,6,0,1,95,30 Apr 2026 07:51:19,6A49345435F77EDAFBBC
+SMP N 7 MABA,60728483,SMP,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,11,2,106,5,6,1,1,31,10 Apr 2026 05:33:04,D1AADF242E763F312108
+SMPN 8 MABA,60201356,SMP,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,11,3,72,3,6,0,0,48,23 Apr 2026 08:39:05,3E63865B315FEDEC2108
+SMPN 9 MABA,60201355,SMP,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,10,1,80,3,3,1,1,60,07 Mar 2026 11:21:06,B31929EECD8F16E4E4F2
+SMAN 7 HALMAHERA TIMUR,60205564,SMA,Negeri,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,16,2,113,5,7,4,1,71,27 Apr 2026 07:18:54,591D05C7A7D37BA5A2F2
+SMAS WIDYALOKA,70043694,SMA,Swasta,Kec. Maba Tengah,270608,Kab. Halmahera Timur,270600,Prov. Maluku Utara,270000,0,3,25,3,3,0,0,5,03 Feb 2026 08:17:54,EB77E4F8AF458339B013

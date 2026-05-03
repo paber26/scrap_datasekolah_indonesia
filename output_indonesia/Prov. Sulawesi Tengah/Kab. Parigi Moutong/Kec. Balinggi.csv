@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 1 BALINGGI,40203039,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,7,3,116,6,8,0,1,8,03 Apr 2026 19:34:39,608984AA58FB8D0FB117
+SD INPRES 1 SULI,40203087,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,8,2,67,6,7,1,1,9,11 Apr 2026 21:02:20,E96F9B2FF54F4C0999C3
+SD INPRES 2 BALINGGI,40203075,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,7,2,108,6,7,1,1,15,13 Apr 2026 12:26:15,B0B7EA41DF2BE2406D5D
+SD INPRES 2 SULI,40203249,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,9,2,67,6,6,1,1,12,06 Apr 2026 18:23:09,98CD0FAD4E5FB1011DA1
+SD INPRES 3 BALINGGI,40203235,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,7,2,45,5,7,0,0,9,26 Apr 2026 20:25:06,5551D21BB95AE74C4414
+SD INPRES 3 SULI,40203165,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,7,2,99,6,7,0,1,9,02 Mar 2026 09:46:23,C90AC3CCAE2E69ECA3A5
+SD INPRES 4 BALINGGI,40203171,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,9,3,73,6,6,0,1,8,05 Apr 2026 16:07:46,2E4CB572EF7BC5439724
+SD INPRES 5 BALINGGI,40203150,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,8,1,84,6,9,0,1,13,03 Apr 2026 03:46:14,3C7EFF53C91FCAFEFAD1
+SD INPRES MALAKOSA,40203201,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,10,2,203,8,10,0,1,14,03 Feb 2026 07:27:06,4E3EFB82431F837FFFEE
+SD KECIL TAMASOVO,40202998,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,6,2,33,6,6,0,0,7,05 Mar 2026 02:42:46,3941414FCE3E1AB4D13D
+SD NEGERI 2 TOLAI,40202830,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,8,1,78,6,7,1,1,11,10 Apr 2026 02:00:54,252827BA6F14CBB5D8C4
+SD NEGERI 3 TOLAI,40202823,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,7,1,56,6,9,0,1,13,06 Apr 2026 08:14:27,8EB5DA0E33D21385F003
+SD NEGERI 4 TOLAI,40202828,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,6,1,83,6,8,1,1,9,06 Apr 2026 09:23:49,9B1F1C5D14F449C24115
+SD NEGERI MALAKOSA,40203007,SD,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,14,1,194,10,12,0,1,29,23 Apr 2026 07:31:04,45A03BB0B554FF673AA4
+SMP NEGERI 1 BALINGGI,40202954,SMP,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,18,3,312,11,22,3,1,36,14 Apr 2026 08:46:43,D480E03B24012B020D30
+SMP NEGERI 2 BALINGGI,40202958,SMP,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,20,2,186,8,12,1,1,23,06 Apr 2026 14:44:42,7AA273177FC85FD1BFC9
+SMP NEGERI 3 BALINGGI,69774718,SMP,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,12,3,234,8,9,2,1,14,15 Apr 2026 12:49:17,6EDBEBD928359E882AF1
+SMAN 1 BALINGGI,69727664,SMA,Negeri,Kec. Balinggi,180821,Kab. Parigi Moutong,180800,Prov. Sulawesi Tengah,180000,32,8,478,15,15,3,1,31,29 Apr 2026 11:28:57,CBD7D3AF015E18E28983

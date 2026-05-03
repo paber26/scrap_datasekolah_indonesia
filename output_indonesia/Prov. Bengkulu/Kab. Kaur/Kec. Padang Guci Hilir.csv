@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 104 KAUR,10702804,SD,Negeri,Kec. Padang Guci Hilir,260713,Kab. Kaur,260700,Prov. Bengkulu,260000,11,3,84,6,8,0,1,29,05 Mar 2026 21:13:15,78B9B02518414420DBB7
+SDN 2 KAUR,10702759,SD,Negeri,Kec. Padang Guci Hilir,260713,Kab. Kaur,260700,Prov. Bengkulu,260000,11,2,35,6,7,0,1,20,27 Apr 2026 18:46:54,63CB5E97F2B3E314B149
+SDN 29 KAUR,10702765,SD,Negeri,Kec. Padang Guci Hilir,260713,Kab. Kaur,260700,Prov. Bengkulu,260000,11,5,85,6,9,0,1,20,01 May 2026 20:19:37,73E8A49EBD59821DEEC0
+SDN 84 KAUR,10702768,SD,Negeri,Kec. Padang Guci Hilir,260713,Kab. Kaur,260700,Prov. Bengkulu,260000,12,4,126,7,6,0,1,50,01 May 2026 18:57:33,E94AB183904DB5726E10
+SDN 94 KAUR,10702803,SD,Negeri,Kec. Padang Guci Hilir,260713,Kab. Kaur,260700,Prov. Bengkulu,260000,14,2,47,6,6,0,1,50,24 Apr 2026 09:27:01,E69D58044FBB89B295B2
+SMPN 11 KAUR,10701800,SMP,Negeri,Kec. Padang Guci Hilir,260713,Kab. Kaur,260700,Prov. Bengkulu,260000,23,7,138,6,10,2,1,13,28 Feb 2026 10:22:09,E47786D3D0D7F61B2AEF
+SMK NEGERI 2 KAUR,10702821,SMK,Negeri,Kec. Padang Guci Hilir,260713,Kab. Kaur,260700,Prov. Bengkulu,260000,10,6,27,5,6,0,1,15,12 Apr 2026 17:12:58,C7306AB5F03288268529

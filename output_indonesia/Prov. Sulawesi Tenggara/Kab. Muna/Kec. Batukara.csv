@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPTD SD NEGERI 1 BATUKARA,40400898,SD,Negeri,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,11,4,107,6,6,0,1,13,22 Apr 2026 21:01:59,FE4BED0709C15E9A8D09
+UPTD SD NEGERI 2 BATUKARA,40400610,SD,Negeri,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,10,1,71,6,6,1,1,7,04 Mar 2026 08:01:40,1D81CB72EADB8DE66415
+UPTD SD NEGERI 3 BATUKARA,40400563,SD,Negeri,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,10,2,50,6,6,0,1,9,16 Apr 2026 10:22:17,C9F1E7C53B46566F314C
+UPTD SD NEGERI 4 BATUKARA,40400597,SD,Negeri,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,8,1,101,6,6,1,1,28,28 Apr 2026 09:18:20,811D0D6DDE3E60899141
+UPTD SD NEGERI 5 BATUKARA,40400732,SD,Negeri,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,10,4,80,6,6,0,1,15,01 Mar 2026 09:50:01,4BF6A28EC3FE9DFBAE80
+UPTD SMP NEGERI 1 BATUKARA,40404075,SMP,Negeri,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,16,2,88,4,6,2,1,29,24 Apr 2026 14:51:02,8BF16C232D5652EFBD8A
+SMP SWASTA SINAR NUNU,69982078,SMP,Swasta,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,8,1,35,3,4,1,0,12,27 Apr 2026 10:03:15,AFA9AE21459BF7A21FC3
+SMAS DARUL FIKRI LABUNGKA,60730206,SMA,Swasta,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,9,3,26,3,5,1,1,10,24 Apr 2026 11:24:12,170B3251092563BABE18
+SMKS CEMERLANG BATUKARA,69986208,SMK,Swasta,Kec. Batukara,200238,Kab. Muna,200200,Prov. Sulawesi Tenggara,200000,7,4,114,6,3,1,1,18,02 May 2026 07:49:59,EFEA385F6DF14E056CDF

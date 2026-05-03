@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SAMUYA,60202486,SD,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,11,1,126,6,7,0,0,25,17 Apr 2026 18:28:57,1619B7D9C160C8656AEE
+SD NEGERI FAGO,69786340,SD,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,7,1,10,4,6,0,0,13,14 Mar 2026 15:15:20,A5D6DF2943A5EEBA4524
+SD NEGERI MEANG,69786339,SD,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,7,0,26,6,6,0,0,42,05 Mar 2026 18:10:25,37FF213A399AB2493670
+SD NEGERI PARIGI,60200563,SD,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,10,2,96,6,6,1,1,36,02 May 2026 17:13:22,2187F6E7FD7816E1D042
+SD NEGERI PENU,60200480,SD,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,10,4,118,6,6,1,1,53,10 Apr 2026 06:44:36,191566034342FFC10837
+SD NEGERI TUBANG,60200615,SD,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,6,2,38,6,8,0,0,50,24 Apr 2026 22:11:08,4DDEAC7DF52C89549B19
+SMP NEGERI 1 TALIABU TIMUR,60202087,SMP,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,12,1,51,3,3,1,1,32,04 Apr 2026 18:08:38,C06A9C68ED84F1C84EC2
+SMP NEGERI 2 SATU ATAP TALIABU TIMUR,60202090,SMP,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,16,2,67,3,3,1,1,16,16 Apr 2026 04:42:03,61D798D175B9B82BBCDB
+SMP NEGERI 3 SATU ATAP TALIABU TIMUR,60202565,SMP,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,12,0,14,3,3,1,1,14,06 Mar 2026 22:21:40,F4851443DA1BD31A257A
+SMP NEGERI 4 SATU ATAP TALIABU TIMUR,69786343,SMP,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,12,2,57,3,3,2,1,21,05 Mar 2026 12:02:26,5FB0C1CBC734B9D0BA3C
+SMA NEGERI 11 PULAU TALIABU,69965064,SMA,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,15,2,48,3,3,2,1,17,29 Apr 2026 20:12:50,F6287476035E12CE4C1F
+SMK NEGERI 4 PULAU TALIABU,60203626,SMK,Negeri,Kec. Taliabu Timur,270105,Kab. Pulau Taliabu,270100,Prov. Maluku Utara,270000,12,0,49,3,6,4,1,41,26 Apr 2026 19:07:04,93695125A426C2C6A5DC

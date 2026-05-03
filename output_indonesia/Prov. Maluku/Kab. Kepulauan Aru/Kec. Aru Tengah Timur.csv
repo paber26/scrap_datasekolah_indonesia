@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KOIJABI,60101766,SD,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,7,1,81,6,6,1,1,17,20 Feb 2026 23:36:40,1122E1AE8DA4BC700218
+SD NEGERI BASADA,70032349,SD,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,8,1,48,6,3,0,0,11,01 Apr 2026 23:15:41,08A45DC63AF6E1C1DC00
+SD NEGERI KAIWABAR,60101764,SD,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,8,1,59,6,6,0,1,29,05 Mar 2026 11:08:07,F6B827607C79E5237363
+SD NEGERI KOBROR,60101748,SD,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,6,1,70,6,6,0,1,28,07 Mar 2026 14:28:08,F42D0CAE623D5F562DD0
+SD NEGERI MARIRI,60101744,SD,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,4,1,83,6,6,0,0,11,12 Feb 2026 23:15:17,D2414C76C530A3F56539
+SD NEGERI PONOM,60101757,SD,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,8,1,54,6,6,0,1,20,28 Feb 2026 08:29:51,760A4FBED900DF485437
+SD NEGERI WAILAY,70006287,SD,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,5,1,66,6,1,0,0,13,27 Mar 2026 03:21:51,E3E93010F262BD7E6852
+SD ALHILAL LOLA,60101855,SD,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,1,1,28,6,6,0,1,17,03 Mar 2026 14:52:55,BBB7D7713631D60B9CEB
+SD KRISTEN BALATAN,60101864,SD,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,1,1,25,6,5,0,1,16,09 Feb 2026 17:40:32,BE00AA3EE5688C8E973C
+SD KRISTEN DOSINAMALAU,60101869,SD,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,4,1,116,6,8,0,0,13,27 Feb 2026 17:42:44,6AE82DC7C7CE3750628D
+SD KRISTEN KARAWAY,60101843,SD,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,2,1,50,6,6,0,0,28,25 Apr 2026 08:57:20,E9649AC7BD1EF0E5EDDF
+SD KRISTEN KOIJABI,60102528,SD,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,6,1,55,6,7,0,1,20,29 Apr 2026 14:27:12,923905177E2F7D6822A5
+SD KRISTEN WARJUKUR,60101899,SD,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,2,1,64,6,6,0,0,20,07 Mar 2026 06:46:15,F13AACAB9588EF70FE7C
+SD KRISTEN WARLOY,60101898,SD,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,3,1,22,6,4,0,0,10,18 Feb 2026 22:46:38,17AA96B29260C8A1B2FB
+SMP Negeri Warjukur,70042007,SMP,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,7,1,30,3,1,0,0,24,26 Mar 2026 09:31:37,1A771953069ABAD7C4B4
+SMP KRISTEN 3 KOIJABI,60101820,SMP,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,5,1,64,3,3,0,0,50,30 Apr 2026 08:15:35,C90F52744D28E0ECEC7F
+SMP PGRI KAIWABAR,60101824,SMP,Swasta,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,0,0,0,0,0,0,0,0,,3CDD7F30B36278D60923
+SMA Negeri 7 Kepulauan Aru,60103922,SMA,Negeri,Kec. Aru Tengah Timur,210705,Kab. Kepulauan Aru,210700,Prov. Maluku,210000,8,0,74,3,3,0,0,15,08 Mar 2026 12:24:04,8DCE8A8E5DC2BD561189

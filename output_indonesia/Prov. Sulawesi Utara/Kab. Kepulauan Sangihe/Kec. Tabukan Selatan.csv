@@ -1,0 +1,23 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BATUWINGKUNG,40101361,SD,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,6,1,27,6,6,0,1,28,28 Apr 2026 08:13:36,D9887314562FC0D193C3
+SD NEGERI BELLAE MALAMENGGU,40104650,SD,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,6,0,15,6,6,0,1,9,08 Apr 2026 13:39:03,DF0FE7FA245F53EC4D63
+SD NEGERI BIRAHI,40101643,SD,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,5,1,24,6,6,0,1,9,18 Apr 2026 10:21:09,F1C489E017F1BC8832C6
+SD NEGERI INPRES SIMUENG,40101336,SD,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,5,1,44,6,6,0,1,9,18 Apr 2026 21:19:42,F488312919D07B4948DE
+SD NEGERI KALAGHENG,40103527,SD,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,8,1,30,6,5,0,0,11,06 Apr 2026 12:45:09,1CFAC518D986EC3BCBB7
+SD NEGERI ONDOLE,40103293,SD,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,4,1,25,6,6,0,1,10,28 Apr 2026 08:20:00,86E95C3036B7AF23E190
+SDN INPRES BENTUNG,40101368,SD,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,7,1,52,6,6,0,1,26,01 May 2026 21:30:08,254AEC568E95700B8B86
+SDN INPRES MANALU,40101318,SD,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,8,2,76,6,6,0,1,17,30 Apr 2026 13:53:08,E181C7FF97E8755C3B43
+SD GMIST DOLOROSA BUKIDE,40101691,SD,Swasta,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,3,1,12,4,6,0,1,6,05 Mar 2026 08:19:18,C10E477C24C256D55EC5
+SD GMIST EBENHESER LAOTONGAN,40101588,SD,Swasta,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,4,1,23,6,6,0,1,6,17 Apr 2026 08:15:41,7EF28E817906DE9BD332
+SD GMIST GALILEA BINEBAS,40101510,SD,Swasta,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,4,1,39,6,6,0,1,11,14 Apr 2026 03:00:10,54985142B02F3C219928
+SD GMIST GOLGOTA MALAMENGGU,40101527,SD,Swasta,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,4,0,35,6,6,0,0,13,08 Apr 2026 12:25:50,198F57A89271C95B8A7F
+SD GMIST HERMON MANDOI,40101529,SD,Swasta,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,1,1,12,6,6,0,1,10,14 Apr 2026 02:46:00,F898BFA2960012411893
+SD GMIST LAHAI ROI PALARENG,40101535,SD,Swasta,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,4,0,35,6,6,0,1,6,28 Apr 2026 08:29:49,576A4D194B731C0B3C38
+SD GMIST LAHAI ROI SIMUENG,40101537,SD,Swasta,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,4,1,19,6,6,0,1,4,27 Feb 2026 14:36:58,77347D29E7AF6B69DA76
+SD GMIST OIKUMENE LESABE,40101660,SD,Swasta,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,8,0,45,6,6,0,1,14,11 Apr 2026 10:54:14,B33CFCFB4CCDDAEB597F
+SMP NEGERI 1 TABUKAN SELATAN,40101487,SMP,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,13,2,138,6,8,1,1,31,30 Apr 2026 08:59:58,0998BE5E94D7331697D0
+SMP NEGERI 2 SATAP TABUKAN SELATAN,40103541,SMP,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,9,1,34,3,3,1,1,19,27 Apr 2026 19:07:05,CD91455CCDA5352A0F36
+SMP NEGERI 3 SATAP TABUKAN SELATAN,40103544,SMP,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,8,2,34,3,3,1,1,41,29 Apr 2026 09:47:57,108F39ACB4947B638037
+SMP NEGERI 4 SATU ATAP TABUKAN SELATAN,69774745,SMP,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,10,1,32,3,3,1,1,11,12 Apr 2026 04:11:15,F42806849F291D2A7EF0
+SMA NEGERI 1 TABUKAN SELATAN,40103296,SMA,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,18,3,165,6,11,6,1,39,01 May 2026 19:20:41,3A93EC35D86A122CB6AF
+SMK NEGERI 1 TABUKAN SELATAN,40104887,SMK,Negeri,Kec. Tabukan Selatan,170306,Kab. Kepulauan Sangihe,170300,Prov. Sulawesi Utara,170000,20,3,69,11,8,4,1,22,29 Apr 2026 21:31:08,C3E97D8798FCDA6D5988

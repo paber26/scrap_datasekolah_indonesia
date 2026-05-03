@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES AIYAIGO,60302285,SD,Negeri,Kec. Kebo,360308,Kab. Paniai,360300,Prov. Papua Tengah,360000,5,1,435,12,6,0,1,27,19 Apr 2026 19:43:14,9D6BC5934D6DBCE1ED03
+SD INPRES TOGOWA,60302311,SD,Negeri,Kec. Kebo,360308,Kab. Paniai,360300,Prov. Papua Tengah,360000,10,1,178,7,6,0,0,11,27 Apr 2026 16:28:32,E6D1319206F593D61393
+SD YPPGI KEBO 1,60302369,SD,Swasta,Kec. Kebo,360308,Kab. Paniai,360300,Prov. Papua Tengah,360000,13,2,479,15,6,0,1,11,21 Apr 2026 05:33:50,32FED264EA2C4AB9A34E
+SD YPPGI KEBO 2,60302370,SD,Swasta,Kec. Kebo,360308,Kab. Paniai,360300,Prov. Papua Tengah,360000,4,1,385,14,6,0,0,75,30 Apr 2026 16:38:30,E011063F30E3C0433F37
+SD YPPK BIAMOMA,60302394,SD,Swasta,Kec. Kebo,360308,Kab. Paniai,360300,Prov. Papua Tengah,360000,11,1,231,11,6,0,1,80,25 Apr 2026 10:41:50,C544E5E86924E8735649
+SMP NEGERI 1 KEBO,60302433,SMP,Negeri,Kec. Kebo,360308,Kab. Paniai,360300,Prov. Papua Tengah,360000,19,1,290,10,8,0,1,62,30 Apr 2026 19:54:48,D3544E46DA692F26BBBC
+SMAN 3 PANIAI,60302458,SMA,Negeri,Kec. Kebo,360308,Kab. Paniai,360300,Prov. Papua Tengah,360000,22,2,318,12,5,1,1,33,28 Apr 2026 12:16:20,CD60ADE0E554BA0D2A39

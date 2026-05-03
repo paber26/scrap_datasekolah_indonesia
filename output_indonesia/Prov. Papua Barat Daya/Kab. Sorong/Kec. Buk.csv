@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 10 KABUPATEN SORONG,60401159,SD,Negeri,Kec. Buk,390447,Kab. Sorong,390400,Prov. Papua Barat Daya,390000,6,2,98,6,6,0,1,33,26 Mar 2026 19:21:04,970C2607E5C26D741F2B
+SD YPK BUK KABUPATEN SORONG,60401304,SD,Swasta,Kec. Buk,390447,Kab. Sorong,390400,Prov. Papua Barat Daya,390000,4,1,91,6,6,0,0,7,25 Feb 2026 08:23:11,EC5FB48F7D0B4EEFB198
+SMP NEGERI 34 KABUPATEN SORONG,69815322,SMP,Negeri,Kec. Buk,390447,Kab. Sorong,390400,Prov. Papua Barat Daya,390000,7,0,48,3,3,1,1,38,23 Feb 2026 23:37:08,84A54748E6D28D6C7028

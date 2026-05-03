@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES ARYOBU,60301165,SD,Negeri,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,7,0,57,6,6,0,0,20,08 Apr 2026 21:18:01,38639EEDEF91E54BCE0A
+SD NEGERI ASAI,60301182,SD,Negeri,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,3,1,91,6,6,0,1,16,16 Apr 2026 22:30:11,53D0CD875617557DEF07
+SD NEGERI MUNGGUI,60300481,SD,Negeri,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,6,1,82,6,6,0,0,34,26 Mar 2026 19:46:01,C7DBA4014210B01CF5EB
+SD NEGERI ROSBORI,60301192,SD,Negeri,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,7,3,56,6,9,0,0,34,26 Apr 2026 09:20:17,8FDD24D313FEC5C31A94
+SD YPK IMANUEL MUNGGUI,60301324,SD,Swasta,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,5,1,107,6,6,0,0,23,26 Apr 2026 17:10:00,8098C512EC90CFFA664B
+SD YPK KAONDA,60301328,SD,Swasta,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,3,1,64,6,6,0,0,17,27 Mar 2026 06:25:22,51ECD4EBB946295F0FD6
+SD YPK KARAWI,60301359,SD,Swasta,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,7,1,99,6,7,0,0,71,30 Apr 2026 09:27:41,7B94D1A1CE1050127161
+SD YPK WINDESI,60301354,SD,Swasta,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,2,1,97,6,6,0,0,51,08 Apr 2026 09:07:22,8E3DAAF84ACD4DD45178
+SMP NEGERI WINDESI,60300491,SMP,Negeri,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,8,1,152,5,6,1,0,26,17 Apr 2026 04:09:36,B3B1F9936B6F188AB118
+SMP SATAP NEGERI ARYOBU,60302817,SMP,Negeri,Kec. Windesi,250315,Kab. Kepulauan Yapen,250300,Prov. Papua,250000,6,2,49,3,4,0,0,14,09 Apr 2026 08:42:20,98C80A73EF87032A0268

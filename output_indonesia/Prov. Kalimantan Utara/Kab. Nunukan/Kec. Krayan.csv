@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 KRAYAN,30402647,SD,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,7,2,128,6,6,0,1,15,21 Apr 2026 01:01:06,23613D9D684B8F725255
+SD NEGERI 002 KRAYAN,30402691,SD,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,3,42,6,6,0,1,1,03 Mar 2026 10:14:02,E27EC2AAEF9C3A6FFDE9
+SD NEGERI 003 KRAYAN,30402714,SD,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,4,64,6,6,0,1,35,13 Apr 2026 01:07:38,E71436079F30E5E69C91
+SD NEGERI 004 KRAYAN,30402720,SD,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,7,3,43,6,6,0,0,15,07 Mar 2026 20:28:25,D35D98B7C330E77CEA96
+SD NEGERI 005 KRAYAN,30402744,SD,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,7,0,21,6,6,1,1,14,17 Apr 2026 10:54:44,1E93170C445DDF797B81
+SD NEGERI 006 KRAYAN,30402763,SD,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,8,3,26,6,6,0,1,20,23 Apr 2026 08:33:13,EB8704DDD55A47C6DCC6
+SD NEGERI 007 KRAYAN,30402764,SD,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,2,70,6,6,0,1,29,06 Mar 2026 18:19:52,F8821ACBE13AFF85CE30
+SD NEGERI 008 KRAYAN,30402766,SD,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,6,3,9,6,6,0,1,8,30 Apr 2026 08:26:05,B1CE374CF9086A259555
+SMP NEGERI 1 KRAYAN,30400536,SMP,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,18,3,164,6,9,1,1,44,18 Apr 2026 08:49:13,79D7A9D6A19A948B7A0C
+SMP NEGERI 2 KRAYAN,30405232,SMP,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,10,6,42,3,3,1,4,53,14 Apr 2026 13:12:08,F46EB07C4ED26D3C208B
+SMAN 1 KRAYAN,30400533,SMA,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,24,9,353,11,22,3,1,29,25 Apr 2026 21:09:00,8ACC9C9138D386874BF0
+SMK NEGERI 1 KRAYAN,30407283,SMK,Negeri,Kec. Krayan,340501,Kab. Nunukan,340500,Prov. Kalimantan Utara,340000,22,8,61,11,13,0,0,38,10 Apr 2026 10:31:39,613D7FBEBEA3640EADEC

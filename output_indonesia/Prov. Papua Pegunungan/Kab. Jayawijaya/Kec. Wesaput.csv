@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES WESAPUT,60301476,SD,Negeri,Kec. Wesaput,380140,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,14,1,392,12,10,0,1,36,11 Apr 2026 07:18:54,F3E7CD981790B873F000
+SD HARAPAN BALIEM,60303894,SD,Swasta,Kec. Wesaput,380140,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,9,0,202,8,8,0,1,40,10 Apr 2026 07:50:46,F59AA5CC9E7BDA73CE30
+SD YPPK KAMA,60301535,SD,Swasta,Kec. Wesaput,380140,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,11,0,273,9,9,0,1,25,17 Apr 2026 07:07:57,4E2E6B07FA582A5CFB9B
+SMP YPK BETEL WESAPUT WAMENA,70057649,SMP,Swasta,Kec. Wesaput,380140,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,1,0,0,0,0,0,0,0,,385CAAED4489AC396EDA

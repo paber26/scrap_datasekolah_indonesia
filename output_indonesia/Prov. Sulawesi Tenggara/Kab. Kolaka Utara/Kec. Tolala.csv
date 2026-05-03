@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 1 Tolala,40402172,SD,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,11,5,204,10,9,0,2,38,16 Apr 2026 22:47:06,C8C4C91EFE20C35D9889
+SD Negeri 2 Tolala,40402161,SD,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,8,2,71,6,7,0,1,15,25 Apr 2026 10:08:48,F0EDD34202F49B04B60D
+SD Negeri 3 Tolala,40402197,SD,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,9,1,90,6,6,1,1,10,25 Feb 2026 08:09:20,333D4C2F536C8898F7D0
+SD Negeri 4 Tolala,40405246,SD,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,10,2,78,6,7,0,1,13,03 Mar 2026 18:30:26,79A44132EB0AA91B34AE
+SD Negeri 5 Tolala,40404909,SD,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,7,0,34,6,6,0,1,8,07 Apr 2026 07:37:32,8D757DFD0EFD7E0A8324
+SMP Negeri 11 Kolaka Utara,40404269,SMP,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,12,2,114,5,7,2,1,26,10 Apr 2026 21:26:37,D2069E1CA623C1C1DBAD
+SMP Negeri Satu Atap 11 Kolaka Utara,40405256,SMP,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,10,1,57,3,3,1,1,18,30 Apr 2026 17:12:32,A1B1AE729392DEACD21E
+SMP Negeri Satu Atap 5 Kolaka Utara,40403717,SMP,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,7,1,30,3,3,1,0,8,16 Mar 2026 09:23:03,004857C3D706AEC24D0C
+SMAN 1 TOLALA,69973312,SMA,Negeri,Kec. Tolala,200890,Kab. Kolaka Utara,200800,Prov. Sulawesi Tenggara,200000,15,2,139,6,6,3,1,44,01 May 2026 22:21:33,C491F036160EC123B358

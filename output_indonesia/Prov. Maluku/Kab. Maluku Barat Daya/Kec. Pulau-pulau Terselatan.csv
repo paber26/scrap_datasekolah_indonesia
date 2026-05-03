@@ -1,0 +1,28 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KIOUMANUMERE,60102983,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,8,5,103,6,6,0,1,21,17 Apr 2026 06:06:58,C607CAB437E42D43A848
+SD INPRES WONRELI,60102997,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,9,7,97,6,6,0,1,1,30 Jan 2026 20:58:36,49A27A82732C1A836AF2
+SD INPRES YAWURU,60102998,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,6,2,69,6,6,0,1,17,27 Apr 2026 10:51:25,27EDDCD16FAC66BBFBA6
+SD NEGERI 1 OIRATA,60103040,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,5,5,65,6,6,0,1,18,15 Apr 2026 20:52:21,4E95C81B66D331D85748
+SD NEGERI 1 WONRELI,60103042,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,11,4,217,11,6,1,0,19,21 Apr 2026 14:00:32,592556E471B4D62585A1
+SD NEGERI 2 OIRATA,60103044,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,8,8,127,7,7,0,1,48,14 Apr 2026 06:21:54,362B550B7D9C1BD7BE49
+SD NEGERI 2 WONRELI,60103046,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,7,6,61,6,6,0,1,9,03 Mar 2026 11:39:15,7D39152FD2E27A9095F0
+SD NEGERI KEITARU,60103433,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,8,1,69,6,9,0,1,39,11 Apr 2026 08:44:08,729C2F06A62CFCF0DF0C
+SD NEGERI ROMLEHER SELATAN,69772531,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,8,5,65,6,6,0,1,27,30 Apr 2026 06:14:59,8FDF2D7D387809FE0788
+SD NEGERI ROMLEHER UTARA,60103057,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,7,5,83,6,6,0,0,15,27 Apr 2026 07:16:04,33A35F39AD3DF7182345
+SD NEGERI SUMPALI,60103058,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,6,4,61,6,8,0,0,16,04 Apr 2026 05:29:40,E0E2B40904CC8F8FA20A
+SD NEGERI YAWURU,60103063,SD,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,8,4,92,6,6,0,1,24,05 Mar 2026 20:18:49,EF083A350D0AC0CD2463
+SD KRISTEN ABUSUR,60103002,SD,Swasta,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,4,1,125,6,6,0,1,1,17 Apr 2026 06:15:47,1F215F1BB0B861CCE586
+SD KRISTEN WONRELI,60103008,SD,Swasta,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,5,1,75,6,6,0,1,1,23 Apr 2026 07:10:20,4C40B002A52D412FD509
+SD KRISTEN YAWURU,60103010,SD,Swasta,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,3,1,80,6,7,0,2,13,14 Feb 2026 18:22:25,8FA2AD1C6A0A9CFFD8F1
+SMP NEGERI 1 PULAU PULAU TERSELATAN,60101181,SMP,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,22,9,372,12,14,1,1,40,27 Apr 2026 08:22:34,DF853502212AE7879352
+SMP NEGERI 4 PULAU PULAU TERSELATAN,60101344,SMP,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,15,10,167,6,9,0,0,24,20 Apr 2026 08:39:24,D6DFBD9680D6985174FB
+SMP NEGERI 6 PULAU PULAU TERSELATAN,60102358,SMP,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,16,7,149,6,7,1,1,85,30 Apr 2026 12:55:14,6D55384D6256E232DCE1
+SMP NEGERI 8 PULAU PULAU TERSELATAN,60102359,SMP,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,15,2,143,6,6,2,0,20,15 Apr 2026 08:38:56,650E28E17A40B95FBD0F
+SMP KRISTEN 2 PULAU PULAU TERSELATAN,60103188,SMP,Swasta,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,5,2,59,3,4,1,0,11,05 Apr 2026 08:38:44,73DC5371A3779E34D416
+SMA Negeri 4 Maluku Barat Daya,60101448,SMA,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,33,9,561,18,18,3,1,21,27 Apr 2026 11:33:05,C97B61AB486C4879C4AF
+SMA NEGERI 7 MALUKU BARAT DAYA,60103191,SMA,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,18,5,139,6,6,2,1,16,22 Apr 2026 13:56:54,A46918C507916C6AEA3A
+SMA Negeri 8 Maluku Barat Daya,60103192,SMA,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,21,2,155,6,8,2,1,10,26 Mar 2026 05:19:09,26740E9DB5B9609FF337
+SMK Negeri 1 Maluku Barat Daya,60101332,SMK,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,17,0,95,8,10,1,1,24,18 Feb 2026 16:51:02,AF33C6E89AB91832350E
+SMK Negeri 2 Maluku Barat Daya,60102375,SMK,Negeri,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,31,7,244,11,14,5,1,53,15 Apr 2026 06:20:17,EA9F40F1C5DBA21F2D69
+SMK KESEHATAN IQYOTO,70041783,SMK,Swasta,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,6,3,56,3,4,0,0,26,17 Apr 2026 13:50:39,517E86CA2D2E1CF70656
+SMK Reiyotto,70054254,SMK,Swasta,Kec. Pulau-pulau Terselatan,210811,Kab. Maluku Barat Daya,210800,Prov. Maluku,210000,2,1,18,3,7,0,0,13,01 May 2026 12:14:09,AEBBEC126C714C99719E

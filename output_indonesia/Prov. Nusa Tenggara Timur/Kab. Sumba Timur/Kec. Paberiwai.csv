@@ -1,0 +1,18 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KANANGGAR,50303872,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,8,2,74,6,8,0,1,14,18 Mar 2026 20:30:30,AAFB18D4E13756539886
+SD INPRES KARERA JANGGA,50303868,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,8,5,71,6,6,0,1,23,08 Apr 2026 07:41:14,F5C6013BBF91B02903B0
+SD INPRES PANJIR,50303924,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,5,2,96,6,6,0,1,16,25 Apr 2026 16:10:09,DC68E31C00C22EAC4482
+SD INPRES WINUMURU,50303894,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,6,103,6,6,0,1,18,14 Apr 2026 07:37:09,FCE80816458E009AB702
+SD NEGERI KARERA JANGGA,50303865,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,2,99,6,6,0,1,18,29 Apr 2026 17:22:37,2AC3CA852E56F7CA13C5
+SD NEGERI LA AU,50303730,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,3,128,6,6,0,1,9,25 Apr 2026 21:51:17,ABB24B31773D59AD3B94
+SD NEGERI LAI MAHI,50303727,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,4,1,44,6,6,0,1,28,06 Apr 2026 20:30:02,CEA5BDB1C25DE44FD099
+SD NEGERI LAIHOBU,69855660,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,7,2,93,6,9,0,0,16,06 Mar 2026 15:06:30,8798A9275B02CF27555A
+SD NEGERI LAITAKU,50303812,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,1,85,6,7,0,0,76,25 Apr 2026 11:42:56,9ABDE3E0D44E925978D9
+SD NEGERI MATAWAI MANAMA,69855663,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,4,30,6,6,0,0,22,02 May 2026 18:17:20,EA4E7290E1970E118BF0
+SD NEGERI MAUMARU,50303862,SD,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,5,2,175,6,9,0,1,10,13 Apr 2026 10:29:11,56F25157365628DB25C2
+SD MASEHI KANANGGAR,50303903,SD,Swasta,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,3,2,83,6,6,0,1,8,11 Mar 2026 10:19:29,CDC7B7014DD9ED4AF96F
+SMP NEGERI 1 PABERIWAI,50303776,SMP,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,10,7,168,6,8,2,2,16,29 Apr 2026 09:00:41,F36378ECE5E2A373ED85
+SMP NEGERI 2 PABERIWAI,70029943,SMP,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,8,4,91,3,3,0,1,20,03 Mar 2026 13:22:54,8DAADF10E2CE4BE93C35
+SMP NEGERI SATAP LA AU,69878258,SMP,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,3,87,4,4,1,0,19,30 Apr 2026 13:39:11,730BB1A71308CCF869BB
+SMP NEGERI SATAP LAITAKU,69774691,SMP,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,6,2,71,3,4,0,0,14,22 Apr 2026 08:03:18,364968C2DC63BBDFCADB
+SMA NEGERI 1 PABERIWAI,69774695,SMA,Negeri,Kec. Paberiwai,241203,Kab. Sumba Timur,241200,Prov. Nusa Tenggara Timur,240000,13,4,208,7,9,1,1,36,30 Apr 2026 08:26:32,AC5A24030031E78F259A

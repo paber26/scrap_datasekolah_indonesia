@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 PALANGGA SELATAN,40401823,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,10,1,112,6,6,0,2,5,17 Apr 2026 14:57:29,4B5E6FBB74A0A01461CA
+SD NEGERI 2 PALANGGA SELATAN,40402040,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,9,1,77,6,6,0,1,7,08 Apr 2026 20:55:42,1C0795BEB3FC0579058F
+SD NEGERI 3 PALANGGA SELATAN,40401866,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,1,106,6,6,0,1,12,22 Apr 2026 06:52:43,719881A7C1AC67AD3A40
+SD NEGERI 4 PALANGGA SELATAN,40405068,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,1,68,6,6,0,1,12,13 Apr 2026 04:32:22,DFB60A62A2A21EACE472
+SD NEGERI 5 PALANGGA SELATAN,40401950,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,2,126,6,6,1,1,11,29 Apr 2026 08:05:41,57F845B679105B61167B
+SD NEGERI 6 PALANGGA SELATAN,40401836,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,1,46,5,3,0,1,12,01 May 2026 13:28:46,6169D1AEA8514A9EF65E
+SD NEGERI 7 PALANGGA SELATAN,40401851,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,2,71,6,6,1,1,9,14 Apr 2026 17:46:30,8060830D5241EE78438B
+SD NEGERI 8 PALANGGA SELATAN,40402101,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,1,72,6,6,0,1,19,30 Apr 2026 04:12:00,5D6158EB52E44308E06B
+SD NEGERI 9 PALANGGA SELATAN,40401996,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,9,1,150,7,6,0,1,14,10 Mar 2026 21:45:15,39FBFCBDC0855074B4E1
+SD NEGERI SATU ATAP 8 KONAWE SELATAN,40401945,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,0,116,6,6,0,1,23,10 Apr 2026 08:34:14,5434CAF86AEA9DAD0DB3
+SD NEGERI SATU ATAP 9 KONAWE SELATAN,40401887,SD,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,0,122,6,6,0,1,12,26 Apr 2026 06:26:25,E27F39C61554B64C0232
+SMP NEGERI SATU ATAP 9 KONAWE SELATAN,40405057,SMP,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,9,1,64,3,3,2,1,5,17 Apr 2026 07:41:11,6EB5CB402D2A760D2345
+SMPN 18 KONAWE SELATAN,40401918,SMP,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,16,2,233,9,9,2,1,19,20 Apr 2026 10:45:19,4164CF52BC12827015B2
+SMPN SATAP 8 KONAWE SELATAN,40405058,SMP,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,1,71,3,6,2,0,16,03 Mar 2026 10:27:10,D5FA7EEDD4B11A8FD003
+SMAN 18 KONAWE SELATAN,40405077,SMA,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,26,3,289,11,16,4,1,37,28 Apr 2026 10:11:17,E83640AD97887F6DB615
+SMKN 1 KONAWE SELATAN,40403354,SMK,Negeri,Kec. Palangga Selatan,200514,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,24,5,131,9,11,6,1,34,02 May 2026 09:14:32,ADE734C74DFBBC3BE0BD

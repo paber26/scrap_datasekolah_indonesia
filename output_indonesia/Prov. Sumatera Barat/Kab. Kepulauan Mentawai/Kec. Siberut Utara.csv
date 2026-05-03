@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 MALANCAN,10303021,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,9,3,69,6,7,0,1,20,21 Apr 2026 11:00:56,5E0B5A84914A000136FF
+SD NEGERI 03 SOTBOYAK,10303006,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,10,4,62,6,6,0,1,11,22 Mar 2026 21:03:39,5D8685318AB20BA54C71
+SD NEGERI 04 MUARA SIKABALUAN,10303011,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,1,22,6,6,0,1,14,03 Mar 2026 12:44:31,CD5197BF08967CF390CE
+SD NEGERI 06 MALANCAN,10303043,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,10,2,100,6,9,0,1,29,08 Apr 2026 10:25:23,7AE72E38C1C373DF3F35
+SD NEGERI 07 SIRILOGUI,10303049,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,9,6,132,6,8,0,1,46,13 Apr 2026 10:28:35,5327775B39D644C70A05
+SD NEGERI 08 MUARA SIKABALUAN,10303052,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,2,90,6,6,0,1,16,04 Mar 2026 21:04:16,F9AE292A0C75A9F7A087
+SD NEGERI 09 MUARA SIKABALUAN,10303030,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,10,3,119,7,7,0,0,13,09 Apr 2026 08:46:09,DE1E2589E695532DE285
+SD NEGERI 12 MONGAN POULA,10302965,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,13,3,86,6,6,0,2,8,19 Apr 2026 14:39:12,8AB6142C549C909D2B93
+SD NEGERI 15 BOJAKAN,10302961,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,9,2,31,6,6,0,1,30,24 Apr 2026 22:35:11,CA87DEB9382215B8FF72
+SD NEGERI 20 MALANCAN,10309862,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,1,38,6,4,0,1,29,03 Apr 2026 23:30:30,888A4406EF39B0456DC1
+SD NEGERI 21 MUARA SIKABALUAN,10309863,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,0,13,5,4,0,0,23,07 Apr 2026 11:22:26,30E3F8B9BA766F57AF46
+SD NEGERI 23 BOJAKAN,69810013,SD,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,7,3,54,6,6,0,0,13,18 Apr 2026 15:46:02,D21B00FFDEE39AEC8EF6
+SD FRANSISKUS SIKABALUAN,10309859,SD,Swasta,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,2,197,13,20,0,1,62,01 May 2026 11:16:32,60027259BE5E6F19863D
+SMP NEGERI 1 SIBERUT UTARA,10302985,SMP,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,23,6,242,9,14,2,1,31,21 Apr 2026 22:37:33,EE2EA77BFA3F943B38F9
+SMP NEGERI 2 SIBERUT UTARA,69888643,SMP,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,14,2,69,3,6,1,1,14,30 Apr 2026 13:16:07,535C83D6BEABFC04F8A0
+SMP NEGERI 3 SIBERUT UTARA,69903689,SMP,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,13,3,26,3,6,1,1,28,14 Apr 2026 12:13:16,8D3166E58FBE21306ABC
+SMP NEGERI 4 SIBERUT UTARA,69978689,SMP,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,3,43,3,6,3,4,13,22 Apr 2026 10:15:57,1A32FAD008D5A55A3412
+SMAN 1 SIBERUT UTARA,10302982,SMA,Negeri,Kec. Siberut Utara,081004,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,34,6,455,14,14,2,2,37,27 Apr 2026 08:17:38,9BACBBA32DE0819B6F64

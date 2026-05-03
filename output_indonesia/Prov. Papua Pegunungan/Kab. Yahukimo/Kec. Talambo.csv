@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES LELAMBO,60303284,SD,Negeri,Kec. Talambo,380329,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,2,0,0,0,0,0,0,,561CFED396969AF71498
+SD INPRES TIBUL,60303282,SD,Negeri,Kec. Talambo,380329,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,2,126,7,3,0,0,3,24 Apr 2026 10:21:00,D7D7E487C9433CE38F82
+SD YAPESLI BELEROMON,70039468,SD,Swasta,Kec. Talambo,380329,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,165,8,2,0,0,3,17 Jan 2026 10:47:04,AA81D6221E22D995B401
+SMP YAKPESMI TALAMBO,70044417,SMP,Swasta,Kec. Talambo,380329,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,7,2,102,4,3,0,0,4,13 Feb 2026 11:19:11,A77CBA2BC5ACA3B83560

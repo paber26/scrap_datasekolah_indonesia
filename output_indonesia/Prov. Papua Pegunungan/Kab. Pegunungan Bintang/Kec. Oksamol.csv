@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES OKETWI,60302165,SD,Negeri,Kec. Oksamol,380221,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,5,1,42,6,6,0,0,7,15 Mar 2026 16:03:21,85C030FE02E8473DCB23
+SD INPRES TINIBIL,69725982,SD,Negeri,Kec. Oksamol,380221,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,6,0,222,9,6,0,0,7,26 Mar 2026 20:38:05,661D7A5A7974BF681F4F
+SMP NEGERI OKSAMOL,69987306,SMP,Negeri,Kec. Oksamol,380221,Kab. Pegunungan Bintang,380200,Prov. Papua Pegunungan,380000,5,0,89,4,3,1,1,25,22 Apr 2026 18:56:25,F9353F8E6A90A0D9687E

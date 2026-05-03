@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KORNASOREN,60300420,SD,Negeri,Kec. Numfor Timur,250202,Kab. Biak Numfor,250200,Prov. Papua,250000,6,1,133,6,6,0,1,60,25 Apr 2026 22:32:35,0CE2506CABE5D8F07505
+SD NEGERI YENMANU NUMFOR TIMUR,60302951,SD,Negeri,Kec. Numfor Timur,250202,Kab. Biak Numfor,250200,Prov. Papua,250000,8,1,96,6,6,0,0,53,05 Mar 2026 14:07:23,7B5A6FB6D6D38020E6F8
+SD YPK YENBURWO,60300277,SD,Swasta,Kec. Numfor Timur,250202,Kab. Biak Numfor,250200,Prov. Papua,250000,8,3,77,6,6,0,0,4,31 Jan 2026 16:52:39,A0C53071940E0A6CCD3D
+SMP NEGERI 1 NUMFOR TIMUR,60300327,SMP,Negeri,Kec. Numfor Timur,250202,Kab. Biak Numfor,250200,Prov. Papua,250000,7,3,195,7,7,1,1,38,17 Apr 2026 18:50:43,839FA9FE28967013A846

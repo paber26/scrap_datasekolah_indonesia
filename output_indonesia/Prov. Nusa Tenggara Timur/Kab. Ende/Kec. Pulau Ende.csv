@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MAUAU,50302683,SD,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,1,59,6,6,0,0,7,26 Feb 2026 10:04:55,A509E5304F85D140D491
+SD INPRES METINUMBA 1,50302697,SD,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,3,159,7,6,1,1,46,05 Mar 2026 20:21:47,30F2177A11C0ACD6302E
+SD INPRES METINUMBA 2,50302698,SD,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,10,2,117,7,8,0,1,17,02 Apr 2026 02:42:41,5B391FCCF6B73543B8F3
+SD INPRES RENDOMAUPANDI,50302801,SD,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,11,1,154,8,10,0,1,21,10 Apr 2026 08:25:40,120C0C2AFA805578C586
+SD NEGERI ANAREWA,50302646,SD,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,7,2,104,6,6,0,1,19,08 Apr 2026 07:33:29,442A3E7CEBAA900DFCE7
+SD NEGERI EKOREKO,50302645,SD,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,8,5,104,6,6,0,1,14,02 Mar 2026 08:52:27,5DE4A54E2F72AEAAF2C4
+SD NEGERI PUUTARA,50305653,SD,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,9,2,101,6,6,0,1,61,14 Apr 2026 07:16:42,657E7956E36EA4D5A5FA
+SMP NEGERI 2 NANGAPANDA,50302617,SMP,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,21,5,306,11,14,3,1,11,20 Apr 2026 15:32:52,8212AF7947187AEE740E
+SMP NEGERI SATU ATAP EKOREKO,50306099,SMP,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,10,2,47,3,3,1,1,15,09 Apr 2026 23:33:19,1B52A0A7EC4ADD585379
+SMA NEGERI PULAU ENDE,69734401,SMA,Negeri,Kec. Pulau Ende,240912,Kab. Ende,240900,Prov. Nusa Tenggara Timur,240000,21,3,244,9,9,3,1,27,30 Apr 2026 10:00:26,07722B9E962BF39B0A7F

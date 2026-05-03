@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 01 SAIBI SAMUKOP,10303022,SD,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,23,1,255,13,17,0,1,27,16 Apr 2026 11:43:50,5C30AFB788BE1FBA1EC9
+SD NEGERI 03 SAIBI SAMUKOP,10303005,SD,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,9,2,91,6,6,0,1,40,20 Apr 2026 17:43:42,B188E3A02BE902F9E613
+SD NEGERI 10 CIMPUNGAN,10303032,SD,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,10,3,78,6,8,0,1,37,01 May 2026 09:35:46,E59F42B5C5507F354883
+SD NEGERI 10 SALIGUMA,10303034,SD,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,9,1,42,6,6,0,1,16,08 Apr 2026 12:58:07,88C325406951BAE0942E
+SD NEGERI 13 CIMPUNGAN,10302968,SD,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,4,41,6,6,0,1,9,13 Apr 2026 08:16:18,A755649C487A93295F5B
+SD NEGERI 16 SALIGUMA,10302954,SD,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,18,4,186,12,13,0,1,77,28 Apr 2026 19:55:32,14E7C437A46FB364E0DA
+SD NEGERI 20 SAIBI SAMUKOP,10302993,SD,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,11,3,100,6,8,0,1,22,30 Mar 2026 23:53:14,8467E9A12C29255ED585
+SD NEGERI 22 SALIGUMA,69984345,SD,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,8,3,98,6,8,0,1,13,06 Apr 2026 09:19:18,EA2588BFB40116E11142
+SMP NEGERI 1 SIBERUT TENGAH,10309878,SMP,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,19,5,250,9,11,2,2,32,28 Apr 2026 22:46:27,CFD4C9DF90135DF0CDEF
+SMP NEGERI 2 SIBERUT TENGAH,69903695,SMP,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,22,2,119,5,6,1,1,38,08 Apr 2026 08:46:22,94DA529776FF5E1E390B
+SMAN 1 SIBERUT TENGAH,10310733,SMA,Negeri,Kec. Siberut Tengah,081007,Kab. Kepulauan Mentawai,081000,Prov. Sumatera Barat,080000,19,6,207,8,9,3,1,11,30 Apr 2026 10:35:30,FBFB060D32CA766E772E

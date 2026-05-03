@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KOTOK,50304883,SD,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,8,1,59,6,9,0,0,12,26 Feb 2026 01:16:40,07E23C8B484E24E2527F
+SD INPRES NDAUNG,50304837,SD,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,7,3,81,6,12,0,1,17,25 Apr 2026 12:18:02,CBC587198532E26BAFC2
+SD INPRES NGGORONG KOTAK,50304897,SD,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,10,1,116,6,7,1,1,13,10 Apr 2026 11:01:23,5D6B15F3AFC9F271407D
+SD INPRES REDEK HAWE,50304824,SD,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,11,2,154,7,9,0,1,10,10 Apr 2026 19:15:36,7BAC58C45A75E79F2F22
+SD NEGERI GOLO BINSAR,50308436,SD,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,7,3,37,5,5,0,1,20,30 Apr 2026 07:31:15,4044BC565781DF1FE503
+SD NEGERI GOLO GONGGO,50308175,SD,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,10,3,122,6,6,0,1,32,25 Apr 2026 08:20:56,4DFC5672C8F119E8F923
+SD NEGERI GOLO LEWE,50310791,SD,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,10,1,50,6,5,0,0,25,28 Apr 2026 17:50:46,7DB435E61A6B1415D67B
+SD NEGERI WOL,50308435,SD,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,12,2,82,6,6,0,1,9,28 Mar 2026 11:20:35,5571EF640375D02FEE0D
+SD KHATOLIK KONDOK,50304928,SD,Swasta,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,8,1,99,6,6,0,2,17,13 Mar 2026 07:22:37,B1184145E73E02B9AD57
+SD KHATOLIK RANGGU 2,50304720,SD,Swasta,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,7,2,85,6,6,0,1,27,02 May 2026 08:21:01,40CC4F97D05101918C43
+SD KHATOLIK RAWUK,50304719,SD,Swasta,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,7,1,30,3,6,0,0,6,10 Feb 2026 22:21:24,4852A406BBDA99B7E80B
+SD KHATOLIK TUENG,50304793,SD,Swasta,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,11,0,127,7,12,1,0,29,28 Apr 2026 12:27:06,7EE60F6AEA39E798F3FF
+SD KHATOLIK WAJUR,50304787,SD,Swasta,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,9,1,78,6,6,0,0,23,15 Apr 2026 07:30:08,176CD2568E144CAF4492
+SD KHATOLIK WETIK,50304811,SD,Swasta,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,11,2,163,10,12,0,1,33,11 Apr 2026 08:37:53,5B5883D0F1B0645849DF
+SMP NEGERI 1 KUWUS BARAT,69775280,SMP,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,18,1,129,6,5,2,1,56,16 Apr 2026 11:10:16,102CDD384607D1AA49F1
+SMP NEGERI 2 KUWUS BARAT,50308190,SMP,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,17,1,135,6,8,2,1,44,28 Mar 2026 22:33:19,AA22D3F286B64B27E7E3
+SMP NEGERI 3 KUWUS BARAT,69929324,SMP,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,18,1,57,3,6,1,1,39,16 Apr 2026 11:22:49,D53788751A0226BD8471
+SMP NEGERI 4 KUWUS BARAT,69983710,SMP,Negeri,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,18,1,121,5,3,0,0,26,27 Apr 2026 07:40:27,0FDEDC23C0603DC17E88
+SMPK SADAR RANGGU,50304764,SMP,Swasta,Kec. Kuwus Barat,241611,Kab. Manggarai Barat,241600,Prov. Nusa Tenggara Timur,240000,17,2,192,7,12,2,1,11,09 Apr 2026 05:19:07,7DACBC87B04E524ACAC2

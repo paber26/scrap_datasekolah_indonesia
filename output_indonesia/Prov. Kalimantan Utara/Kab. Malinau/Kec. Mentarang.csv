@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 MENTARANG,30400509,SD,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,17,4,243,11,11,0,1,30,09 Apr 2026 19:22:49,3D4EC4B4D160FB1443BE
+SD NEGERI 002 MENTARANG,30402614,SD,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,10,5,102,6,6,0,1,11,23 Apr 2026 08:51:46,66F51DC5150DB17A1146
+SD NEGERI 003 MENTARANG,30400524,SD,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,15,2,115,6,6,0,3,15,09 Apr 2026 21:25:28,9605435E7B2F798263D8
+SD NEGERI 004 MENTARANG,30402606,SD,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,12,2,93,6,6,0,1,19,06 Apr 2026 21:10:59,1093AEE3F756DF241F8F
+SD NEGERI 005 MENTARANG,30400516,SD,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,13,2,125,6,6,0,1,54,28 Apr 2026 15:10:33,0AE04D43A5908692162C
+SD NEGERI 006 MENTARANG,69883304,SD,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,7,3,24,6,6,0,1,22,13 Apr 2026 20:23:23,926BC56877674134D7FF
+SMP NEGERI 1 MENTARANG,30400473,SMP,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,24,8,228,9,13,3,1,25,28 Apr 2026 12:40:13,AEC565A87EC2032104FA
+SMP NEGERI 2 MENTARANG,69822473,SMP,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,17,3,56,3,3,1,0,56,28 Apr 2026 10:45:44,61D83E6BFD68C1BC7ECE
+SMP NEGERI 3 MENTARANG,69824430,SMP,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,15,1,50,3,3,1,1,7,14 Apr 2026 13:22:45,2A80C7F3FE8F968300D5
+SMA NEGERI 4 MALINAU,30405634,SMA,Negeri,Kec. Mentarang,340105,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,23,7,274,9,10,4,1,33,30 Apr 2026 08:04:49,3570A0C91C204114413F

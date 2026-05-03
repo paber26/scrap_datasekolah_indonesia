@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 BATUAH,30201309,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,7,1,85,6,6,0,1,13,02 Mar 2026 11:23:56,5ED087250BC4B8EF0542
+SD NEGERI 1 MENTAYA SEBERANG,30204103,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,7,2,59,6,6,0,0,12,02 Apr 2026 05:57:15,053F98D036CD3BDF4D0F
+SD NEGERI 1 TERANTANG,30201654,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,8,3,137,6,6,0,1,18,31 Mar 2026 08:31:56,F284708F579B130F9A78
+SD NEGERI 2 BATUAH,30201696,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,7,3,153,6,9,0,1,13,07 Apr 2026 08:55:27,607634149232BE7C6C81
+SD NEGERI 2 MENTAYA SEBERANG,30201615,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,7,5,162,6,6,0,1,17,01 May 2026 13:28:39,89476D5C174835BB354F
+SD NEGERI 2 PELANGSIAN,30201591,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,8,1,43,6,6,0,1,11,01 May 2026 21:36:22,6115DF9AE3E5E7DAE6F9
+SD NEGERI 2 TERANTANG,30201619,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,7,2,118,6,6,0,1,18,05 Apr 2026 21:18:15,A1E327668ABA8C628D23
+SD NEGERI 3 MENTAYA SEBERANG,30204110,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,6,1,16,6,7,0,0,18,13 Apr 2026 17:01:48,A827D6174A1EF265B0FA
+SD NEGERI 3 TERANTANG,30201629,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,7,3,106,6,6,0,1,12,05 Apr 2026 15:14:26,9C98519E86F1B4CAD8EA
+SD NEGERI 4 MENTAYA SEBERANG,30204113,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,7,0,28,6,5,0,1,14,26 Mar 2026 13:19:26,7BE9F8C83271C4FCE98E
+SD NEGERI 5 MENTAYA SEBERANG,30204923,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,7,1,35,6,6,0,0,17,11 Apr 2026 08:37:36,53D17C443F53AC8623BB
+SD NEGERI 6 MENTAYA SEBERANG,30201588,SD,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,6,3,38,6,6,0,0,15,06 Apr 2026 00:57:48,F48CC04AF7B871A6C93A
+SMP NEGERI 5 SAMPIT,30201379,SMP,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,12,1,163,6,6,1,2,19,20 Apr 2026 08:54:54,E529A449924BBEC8967C
+SMP NEGERI 6 SAMPIT,30201381,SMP,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,11,1,130,6,10,2,1,13,07 Apr 2026 22:00:59,B03125E11B98AA765F47
+SMP NEGERI SATU ATAP 1 SERANAU,30204272,SMP,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,8,1,71,3,3,0,0,16,04 Mar 2026 02:44:33,522C830AE4A824D257F0
+SMP NEGERI SATU ATAP 2 SERANAU,30204697,SMP,Negeri,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,8,1,21,3,3,0,0,6,04 Mar 2026 08:34:53,7DE5647AD7A061B13896
+SMP MERANTI MUSTIKA,30201446,SMP,Swasta,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,3,1,45,3,3,0,0,4,02 Mar 2026 09:39:49,5FDC66E9326AB832B95E
+SMAS PGRI -2 SAMPIT,30203799,SMA,Swasta,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,16,4,215,8,9,3,1,31,23 Apr 2026 22:51:55,3FC90378471C8A238806
+SMKS AMBARWATI TANJUNG MAS SAMPIT,30201437,SMK,Swasta,Kec. Seranau,140426,Kab. Kotawaringin Timur,140400,Prov. Kalimantan Tengah,140000,6,1,38,3,1,0,0,7,03 Mar 2026 13:55:31,C58846205D7B038A7941

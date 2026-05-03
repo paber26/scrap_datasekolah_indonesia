@@ -1,0 +1,30 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 MADANG,30301714,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,3,36,6,6,0,1,14,07 Apr 2026 10:06:22,27814FA2CA35BF33F118
+SD NEGERI 2 KARANG JAWA MUKA,30301724,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,5,105,6,6,0,1,15,07 Apr 2026 02:49:35,3C135BCD0437E042FF09
+SD NEGERI 2 LOKBAHAN,30301707,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,33,6,6,0,1,23,05 Apr 2026 22:02:56,BE6EC85CE0690F80BE56
+SD NEGERI 2 MADANG,30301713,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,34,6,6,0,1,14,29 Apr 2026 08:21:34,8DE2A66754903D5BA42F
+SD NEGERI AMBARAI,30301887,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,4,72,6,6,0,1,14,03 Apr 2026 16:34:07,7F541A552C4D9EE6346A
+SD NEGERI BATU BINI,30302031,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,9,4,47,6,6,0,1,11,08 Apr 2026 13:37:54,6671B30F4009A6BF2E54
+SD NEGERI BATU LAKI,30302032,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,6,3,22,6,6,0,1,14,02 Apr 2026 16:57:02,D2EA2AB43A662FEDAB68
+SD NEGERI BUKUANIN,30301990,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,49,6,6,0,1,8,07 Apr 2026 08:04:18,A001ACEB163AF759154F
+SD NEGERI JAMBU HULU,30301965,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,56,6,6,0,1,10,18 Mar 2026 22:41:45,28297366AC8EDD4009A5
+SD NEGERI JAMBU HULU MUKA,30301966,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,44,6,6,0,1,13,23 Apr 2026 05:53:30,EE00E7805591DC532B87
+SD NEGERI JEMBATAN MERAH,30301980,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,2,102,6,6,2,1,14,15 Apr 2026 15:23:59,F66705AA581DFBF6E2F9
+SD NEGERI KALIRING,30301981,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,6,3,33,6,6,0,1,8,06 Apr 2026 16:45:34,98D5B6153186C174B8C5
+SD NEGERI KALIRING DALAM,30301982,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,40,6,6,0,1,9,22 Apr 2026 19:03:40,44EFBE654B79D57A5021
+SD NEGERI KAMBANG BASAR,30301986,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,3,52,6,6,0,1,15,06 Apr 2026 08:34:40,B13896DAB5210618DCD1
+SD NEGERI MALILINGIN,30301715,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,0,57,6,6,0,0,10,05 Mar 2026 09:40:46,12F2CECA79FAE096F563
+SD NEGERI MALUTU,30301729,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,80,6,6,1,1,23,24 Apr 2026 08:55:33,7E878FE2890A9C9770EC
+SD NEGERI MANDAPAI,30301744,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,3,27,6,6,0,1,19,08 Apr 2026 07:05:05,CD4029433704BB16688A
+SD NEGERI MAWANGI,30301746,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,3,53,6,6,0,1,7,02 Apr 2026 07:03:26,F88321A29B3D2687E697
+SD NEGERI PAGAR HAUR,30301732,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,37,6,6,0,1,9,09 Apr 2026 07:16:59,0931D8C50B86F01471B1
+SD NEGERI PANDULANGAN,30301672,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,3,68,6,6,0,1,7,16 Apr 2026 15:22:55,A48CD47F4A1E7F20393C
+SD NEGERI PANGLIMA DAMBUNG,30301679,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,50,6,6,0,1,13,16 Apr 2026 21:00:32,5FC0324817ECF05C33D7
+SD NEGERI PARIANGAN,30301658,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,3,53,6,6,0,4,12,11 Apr 2026 00:37:42,B2589CC0A82F9B1B5B78
+SD NEGERI TABIHI KANAN,30301820,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,7,4,56,6,6,0,1,8,29 Apr 2026 07:52:11,A97F147F2A5D3B4BBA81
+SD NEGERI TAMBAK PIPI.I,30301803,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,6,2,41,6,6,0,1,20,03 Mar 2026 09:25:34,983C614A31D508C564EB
+SD NEGERI TAYUB,30301835,SD,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,8,2,45,6,6,0,1,13,11 Mar 2026 12:52:01,345830066A16F9B8AF34
+SMP NEGERI 1 PADANG BATUNG,30301761,SMP,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,20,7,226,9,9,2,1,23,05 Apr 2026 20:29:43,BF2FA587032B3F28774B
+SMP NEGERI 2 PADANG BATUNG,30301795,SMP,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,15,8,743,20,21,2,1,32,23 Apr 2026 14:16:47,58455AD5EDAD4511BFDD
+SMP NEGERI 3 PADANG BATUNG,30313117,SMP,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,10,2,40,3,3,1,1,11,04 Mar 2026 11:06:47,1B0CF8BD350DE5296648
+SMP NEGERI 4 PADANG BATUNG,69956865,SMP,Negeri,Kec. Padang Batung,150501,Kab. Hulu Sungai Selatan,150500,Prov. Kalimantan Selatan,150000,9,2,29,3,3,2,1,11,05 Mar 2026 08:37:39,7DB6C84A8B6D1CA4EEC0

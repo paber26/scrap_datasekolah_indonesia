@@ -1,0 +1,22 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES NAIFATU,50306882,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,62,6,6,0,1,10,30 Mar 2026 07:52:05,7CB464D290812B5CF59E
+SD INPRES NENOTES,50306885,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,15,4,87,6,6,0,1,7,05 Mar 2026 08:12:19,62A66F64ED4807F151E2
+SD INPRES OETFO,50306894,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,64,6,6,0,1,8,17 Mar 2026 18:44:17,F52C944A7B5EE5086367
+SD INPRES ONE,50306895,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,1,102,6,10,0,0,30,22 Apr 2026 06:56:49,E1D6CB6761B010B0F70F
+SD NEGERI BIHATI,50307030,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,71,6,6,0,0,1,03 Feb 2026 21:31:26,0B88541F165DBC8143ED
+SD NEGERI NAIFATU,50307079,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,2,87,6,12,0,0,61,16 Apr 2026 20:44:27,9D35E72203C307B88899
+SD NEGERI OELEKON,69979972,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,2,60,6,2,0,0,17,05 Mar 2026 18:52:43,B5E0FD383D769D1C7590
+SD NEGERI SANTIAN,50307137,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,91,6,6,0,1,12,01 May 2026 15:33:49,53C673411BCCE75C67C8
+SD NEGERI TUATOIS,69980292,SD,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,3,41,6,6,0,1,25,04 Mar 2026 10:16:06,68FDDC1F31FD33D0542D
+SD GMIT ANMOLO,50306806,SD,Swasta,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,1,92,6,6,0,0,9,09 Mar 2026 12:51:11,C341F4A7BAD9F38672FD
+SD GMIT MANUFUI 1,50306836,SD,Swasta,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,6,1,35,6,6,0,1,18,13 Mar 2026 21:51:48,EEA1EF919FDAA71C0DCC
+SD GMIT MANUFUI 2,50306835,SD,Swasta,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,4,1,96,6,6,0,1,5,27 Jan 2026 14:52:16,241FB025666A89E13267
+SMP NEGERI MANUFUI,50307224,SMP,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,5,67,3,6,0,1,40,03 Mar 2026 07:58:34,B6074179B0BB78CA68AD
+SMP NEGERI SANTIAN,69980414,SMP,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,73,3,3,0,0,12,24 Apr 2026 14:54:13,5DC9CBF5D9AF5D3D1999
+SMP NEGERI SATU ATAP OELALI,69988047,SMP,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,2,58,3,3,1,2,27,14 Apr 2026 03:38:46,92A730B0B96226943EF9
+SMP KRISTEN 3 AMANATUN SELATAN,50307189,SMP,Swasta,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,4,0,0,0,0,0,0,,C6D9B71774163E46DFCC
+SMP KRISTEN 4 AMANATUN SELATAN,50300575,SMP,Swasta,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,0,0,0,0,0,0,0,0,,5706E6A299539BF54A3F
+SMP SWASTA KRISTEN 2 AMANATUN SELATAN,50300571,SMP,Swasta,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,4,1,100,6,6,1,1,18,16 Feb 2026 15:18:02,A3D58803AE48F39790A2
+SMAN SANTIAN,50307301,SMA,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,24,4,210,8,9,2,1,12,15 Apr 2026 20:43:35,B8B10066FBA7FD5DD108
+SMAS KRISTEN POLI,50307289,SMA,Swasta,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,1,127,6,10,1,1,40,29 Apr 2026 09:27:04,23D556925DB81B25845B
+SMK NEGERI RESTORASI MANUFUI,70012355,SMK,Negeri,Kec. Santian,240332,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,3,64,3,3,0,1,13,11 Apr 2026 08:52:40,B1FF1A80A6209BA154CD

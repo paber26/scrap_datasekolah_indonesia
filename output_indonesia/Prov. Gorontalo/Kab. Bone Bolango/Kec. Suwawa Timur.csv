@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 SUWAWA TIMUR,40500840,SD,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,10,3,164,8,10,1,1,21,12 Apr 2026 14:23:30,7C481F5C2138ADF64CBB
+SDN 2 SUWAWA TIMUR,40500907,SD,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,3,122,6,7,0,1,50,27 Apr 2026 09:07:52,1EC3B9F7013B40FB46A5
+SDN 3 SUWAWA TIMUR,40500924,SD,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,4,146,7,9,1,1,33,16 Apr 2026 12:04:57,0B2AD07F5A5E03502187
+SDN 4 SUWAWA TIMUR,40500993,SD,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,7,2,79,6,6,1,1,10,13 Apr 2026 16:26:22,C934062A09D224770A33
+SDN 5 SUWAWA TIMUR,69990586,SD,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,2,59,6,6,0,1,38,16 Mar 2026 10:52:49,384DDABE98C4B125E705
+SMP NEGERI 1 SUWAWA TIMUR,40500884,SMP,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,13,4,139,6,8,2,1,37,08 Apr 2026 08:25:40,4DEE96768EDFB055BA1B
+SMP NEGERI 2 SATU ATAP SUWAWA TIMUR,40501599,SMP,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,4,51,3,3,1,1,44,30 Apr 2026 17:58:41,CE0A31E00F5617B8469F
+SMP NEGERI 3 SATAP SUWAWA TIMUR,69964400,SMP,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,7,3,30,3,3,1,1,39,02 Apr 2026 15:11:33,3CAB5D0A9F6989252C4A
+SMAN 1 SUWAWA TIMUR,40502032,SMA,Negeri,Kec. Suwawa Timur,300415,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,13,5,123,5,7,4,1,35,06 Apr 2026 14:14:42,50F14F0E0C5D00D311BE

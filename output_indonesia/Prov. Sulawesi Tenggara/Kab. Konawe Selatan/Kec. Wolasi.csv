@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 WOLASI,40401886,SD,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,4,117,6,6,1,1,39,24 Apr 2026 06:30:48,AC485A4BBA61EC247462
+SD NEGERI 2 WOLASI,40402043,SD,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,3,94,6,6,0,1,10,11 Apr 2026 13:29:30,0B140FBBD88885967EAA
+SD NEGERI 3 WOLASI,40402013,SD,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,9,2,137,7,6,1,1,8,10 Apr 2026 10:34:06,8DADC8A647FE2CC65C2B
+SD NEGERI 4 WOLASI,40401797,SD,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,8,2,115,6,6,0,1,19,15 Apr 2026 23:30:30,868138FDE56ECB6F54BF
+SD NEGERI 5 WOLASI,40405081,SD,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,7,2,68,6,6,0,1,22,09 Apr 2026 15:13:50,08BCD4A4C6CE528D94B9
+SD NEGERI 6 WOLASI,40405035,SD,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,10,2,112,6,6,0,1,39,20 Apr 2026 18:16:09,AEAF5C944E41318EC766
+SMP NEGERI 24 KONAWE SELATAN,40401914,SMP,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,22,2,196,8,10,5,2,13,22 Apr 2026 23:29:26,03104541C0CD6F1DB44C
+SMP NEGERI 55 KONAWE SELATAN,40404812,SMP,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,11,1,59,3,3,3,3,9,08 Apr 2026 03:42:12,0E7829161F783489CAFB
+SMAN 13 KONAWE SELATAN,40405048,SMA,Negeri,Kec. Wolasi,200518,Kab. Konawe Selatan,200500,Prov. Sulawesi Tenggara,200000,25,5,277,9,12,4,1,41,29 Apr 2026 18:08:29,FBEF1FF9EE4F7D19D6DA

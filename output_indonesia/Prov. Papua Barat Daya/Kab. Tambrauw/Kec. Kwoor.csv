@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 83 HOPMARE,69728597,SD,Negeri,Kec. Kwoor,390504,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,10,1,53,6,6,0,1,57,01 May 2026 05:54:22,F5F33A23B9A3B6872FA8
+SD YPK EFATA KWOOR,60401313,SD,Swasta,Kec. Kwoor,390504,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,8,1,88,6,9,0,1,36,02 May 2026 04:03:54,F021858301836574397B
+SMP NEGERI KWOOR,69888672,SMP,Negeri,Kec. Kwoor,390504,Kab. Tambrauw,390500,Prov. Papua Barat Daya,390000,11,1,70,3,9,2,1,43,01 May 2026 11:19:41,D27C11039481AB2FD010

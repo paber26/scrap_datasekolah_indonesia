@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 044 HUTABANGUN,10208242,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,13,3,167,7,7,0,0,72,22 Apr 2026 10:13:41,96478AC0EA3216F46316
+SD NEGERI 045 MALINTANG,10208243,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,17,1,219,11,11,0,0,18,30 Apr 2026 10:03:38,67DF8092FE671C904051
+SD NEGERI 046 MALINTANG,10208244,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,9,2,114,6,6,0,1,27,02 May 2026 08:56:45,32F8AD8D8B4C00F52412
+SD NEGERI 047 JANJIMATOGU,10208245,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,11,1,48,6,6,0,1,22,20 Apr 2026 15:00:56,BA5E2E0D5C840D21A54B
+SD NEGERI 048 MALINTANG,10208360,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,9,3,80,6,6,0,1,6,28 Apr 2026 11:27:22,0A5C8B5C3FA7AF732EC4
+SD NEGERI 049 SIDOJADI,10207994,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,10,1,82,6,7,0,0,19,14 Apr 2026 11:19:03,5277E53F77D9C1FEFB78
+SD NEGERI 050 MALINTANG JULU,10207949,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,11,1,101,6,6,0,0,31,07 Apr 2026 18:00:46,535F4D61A8288E4E3D7B
+SD NEGERI 051 BANGE,10207979,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,11,3,62,6,6,1,1,54,30 Apr 2026 11:40:00,DF93AA3DB31067192F08
+SD NEGERI 052 MALINTANG JULU,10207981,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,11,3,141,8,6,0,0,5,06 Feb 2026 09:36:29,7BAEE4640B8002873BCA
+SD NEGERI 053 JANJIMATOGU,10259156,SD,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,10,1,50,6,6,0,1,23,10 Apr 2026 11:33:55,7C3842225E763A4F17C2
+SD ISLAM PERMATA,70030052,SD,Swasta,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,13,2,90,7,6,1,1,19,03 Apr 2026 23:54:00,F36B74D7B1E6F1E1B5ED
+SDS 054 MUHAMMADIYAH HUTABANGUN,10208210,SD,Swasta,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,8,2,84,6,6,0,0,10,16 Apr 2026 12:08:19,684978D93313FD2269B5
+SDS 055 MUHAMMADIYAH MALINTANG,10208211,SD,Swasta,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,8,1,128,6,7,0,0,12,02 May 2026 10:14:47,DB62AD12A2EAEEED34B2
+SDS ISLAM TERPADU DAARUL FADHIL,69965206,SD,Swasta,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,21,6,293,12,12,0,1,105,27 Apr 2026 19:59:38,B2A830501A2BDDD89338
+SMP NEGERI 1 BUKITMALINTANG,10208065,SMP,Negeri,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,20,2,129,6,6,2,1,41,25 Apr 2026 15:48:21,5F5F76500C508C1888FE
+SMP ISLAM TERPADU HAMID HAMKA,70004424,SMP,Swasta,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,9,1,127,6,5,1,1,12,30 Apr 2026 22:47:09,351031C06B665339D24C
+SMP IT DAARUL FADHIL,70047517,SMP,Swasta,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,6,3,51,3,3,0,0,14,03 Apr 2026 09:50:57,24CB8CF8383291418BF1
+SMK SWASTA HAMID HAMKA,69821193,SMK,Swasta,Kec. Bukit Malintang,071513,Kab. Mandailing Natal,071500,Prov. Sumatera Utara,070000,19,4,305,11,12,2,1,8,30 Apr 2026 13:38:00,EFCE081DF4ACBB355E78

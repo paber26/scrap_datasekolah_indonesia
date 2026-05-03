@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI HOKA,50300968,SD,Negeri,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,1,81,6,6,0,1,17,27 Apr 2026 14:03:23,58B04B652D9AF1C6D01A
+SD NEGERI SUNBAKI,50301034,SD,Negeri,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,2,102,6,6,1,1,36,10 Apr 2026 08:40:00,460022060A3124E7E7BC
+SD KATOLIK BENUS,50301099,SD,Swasta,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,0,111,6,6,0,1,15,08 Apr 2026 07:37:36,BDE2BB43026CC7237017
+SD KATOLIK SUNSEA,50301132,SD,Swasta,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,6,0,89,6,6,0,1,23,03 Mar 2026 08:10:08,A2CAB0232C3EF55B8B65
+SDK MANAMAS,50301175,SD,Swasta,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,5,1,131,6,8,0,1,12,15 Apr 2026 12:32:41,785DBEB728BF59405AA6
+SDK. BAKITOLAS,50301086,SD,Swasta,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,1,95,6,6,0,1,24,23 Apr 2026 12:32:55,FAA0A599252BE8939473
+SMP NEGERI SATAP HOKA,50307372,SMP,Negeri,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,14,4,77,3,5,1,1,25,27 Apr 2026 08:03:48,B938C8E9A8F553770779
+SMP SATAP NEGERI SUNBAKI,69728414,SMP,Negeri,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,12,1,93,4,3,1,1,23,06 Mar 2026 12:36:38,CE6A0E54B128C590743F
+SMP SWASTA KATOLIK ST GREGORIUS AGUNG MANAMAS,50307392,SMP,Swasta,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,12,2,171,6,7,1,1,19,16 Mar 2026 17:00:51,1EE55ADA86F1C8CB2106
+SMAN MANAMAS,69727470,SMA,Negeri,Kec. Naibenu,240418,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,20,4,271,9,9,2,1,13,27 Apr 2026 11:13:54,DB88AD23D246985020CE

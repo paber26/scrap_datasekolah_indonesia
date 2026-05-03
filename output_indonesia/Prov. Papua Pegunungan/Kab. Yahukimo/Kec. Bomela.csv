@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI YALMABI,69831569,SD,Negeri,Kec. Bomela,380340,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,8,1,606,19,1,0,0,6,05 Mar 2026 16:59:47,FDB4E6DC7DA8F40DADA8
+SDN BOMELA YAHUKIMO,69924478,SD,Negeri,Kec. Bomela,380340,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,300,10,11,0,0,53,30 Apr 2026 09:56:20,8C4EBE224EF63CC1D2B7
+SD YAKPESMI KEISJANSE KUBIYALAR,69831607,SD,Swasta,Kec. Bomela,380340,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,128,7,6,0,0,28,29 Apr 2026 14:41:16,AE8EF90575F4E856C52D
+SD YPK BOMELA,60302971,SD,Swasta,Kec. Bomela,380340,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,375,12,6,1,1,24,30 Apr 2026 18:33:03,1F3912B1CF4F3062AC3D

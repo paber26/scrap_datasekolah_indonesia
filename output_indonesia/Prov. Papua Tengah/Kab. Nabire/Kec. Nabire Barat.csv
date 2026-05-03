@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD  Negeri Inpres 02 Bumi Raya,60301730,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,14,1,151,9,7,0,0,15,07 Apr 2026 05:55:52,26F2FC091008E198C112
+SD Negeri Inpres 01 Bumi Raya,60301729,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,19,1,272,12,11,0,0,11,31 Mar 2026 05:06:07,67794DBA51FAAB4738C9
+SD NEGERI INPRES 01 KALISEMEN,60302754,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,12,1,235,10,10,0,1,45,29 Apr 2026 08:24:50,B61FCEC96171DD4B9D1F
+SD Negeri Inpres 02 Kalisemen,60302755,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,19,1,325,13,10,0,1,9,13 Mar 2026 04:03:40,9DB724AD9AAB6CD46CDF
+SD Negeri Inpres Kaliwadio,60302756,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,2,193,7,7,0,1,10,11 Mar 2026 12:26:51,7BE8BD91155929DB8F6A
+SD Negeri Inpres Wadio,60302773,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,17,2,345,12,13,0,1,19,30 Apr 2026 06:50:54,55D2CEDAE6DE73FD0EA9
+SD Negeri Inpres Waroki,60301768,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,12,1,230,9,7,0,1,65,29 Apr 2026 06:32:24,81D287EFE088C1B02078
+SD Negeri Yanarif Waroki,60301772,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,0,90,6,6,1,1,20,04 Apr 2026 20:39:21,9E952EF2CB3818FC776E
+SDN Wako Wadio Bawah,69774768,SD,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,10,1,105,6,6,0,0,12,09 Feb 2026 12:06:05,6EA0329DED3A01DEDF16
+SD ISLAM AL ANSHOR,70061591,SD,Swasta,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,0,1,0,0,0,0,0,0,,385A3C2D3CA59492517B
+SD ISLAM MENARA ILMU,70012836,SD,Swasta,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,3,57,5,8,0,1,14,27 Apr 2026 07:27:48,9FAADC91BB5395A16D17
+SMP Negeri 1 Nabire Barat,60303811,SMP,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,12,1,98,4,5,1,1,19,27 Apr 2026 07:30:16,B32646E43C267F5C5426
+SMP Negeri 2 Wanggar,60301878,SMP,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,33,4,539,18,19,2,1,55,29 Apr 2026 08:15:52,E33315CF4F9C24FA642F
+SMPN 3 Nabire Barat,69774771,SMP,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,16,2,131,6,6,1,2,22,12 Apr 2026 21:07:13,76275FB23D8CB490E268
+SMP Menara Ilmu,69786245,SMP,Swasta,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,1,93,4,4,2,1,15,25 Apr 2026 09:40:27,1FF880199DB7BC3B131E
+SMA NEGERI 1  PLUS KPG NABIRE,60301913,SMA,Negeri,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,31,5,423,13,14,2,2,37,24 Apr 2026 18:10:13,1571A4E0628F05E44754
+SMK YPAP NABIRE,70061403,SMK,Swasta,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,4,1,0,0,0,0,0,0,,2B38C5225818362604A5
+SMKS Asy Syafiiyah Teknologi Dan Rekayasa Nabire,69858459,SMK,Swasta,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,8,2,24,6,6,0,0,19,29 Apr 2026 11:39:34,54A3869F540C98183C9D
+SMKS Menara Ilmu Teknologi Dan Rekayasa Nabire,69948813,SMK,Swasta,Kec. Nabire Barat,360112,Kab. Nabire,360100,Prov. Papua Tengah,360000,3,2,6,1,3,1,1,2,15 Apr 2026 19:52:26,B53B160BA011ABE9FD4B

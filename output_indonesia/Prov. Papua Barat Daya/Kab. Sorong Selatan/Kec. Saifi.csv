@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES 89 KOMANGGARET,60403378,SD,Negeri,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,16,3,53,6,10,0,1,30,29 Apr 2026 20:14:34,68017BEC5F5AC735A47F
+SD NEGERI 36 KNAYA,70053825,SD,Negeri,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,1,0,20,5,6,0,0,18,02 Apr 2026 13:07:01,4137149116BB29B5C838
+SD YPK KWOWOK,60401683,SD,Swasta,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,7,1,27,6,6,0,0,157,29 Apr 2026 21:02:15,7848380DF55ACD61549C
+SD YPK MANGGROHOLO,60401712,SD,Swasta,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,4,1,49,6,6,0,0,7,23 Apr 2026 08:24:08,5BF0F9447D993D2B4597
+SD YPK MLASWAT,60401713,SD,Swasta,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,6,1,50,6,7,0,0,32,07 Apr 2026 11:46:03,E20DC7B0CC4C7C156B7A
+SD YPK PERSIAPAN PATMOS BOTAIN,69981936,SD,Swasta,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,1,0,15,6,6,0,0,7,01 May 2026 15:56:46,26E133CE34B491ED09B2
+SD YPK SAYAL,60401722,SD,Swasta,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,5,0,41,6,6,0,0,1,01 May 2026 08:49:28,224A04271149B0461240
+SD YPK SILO SISIR,60401726,SD,Swasta,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,4,1,43,6,6,0,0,28,27 Apr 2026 16:41:44,1FEB72B8F44F6AF0A2E5
+SMP NEGERI SAIFI,60402071,SMP,Negeri,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,20,1,175,6,3,2,1,255,01 May 2026 15:51:23,097634A3CC788F7B8C83
+SMA NEGERI SAIFI,70050744,SMA,Negeri,Kec. Saifi,390322,Kab. Sorong Selatan,390300,Prov. Papua Barat Daya,390000,13,0,66,3,3,1,1,306,02 May 2026 13:03:57,E796972C69BCE93185E3

@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Negeri 007 Tanjung Jabung Barat,10502075,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,8,3,102,6,7,0,0,19,01 May 2026 17:11:06,F7478B74743803815A5A
+SD Negeri 008 Tanjung Jabung Barat,10502076,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,26,3,451,18,19,0,1,29,28 Apr 2026 09:34:56,1E2C14C9FCBDBD88FB81
+SD Negeri 049 Tanjung Jabung Barat,10501822,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,18,3,395,15,15,0,1,14,30 Apr 2026 09:03:28,44F4477D8A12E4102353
+SD Negeri 051 Tanjung Jabung Barat,10501824,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,2,103,6,6,0,0,36,29 Apr 2026 12:49:15,94D54B34C08336343E0F
+SD Negeri 068 Tanjung Jabung Barat,10501773,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,0,114,6,5,1,1,11,27 Apr 2026 18:35:17,6C5C00DF30EE4BEA7200
+SD Negeri 155 Tanjung Jabung Barat,10501932,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,11,1,176,8,8,0,1,1,04 Mar 2026 21:57:43,46B1CD617547AF9BDE6B
+SD Negeri 156 Tanjung Jabung Barat,10501933,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,9,2,162,7,8,0,1,13,12 Apr 2026 20:18:56,08D0F17CCB92F38BF313
+SD Negeri 157 Tanjung Jabung Barat,10501934,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,9,2,141,6,8,0,3,9,02 Apr 2026 07:50:26,D66854FFE82DEDAC52F3
+SD Negeri 169 Tanjung Jabung Barat,10501920,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,1,117,6,7,0,2,6,30 Mar 2026 13:43:35,CFE7AC352657A47AD718
+SD Negeri 171 Tanjung Jabung Barat,10501935,SD,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,10,1,144,7,9,0,1,13,11 Feb 2026 11:10:29,83D7024DDA87476348C3
+SD SWASTA PERMATA AGRI,69902972,SD,Swasta,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,1,134,7,7,0,2,16,23 Apr 2026 11:26:00,4449A644DF4717254336
+SMP Negeri 06 Tanjung Jabung Barat,10501875,SMP,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,24,7,346,12,14,1,1,14,30 Apr 2026 10:29:40,6A4FD89B36F0A72FAF74
+SMP Negeri 11 Tanjung Jabung Barat,10501868,SMP,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,12,2,102,5,6,1,1,25,11 Apr 2026 09:50:22,2628A8ED2C253CD1D9F9
+SMP Negeri 20 Tanjung Jabung Barat,10505070,SMP,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,14,3,116,6,6,2,1,7,09 Apr 2026 09:25:13,AE013A40D698E5442C53
+SMP Negeri 26 Tanjung Jabung Barat,10505071,SMP,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,7,3,40,3,3,1,1,6,03 Apr 2026 21:40:08,B2124F30E9990F1C5302
+SMAN 10 TANJUNG JABUNG  BARAT,10505134,SMA,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,16,3,214,8,8,2,1,31,01 May 2026 07:57:51,2983975B8B0BC9F5A74B
+SMAN 4 TANJUNG JABUNG  BARAT,10501833,SMA,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,22,6,348,11,13,3,1,27,24 Apr 2026 22:06:54,680CB86A798EC41EAC81
+SMKN 3 TANJUNG JABUNG BARAT,10505803,SMK,Negeri,Kec. Merlung,100405,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,20,9,260,11,10,6,1,17,24 Apr 2026 08:27:02,8FCA1E9E6397920276F4

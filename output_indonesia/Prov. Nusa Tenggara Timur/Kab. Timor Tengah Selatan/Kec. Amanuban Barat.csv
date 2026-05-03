@@ -1,0 +1,30 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KILOBESA,50300913,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,13,4,190,9,8,1,1,16,05 Mar 2026 11:39:04,AEC83951B8FBD38DB0F5
+SD INPRES LIMAN,50300897,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,19,5,244,12,12,0,1,18,01 May 2026 06:20:34,A8F538BA70E84819FE3C
+SD INPRES MNELALETE,50300823,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,19,5,296,13,13,0,0,44,20 Apr 2026 13:16:42,2A1A4C4808E5B89FADB2
+SD INPRES NEONMAT,50300808,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,18,6,219,11,9,0,1,23,21 Apr 2026 11:53:12,4517263D06123048E8FD
+SD INPRES OEFATU,50300834,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,15,2,137,6,6,0,1,21,17 Apr 2026 16:54:34,727C04A8C35951F19E3D
+SD INPRES OENALI,50306957,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,18,4,237,12,12,0,2,52,01 May 2026 08:22:45,A77C1B27571793078049
+SD INPRES OEPULA,50306965,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,10,4,77,6,4,0,0,29,27 Apr 2026 20:06:20,809158490014D5710BD1
+SD INPRES OEUSAPI,50306958,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,2,139,6,6,0,1,39,01 May 2026 00:06:13,AF09542BA442A72B2864
+SD INPRES TANAH MERAH,50300562,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,25,2,314,14,12,0,1,33,28 Apr 2026 07:09:45,2056FF3BB2085575E195
+SD INPRES TUBUHUE,50306985,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,14,3,106,6,6,0,1,13,30 Apr 2026 08:23:43,C364091E5639B521D6E1
+SD NEGERI OEKAMUSA,50307102,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,26,3,337,16,11,0,1,44,30 Apr 2026 17:58:57,DD8935BF799508A2672C
+SD NEGERI OETIMU,69980161,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,4,98,6,7,0,1,9,06 Mar 2026 20:28:14,A8FE2B246CE25D59F69F
+SD NEGERI TUBUNAUS,50307152,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,3,153,7,6,0,1,15,07 Apr 2026 07:17:26,01805378E1879654CBBC
+SD NPRES NULLE,50306948,SD,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,12,3,155,8,5,0,2,32,24 Apr 2026 09:05:57,0022E682EFA6E0DA119F
+SD GMIT HAUMENIBAKI,50306826,SD,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,1,160,7,9,0,2,14,09 Apr 2026 18:43:58,91A8E00CD9E3625080D7
+SD GMIT NIFUKANI,50300779,SD,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,11,3,143,6,13,0,1,7,27 Feb 2026 18:13:15,F3532DD446E721D2A7FE
+SD GMIT NULLE,50300703,SD,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,2,59,6,6,0,0,12,09 Apr 2026 21:29:16,0D670BCA01357D6B12C2
+SD GMIT NUSA,50300708,SD,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,8,3,116,6,19,0,0,10,21 Apr 2026 12:42:06,EF819269984374759266
+SMP NEGERI 1 AMANUBAN BARAT,50307196,SMP,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,33,5,435,16,14,4,3,23,30 Apr 2026 07:49:30,D6FD0F7013546752452A
+SMP NEGERI LIMAN,50307221,SMP,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,40,12,482,17,18,2,1,66,30 Apr 2026 13:22:02,F77232C5E75A8AE403CB
+SMP NEGERI OEKAMUSA,50300581,SMP,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,21,5,121,6,7,2,1,32,27 Apr 2026 07:23:53,AB4324280C513CC39732
+SMP SATU ATAP OEUSAPI,50307255,SMP,Negeri,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,24,4,242,9,4,3,0,46,30 Apr 2026 16:35:11,6ED9AA8A3F61D08A4288
+SMP KENCANA SAKTI HAUMENI,69990731,SMP,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,91,5,6,0,1,30,21 Apr 2026 10:00:22,1AFA124D042551DB22DC
+SMP PGRI HAUMENBAKI,50307267,SMP,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,5,2,59,3,3,0,2,23,28 Apr 2026 05:44:09,CC90B57A325A3E07A112
+SMP PGRI KILOBESA,50300611,SMP,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,9,2,97,4,3,1,1,61,30 Apr 2026 16:19:41,FA170EE1E1A2EA5592D5
+SMAS PGRI MNELALETE,50307302,SMA,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,29,12,613,18,12,3,1,30,25 Apr 2026 06:12:34,FBCA99383069D21CBD82
+SEKOLAH MENENGAH KEJURUAN EKFIN,70056493,SMK,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,2,2,0,0,0,0,0,0,,054299CA1243487BBBAE
+SMK Swasta Kencana Sakti Haumeni,69979220,SMK,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,22,3,281,12,17,1,1,49,27 Apr 2026 09:17:42,43D0D918CA1FBB770C5B
+SMKS PGRI KILOBESA,50309203,SMK,Swasta,Kec. Amanuban Barat,240304,Kab. Timor Tengah Selatan,240300,Prov. Nusa Tenggara Timur,240000,7,3,32,6,6,1,0,13,16 Apr 2026 20:30:27,839F0E80DFD7C4DDCAE6

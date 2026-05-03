@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI ADOW,40100236,SD,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,4,77,6,9,0,1,26,13 Apr 2026 20:19:30,1E9BE1CDE256C13CE457
+SD NEGERI ADOW SELATAN,40105218,SD,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,8,5,71,6,6,0,1,11,05 Apr 2026 23:41:08,90D093BB4A92D6F90670
+SD NEGERI DEAGA,40100628,SD,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,9,5,63,6,7,0,1,24,13 Mar 2026 20:37:03,6C1114F1423A87AB39FE
+SD NEGERI LOPON,40105219,SD,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,5,1,18,6,6,0,1,6,04 Feb 2026 10:23:54,57DFF25A96AE3B54921E
+SD NEGERI MATAINDO,40100349,SD,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,10,1,144,6,7,0,1,13,12 Mar 2026 08:59:13,C2CC4CDA862876648FA7
+SD NEGERI TOBAYAGAN,40100366,SD,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,3,163,9,13,0,1,13,24 Apr 2026 08:58:36,0DA25575F7EC98E6A3B4
+SD NEGERI TOROSIK,40100692,SD,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,9,2,56,6,7,0,1,17,03 Feb 2026 10:24:24,A75BB6E6E2D6E851AA99
+SMP NEGERI ADOW,40100305,SMP,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,16,2,125,6,8,2,1,38,02 May 2026 12:52:42,75F2F3B4EF3D27A7CC4E
+SMP NEGERI TOBAYAGAN,69772562,SMP,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,3,103,6,3,2,1,16,21 Apr 2026 11:06:13,09B89D74BBCC0704449B
+SMP SATAP NEGERI MATAINDO,40105221,SMP,Negeri,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,2,68,3,3,0,1,28,02 May 2026 12:24:00,F27E1C4D34E05B74384B
+SMK BUDI MULIA ADOW,69899043,SMK,Swasta,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,5,2,120,5,8,1,1,70,29 Apr 2026 10:34:51,36890C39E944A66DFFA0
+SMK LPMD ADOW,69756796,SMK,Swasta,Kec. Pinolosian Tengah,171205,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,7,143,6,4,9,1,15,28 Apr 2026 07:51:28,6037DADDD8E02A0EC2B8

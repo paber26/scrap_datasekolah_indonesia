@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES WAMEREK,60303314,SD,Negeri,Kec. Tangma,380318,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,530,17,3,0,0,27,24 Apr 2026 20:23:11,04CFCCAE75206AAEF49A
+SD NEGERI TANGMA,70033486,SD,Negeri,Kec. Tangma,380318,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,307,10,6,0,1,4,01 Feb 2026 18:03:03,37965A73D4C0B1D091A8
+SD YPPGI TANGMA,60303299,SD,Swasta,Kec. Tangma,380318,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,459,15,11,0,0,48,23 Apr 2026 22:42:16,DB8C2D04D64868C63A41
+SMPN TANGMA,69831964,SMP,Negeri,Kec. Tangma,380318,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,8,1,221,7,3,0,0,11,14 Mar 2026 19:17:48,385A3DA48B946916AB78
+SMPS YPPGI TANGMA,69796685,SMP,Swasta,Kec. Tangma,380318,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,2,313,8,8,0,0,159,01 May 2026 17:39:56,EDFB841910758850B4F7

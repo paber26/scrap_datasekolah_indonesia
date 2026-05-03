@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MADWAT,60100783,SD,Negeri,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,13,2,45,6,6,0,1,21,30 Mar 2026 17:42:43,DAE2ACD27B4842D23587
+SD NEGERI NGURSIT,60100759,SD,Negeri,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,19,1,101,6,6,1,1,40,10 Apr 2026 12:47:02,C9A365865D1DD2B3A84A
+SD NEGERI OHOIBADAR,60100757,SD,Negeri,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,16,2,41,6,6,1,1,51,05 Apr 2026 08:01:29,4E117A95E6DB96511CBA
+SD NEGERI WAB,60100770,SD,Negeri,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,9,1,176,7,9,1,1,30,30 Apr 2026 07:51:21,D9B30A793411777159BB
+SD NEGERI WARWUT,60102727,SD,Negeri,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,13,1,71,6,6,0,1,6,05 Mar 2026 02:55:33,D5DFF454E70F8A777299
+SD KRISTEN DIAN DARAT,60100900,SD,Swasta,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,4,1,105,6,6,0,1,5,13 Feb 2026 12:11:20,6F18CE3264760C152C97
+SD KRISTEN WATNGIL,60100903,SD,Swasta,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,4,1,53,6,6,0,1,6,17 Apr 2026 05:33:51,8F9F992030C08CB6E967
+SD NASKAT EVU,60103279,SD,Swasta,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,11,1,98,6,6,0,1,12,13 Mar 2026 06:13:45,B274D0A90FC4012BEDF7
+SD NASKAT LETVUAN,60100907,SD,Swasta,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,7,2,139,6,6,0,1,11,30 Apr 2026 11:14:59,0FC7A726C1F4B578EB87
+SMP NEGERI 13 KEI KECIL,69878995,SMP,Negeri,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,18,2,124,5,6,1,1,22,16 Apr 2026 13:45:59,5D4B65BCA69C6652892A
+SMP NEGERI 7 KEI KECIL,60100832,SMP,Negeri,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,25,2,155,6,6,2,1,32,15 Apr 2026 09:08:00,7A68BA402011FB3F0A93
+SMP KRISTEN DIAN,60103661,SMP,Swasta,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,6,3,56,3,3,0,1,18,29 Apr 2026 08:55:50,88793E9747C451708A09
+SMA Negeri 10 Maluku Tenggara,69893230,SMA,Negeri,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,17,4,144,6,6,2,4,11,26 Apr 2026 00:03:44,70CDB57843211FFE0EC5
+SMK KESEHATAN LUSWED OHOI DIAN DARAT,69921599,SMK,Swasta,Kec. Hoat Sorbay,210215,Kab. Maluku Tenggara,210200,Prov. Maluku,210000,12,1,70,6,4,1,1,12,10 Apr 2026 19:07:32,2714C9013F4D91117375

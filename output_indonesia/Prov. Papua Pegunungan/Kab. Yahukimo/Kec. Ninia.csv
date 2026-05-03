@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BABET,60303269,SD,Negeri,Kec. Ninia,380303,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,2,1,364,15,5,0,0,69,02 May 2026 12:41:03,B0FF12F2DCA7CAB8E44C
+SD INPRES NINIA,60303278,SD,Negeri,Kec. Ninia,380303,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,481,14,6,0,0,111,02 May 2026 09:40:00,D7EADEA43023D6EB4B94
+SD NEGERI LILIGAN,69831599,SD,Negeri,Kec. Ninia,380303,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,7,1,155,6,7,0,0,23,24 Apr 2026 15:59:53,E84285F16E52C4C08F47
+SD NEGERI NINIA,70040497,SD,Negeri,Kec. Ninia,380303,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,0,1,91,7,6,0,0,34,18 Apr 2026 19:23:51,0A29924B1417B8A5E02C
+SD YPPGI NINIA,60303297,SD,Swasta,Kec. Ninia,380303,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,6,1,368,16,6,0,0,7,01 Mar 2026 11:33:06,53B0DB0AE01BC3701F9C
+SMP NEGERI YALISOMUN,70042127,SMP,Negeri,Kec. Ninia,380303,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,1,1,307,9,3,0,0,27,22 Apr 2026 15:51:19,7C74E4763D0AFA86D0B7
+SMP NINIA,60303329,SMP,Negeri,Kec. Ninia,380303,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,0,254,7,6,1,1,17,22 Mar 2026 10:47:51,FC39477D3ABB97D1080B

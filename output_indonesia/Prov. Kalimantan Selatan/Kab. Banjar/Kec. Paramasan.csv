@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD KECIL PARAMASAN ATAS,30311950,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,7,0,40,6,3,0,0,19,02 May 2026 15:44:39,73ADF2E82988F9E539E9
+SD KECIL REMO,30311951,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,6,1,14,5,4,0,0,23,02 Mar 2026 08:25:06,8E659FF601813ABA8425
+SD NEGERI ANGKIPIH,30300411,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,8,1,74,6,5,0,0,9,06 Apr 2026 15:09:27,5274A3777AE6E54F1171
+SD NEGERI PARAMASAN BAWAH 1,30312538,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,6,2,119,6,11,0,1,21,12 Apr 2026 18:45:22,61E86C6576ADC978CDE7
+SD NEGERI PARAMASAN BAWAH 2,30311947,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,7,1,59,6,5,0,0,14,07 Apr 2026 23:46:50,E78655BD142897EEA805
+SD NEGERI PARAMASAN BAWAH 3,30311948,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,9,1,31,6,6,0,1,24,10 Mar 2026 10:12:49,8C27774AA2DE02228C54
+SD NEGERI PERAMASAN ATAS,30300213,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,8,1,62,6,6,0,1,11,22 Apr 2026 07:11:48,9561B7F465E4E27B1A00
+SD NEGERI REMO,30300198,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,6,1,33,6,6,0,0,8,04 Apr 2026 19:01:49,8E559E60996489E04321
+SDN PARAMASAN BAWAH 4,30311949,SD,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,7,1,49,6,6,0,0,11,16 Apr 2026 16:29:21,E761B3052533DC99A3DF
+SMP NEGERI 1 PARAMASAN,30311557,SMP,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,11,1,94,3,3,2,1,16,07 Apr 2026 09:28:05,2A08F78FE86379F87364
+SMAN 1 Paramasan,69972096,SMA,Negeri,Kec. Paramasan,150116,Kab. Banjar,150100,Prov. Kalimantan Selatan,150000,16,8,73,3,3,2,1,20,24 Apr 2026 06:50:51,566174534757241EB463

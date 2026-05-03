@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 1 LONTAR SELATAN,30303524,SD,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,20,1,291,14,7,0,0,34,04 Mar 2026 18:25:59,C3B773244201C3C79C73
+SD NEGERI 2 LONTAR SELATAN,30303525,SD,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,17,1,239,12,13,0,1,84,02 May 2026 08:53:51,2467C06F790A12B97760
+SD NEGERI GEMURUH,30303404,SD,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,18,0,247,13,11,1,1,19,30 Apr 2026 17:04:41,BE2140971692DA27D16D
+SD NEGERI SEMARAS,30303465,SD,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,1,141,6,7,0,1,11,02 May 2026 14:40:34,380483168E9EDEC366BB
+SD NEGERI SEPAGAR,30303249,SD,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,9,1,56,6,6,0,1,18,26 Apr 2026 21:14:22,3E4A0B7585AAC2EA2F00
+SDN SUBUR MAKMUR,30311544,SD,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,8,1,75,6,6,0,0,9,09 Apr 2026 06:03:34,940F31FDBB9419700F9D
+SDN TERANGKEH,30303223,SD,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,11,3,116,6,7,0,1,24,13 Apr 2026 08:39:27,C450E021472416AC58D7
+SMP NEGERI 1 PULAU LAUT BARAT,30303314,SMP,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,20,3,240,9,9,2,1,9,27 Apr 2026 16:10:03,352C76477D49A51A14F8
+SMP NEGERI 2 PULAU LAUT BARAT,30303285,SMP,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,7,1,75,3,3,3,1,43,29 Apr 2026 08:42:48,400DB414FC038E393F4F
+SMAN 1 PULAU LAUT BARAT,30303324,SMA,Negeri,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,27,8,637,19,19,6,1,8,10 Apr 2026 19:16:24,7228739AB4B7FD333E75
+SMA Nahdlatul Wathan,69990582,SMA,Swasta,Kec. Pulau Laut Barat,150902,Kab. Kotabaru,150900,Prov. Kalimantan Selatan,150000,13,1,0,0,0,0,0,0,,4979A6CF7AFD3AF2A1E7

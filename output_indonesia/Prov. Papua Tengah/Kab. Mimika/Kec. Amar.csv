@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPPK IPAYA,60300855,SD,Swasta,Kec. Amar,360417,Kab. Mimika,360400,Prov. Papua Tengah,360000,5,1,244,8,10,1,1,16,27 Apr 2026 21:01:11,794E223071668FAE9449
+SD YPPK ST.FRANSISKUS XAVERIUS AMAR,60302851,SD,Swasta,Kec. Amar,360417,Kab. Mimika,360400,Prov. Papua Tengah,360000,4,1,222,7,8,0,0,11,16 Apr 2026 09:51:46,77130D3464CF055B6361
+SMP NEGERI AMAR,69930489,SMP,Negeri,Kec. Amar,360417,Kab. Mimika,360400,Prov. Papua Tengah,360000,9,2,64,3,3,1,1,7,31 Mar 2026 18:51:02,C736A5AF383D17BAB57C

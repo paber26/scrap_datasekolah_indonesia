@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES PANGU,40102250,SD,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,9,1,99,6,6,1,1,8,01 May 2026 08:53:12,E544A29EAEEEBDABAF62
+SD INPRES WIOI,40102251,SD,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,9,1,63,6,6,0,2,7,03 Mar 2026 19:13:26,29EF62C468BC3E569323
+SD INPRES WONGKAI,40102252,SD,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,1,41,6,6,0,0,10,04 Mar 2026 07:03:21,A327952C8CFD68E5C76D
+SD NEGERI WIOI,40101895,SD,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,8,1,123,6,6,0,1,7,03 Mar 2026 07:57:16,377DD465DCC5391963B2
+SD Negeri Wioi Timur,69960341,SD,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,4,1,23,6,3,0,0,13,15 Apr 2026 21:52:44,04D287E56660DC453C42
+SD GMIM PANGU,40102107,SD,Swasta,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,6,1,72,6,6,1,1,13,13 Apr 2026 17:29:18,7896380E16ED58A432A9
+SD GMIM WONGKAI,40102283,SD,Swasta,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,7,1,26,6,6,0,0,25,30 Apr 2026 09:38:49,D995BF06287078C2229C
+SMP NEGERI 3 RATAHAN,40102025,SMP,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,11,1,98,5,7,2,1,23,22 Apr 2026 08:42:47,6E89F150FB3B8DC94099
+SMP NEGERI 4 RATAHAN,40103496,SMP,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,10,0,66,3,3,1,2,19,06 Mar 2026 13:04:05,E12932590DF80E5B5A90
+SMP NEGERI 7 RATAHAN,40103658,SMP,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,9,1,25,3,3,2,1,18,22 Apr 2026 20:47:19,A8F2205D67FABA0A27BB
+SMA Negeri 1 Ratahan Timur,69900621,SMA,Negeri,Kec. Ratahan Timur,171012,Kab. Minahasa Tenggara,171000,Prov. Sulawesi Utara,170000,12,1,31,3,3,0,0,36,24 Apr 2026 09:36:23,0412CDE59C23FEB0D24C

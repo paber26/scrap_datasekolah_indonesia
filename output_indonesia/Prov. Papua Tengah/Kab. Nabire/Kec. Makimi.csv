@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD Inpres Nifasi,60301797,SD,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,11,1,133,6,6,0,0,15,23 Apr 2026 13:10:59,6E3A79CF82350085A47B
+SD Negeri  Inpres Maidei,60301794,SD,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,11,2,114,6,9,0,0,23,13 Apr 2026 10:25:26,C3BADD7A7E31DA4D86AC
+SD Negeri Inpres Biha,60301726,SD,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,11,0,200,9,14,0,1,12,23 Apr 2026 05:56:45,E77EAB9CDDB770ECD958
+SD Negeri Inpres Legare Jaya,60302763,SD,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,12,0,198,8,11,0,1,21,16 Apr 2026 06:41:43,B0F486F1373EDC45A60D
+SD Negeri Inpres Legari IV,60301793,SD,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,12,2,95,6,7,0,0,12,29 Apr 2026 08:20:24,549B8698D93A01ADA820
+SD Negeri Nusi,69758482,SD,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,9,1,45,6,4,0,0,37,01 May 2026 10:33:03,CBD2105C4D35C6DC0C36
+SD YPK Syaloom Makimi,60301823,SD,Swasta,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,3,1,59,6,7,0,0,13,28 Apr 2026 12:45:08,96D3FC6BC9339B3A6784
+SMP Negeri 1 Makimi,60301869,SMP,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,17,2,265,10,10,3,1,46,28 Apr 2026 09:32:13,3D40FE56A23095B30CC8
+SMP Negeri 2 Makimi,60303790,SMP,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,13,1,28,3,3,1,1,31,27 Apr 2026 12:58:28,49E5DC5A22C0D61397EB
+SMPN 3 Makimi,69774769,SMP,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,7,1,26,3,3,0,0,13,25 Apr 2026 20:36:22,3F4120BC8216A1A34B90
+SMA Negeri 6 Nabire,60302983,SMA,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,18,2,205,7,8,2,1,28,28 Apr 2026 19:40:04,8C995CBC0331F3BB06EE
+SMK Negeri 3 Agribisnis Dan Teknologi Nabire,60301906,SMK,Negeri,Kec. Makimi,360107,Kab. Nabire,360100,Prov. Papua Tengah,360000,20,2,108,8,17,1,1,27,16 Apr 2026 10:00:51,D8C371AD373546D5A463

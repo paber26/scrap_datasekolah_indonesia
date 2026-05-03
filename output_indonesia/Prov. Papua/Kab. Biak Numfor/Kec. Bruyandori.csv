@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BRUYADORI,60300405,SD,Negeri,Kec. Bruyandori,250213,Kab. Biak Numfor,250200,Prov. Papua,250000,8,1,47,6,14,1,1,42,31 Mar 2026 18:13:39,DDB8BBCAE5FFF1E22B88
+SD YPK DAFI,60302952,SD,Swasta,Kec. Bruyandori,250213,Kab. Biak Numfor,250200,Prov. Papua,250000,2,1,148,6,6,0,0,18,22 Apr 2026 22:45:03,CDDAD398D3315E163B98
+SD YPK INASI,60300431,SD,Swasta,Kec. Bruyandori,250213,Kab. Biak Numfor,250200,Prov. Papua,250000,3,1,74,6,6,0,0,15,24 Apr 2026 11:29:05,1938464D7200B1395E62
+SD YPK MANDORI,60300436,SD,Swasta,Kec. Bruyandori,250213,Kab. Biak Numfor,250200,Prov. Papua,250000,5,1,117,6,6,0,1,27,01 May 2026 09:19:44,5A1982C8E7648D1D072F
+SD YPK SANDAUW,60300302,SD,Swasta,Kec. Bruyandori,250213,Kab. Biak Numfor,250200,Prov. Papua,250000,6,0,96,6,7,0,0,28,12 Apr 2026 20:21:53,11F3EBBF7979A062EA60
+SMP NEGERI 2 NUMFOR TIMUR,60301708,SMP,Negeri,Kec. Bruyandori,250213,Kab. Biak Numfor,250200,Prov. Papua,250000,10,4,194,6,10,1,1,245,02 May 2026 16:04:43,4A0A8B49D5FDBD1555A3
+SMPN 3 NUMFOR TIMUR,69725707,SMP,Negeri,Kec. Bruyandori,250213,Kab. Biak Numfor,250200,Prov. Papua,250000,5,2,85,3,3,1,1,13,27 Mar 2026 11:54:41,BE2C7633CBD38C305724
+SMA NEGERI  BRUYADORI,69961109,SMA,Negeri,Kec. Bruyandori,250213,Kab. Biak Numfor,250200,Prov. Papua,250000,10,2,244,7,3,3,1,39,10 Apr 2026 20:05:12,6E34E1C1A2F17D237606

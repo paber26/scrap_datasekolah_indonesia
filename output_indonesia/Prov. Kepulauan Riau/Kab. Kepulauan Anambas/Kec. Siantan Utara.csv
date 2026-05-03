@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 PIASAN,11001180,SD,Negeri,Kec. Siantan Utara,310510,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,13,56,6,6,1,1,13,10 Apr 2026 18:50:27,A565F783018E108C5A64
+SDN 002 BAYAT,11001194,SD,Negeri,Kec. Siantan Utara,310510,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,5,5,76,6,7,0,1,7,19 Apr 2026 20:45:08,C637E50B1B822D65D8D8
+SDN 003 PALAH,11001337,SD,Negeri,Kec. Siantan Utara,310510,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,3,4,9,4,6,0,0,25,01 May 2026 21:08:02,BDE86BA0222EF1651682
+SDN 004 PIAN PASIR,11001339,SD,Negeri,Kec. Siantan Utara,310510,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,6,61,6,6,0,1,16,29 Apr 2026 08:38:21,FD027EB9A9AB45A3B0F5
+SDN 005 MUBUR KECIL,69856267,SD,Negeri,Kec. Siantan Utara,310510,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,8,36,6,7,0,0,42,30 Apr 2026 11:27:10,90175113B0919D40F641
+SMPN 1 SIANTAN UTARA,11002511,SMP,Negeri,Kec. Siantan Utara,310510,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,10,13,78,3,6,2,1,12,28 Apr 2026 18:31:32,36D35D6B61A7A9262E08
+SMPN 2 BAYAT,69963963,SMP,Negeri,Kec. Siantan Utara,310510,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,5,20,3,4,1,0,19,10 Apr 2026 05:37:35,393D5105FBE8E782E75A
+SMAN 1 SIANTAN UTARA,69859728,SMA,Negeri,Kec. Siantan Utara,310510,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,13,5,92,3,5,4,1,18,27 Apr 2026 11:48:05,44A2FAAF19BCDC3A284B

@@ -1,0 +1,22 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI INOSOTA,40100206,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,10,2,55,6,6,0,1,11,21 Apr 2026 08:10:29,CDE07A0780F8D6591406
+SD NEGERI LION,40100716,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,2,94,6,6,1,1,30,29 Apr 2026 20:56:00,70F5B4576FB8F6344223
+SD NEGERI LUWOO,40100614,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,10,3,120,6,7,0,1,21,07 Apr 2026 03:49:33,546B9CA34A52B36FF668
+SD NEGERI MANGGADAA,40100209,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,13,1,89,6,6,0,1,7,04 Apr 2026 17:41:35,078AE12F260EC3DC3995
+SD NEGERI MEYAMBANGA,40100114,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,13,3,108,6,6,0,1,14,03 Apr 2026 21:26:09,E63A111D3477CABC5AED
+SD NEGERI MEYAMBANGA TIMUR,70043974,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,1,80,6,6,0,0,26,24 Apr 2026 09:43:07,074A0F80C967AD282EC2
+SD NEGERI MOLOSIPAT,40100442,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,1,63,6,6,0,1,6,04 Apr 2026 16:13:24,725B8A2979F48DCF617D
+SD NEGERI MOMALIA 1,40100149,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,17,4,227,12,12,1,1,38,29 Apr 2026 08:05:43,DBB12ABF304C478BF058
+SD NEGERI MOMALIA 2,40105214,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,8,3,119,6,6,0,1,27,09 Apr 2026 20:03:03,123DD949EE5F3B9AF46D
+SD NEGERI MOMALIA 3,40100191,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,23,0,190,10,10,1,1,45,30 Apr 2026 16:55:09,B635E107B4C2F91978A3
+SD NEGERI PILOLAHUNGA,40105215,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,15,2,130,7,7,0,1,25,09 Apr 2026 07:48:28,D3B1194DB8DB9B619492
+SD NEGERI SAIBUAH,40100354,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,11,2,106,7,6,0,1,21,07 Apr 2026 10:35:27,08AE219CE732C8CC64C5
+SD NEGERI SAKTI,40100652,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,8,4,100,6,6,1,1,11,15 Apr 2026 08:14:57,BD9D57C99B9456E1C67F
+SD NEGERI SINOMBAYUGA,40100177,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,1,101,6,6,0,1,22,04 Apr 2026 01:35:44,DA2C47D8E775E84E83A2
+SD NEGERI TONALA,40100723,SD,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,13,3,135,8,8,0,1,7,03 Mar 2026 21:35:38,19183F66F35564A1A02B
+SMP NEGERI LION,40100280,SMP,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,3,72,3,4,3,1,14,10 Apr 2026 14:39:57,8EEAF7D7A4170FD3B6FB
+SMP NEGERI MOMALIA,40100297,SMP,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,37,5,292,12,12,2,1,29,29 Apr 2026 12:37:53,EA064ACF7B32330E1D95
+SMP NEGERI SATU ATAP LUWOO,40105224,SMP,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,12,1,62,3,3,1,1,20,20 Apr 2026 13:37:14,ADC63201270870019A6F
+SMP NEGERI SINOMBAYUGA,40100335,SMP,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,16,8,126,6,7,1,1,31,07 Apr 2026 11:24:54,49DE942C5BA1776C304A
+SMP NEGERI TONALA,69873988,SMP,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,19,7,162,6,9,2,1,15,27 Apr 2026 12:44:57,78AEDA81C7A51896A62B
+SMKN 1 POSIGADAN,40103449,SMK,Negeri,Kec. Posigadan,171202,Kab. Bolaang Mongondow Selatan,171200,Prov. Sulawesi Utara,170000,36,8,388,19,21,3,1,25,24 Apr 2026 08:24:33,71C880BC88B87E5E9539

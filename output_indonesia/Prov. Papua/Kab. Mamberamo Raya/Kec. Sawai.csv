@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI ANASI,60304755,SD,Negeri,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,5,0,0,0,0,0,0,0,,F4048491739124CFBD0A
+SD NEGERI PERSIAPAN MESIRI,60304797,SD,Negeri,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,0,47,6,6,0,1,15,06 Apr 2026 21:18:55,C2E395AD3B38870FE648
+SD NEGERI PERSIAPAN MITIWI,60304798,SD,Negeri,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,2,1,49,6,6,0,0,5,20 Jan 2026 01:52:48,6EA1A608ECF7A7265DDB
+SD NEGERI RAPAMERAI,60304809,SD,Negeri,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,7,1,90,6,6,0,0,15,23 Apr 2026 18:28:45,69FE0B7B4C1E523E81E7
+SD NEGERI TAMAKURI,60304811,SD,Negeri,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,2,1,76,6,6,0,0,5,16 Apr 2026 08:27:51,AD6D8EFD46DE721CBFD1
+SD YPK BONOI,60304817,SD,Swasta,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,8,1,76,6,2,0,0,14,20 Apr 2026 18:43:24,569EFF372B3B0DC447B0
+SD YPK ELIM POIWAI,60304818,SD,Swasta,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,0,105,6,6,0,0,11,09 Mar 2026 18:12:42,8866C1D4BC2378CC9A41
+SD YPK SOLAVIDE SORABI,60304822,SD,Swasta,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,4,1,14,6,1,0,0,2,27 Feb 2026 20:53:16,30BBD8061BB202438346
+SMP NEGERI POIWAI,60304829,SMP,Negeri,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,3,1,47,3,6,1,1,12,04 Mar 2026 12:37:05,328F2566E7CE13A16394
+SMP SATU ATAP BONOI,60304835,SMP,Negeri,Kec. Sawai,252810,Kab. Mamberamo Raya,252800,Prov. Papua,250000,15,2,89,4,5,2,1,22,20 Apr 2026 17:29:13,D14CC00A6824CB9947BE

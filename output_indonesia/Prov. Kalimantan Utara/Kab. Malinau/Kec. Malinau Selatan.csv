@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 MALINAU SELATAN,30400494,SD,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,15,5,192,10,10,0,1,19,24 Apr 2026 09:08:51,CFFAAB88B1D98F400CC9
+SD NEGERI 002 MALINAU SELATAN,30400522,SD,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,17,5,211,9,9,0,1,41,27 Apr 2026 09:50:14,9C77B823D4B7ACC817D1
+SD NEGERI 003 MALINAU SELATAN,30400453,SD,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,17,4,67,10,6,0,1,45,01 May 2026 22:32:55,C28C18651A0D6450105E
+SD NEGERI 004 MALINAU SELATAN,69786914,SD,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,11,0,51,6,11,0,1,19,23 Apr 2026 09:12:43,EBE14E83BCE711F69CE3
+SD NEGERI 005 MALINAU SELATAN,30400459,SD,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,13,5,81,6,6,0,1,16,01 May 2026 11:28:08,8069BE9142FE7004ECB7
+SD NEGERI 006 MALINAU SELATAN,69992670,SD,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,12,3,117,6,6,0,0,82,27 Apr 2026 11:33:45,B86871175C7C7E459E82
+SMP NEGERI 1 MALINAU SELATAN,30400468,SMP,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,24,5,263,9,10,2,1,41,27 Apr 2026 21:38:10,722235E607F55AB97177
+SMP NEGERI 2 MALINAU SELATAN,70032042,SMP,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,11,8,38,3,3,0,1,25,16 Apr 2026 19:51:55,9AE49F7CAF1180C18419
+SMA NEGERI 5 MALINAU,30405856,SMA,Negeri,Kec. Malinau Selatan,340107,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,15,8,187,6,5,4,1,30,14 Apr 2026 14:00:32,D28D06B2502B90728207

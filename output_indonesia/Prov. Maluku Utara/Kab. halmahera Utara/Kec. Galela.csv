@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES MAMUYA,60201787,SD,Negeri,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,23,2,231,12,11,0,1,12,07 Mar 2026 18:16:17,1B756DA64993EB3AAAC7
+SD INPRES SIMAU,60201801,SD,Negeri,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,13,2,122,7,7,0,1,48,22 Apr 2026 20:34:44,999606E2EA381AD84EA0
+SD INPRES SOASIO,69786651,SD,Negeri,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,12,4,151,6,6,1,1,26,22 Apr 2026 23:55:54,1602639B376AB52945AA
+SD NEGERI SOASIO,60201854,SD,Negeri,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,11,5,97,6,6,0,1,36,08 Mar 2026 08:09:52,E5A4B6574A0DC78D3FEC
+SD GMIH MAMUYA,60201743,SD,Swasta,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,4,1,99,6,6,0,1,15,20 Apr 2026 10:51:11,3AA09CE477A877E5AF72
+SMP NEGERI 5 HALMAHERA UTARA,60200277,SMP,Negeri,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,27,5,268,10,12,2,1,60,30 Apr 2026 11:44:31,E5E092473C537EE469D0
+SMP HAWA DJURUMUDI HARUM,70053519,SMP,Swasta,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,0,0,0,0,0,0,0,0,,814D6BA930314688364B
+SMA NEGERI 2 HALMAHERA UTARA,60200292,SMA,Negeri,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,37,4,383,12,15,4,1,31,29 Apr 2026 06:12:56,CFCA69B878514BA169EE
+SMAS MUHAMMADIYAH GALELA,60201924,SMA,Swasta,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,10,1,26,3,2,2,0,12,17 Apr 2026 17:22:51,A20F842BFC7BD767C0BF
+SMK ARH 2 HALUT,69982209,SMK,Swasta,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,11,2,80,3,3,2,1,23,02 May 2026 07:52:26,55C9E419B85B6C40D9B1
+SMK BINA MITRA,69945606,SMK,Swasta,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,3,1,46,3,3,0,0,22,22 Apr 2026 12:34:25,F644FE4C041AC98C975D
+SMKS TARAKANI GALELA,60202878,SMK,Swasta,Kec. Galela,270404,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,7,2,154,8,9,1,1,52,28 Apr 2026 11:41:21,EA0204FE6F1013E5C971

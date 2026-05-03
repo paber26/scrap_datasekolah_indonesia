@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI PILIAM,60303540,SD,Negeri,Kec. Pronggoli,380324,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,3,1,118,6,6,0,0,6,26 Jan 2026 08:34:09,8E56F22ED9590EDE6446
+SD NEGERI PILIK,60303541,SD,Negeri,Kec. Pronggoli,380324,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,7,1,281,9,6,0,0,7,01 May 2026 10:33:48,BAE11ECF4BFC9C45D68D
+SD YPK PRONGGOLI,60303268,SD,Swasta,Kec. Pronggoli,380324,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,7,1,510,15,3,0,0,1,22 Jan 2026 14:37:51,28F29DBE5DC66501B465
+SMPN PRONGGOLI,60303546,SMP,Negeri,Kec. Pronggoli,380324,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,4,1,362,9,13,1,0,6,17 Mar 2026 03:38:37,7C78CBB88610D67463F2

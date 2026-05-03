@@ -1,0 +1,6 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI ANDEI,60300292,SD,Negeri,Kec. Poiru,250214,Kab. Biak Numfor,250200,Prov. Papua,250000,11,2,119,6,6,0,0,63,14 Apr 2026 23:39:34,0DCC9165610FDB583C77
+SD YPK BAWEI,60300468,SD,Swasta,Kec. Poiru,250214,Kab. Biak Numfor,250200,Prov. Papua,250000,3,1,90,6,6,0,0,35,21 Apr 2026 12:35:53,2568A626BF9D280B16B3
+SD YPK MANGGARI,60300437,SD,Swasta,Kec. Poiru,250214,Kab. Biak Numfor,250200,Prov. Papua,250000,5,2,88,6,6,0,1,37,02 May 2026 12:11:23,A19DBA24783E4751016F
+SD YPK SYORIBO,60300317,SD,Swasta,Kec. Poiru,250214,Kab. Biak Numfor,250200,Prov. Papua,250000,1,1,63,6,8,0,1,17,26 Mar 2026 19:23:22,49C921E0D0F3F97BC0F5
+SMK Negeri 3 Kemaritiman Biak Numfor,60301719,SMK,Negeri,Kec. Poiru,250214,Kab. Biak Numfor,250200,Prov. Papua,250000,13,2,117,8,8,1,2,43,28 Apr 2026 07:54:00,C35C406C849B6ED758E8

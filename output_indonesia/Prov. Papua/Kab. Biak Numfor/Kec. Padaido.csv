@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES NUSI BABARUK,60300454,SD,Negeri,Kec. Padaido,250203,Kab. Biak Numfor,250200,Prov. Papua,250000,9,1,82,6,6,0,0,8,08 Apr 2026 02:36:33,53AE63965465417B7573
+SD NEGERI AWAI,60300291,SD,Negeri,Kec. Padaido,250203,Kab. Biak Numfor,250200,Prov. Papua,250000,8,1,49,9,6,0,0,26,21 Apr 2026 11:04:48,B9C6351C064B00832A58
+SD YPK NUSI,60300439,SD,Swasta,Kec. Padaido,250203,Kab. Biak Numfor,250200,Prov. Papua,250000,2,1,86,6,6,0,0,3,23 Apr 2026 13:40:41,023DCD022D26059F3A94
+SD YPK PAI,60300310,SD,Swasta,Kec. Padaido,250203,Kab. Biak Numfor,250200,Prov. Papua,250000,3,1,115,6,6,0,1,81,02 May 2026 07:20:36,3DBC144F7EDAB9A337CC
+SD YPK WUNDI,60300280,SD,Swasta,Kec. Padaido,250203,Kab. Biak Numfor,250200,Prov. Papua,250000,7,1,53,6,6,0,1,12,23 Apr 2026 07:50:36,508A9BE92E9F73B9AFD5
+SMP NEGERI 3 PADAIDO,69864020,SMP,Negeri,Kec. Padaido,250203,Kab. Biak Numfor,250200,Prov. Papua,250000,11,1,82,3,4,1,1,16,17 Apr 2026 13:08:51,A4BFBBABACE4F4B0A793
+SMPN 2 PADAIDO,60304025,SMP,Negeri,Kec. Padaido,250203,Kab. Biak Numfor,250200,Prov. Papua,250000,9,4,48,3,3,2,1,11,10 Apr 2026 12:15:29,CEC847EA8141D153A60B
+SMAN 1 PADAIDO,69769620,SMA,Negeri,Kec. Padaido,250203,Kab. Biak Numfor,250200,Prov. Papua,250000,9,5,70,3,3,1,1,25,02 Apr 2026 18:15:56,282176B0DD0115B831B2

@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 WADAGA,40400865,SD,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,13,2,104,6,6,1,1,16,06 Mar 2026 09:05:25,A041508CF547EBD7B525
+SDN 2 WADAGA,40400607,SD,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,8,1,88,6,6,0,1,12,18 Feb 2026 12:27:37,CCB68A7FB5ACEDABF358
+SDN 3 WADAGA,40400594,SD,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,13,2,97,6,6,1,1,8,02 Apr 2026 23:12:06,B8B428C32E98E43112C4
+SDN 4 WADAGA,40400738,SD,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,14,0,84,6,7,0,1,7,04 Apr 2026 02:59:11,19DAE437993D8C937D92
+SDN 5 WADAGA,40400797,SD,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,9,2,116,6,6,0,1,5,03 Apr 2026 01:43:58,275272C365943DA09BDD
+SDN 6 WADAGA,40400815,SD,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,12,2,46,6,6,0,1,5,04 Apr 2026 00:26:31,6214A2F174767A0AAE52
+SDN 7 WADAGA,40400952,SD,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,1,56,6,6,0,1,7,03 Apr 2026 02:00:09,93FF2B6F15384A10E139
+SDN 8 WADAGA,40400986,SD,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,11,1,40,6,6,0,1,14,29 Apr 2026 08:16:27,D7E4CB55D4E8891CDD79
+SD IT ITTIBAUL ATSAR,70012265,SD,Swasta,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,4,1,43,5,4,0,0,10,09 Apr 2026 08:38:19,219C0D6BA23AAD26611E
+SMPN 1 WADAGA,40400704,SMP,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,50,10,273,11,8,2,1,55,30 Apr 2026 18:22:33,4D0D8BCC0858649EA931
+SMPN 2 WADAGA,40403155,SMP,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,22,5,119,6,6,2,1,1,03 Apr 2026 16:14:52,66B368A7E8210EC96C5B
+SMAN 1 WADAGA,69899732,SMA,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,45,22,176,7,10,5,2,28,29 Apr 2026 21:53:11,14056717BD3103A1F395
+SMKN 3 MUNA BARAT,40404741,SMK,Negeri,Kec. Wadaga,201304,Kab. Muna Barat,201300,Prov. Sulawesi Tenggara,200000,44,9,124,17,17,1,1,27,08 Apr 2026 16:37:29,12D7DB77BB36A88BF57B

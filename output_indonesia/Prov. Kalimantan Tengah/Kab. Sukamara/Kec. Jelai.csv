@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI KUALA JELAI 1,30202599,SD,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,9,3,133,6,9,0,1,29,27 Apr 2026 10:06:05,84126E06922F5124A97A
+SD NEGERI KUALA JELAI 2,30202600,SD,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,10,4,133,6,8,1,1,35,20 Apr 2026 08:57:59,21334249C2D81C5CF05F
+SD NEGERI KUALA JELAI 3,30202609,SD,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,10,2,109,6,7,1,1,40,02 Apr 2026 20:51:54,48DE47BC084AA190AD5D
+SD NEGERI PULAU NIBUNG,30202557,SD,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,10,2,73,6,6,1,1,5,02 Mar 2026 10:15:49,8C62A56186B424D1AB05
+SD NEGERI SUNGAI BARU -1,30202569,SD,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,8,4,32,6,6,0,1,12,14 Apr 2026 15:25:41,E0D11FFBD92545F14870
+SD NEGERI SUNGAI BUNDUNG 1,30202570,SD,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,8,1,17,5,7,0,1,8,03 Mar 2026 04:32:55,48DB32CAB986B9E6719A
+SD NEGERI SUNGAI RAJA 1,30202579,SD,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,8,3,38,6,6,0,1,27,22 Apr 2026 11:51:29,8147669E7EAD46B044E5
+SMP NEGERI 1 JELAI,30202573,SMP,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,16,3,192,7,12,3,1,20,14 Apr 2026 08:48:55,7C03D469AB94B7DA5F66
+SMP NEGERI 2 SATAP JELAI,69760671,SMP,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,9,3,41,3,3,2,1,9,08 Apr 2026 20:28:20,27691DFF908B0A6AE11E
+SMAN 1 JELAI,30203754,SMA,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,15,4,117,6,8,5,1,31,02 May 2026 14:25:34,3462DBA138D5BB661C52
+SMKN 1 JELAI,30204474,SMK,Negeri,Kec. Jelai,140801,Kab. Sukamara,140800,Prov. Kalimantan Tengah,140000,13,3,96,7,6,4,1,21,02 May 2026 10:06:24,6ECAD810573343B427F7

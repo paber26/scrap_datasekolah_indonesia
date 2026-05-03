@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI 001 MENTARANG HULU,30400503,SD,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,13,2,68,10,13,0,1,36,29 Apr 2026 20:56:30,EB0FFEEC24EFEF1FB4C7
+SD NEGERI 002 MENTARANG HULU,30402601,SD,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,3,1,8,5,3,0,1,3,24 Jan 2026 17:18:02,2B8BED8EE3380837B21C
+SD NEGERI 003 MENTARANG HULU,30400506,SD,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,5,1,12,5,6,0,0,44,29 Apr 2026 09:11:37,8302E97139D30CC22362
+SD NEGERI 004 MENTARANG HULU,30402617,SD,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,7,3,15,6,6,0,1,14,26 Feb 2026 20:27:28,4C7389021D6DDBCE0372
+SD NEGERI 005 MENTARANG HULU,30405596,SD,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,3,3,2,1,3,0,1,12,28 Apr 2026 13:14:28,750BA96A56B4B1680E98
+SD NEGERI 006 MENTARANG HULU,69786916,SD,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,7,1,13,5,3,0,1,15,30 Apr 2026 09:09:20,5E4A97FB5115F729495F
+SD NEGERI 007 MENTARANG HULU,69883308,SD,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,6,1,13,6,6,0,1,9,21 Apr 2026 01:05:37,A7CFE747F72171108996
+SD NEGERI 008 MENTARANG HULU,69947939,SD,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,5,2,12,4,6,0,0,11,28 Apr 2026 18:25:00,8F71429699DB7DEFBCB8
+SMP NEGERI 1 MENTARANG HULU,30405698,SMP,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,11,3,28,3,6,1,1,32,28 Apr 2026 13:03:05,D52F5E09768C75DD1C86
+SMAN 11 MALINAU,69830133,SMA,Negeri,Kec. Mentarang Hulu,340112,Kab. Malinau,340100,Prov. Kalimantan Utara,340000,13,4,36,4,4,1,0,11,30 Apr 2026 08:42:43,C5196504ADD505F8FA32

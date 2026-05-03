@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI AFU,69946399,SD,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,1,1,35,5,2,0,0,7,05 Mar 2026 19:52:57,5B9F3C11482C4E30D0DB
+SD NEGERI HAMKO,69946404,SD,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,3,1,101,6,6,0,0,10,17 Feb 2026 20:47:11,813D2DC6057A4EF070EC
+SD NEGERI HELLO,69946405,SD,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,1,1,63,6,4,0,0,25,28 Mar 2026 04:22:39,15DE84CB2A2AA6055FF4
+SD NEGERI IKISI,60302083,SD,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,8,0,185,8,6,0,1,20,15 Apr 2026 19:43:39,0C1FF25A899D0DEF764B
+SD NEGERI KOWO 1,60302084,SD,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,3,2,61,6,3,0,0,32,25 Apr 2026 10:13:42,1FE0A0D79E2D2887EC0A
+SD NEGERI SOEKANGGO,60302089,SD,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,7,3,146,6,7,0,1,161,24 Apr 2026 21:46:49,6F79A84A7E06C0CB4794
+SD NEGERI SUFIO,69946409,SD,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,1,1,89,7,3,1,1,30,19 Apr 2026 20:57:23,E59DD1D46306A1D79620
+SD NEGERI YARE,60302091,SD,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,6,1,83,6,3,0,1,21,23 Apr 2026 21:53:53,C0B83E116E3E274FA3B9
+SD YPPK KOWO II,60302117,SD,Swasta,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,2,1,90,6,6,0,0,8,25 Feb 2026 09:21:02,545144BCDF2A5F6EC5FC
+SMP NEGERI FOFI,69946395,SMP,Negeri,Kec. Fofi,370210,Kab. Boven Digoel,370200,Prov. Papua Selatan,370000,9,0,233,8,6,0,0,24,19 Mar 2026 11:33:05,80F3BB595AFDF1FAC3B6

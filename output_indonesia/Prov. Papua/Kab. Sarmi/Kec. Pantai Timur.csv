@@ -1,0 +1,9 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BIRI II,60303776,SD,Negeri,Kec. Pantai Timur,251902,Kab. Sarmi,251900,Prov. Papua,250000,2,1,54,6,6,0,0,4,10 Feb 2026 06:35:24,37C14D7AA2A5AC3FFCBB
+SD YPK ANSUDU,60302036,SD,Swasta,Kec. Pantai Timur,251902,Kab. Sarmi,251900,Prov. Papua,250000,7,1,65,6,6,0,0,7,09 Feb 2026 19:46:03,057A39142F4F2D10D623
+SD YPK BENERAF,60300947,SD,Swasta,Kec. Pantai Timur,251902,Kab. Sarmi,251900,Prov. Papua,250000,8,1,104,6,6,1,1,16,03 Apr 2026 15:27:47,C5EA4BFB01B93A3F79EF
+SD YPK VAN HASSELI,60300945,SD,Swasta,Kec. Pantai Timur,251902,Kab. Sarmi,251900,Prov. Papua,250000,8,1,197,8,12,0,0,22,20 Apr 2026 20:43:42,F51153B403D4B89FA329
+SD YPK YAMNA,60300944,SD,Swasta,Kec. Pantai Timur,251902,Kab. Sarmi,251900,Prov. Papua,250000,6,1,65,6,6,0,0,15,10 Apr 2026 19:36:18,D86774EBB71CC6E30207
+SDS YPK BETAF PANTAI TIMUR,60302039,SD,Swasta,Kec. Pantai Timur,251902,Kab. Sarmi,251900,Prov. Papua,250000,3,1,126,6,7,0,0,12,17 Apr 2026 22:25:04,96716631657BFA1986D7
+SMP NEGERI 1 PANTAI TIMUR,60304193,SMP,Negeri,Kec. Pantai Timur,251902,Kab. Sarmi,251900,Prov. Papua,250000,8,1,113,5,6,2,1,29,10 Apr 2026 18:20:32,C361C6284039A7CB604F
+SMK Negeri 1 Agribisnis Dan Agroteknologi Sarmi,60304058,SMK,Negeri,Kec. Pantai Timur,251902,Kab. Sarmi,251900,Prov. Papua,250000,9,1,40,5,8,2,1,9,29 Apr 2026 10:02:11,EE7F50215B6296F89D07

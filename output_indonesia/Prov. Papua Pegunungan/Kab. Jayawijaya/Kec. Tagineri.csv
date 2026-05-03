@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BOLAKME,60301388,SD,Negeri,Kec. Tagineri,380129,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,9,1,221,10,7,0,1,32,29 Apr 2026 11:32:08,DE70EC3A76BBAB5F0143
+SD INPRES POROME,60301457,SD,Negeri,Kec. Tagineri,380129,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,11,1,193,6,5,0,1,12,28 Mar 2026 10:52:55,872949ABA2D2A94719AE
+SD NEGERI JAYA INJUTA,60303498,SD,Negeri,Kec. Tagineri,380129,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,8,1,142,6,3,0,0,12,06 Mar 2026 17:03:37,5E62068CB9D4FA5C62FF
+SMP NEGERI BOLAKME,60301576,SMP,Negeri,Kec. Tagineri,380129,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,15,1,221,6,4,1,0,38,21 Apr 2026 19:21:37,4E17D5B73DF15AC418F1
+SMP YPPGI TAGIME,60301585,SMP,Swasta,Kec. Tagineri,380129,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,6,1,275,8,7,0,1,20,16 Apr 2026 14:56:30,B7085C4983F87A25456C
+SMAN BOLAKME,60301593,SMA,Negeri,Kec. Tagineri,380129,Kab. Jayawijaya,380100,Prov. Papua Pegunungan,380000,13,1,154,6,4,1,1,48,24 Apr 2026 14:52:55,56D0EE8005D1144FE859

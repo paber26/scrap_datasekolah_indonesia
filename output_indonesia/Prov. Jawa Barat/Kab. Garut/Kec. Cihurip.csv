@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 Cihurip,20225827,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,7,2,156,6,6,0,1,21,09 Apr 2026 11:50:30,423461E57D9C11962B7F
+SDN 1 Cisangkal,20208894,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,4,1,65,6,5,1,1,22,16 Apr 2026 07:24:01,364E1A64B29CB39EE081
+SDN 1 Jayamukti,20208878,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,6,1,117,6,6,0,1,18,08 Apr 2026 10:12:58,54B0311170B6F66140EF
+SDN 1 Mekarwangi,20226419,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,3,3,171,7,7,0,1,7,12 Apr 2026 20:05:23,268D559C892357F7C96C
+SDN 2 Cihurip,20208920,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,96,6,6,0,1,15,12 Apr 2026 20:40:40,A56CF423319486B72114
+SDN 2 Cisangkal,20208893,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,6,1,111,6,6,0,1,27,30 Apr 2026 10:43:08,CA1499E4C9CB093E26D3
+SDN 2 Jayamukti,20226101,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,4,3,143,6,6,0,1,15,25 Feb 2026 08:34:25,B78A9AF03D3135DF7983
+SDN 2 Mekarwangi,20226422,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,4,3,132,6,6,0,1,30,21 Apr 2026 14:26:11,9C4B29E7E3EDD048A652
+SDN 3 Cihurip,20225828,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,5,2,162,6,6,1,1,24,15 Apr 2026 08:10:32,E782FC0669BEDD6BEC5C
+SDN 3 Jayamukti,20226102,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,6,2,135,6,6,0,1,8,04 Apr 2026 20:05:09,319E39BDC01FA9068D88
+SDN 3 Mekarwangi,20226423,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,6,2,118,6,6,0,0,6,16 Apr 2026 00:48:09,623E5ACCC9F5A7EE3634
+SDN 4 Jayamukti,20208877,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,4,4,109,6,6,0,1,20,12 Apr 2026 10:43:11,440701427FBB936B1590
+SDN 4 Mekarwangi,20226425,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,6,1,101,6,6,0,1,19,03 Mar 2026 08:44:12,41F4589C187CE8047269
+SDN 5 Mekarwangi,20226426,SD,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,60,6,3,0,0,15,30 Apr 2026 09:35:39,D7CC0709E85C8267DF0F
+SMPN 1 Cihurip,20209311,SMP,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,17,4,345,12,17,0,1,13,03 Apr 2026 19:31:58,929A2591B68471A431E0
+SMPN 2 Cihurip,20227425,SMP,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,5,4,145,6,9,1,1,19,29 Apr 2026 10:46:07,0A3879AF714FDC7BA784
+SMP Islam Terpadu Riadlul Ihsan Cisangkal,70003086,SMP,Swasta,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,5,1,71,3,3,0,1,29,13 Mar 2026 23:56:26,1EBF726ABECBD745DC11
+SMAN 30 GARUT,69786423,SMA,Negeri,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,22,8,549,18,7,3,1,51,02 May 2026 02:14:55,8AAE1BB068F4E524191B
+SMKS IT BINA INSAN,69759017,SMK,Swasta,Kec. Cihurip,021134,Kab. Garut,021100,Prov. Jawa Barat,020000,0,1,0,0,0,0,0,0,,9854AE7BE7A32CD215BC

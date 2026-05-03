@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD YPPK SEYA,60403950,SD,Swasta,Kec. Mare,390111,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,5,0,37,6,6,0,1,14,20 Apr 2026 12:09:21,59E0BF6BC28A77C162FC
+SD YPPK ST. PAULUS SUN,60403813,SD,Swasta,Kec. Mare,390111,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,3,0,20,6,6,0,1,13,01 May 2026 10:10:38,40FA84AF7619220DCAC9
+SD YPPK SUSWA,60401749,SD,Swasta,Kec. Mare,390111,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,4,0,53,6,6,0,0,18,08 Apr 2026 19:24:58,D56D4A827E93ADA4BDFE
+SMP NEGERI 1 MARE,60403830,SMP,Negeri,Kec. Mare,390111,Kab. Maybrat,390100,Prov. Papua Barat Daya,390000,15,1,41,3,5,2,2,40,30 Apr 2026 17:25:38,0FF03E0BFEB9299B5166

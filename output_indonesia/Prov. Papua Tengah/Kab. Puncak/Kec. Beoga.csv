@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES DAMBET,60301924,SD,Negeri,Kec. Beoga,360503,Kab. Puncak,360500,Prov. Papua Tengah,360000,3,3,57,6,3,0,0,16,04 Mar 2026 19:57:22,E1038D915D9DB3C86317
+SD YPPGI MILAWAK,60301979,SD,Swasta,Kec. Beoga,360503,Kab. Puncak,360500,Prov. Papua Tengah,360000,4,1,143,6,6,0,0,30,20 Apr 2026 18:33:48,9B232F424EBA3F546618
+SMP NEGERI 1 BEOGA,60301984,SMP,Negeri,Kec. Beoga,360503,Kab. Puncak,360500,Prov. Papua Tengah,360000,5,2,126,4,6,2,1,29,24 Apr 2026 09:30:25,0979015B1954EA4E4C56
+SMA NEGERI 1 BEOGA,69912759,SMA,Negeri,Kec. Beoga,360503,Kab. Puncak,360500,Prov. Papua Tengah,360000,5,1,47,3,3,0,0,70,02 Apr 2026 08:03:24,B07D861F88C0538AF573

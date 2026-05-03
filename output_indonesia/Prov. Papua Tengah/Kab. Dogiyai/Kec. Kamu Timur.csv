@@ -1,0 +1,8 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BOKAIBUTU,60301727,SD,Negeri,Kec. Kamu Timur,360608,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,6,1,257,10,10,1,1,11,20 Jan 2026 17:24:47,EE61D96ED8D107563FA4
+SD INPRES MUYEKEBO,60302765,SD,Negeri,Kec. Kamu Timur,360608,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,7,1,390,12,12,0,0,137,02 May 2026 19:39:18,F5C4B7AAC832992709BF
+SD YPPGI DUDIDUAI,60301830,SD,Swasta,Kec. Kamu Timur,360608,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,5,1,197,9,7,0,0,23,28 Apr 2026 22:23:54,2B2A9C4EDA74D951FC92
+SD YPPGI NUWA,60301837,SD,Swasta,Kec. Kamu Timur,360608,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,3,1,126,6,8,2,1,32,01 May 2026 06:13:33,82FCD19AFAF1CE7FDAFD
+SD YPPK SANTO FRANSISKUS YOTAPUGA,60301863,SD,Swasta,Kec. Kamu Timur,360608,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,2,1,419,11,8,0,0,27,02 May 2026 04:24:49,E36F0438F362C47F8465
+SD YPPK UGAPUGA,60301862,SD,Swasta,Kec. Kamu Timur,360608,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,5,1,117,6,6,0,0,5,20 Jan 2026 15:57:36,1CFC38E3D60AE7F3D130
+SMP NEGERI 1 KAMU TIMUR,60304164,SMP,Negeri,Kec. Kamu Timur,360608,Kab. Dogiyai,360600,Prov. Papua Tengah,360000,15,1,281,8,8,1,2,137,30 Apr 2026 20:21:11,D2D62048673504A1A36F

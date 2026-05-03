@@ -1,0 +1,20 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 01 IX KOTO,10303252,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,11,2,87,6,6,0,1,25,06 Apr 2026 08:02:10,CD82FE781B4AEA463BDD
+SDN 02 IX KOTO,10303178,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,10,1,63,6,6,1,1,33,09 Apr 2026 13:19:44,76235EFDB53619D983F7
+SDN 03 IX KOTO,10303240,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,12,2,63,6,6,0,1,11,05 Mar 2026 10:14:25,6E11EAE3F3CEDA95CE6F
+SDN 04 IX KOTO,10303269,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,10,3,140,6,7,0,1,38,15 Apr 2026 10:39:16,B5931E502025BF6A0177
+SDN 05 IX KOTO,10303164,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,9,2,96,6,6,0,1,57,24 Apr 2026 13:57:30,850215D78E382AF1461F
+SDN 06 IX KOTO,10303357,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,11,2,85,6,7,0,1,21,08 Apr 2026 12:23:30,960456B2FA76E2B2B681
+SDN 07 IX KOTO,10303309,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,11,2,64,6,6,0,1,28,23 Apr 2026 12:09:02,1304A9871E29139383F8
+SDN 08 IX KOTO,10303322,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,14,2,113,9,9,0,1,27,23 Apr 2026 13:51:04,5AC4B1B7412196E09AFD
+SDN 09 IX KOTO,10303193,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,9,1,82,6,6,0,1,30,08 Apr 2026 11:55:36,67530CEDA485BB6D1F34
+SDN 10 IX KOTO,10303198,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,10,2,42,6,6,0,1,12,15 Apr 2026 08:29:28,79D4B2337F36BCCBE1D7
+SDN 11 IX Koto,10303166,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,8,2,85,6,7,1,2,13,04 Mar 2026 19:55:31,3E74398616E9A9677EFE
+SDN 12 IX KOTO,10303174,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,11,2,52,6,6,1,1,13,02 Apr 2026 09:43:02,46F329FDD5D209419F94
+SDN 13 IX Koto,10303185,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,9,4,108,6,6,0,1,27,28 Apr 2026 08:12:24,F2BD1BCA92B7CEE29065
+SDN 14 IX KOTO,69758238,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,10,2,49,6,6,0,1,26,06 Apr 2026 12:49:10,08AEE0C4F0E2A533EC51
+SDN 15 IX Koto,69980149,SD,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,8,3,37,6,4,0,0,22,13 Apr 2026 17:30:38,57327BD2012B7CFACD3E
+SMPN 1 IX KOTO,10303211,SMP,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,15,7,109,6,7,1,1,44,20 Apr 2026 11:31:26,75339DEC8FF4EFAA14A5
+SMPN 2 IX KOTO,10307762,SMP,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,12,3,55,3,6,2,1,18,02 Mar 2026 10:27:41,439F7F386D75F11E8C2E
+SMPN 3 IX KOTO,10308166,SMP,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,13,4,61,3,5,2,1,13,22 Feb 2026 08:37:41,42FDEA3FBCB3C9F8878D
+SMAN 1 IX Koto,69774851,SMA,Negeri,Kec. Sembilan Koto,081205,Kab. Dharmasraya,081200,Prov. Sumatera Barat,080000,20,4,161,6,10,3,1,12,02 Apr 2026 06:12:01,CFE1AEE815218AB80961

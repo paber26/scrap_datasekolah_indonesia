@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 1 BULANGO UTARA,40500871,SD,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,3,67,6,6,0,1,10,06 Mar 2026 16:25:14,C28AF5297ACE379DB246
+SDN 2 BULANGO UTARA,40500870,SD,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,7,3,134,6,6,0,1,16,23 Apr 2026 11:40:12,D3F3547371FF88D0A95D
+SDN 3 BULANGO UTARA,40500910,SD,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,4,112,6,7,0,1,11,22 Apr 2026 10:25:16,4CB99C12A39D503191F0
+SDN 4 BULANGO UTARA,40501592,SD,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,2,137,6,9,0,1,30,08 Apr 2026 09:03:55,00A27FB8172580CD06D7
+SDN 5 BULANGO UTARA,40501582,SD,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,3,84,6,7,0,1,20,01 May 2026 15:10:35,2BA72CE0E0B202298C7D
+SDN 6 BULANGO UTARA,40500919,SD,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,9,2,95,6,6,0,1,29,13 Apr 2026 19:42:46,22C2E91DD595D0116455
+SDN 7 BULANGO UTARA,40500934,SD,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,7,3,58,6,6,0,1,18,29 Apr 2026 09:22:18,5B4E1171DA4C99EDD811
+SDN 8 BULANGO UTARA,40500918,SD,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,8,2,81,6,6,0,1,26,27 Apr 2026 09:57:33,62A21B6E4C8364EAA660
+SMP NEGERI 1 BULANGO UTARA,40500885,SMP,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,13,6,137,6,9,1,1,36,03 Apr 2026 04:36:43,A5A57CFB2C74852A53A4
+SMP NEGERI 2 SATU ATAP BULANGO UTARA,40501593,SMP,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,11,3,48,3,4,1,1,20,23 Apr 2026 08:16:03,99404151AF93978F6C5C
+SMP NEGERI 3 SATU ATAP BULANGO UTARA,40501819,SMP,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,10,4,35,3,3,1,1,25,15 Apr 2026 10:14:11,92357F214530B85479FF
+SMK NEGERI 1 BULANGO UTARA,40500877,SMK,Negeri,Kec. Bulango Utara,300405,Kab. Bone Bolango,300400,Prov. Gorontalo,300000,29,13,198,15,19,4,1,31,23 Apr 2026 08:10:54,9B6DB790028104B19F98

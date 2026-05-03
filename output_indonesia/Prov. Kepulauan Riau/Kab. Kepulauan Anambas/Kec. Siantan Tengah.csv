@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 AIR ASUK,11001166,SD,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,9,89,6,6,1,1,15,06 Apr 2026 10:00:10,2175B9173C9B59E8E764
+SDN 002 AIR NANGAK,69821188,SD,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,11,70,6,6,0,1,33,20 Apr 2026 07:58:35,D0A093BDA9938D02D0C6
+SDN 003 AIR SENA,11001310,SD,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,9,73,6,6,0,1,16,13 Apr 2026 09:01:42,658271123B4BA2D5C21D
+SDN 004 TELUK SUNTING,11001362,SD,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,10,48,6,6,0,1,38,27 Apr 2026 08:54:54,4B46F4C3A6268491EF38
+SDN 005 LIDI,11001364,SD,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,7,38,6,6,1,1,17,06 Mar 2026 09:50:16,089A5A5F0D083A881751
+SDN 006 LIUK,11003254,SD,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,9,8,24,6,6,0,0,19,23 Apr 2026 23:20:41,7BA5ADCE7377B0C0E9AE
+SDN 007 MUNTAI,69787048,SD,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,8,10,23,6,3,0,1,16,13 Apr 2026 12:02:15,FD43C67CCB25AF023B32
+SMPN 1 AIR NANGAK,11003022,SMP,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,12,13,94,4,5,2,3,29,21 Apr 2026 07:55:34,5D45394B606B5CE2E648
+SMPN 2 AIR ASUK,69734126,SMP,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,12,9,46,3,5,1,1,21,22 Apr 2026 07:28:24,2B47D902025B0C092620
+SMK NEGERI 1 ANAMBAS,11003192,SMK,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,27,7,252,14,15,6,1,46,15 Apr 2026 21:23:14,6C25756BAEBD9BE906EE
+SMK NEGERI 2 ANAMBAS,69859732,SMK,Negeri,Kec. Siantan Tengah,310507,Kab. Kepulauan Anambas,310500,Prov. Kepulauan Riau,310000,12,6,30,5,7,3,1,27,21 Apr 2026 20:19:12,EE4986856B27D79390EF

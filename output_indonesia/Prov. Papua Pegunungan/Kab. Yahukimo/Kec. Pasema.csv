@@ -1,0 +1,5 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES PASEMA,60303377,SD,Negeri,Kec. Pasema,380313,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,8,1,408,12,12,0,1,20,29 Apr 2026 14:39:39,798076333D98B18A3297
+SDN SENGAGE,69831612,SD,Negeri,Kec. Pasema,380313,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,7,4,275,8,8,0,0,5,01 Feb 2026 20:32:23,32797A36ECDD0B92D56F
+SD YPPGI HELIK LEINOKO,70052489,SD,Swasta,Kec. Pasema,380313,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,2,1,186,6,2,0,0,55,23 Apr 2026 07:00:36,9F439AD7A2F792322E30
+SMPN PASEMA,60303323,SMP,Negeri,Kec. Pasema,380313,Kab. Yahukimo,380300,Prov. Papua Pegunungan,380000,8,1,170,5,3,1,1,34,25 Apr 2026 09:51:09,AC0075034DD4313ECE53

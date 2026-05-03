@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI BIRANG,40101836,SD,Negeri,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,11,1,24,6,6,0,1,1,28 Apr 2026 08:24:52,38073D91B9A01ED7C11E
+SD NEGERI INPRES DAMAU,40101722,SD,Negeri,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,11,0,61,6,6,0,1,27,23 Apr 2026 06:12:40,3D2ABF71317482597F95
+SD NEGERI INPRES KECIL IGHIK,40101730,SD,Negeri,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,8,3,17,6,6,0,0,25,10 Apr 2026 04:35:55,FDC878A1A0C92A978C09
+SD NEGERI INPRES TADUWALE,40101701,SD,Negeri,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,12,1,28,6,6,0,1,24,11 Apr 2026 05:00:22,721B2635147646DCCEC9
+SD KATOLIK SANTU THODORUS PERET,40101802,SD,Swasta,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,7,1,47,6,7,0,1,1,09 Apr 2026 21:08:06,118F20ADFFF56456F83A
+SD KRISTEN ALMASIH DAMAU,40101803,SD,Swasta,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,10,4,39,6,6,0,0,106,30 Apr 2026 18:43:10,925544AC9A8B72994498
+SD KRISTEN EBENHAEZER TADUWALE,40101811,SD,Swasta,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,11,2,28,6,6,0,1,30,01 May 2026 18:29:57,9D7F483A8F0EBFF5D342
+SD KRISTEN IMANUEL AKAS,40101798,SD,Swasta,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,7,1,45,6,6,0,1,32,09 Apr 2026 03:45:58,43B0872C41E2BA7D3A29
+SD KRISTEN SYALOM PERET,40101842,SD,Swasta,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,7,1,24,6,6,0,2,39,30 Apr 2026 07:45:12,3B160BEDF8D7E83F4A64
+SMP NEGERI 2 KABARUAN,40101765,SMP,Negeri,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,15,6,116,6,10,2,1,17,15 Apr 2026 10:21:18,D8128959D4AFD946E236
+SMP SATU ATAP NEGERI 1 DAMAU,40104880,SMP,Negeri,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,10,4,24,3,3,2,2,12,08 Apr 2026 03:20:18,2E7B5D28D9C20BE12DAD
+SMK NEGERI 6 TALAUD,40103561,SMK,Negeri,Kec. Damau,170409,Kab. Kepulauan Talaud,170400,Prov. Sulawesi Utara,170000,20,5,85,11,11,4,1,40,04 Apr 2026 12:44:32,D6012A96FBBAC6F9BD05

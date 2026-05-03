@@ -1,0 +1,19 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD N 164 OKU,10604936,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,9,2,105,6,6,1,1,9,02 Apr 2026 06:01:19,99D79CB47EC52C30DA0C
+SD N 165 OKU,10604937,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,16,1,256,12,18,0,1,10,03 Mar 2026 08:39:57,6392257D571286AE4210
+SD N 166 OKU,10604938,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,17,3,254,13,15,0,1,19,07 Apr 2026 09:26:55,6DA614A088FED696C375
+SD N 168 OKU,10604940,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,13,3,162,8,12,1,1,20,10 Mar 2026 09:10:05,88C0D5686AADD1D279E3
+SD N 171 OKU,10604943,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,20,2,207,11,9,1,1,20,13 Apr 2026 19:37:06,B73D087DA9EBF9E6C69D
+SD N 172 OKU,10604944,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,17,3,186,12,11,1,1,17,27 Apr 2026 12:46:36,45BEC488B78CB704267D
+SD N 176 OKU,10604948,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,9,2,93,6,5,0,1,11,03 Mar 2026 08:10:45,37C745DD573F228DB739
+SD N 177 OKU,10604949,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,19,5,221,11,9,1,1,22,02 May 2026 10:16:54,A925C457FC2D6DA9AA81
+SD NEGERI 170 OKU,10604942,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,17,1,183,10,8,0,1,7,25 Apr 2026 09:43:33,0EA1AFAEE42A5DD88D5B
+SDN 169 OKU,10604941,SD,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,17,1,165,8,10,0,1,19,08 Apr 2026 21:58:43,B50C890D38D95A3EEBA3
+SD IT TAHFIDZ MANBAUL KIROM,70030167,SD,Swasta,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,5,1,72,6,6,0,1,14,22 Apr 2026 21:30:04,FE7AD68E1BD6BB4F51C6
+SMP N 11 OKU,10604670,SMP,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,11,4,97,4,7,2,1,20,04 Apr 2026 08:42:20,E0B5A7F9247033D57FFD
+SMP N 17 OKU,10604676,SMP,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,20,4,209,7,9,2,1,128,02 May 2026 04:00:12,A6256A18066CAFD05954
+SMP N 39 OKU,10646097,SMP,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,13,3,126,6,5,2,1,29,22 Apr 2026 09:48:37,CE0EB885C329E637DD7A
+SMP N 5 OKU,10604698,SMP,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,19,2,194,8,9,2,1,31,13 Apr 2026 15:03:02,9CB2897A10081F202183
+SMP NEGERI 36 OKU,10644644,SMP,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,9,3,100,4,7,1,1,11,20 Feb 2026 21:52:16,826A8DE943B2DED7E5FE
+SMAN 8 OGAN KOMERING ULU,10604730,SMA,Negeri,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,31,10,540,16,16,3,1,38,20 Apr 2026 13:45:53,12AF5626E57F91F9E130
+SMK DARUL KHULDI,70013878,SMK,Swasta,Kec. Sinar Peninjauan,110373,Kab. Ogan Komering Ulu,110300,Prov. Sumatera Selatan,110000,14,2,166,6,5,1,0,11,21 Apr 2026 21:23:21,D74C89B23A3B35DA229E

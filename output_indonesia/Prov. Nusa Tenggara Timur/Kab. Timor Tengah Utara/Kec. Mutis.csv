@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD KECIL BANU,69838555,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,5,0,31,6,6,0,0,11,07 Apr 2026 13:47:55,CF5F1F7EA53F6959A409
+SD KECIL FEKU,69787674,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,0,20,5,3,0,1,39,30 Apr 2026 13:28:58,20C095DFD181A470424C
+SD KECIL NEONBALI APLAL,50307335,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,2,93,6,6,0,1,15,14 Apr 2026 13:55:11,F2AA8A8DACA7EA3979B2
+SD KECIL OELMUKE,69728337,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,0,45,6,3,0,1,9,26 Feb 2026 09:21:45,98B172F33F5A057DC997
+SD NEGERI OELBINOSE,50300944,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,9,2,97,6,6,0,1,6,08 Apr 2026 00:42:10,E7850ACF115AD8E9D4EA
+SD NEGERI OELFAB,50300942,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,5,1,89,6,6,0,1,15,13 Apr 2026 09:11:57,7D0A261CD36C3BC43FB3
+SD NEGERI OEMOFA,50300938,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,11,1,170,9,10,0,3,21,03 Mar 2026 07:12:50,23527485144D31143C91
+SD NEGERI SAITAU,50301029,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,1,43,6,6,0,2,14,10 Apr 2026 08:32:00,EE68321BEE4F29D3D29A
+SD NEGERI SITNONI,50301022,SD,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,8,1,101,6,6,0,1,24,14 Apr 2026 09:01:02,460557C4A89000646F91
+SDK APLAL,50301087,SD,Swasta,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,7,1,64,6,6,0,1,77,29 Apr 2026 19:37:36,20FE983CDACBD84074C0
+SDK NOELELO,50301080,SD,Swasta,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,5,0,83,6,6,0,0,16,22 Apr 2026 12:56:01,4A7D13D5E137AE569BC0
+SDK TALI,50301169,SD,Swasta,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,3,1,52,6,6,0,1,43,30 Apr 2026 13:11:25,1C0BFB49161AFE079A66
+SMP NEGERI APLAL,50300987,SMP,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,14,0,118,6,9,1,2,16,06 Apr 2026 12:36:33,2126A2CA4E04D13013FB
+SMP NEGERI OEMOFA,50307367,SMP,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,17,3,142,6,7,2,1,21,22 Apr 2026 20:51:51,F1EB224E86E8082D31DE
+SMP SATAP NEGERI SAITAU,50307378,SMP,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,10,0,27,3,3,2,1,17,06 Apr 2026 10:49:45,F58A8070E86475B3DA79
+SMAN MUTIS,69727469,SMA,Negeri,Kec. Mutis,240413,Kab. Timor Tengah Utara,240400,Prov. Nusa Tenggara Timur,240000,18,4,147,6,8,1,1,54,22 Apr 2026 14:02:29,96961869571F8B962391

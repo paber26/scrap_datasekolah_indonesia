@@ -1,0 +1,23 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI GOLLU MAREDA,50304180,SD,Negeri,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,9,1,60,6,8,1,1,12,09 Apr 2026 08:04:53,7CD0A8AB53DB3CAAAEFF
+SD NEGERI KALEMBU MALITI,50303978,SD,Negeri,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,9,1,98,6,6,0,1,26,08 Apr 2026 08:18:26,6F82E98E787B3070C986
+SD NEGERI PAKAMANDARA,50305152,SD,Negeri,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,9,2,121,6,9,0,1,24,20 Apr 2026 09:47:29,FB81DA9FF43822F949AE
+SD NEGERI RAWE,69879008,SD,Negeri,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,7,1,80,6,6,0,1,43,17 Apr 2026 09:33:28,7C118B4D33A73A6A36EF
+SD KATOLIK PALLA II,50304314,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,8,3,277,10,11,1,1,16,19 Mar 2026 20:29:58,64B7B1DDFFEAEC419052
+SD KATOLIK WEE RABUKA,50304237,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,3,2,134,6,10,0,1,9,21 Apr 2026 07:21:52,D60EFFF7BB625B4D96FE
+SD LAIKARAGA,69900569,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,2,1,21,6,6,0,0,6,29 Apr 2026 17:49:27,E815FE4D8F18D5EE750B
+SD MASEHI GOLLU WATU,50304262,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,6,1,171,6,10,0,1,1,03 Apr 2026 12:06:44,E5116BD550E34A363B4D
+SD MASEHI PALLA I,50304004,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,9,2,200,9,14,1,2,38,14 Apr 2026 19:31:17,C8011C30D2743FF98A3A
+SD MASEHI WANNO LOURA,50305156,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,9,0,153,7,7,0,1,53,15 Apr 2026 08:01:50,FB141E2DD9DD2C223150
+SD MASEHI WEE PABOBA,50305037,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,6,1,90,6,6,0,2,58,20 Apr 2026 21:12:15,E80C48196DE535DB5CF4
+SD MASEHI WEE PEWA 1,50304020,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,4,3,93,6,6,0,1,16,26 Mar 2026 18:47:30,6E9F8161E803C30995F0
+SDK MUTU RATA,50304312,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,5,2,115,6,6,0,1,12,17 Apr 2026 08:50:41,3828C08CDE4FE75D0805
+SDK WEEPEWA II,50304224,SD,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,9,2,130,6,6,1,1,42,14 Apr 2026 15:35:02,F6E1DD7B49A3D34D7FA8
+SMP NEGERI 1 WEWEWA UTARA,50304046,SMP,Negeri,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,15,2,144,6,7,2,1,26,20 Apr 2026 09:23:55,8175EBA79D7E4FF52111
+SMP NEGERI 2 WEWEWA UTARA,69727701,SMP,Negeri,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,11,3,151,6,7,0,1,15,05 Mar 2026 21:21:12,F7FFD75804A06990E0BD
+SMP KATOLIK PALLA,50304053,SMP,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,16,1,284,10,16,2,1,19,02 Mar 2026 22:11:20,652EB35F6ACDC63A5E77
+SMP KRISTEN PALLA,50304117,SMP,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,15,3,234,9,9,1,1,51,23 Apr 2026 07:32:09,0ED769452C3B3F25CE22
+SMAN 1 WEWEWA UTARA,50309611,SMA,Negeri,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,33,8,518,16,18,5,1,38,25 Apr 2026 20:59:38,67A5E5461140A91038CE
+SMA KRISTEN ALFA OMEGA,70045604,SMA,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,16,2,128,3,3,0,1,22,16 Apr 2026 10:12:39,7068DF15BBD6CCF3E68F
+SMK EKAPATA,69895857,SMK,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,4,1,52,3,3,3,1,11,30 Mar 2026 11:59:44,890DBD3B8A703250796F
+SMK KALAKI KAMBE,70041430,SMK,Swasta,Kec. Wewewa Utara,241907,Kab. Sumba Barat Daya,241900,Prov. Nusa Tenggara Timur,240000,11,2,75,9,9,0,0,7,04 Apr 2026 21:15:48,6D6DF60F210AE8DF8312

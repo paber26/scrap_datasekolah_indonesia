@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES DEPAPRE,60300243,SD,Negeri,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,10,2,118,6,6,0,2,6,29 Apr 2026 15:58:21,892B6A34011970CA1042
+SD INPRES DORMENA,60300241,SD,Negeri,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,6,1,120,6,6,0,1,37,27 Feb 2026 15:15:19,2DBB06A346172606EADB
+SD NEGERI KENDATE,60300105,SD,Negeri,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,6,3,76,6,6,0,1,67,24 Apr 2026 17:57:40,F4E65C75208B1F8DC4B1
+SD YPK AMAI,60303808,SD,Swasta,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,5,2,92,6,4,1,1,40,23 Apr 2026 07:24:06,F1EE503C45703263E9B7
+SD YPK TABLANUSU,60300233,SD,Swasta,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,6,3,85,6,6,0,1,16,20 Apr 2026 19:05:09,3F459520C7FD3303C5AF
+SD YPK TABLASUPA,60300204,SD,Swasta,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,5,2,79,6,6,0,1,32,12 Apr 2026 21:12:40,780F13933C84D323EC8A
+SD YPK WAMBENA,60300263,SD,Swasta,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,5,1,71,6,6,0,1,67,20 Apr 2026 22:21:37,E85F71142A8B8F2FDFA4
+SD YPK YEPASE,60300261,SD,Swasta,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,8,1,37,6,6,0,1,28,29 Apr 2026 10:09:55,B7738588F99AFAD2FC40
+SMP NEGERI 1 DEPAPRE,60300157,SMP,Negeri,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,23,9,301,10,10,2,1,24,29 Apr 2026 12:46:09,8D981DBCACB65CD4F883
+SMP SATU ATAP DOROMENA,60303596,SMP,Negeri,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,12,3,131,5,3,0,1,41,27 Apr 2026 12:32:20,5B129A5A2DE3EA6E4FB4
+SMK Negeri 3 Kemaritiman Depapre Kabupaten Jayapura,60303594,SMK,Negeri,Kec. Depapre,250121,Kab. Jayapura,250100,Prov. Papua,250000,16,4,160,6,6,3,1,12,05 Mar 2026 23:17:00,1ED2C89E180290050245

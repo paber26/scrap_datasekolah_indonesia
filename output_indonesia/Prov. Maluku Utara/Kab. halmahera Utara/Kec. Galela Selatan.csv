@@ -1,0 +1,14 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES BALE,60201768,SD,Negeri,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,10,1,76,6,6,0,1,24,23 Apr 2026 16:42:18,4DCF8C1C024B2864FD5A
+SD INPRES SOAKONORA,60201802,SD,Negeri,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,17,6,73,6,6,0,0,6,06 Apr 2026 20:15:11,C41249ADC7F949C2F8E4
+SD INPRES TOGAWA,60201811,SD,Negeri,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,16,3,91,6,6,0,1,24,14 Apr 2026 22:35:58,1DA751323CFA0E46445A
+SD NEGERI SEKI,60201870,SD,Negeri,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,11,2,83,6,6,0,1,12,25 Apr 2026 00:34:53,0034CF41BEC5BDDF1653
+SD GMIH SOAKONORA,60201758,SD,Swasta,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,2,1,54,6,6,0,1,6,08 Apr 2026 10:17:27,2EC1D880CAA0CCD5628B
+SD ISLAM ABU BAKAR ASH-SHIDDIQ,70060001,SD,Swasta,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,2,1,0,0,0,0,0,0,,E8084C7560A0DD910F92
+SD MUHAMMADIYAH 1 IGOBULA,60201831,SD,Swasta,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,5,2,125,6,6,0,1,15,07 Mar 2026 20:58:58,0D4EFD33838A832C7274
+SD MUHAMMADIYAH 2 IGOBULA,60201832,SD,Swasta,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,3,1,93,6,6,0,1,24,17 Mar 2026 13:13:55,0EEF13688C1AE01F37CD
+SD MUHAMMADIYAH 3 TOGAWA,60201833,SD,Swasta,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,5,1,90,6,6,0,1,23,02 May 2026 19:32:37,B605E991FB2CF558B0F6
+SMP NEGERI 2 HALMAHERA UTARA,60200271,SMP,Negeri,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,19,3,304,11,13,2,1,61,09 Apr 2026 08:13:14,465C8E6BB03BDB33B728
+SMP MUHAMMADIYAH GALELA,60201901,SMP,Swasta,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,3,0,40,3,7,0,0,10,02 May 2026 14:18:14,CBE5B2EC8BA200BEC028
+SMP NASIONAL GALELA SELATAN,60200301,SMP,Swasta,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,6,1,60,3,6,1,0,41,27 Apr 2026 20:50:07,85C144317B0EB71F24E3
+SMKS TEKNOLOGI GALELA SELATAN,60202879,SMK,Swasta,Kec. Galela Selatan,270415,Kab. halmahera Utara,270400,Prov. Maluku Utara,270000,18,4,172,15,17,1,1,74,28 Apr 2026 08:26:57,31512399C76CD5E2DDBA

@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES AHIOLO,60102612,SD,Negeri,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,7,1,73,6,6,0,0,20,01 May 2026 05:45:03,FF72D0278B8BAC633CC1
+SD NEGERI 1 ELPAPUTIH,60103679,SD,Negeri,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,10,3,167,6,7,0,1,13,30 Apr 2026 18:34:10,B50374948A32E2A2F072
+SD NEGERI SUMEITH PASINARU,60102432,SD,Negeri,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,7,0,48,6,6,0,0,11,28 Apr 2026 16:18:08,95DE3A74908715060BF0
+SD KRISTEN HUKU KECIL,60102670,SD,Swasta,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,8,3,57,6,6,0,1,18,06 Mar 2026 15:46:59,7AB1CA7FA333AF80F684
+SD YPPK ABIO,60102669,SD,Swasta,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,5,2,98,6,6,0,1,21,29 Apr 2026 04:46:50,6960BE357601C8FC9F56
+SMP NEGERI 1 ELPAPUTIH,60103953,SMP,Negeri,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,12,3,99,5,6,1,0,6,27 Jan 2026 06:57:12,531C1068F4F20AB3CF00
+SMP NEGERI 2 ELPAPUTIH,60104014,SMP,Negeri,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,11,1,20,3,3,1,0,4,04 Mar 2026 14:43:07,66AD0D7311B7BCEE21DC
+SMP NEGERI 3 ELPAPUTIH,60104015,SMP,Negeri,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,12,1,55,3,3,0,0,30,30 Apr 2026 22:39:30,0ECA124ADD9954F522A3
+SMA Negeri 20 Seram Bagian Barat,60103939,SMA,Negeri,Kec. Elpaputih,210591,Kab. Seram Bagian Barat,210500,Prov. Maluku,210000,21,9,121,6,10,1,1,43,30 Apr 2026 14:27:18,76411BD3A79054960581

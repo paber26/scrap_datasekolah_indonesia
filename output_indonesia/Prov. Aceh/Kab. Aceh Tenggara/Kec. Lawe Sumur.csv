@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI CINTA MAJU,10103273,SD,Negeri,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,16,2,93,6,6,0,1,63,07 Apr 2026 18:07:36,4EFE7B8EA048E30F9DC1
+SD NEGERI KISAM,10103223,SD,Negeri,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,12,4,105,6,7,0,1,122,29 Apr 2026 16:17:54,3B0690E01696AC100754
+SD NEGERI PERMATA,69957355,SD,Negeri,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,17,2,97,6,6,0,1,44,28 Apr 2026 23:06:49,E217C7B3DDCA6082D4E8
+SD NEGERI TERUTUNG MEGARA,10103003,SD,Negeri,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,10,2,136,6,6,0,0,91,27 Apr 2026 11:25:46,216DD050F70418C683AF
+SD SWASTA ISLAM TERPADU AQILA ZAHRA,70040823,SD,Swasta,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,19,2,97,5,5,0,0,31,01 May 2026 23:32:59,C84B79EE2EA017609CE9
+SMP NEGERI 3 BAMBEL,10103075,SMP,Negeri,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,20,3,199,8,12,3,1,98,01 May 2026 19:52:35,54F0B6432F48DB4ED97E
+SMP SWASTA DARUL IMAN,10103115,SMP,Swasta,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,20,1,366,13,13,2,1,55,29 Apr 2026 15:15:53,40C00130AD07683239B2
+SMP SWASTA DARUSSALAM,69990575,SMP,Swasta,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,17,2,43,3,12,1,1,51,24 Apr 2026 10:18:43,F843E798FC09666A000B
+SMA NEGERI LAWE SUMUR,10113639,SMA,Negeri,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,20,7,158,6,6,2,2,50,30 Apr 2026 11:48:19,B3D6C990D925987741EA
+SMA Swasta Darussalam,69993051,SMA,Swasta,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,11,1,71,3,4,0,0,63,25 Apr 2026 09:42:15,006EAA795E8F8E134F54
+SMAS DARUL IMAN,10103100,SMA,Swasta,Kec. Lawe Sumur,060824,Kab. Aceh Tenggara,060800,Prov. Aceh,060000,11,1,212,6,8,1,1,16,20 Apr 2026 14:48:11,E2A8EF5D3F4E9F08F921

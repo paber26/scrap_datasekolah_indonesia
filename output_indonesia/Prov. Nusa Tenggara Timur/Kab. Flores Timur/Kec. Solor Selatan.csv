@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KALIKE,50301953,SD,Negeri,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,9,2,109,6,7,1,1,33,27 Apr 2026 10:14:00,F2567989D569BD32A5FA
+SD INPRES LEWOGRARAN,50301983,SD,Negeri,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,9,3,106,6,7,0,1,14,06 Mar 2026 11:04:17,E0726B8FD38D5FE6D046
+SD NEGERI TAPOWOLO,50301919,SD,Negeri,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,6,2,108,6,7,1,1,35,17 Apr 2026 09:42:00,C479355D8E13A6915CE8
+SD KATHOLIK ATAGAMU,50302064,SD,Swasta,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,8,1,130,6,8,0,0,27,08 Apr 2026 11:23:04,120FE0D932FA9416C39B
+SD KATHOLIK KALIKE,50301810,SD,Swasta,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,8,3,92,6,6,0,1,17,06 Mar 2026 19:18:43,9533AAC1E46E086F4FC9
+SD KATOLIK KENERE,50307623,SD,Swasta,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,7,2,71,6,7,0,1,20,07 Apr 2026 08:58:23,4C989B1FE124C1952B82
+SD KATOLIK LEMANU,50301831,SD,Swasta,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,7,3,120,6,6,1,1,29,08 Apr 2026 20:10:12,6014CC3A5A03BA33A10A
+SMP NEGERI 2 SOLOR BARAT,50301855,SMP,Negeri,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,24,5,261,10,13,4,3,26,28 Mar 2026 08:37:48,3DCC3497DAEE00BFA00A
+SMA NEGERI 1 SOLOR SELATAN,69888754,SMA,Negeri,Kec. Solor Selatan,240719,Kab. Flores Timur,240700,Prov. Nusa Tenggara Timur,240000,26,6,261,9,8,1,1,21,01 May 2026 09:22:14,471D349D3A2D536715CD

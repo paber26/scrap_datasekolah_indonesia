@@ -1,0 +1,4 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD NEGERI KALITAMI,60401940,SD,Negeri,Kec. Kamundan,320414,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,9,0,171,6,10,0,0,38,21 Apr 2026 22:27:07,1013E0FF4490A7A8725F
+SMP SATU ATAP KALITAMI,60403655,SMP,Negeri,Kec. Kamundan,320414,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,11,1,87,4,4,1,1,32,22 Apr 2026 05:46:18,A712FDF2E57AE0EFEEF8
+SMA NEGERI KAMUNDAN,69879194,SMA,Negeri,Kec. Kamundan,320414,Kab. Teluk Bintuni,320400,Prov. Papua Barat,320000,12,0,79,4,3,1,1,33,06 Apr 2026 14:58:16,001A03607C843DC6CE50

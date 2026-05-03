@@ -1,0 +1,11 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES SUNA,69787852,SD,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,8,2,65,6,6,0,1,5,22 Apr 2026 08:10:56,130EA19431B8423F11C1
+SD NEGERI BRASO,69948107,SD,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,6,3,66,6,7,0,0,2,20 Jan 2026 15:04:31,FDF6A0CF0C37558FB360
+SD NEGERI BRING,69949479,SD,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,10,2,86,6,3,0,0,23,27 Apr 2026 08:24:11,995F785E4F5FFBA88484
+SD NEGERI INPRES HAWE,60300245,SD,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,7,3,94,6,6,0,1,55,03 Mar 2026 03:09:58,618384D14694EE7BC2E8
+SD NEGERI INPRES IBUB,60300246,SD,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,7,3,111,6,6,0,2,13,23 Apr 2026 16:42:34,7A9E839911D6D628FDAE
+SD NEGERI INPRES YANBRA,60300130,SD,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,8,2,89,6,6,0,1,24,12 Apr 2026 08:38:24,A2159081F3A02C5B5452
+SD NEGERI INPRES YANSU,60300108,SD,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,8,3,154,6,6,0,1,17,26 Mar 2026 06:52:04,C7BE4A3A11F07A9ED684
+SD YPK MEREM,60300203,SD,Swasta,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,3,1,113,6,6,0,0,22,21 Apr 2026 07:44:28,8735E93F545C85BFD203
+SMP NEGERI 1 KEMTUK GRESI,60300155,SMP,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,21,5,420,14,16,2,1,31,27 Apr 2026 17:33:42,9CC4A905E76E4A292492
+SMA PERSIAPAN KEMTUK GRESI,60303590,SMA,Negeri,Kec. Kemtuk Gresi,250115,Kab. Jayapura,250100,Prov. Papua,250000,16,5,231,6,9,4,1,111,29 Apr 2026 17:09:05,3762ACC3DA8C9E637633

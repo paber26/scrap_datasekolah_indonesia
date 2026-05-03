@@ -1,0 +1,15 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN 001 TELEN,30400820,SD,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,9,5,117,6,6,0,1,50,21 Apr 2026 07:20:05,D6996DBF489FEFAC273C
+SDN 002 TELEN,30400758,SD,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,9,6,85,6,6,0,1,13,14 Apr 2026 07:38:53,EA81AB751779D4B8A14A
+SDN 003 TELEN,30405102,SD,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,8,3,114,6,6,0,0,15,03 Mar 2026 03:41:21,7F2F8D7BB8FEAA145B8E
+SDN 004 TELEN,30405103,SD,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,6,6,66,6,6,0,1,30,09 Apr 2026 09:06:35,FDBC460EA3E8F50677B8
+SDN 005 TELEN,30400869,SD,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,11,6,190,8,13,1,2,17,30 Apr 2026 10:34:19,C90FCD9FFE8E9026E832
+SDN 006 TELEN,30400879,SD,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,11,2,209,8,6,0,1,33,23 Apr 2026 09:32:55,F19E4CE34190BB3453B2
+SDN 007 TELEN,30400874,SD,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,12,7,191,8,7,0,1,22,29 Apr 2026 08:50:39,E5321AA90848FFC0EBDE
+SD ASTRA AGRO LESTARI SCHOOL TELEN,30407759,SD,Swasta,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,17,3,586,16,17,2,2,33,30 Apr 2026 06:58:41,66CDED13D2F8ED6A8864
+SD EKA TJIPTA 01 TELEN,69986506,SD,Swasta,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,15,2,198,12,12,0,1,21,02 May 2026 08:51:48,B8626E1E16D77A6FD51C
+SMP NEGERI 1 TELEN,30404416,SMP,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,9,4,126,5,6,2,1,25,30 Apr 2026 13:51:04,8CC349FAE32D627EC77B
+SMP NEGERI 3 TELEN,30407399,SMP,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,8,4,85,3,6,1,1,12,28 Apr 2026 07:47:14,E5EB5BCB4760F80E2F85
+SMPN 2 TELEN,30407407,SMP,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,6,1,65,3,3,1,1,36,02 May 2026 08:56:13,35029129769F660F07D4
+SMP KARYA NUSA LESTARI TELEN,69949312,SMP,Swasta,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,13,2,216,8,9,2,1,44,10 Apr 2026 09:46:24,BEF515B346B8640033D9
+SMKN 1 TELEN,30405624,SMK,Negeri,Kec. Telen,161012,Kab. Kutai Timur,161000,Prov. Kalimantan Timur,160000,17,3,137,6,5,5,1,18,30 Apr 2026 19:12:23,EF95BA62AA6BF93576F8

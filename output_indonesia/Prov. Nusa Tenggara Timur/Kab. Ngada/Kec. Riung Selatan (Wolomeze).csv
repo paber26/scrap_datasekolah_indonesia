@@ -1,0 +1,17 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+UPTD SD INPRES KURUBHOKO,50303016,SD,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,9,2,92,6,6,0,1,23,10 Apr 2026 09:25:20,DC88E71E66A9D3C21EFF
+UPTD SD INPRES MALAFAI,50303026,SD,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,8,2,72,6,6,0,1,14,10 Apr 2026 22:48:55,DFE5A4D00C1862A59794
+UPTD SD INPRES NDEKONDENU,50303041,SD,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,8,3,40,6,6,1,1,52,23 Apr 2026 18:43:22,EAE02E676C737CAFBC8E
+UPTD SD INPRES WUE,50303191,SD,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,10,3,88,6,6,0,1,27,23 Apr 2026 20:08:41,B1F534E8C4EE660E431E
+UPTD SD NEGERI IZE,69787650,SD,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,8,2,57,6,6,0,0,8,09 Apr 2026 10:44:09,8B46DC448317B7FA29F6
+UPTD SD NEGERI MALATALOKOLO,50308485,SD,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,9,2,71,6,6,0,1,19,13 Apr 2026 18:16:48,A971D4BABED2E2477C4A
+SDK KEJA,50303106,SD,Swasta,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,8,2,78,6,7,0,1,14,21 Apr 2026 08:39:50,58CCA623AC657130978E
+SDK POMA,50308484,SD,Swasta,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,7,2,61,6,6,0,1,12,22 Apr 2026 12:07:49,40DBCB0630589D8CAC0C
+SDK TANAWOLO,50302904,SD,Swasta,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,9,3,99,6,6,0,1,25,30 Apr 2026 09:41:10,1DDCE7672FF6D5A1DB72
+SDK WELAS,50302914,SD,Swasta,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,8,2,43,6,6,0,1,65,09 Apr 2026 12:25:54,4959826983BC53121A0F
+SMP NEGERI SATU ATAP KURUBHOKO,50307840,SMP,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,12,3,111,5,7,2,3,14,14 Apr 2026 20:45:20,E3E377D08DB605D185A1
+UPTD SMP NEGERI  SATAP  2 WOLOMEZE,69880591,SMP,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,9,2,29,3,4,1,0,17,22 Apr 2026 11:15:11,DF779289BA7B4745B31F
+UPTD SMP NEGERI  SATAP  3 WOLOMEZE,69880592,SMP,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,13,1,68,3,4,2,1,15,08 Apr 2026 06:39:05,0A1B82B12E683C55C970
+UPTD SMP NEGERI 1 SOA,50302927,SMP,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,12,2,91,3,5,2,2,36,24 Apr 2026 08:51:33,6BA0097087999B015C35
+SMA NEGERI I RESTORASI WOLOMEZE,70010961,SMA,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,15,2,79,4,5,0,0,25,25 Apr 2026 23:23:16,D62C2F8A8C78BB102364
+SMK NEGERI 1 WOLOMEZE,70010042,SMK,Negeri,Kec. Riung Selatan (Wolomeze),241017,Kab. Ngada,241000,Prov. Nusa Tenggara Timur,240000,18,1,37,6,16,2,1,35,17 Apr 2026 07:36:58,370F68EF9EE2BF242B8B

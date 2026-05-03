@@ -1,0 +1,21 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SDN Bangsongan 1,20512811,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,7,2,138,6,6,0,0,22,06 Apr 2026 12:32:31,7D2D9B0B947BB1202D19
+SDN Bangsongan 2,20512810,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,12,2,196,10,15,0,1,77,29 Apr 2026 21:42:30,CFD75BF1E15B9964F14A
+SDN Baye,20512760,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,8,3,109,6,11,0,1,7,06 Mar 2026 13:28:26,16E4D102383E5288A358
+SDN Jambu 1,20512670,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,8,0,78,6,6,0,0,17,30 Apr 2026 11:33:31,28F47F4CF562C953A0BD
+SDN Jambu 2,20512669,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,8,3,136,6,8,1,1,17,10 Apr 2026 19:20:20,13DF84EC3BB33F424322
+SDN Kayenkidul,20511748,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,8,3,163,6,10,0,1,31,24 Apr 2026 23:08:56,69CFB147533C56951EBD
+SDN Mukuh 1,20511771,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,7,2,109,6,6,0,0,21,15 Apr 2026 03:20:57,DAFD677A2898700C30B4
+SDN Nanggungan,20554462,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,7,2,99,6,7,0,1,15,14 Apr 2026 20:00:52,8A834E99B710163270C6
+SDN Padangan 1,20511593,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,8,3,146,7,10,0,1,33,17 Apr 2026 08:26:45,B7C905F3D823ACB42EB5
+SDN Padangan 2,20511592,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,6,3,92,6,9,0,1,25,17 Apr 2026 07:32:23,CBA3678B0F235300FC58
+SDN Padangan 3,20511591,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,8,1,118,6,7,0,1,20,25 Apr 2026 20:56:51,A4F9B19C121375FF5203
+SDN Sambirobyong 1,20511632,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,7,2,84,6,6,0,0,17,13 Apr 2026 14:13:56,EEA45ED14CEC7EA1A1AB
+SDN Sambirobyong 2,20511631,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,8,0,132,6,6,0,1,25,05 Apr 2026 10:23:42,3FD036BC65A50D715F94
+SDN Sekaran,20511627,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,9,0,104,6,7,0,1,17,13 Apr 2026 21:42:13,E39F6822CAFB6DA6E9BD
+SDN Semambung,20511654,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,8,2,82,6,6,0,0,26,06 Apr 2026 07:43:24,5AF2B284D7F667543549
+SDN Senden 1,20511646,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,12,1,186,9,9,0,0,35,02 Apr 2026 07:51:51,7F2086A03A9E5F11D54E
+SDN Sukoharjo,20512056,SD,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,10,3,166,7,8,0,1,19,06 Apr 2026 13:54:15,223F2F84BD7F7CD524AF
+SD ISLAM NU SEKARAN,20577276,SD,Swasta,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,20,1,461,18,22,0,1,8,14 Apr 2026 14:30:17,854E6EA28842D9618E0E
+UPTD SMPN 1 Kayen Kidul,20511841,SMP,Negeri,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,29,5,492,17,16,1,1,36,17 Apr 2026 01:15:41,B3699EE623EFBE153256
+SMP NU ANNAHDLOH KAYEN KIDUL,70040866,SMP,Swasta,Kec. Kayen Kidul,051324,Kab. Kediri,051300,Prov. Jawa Timur,050000,6,1,104,3,8,1,2,15,27 Mar 2026 12:02:05,89AA46D0FCC7B188052D

@@ -1,0 +1,12 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+SD INPRES KARAMAT TITDOY,60202014,SD,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,10,3,54,6,6,0,1,25,07 Mar 2026 10:26:00,E9F36E4676D9E32199AA
+SD NEGERI 1 WAITINA,60202035,SD,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,13,7,122,6,6,0,1,35,24 Apr 2026 07:21:36,E132712230C10CA22871
+SD NEGERI 2 WAITINA,60202036,SD,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,12,4,105,6,6,0,1,30,19 Apr 2026 07:01:16,F3475FE7988F93602ACB
+SD NEGERI KOU,60202039,SD,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,16,11,107,6,6,0,1,45,28 Apr 2026 19:29:16,3E66125F224EAC9DB83C
+SD NEGERI NAFLO,60202256,SD,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,9,9,55,6,6,0,1,43,30 Apr 2026 22:42:56,45F89F30A633D1EBFAF2
+SD NEGERI WAITAMELA,60202233,SD,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,10,3,78,6,6,0,1,56,29 Apr 2026 18:24:35,AC2B462F721083907AC8
+SMP NEGERI 1 MANGOLI TIMUR,60202060,SMP,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,12,6,62,3,5,1,1,25,18 Apr 2026 09:15:21,772A4EEAC42C540FDDA0
+SMP NEGERI 2 SATU ATAP MANGOLI TIMUR,60202556,SMP,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,14,2,28,3,3,0,0,28,22 Apr 2026 12:37:11,85927E7E68FAFF55BDFB
+SMP NEGERI 3 SATU ATAP MANGOLI TIMUR,60205574,SMP,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,12,4,43,3,4,2,1,21,03 Mar 2026 15:19:41,1F5D218CB6120D3E5771
+SMP NEGERI 4 SATU ATAP MANGOLI TIMUR,69851376,SMP,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,16,4,48,3,3,0,1,16,11 Feb 2026 13:57:55,FE7370A9670CDA3EAB97
+SMA NEGERI 3 KEPULAUAN SULA,60202101,SMA,Negeri,Kec. Mangoli Timur,270703,Kab. Kepulauan Sula,270700,Prov. Maluku Utara,270000,16,9,158,6,10,4,1,22,27 Apr 2026 08:04:48,6F41BCA5674DD97A3345
