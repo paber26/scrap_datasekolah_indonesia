@@ -1,0 +1,16 @@
+# Environment
+__pycache__/
+.env
+venv/
+env/
+
+# Output Data (Do not track large generated data)
+output/
+output_indonesia/*
+
+# Exception for source code in output folder
+!output_indonesia/index.html
+
+# VSCode/OS
+.DS_Store
+.vscode/

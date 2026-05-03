@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data Sekolah Nasional - DAPO 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+* {margin:0;padding:0;box-sizing:border-box}
+:root {
+  --bg: #09090b;
+  --surface: rgba(24, 24, 27, 0.7);
+  --card: rgba(39, 39, 42, 0.5);
+  --border: rgba(255, 255, 255, 0.1);
+  --primary: #8b5cf6;
+  --primary-light: #c4b5fd;
+  --accent: #14b8a6;
+  --accent2: #f43f5e;
+  --text: #f8fafc;
+  --text-dim: #94a3b8;
+  --gradient: linear-gradient(135deg, #8b5cf6, #3b82f6, #14b8a6);
+  --glass: blur(16px);
+}
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bg);
+  background-image: 
+    radial-gradient(circle at 15% 50%, rgba(139, 92, 246, 0.15), transparent 25%),
+    radial-gradient(circle at 85% 30%, rgba(20, 184, 166, 0.15), transparent 25%);
+  background-attachment: fixed;
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--primary); }
+
+h1, h2, h3, .num, .filter-btn { font-family: 'Outfit', sans-serif; }
+
+.header {
+  background: rgba(9, 9, 11, 0.7);
+  border-bottom: 1px solid var(--border);
+  padding: 24px 32px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: var(--glass);
+  -webkit-backdrop-filter: var(--glass);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.header h1 {
+  font-size: 32px;
+  font-weight: 800;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  letter-spacing: -0.5px;
+}
+.header p {
+  color: var(--text-dim);
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.header p::before {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 10px var(--accent);
+}
+
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 16px;
+  padding: 24px 32px;
+}
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 20px;
+  text-align: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  backdrop-filter: var(--glass);
+  -webkit-backdrop-filter: var(--glass);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.stat-card:hover {
+  transform: translateY(-5px) scale(1.02);
+  border-color: rgba(139, 92, 246, 0.5);
+  box-shadow: 0 10px 15px -3px rgba(139, 92, 246, 0.2);
+}
+.stat-card .num {
+  font-size: 32px;
+  font-weight: 800;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 4px;
+}
+.stat-card .label {
+  font-size: 12px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+}
+
+.controls {
+  padding: 20px 32px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  background: var(--card);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: var(--glass);
+}
+.search-box {
+  flex: 1;
+  min-width: 260px;
+  position: relative;
+}
+.search-box input {
+  width: 100%;
+  padding: 12px 16px 12px 44px;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  color: var(--text);
+  font-size: 14px;
+  outline: none;
+  transition: all 0.3s ease;
+  font-family: inherit;
+}
+.search-box input:focus {
+  border-color: var(--primary-light);
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.2);
+  background: rgba(0, 0, 0, 0.4);
+}
+.search-box::before {
+  content: '🔍';
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+  opacity: 0.7;
+}
+
+.filter-btn-group {
+  display: flex;
+  gap: 8px;
+}
+.filter-btn {
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(0, 0, 0, 0.2);
+  color: var(--text-dim);
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  letter-spacing: 0.5px;
+}
+.filter-btn:hover {
+  background: rgba(139, 92, 246, 0.1);
+  color: var(--primary-light);
+  border-color: var(--primary-light);
+}
+.filter-btn.active {
+  background: var(--gradient);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);
+}
+
+select {
+  padding: 12px 36px 12px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(0, 0, 0, 0.2);
+  color: var(--text);
+  font-size: 14px;
+  outline: none;
+  cursor: pointer;
+  font-family: inherit;
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%2394a3b8%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px top 50%;
+  background-size: 10px auto;
+  transition: all 0.3s ease;
+  min-width: 180px;
+}
+select:focus {
+  border-color: var(--primary-light);
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.2);
+}
+select:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+select option {
+  background: #18181b;
+  color: var(--text);
+}
+
+.table-wrap {
+  padding: 0 32px 32px;
+  overflow-x: auto;
+}
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 14px;
+}
+thead th {
+  position: sticky;
+  top: 98px;
+  background: rgba(39, 39, 42, 0.95);
+  color: var(--text-dim);
+  font-weight: 600;
+  text-align: left;
+  padding: 16px;
+  border-bottom: 2px solid var(--border);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  cursor: pointer;
+  z-index: 10;
+  transition: color 0.2s;
+  backdrop-filter: var(--glass);
+}
+thead th:hover {
+  color: var(--text);
+}
+tbody tr {
+  transition: background 0.2s ease;
+}
+tbody tr:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+tbody td {
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.badge-sd { background: rgba(20, 184, 166, 0.15); color: #2dd4bf; border: 1px solid rgba(20, 184, 166, 0.3); }
+.badge-smp { background: rgba(139, 92, 246, 0.15); color: #a78bfa; border: 1px solid rgba(139, 92, 246, 0.3); }
+.badge-sma { background: rgba(244, 63, 94, 0.15); color: #fb7185; border: 1px solid rgba(244, 63, 94, 0.3); }
+.badge-smk { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }
+.badge-negeri { background: rgba(16, 185, 129, 0.15); color: #34d399; }
+.badge-swasta { background: rgba(56, 189, 248, 0.15); color: #7dd3fc; }
+
+.count-info {
+  padding: 12px 32px;
+  color: var(--text-dim);
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.no-data {
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--text-dim);
+  font-size: 16px;
+  font-weight: 500;
+}
+.sort-arrow {
+  margin-left: 6px;
+  font-size: 10px;
+  color: var(--primary-light);
+}
+.loader { 
+  border: 3px solid rgba(255,255,255,0.1); 
+  border-top: 3px solid var(--primary-light); 
+  border-radius: 50%; 
+  width: 18px; 
+  height: 18px; 
+  animation: spin 1s linear infinite; 
+  display: inline-block; 
+  vertical-align: middle; 
+  margin-right: 8px; 
+}
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+/* Cell alignments & custom styles */
+.cell-num { font-family: 'Outfit', sans-serif; font-weight: 600; text-align: right; }
+.cell-school { font-weight: 600; color: #fff; }
+
+@media(max-width:768px){
+  .header, .stats-row, .controls, .table-wrap, .count-info { padding-left: 16px; padding-right: 16px; }
+  .stats-row { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .controls { flex-direction: column; align-items: stretch; }
+  select, .search-box input { width: 100%; max-width: 100%; }
+  .filter-btn-group { display: flex; overflow-x: auto; padding-bottom: 8px; width: 100%;}
+  .header h1 { font-size: 26px; }
+  thead th { top: 120px; }
+}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>📚 Data Sekolah Nasional</h1>
+<p>Sumber: DAPO Kemendikdasmen • Semester 2 Tahun 2026</p>
+</div>
+
+<div class="controls">
+    <select id="filterProv"><option value="">Semua Provinsi</option></select>
+    <select id="filterKab" disabled><option value="">Semua Kabupaten/Kota</option></select>
+    <select id="filterKec" disabled><option value="">Semua Kecamatan</option></select>
+    
+    <div style="flex-basis: 100%; height: 0; margin-bottom: 4px;"></div> <!-- Break line -->
+    
+    <div class="search-box"><input type="text" id="search" placeholder="Cari nama sekolah, NPSN..."></div>
+    
+    <div class="filter-btn-group">
+      <button class="filter-btn active" data-jenjang="ALL">Semua</button>
+      <button class="filter-btn" data-jenjang="SD">SD</button>
+      <button class="filter-btn" data-jenjang="SMP">SMP</button>
+      <button class="filter-btn" data-jenjang="SMA">SMA</button>
+      <button class="filter-btn" data-jenjang="SMK">SMK</button>
+    </div>
+    
+    <select id="filterStatus">
+        <option value="">Semua Status</option>
+        <option value="Negeri">Negeri</option>
+        <option value="Swasta">Swasta</option>
+    </select>
+</div>
+
+<div class="stats-row" id="stats">
+  <div class="stat-card"><div class="num">-</div><div class="label">Total Ditampilkan</div></div>
+  <div class="stat-card"><div class="num">-</div><div class="label">Peserta Didik</div></div>
+  <div class="stat-card"><div class="num">-</div><div class="label">Guru / PTK</div></div>
+  <div class="stat-card"><div class="num">-</div><div class="label">SD</div></div>
+  <div class="stat-card"><div class="num">-</div><div class="label">SMP</div></div>
+  <div class="stat-card"><div class="num">-</div><div class="label">SMA</div></div>
+  <div class="stat-card"><div class="num">-</div><div class="label">SMK</div></div>
+</div>
+
+<div class="count-info">
+    <span id="countInfo">Memuat data...</span>
+    <span id="loadingIndicator" style="display:none;"><div class="loader"></div> Mengambil data...</span>
+</div>
+
+<div class="table-wrap">
+<table><thead><tr>
+<th data-col="no">No</th>
+<th data-col="nama_sekolah">Nama Sekolah</th>
+<th data-col="npsn">NPSN</th>
+<th data-col="bentuk_pendidikan">Jenjang</th>
+<th data-col="status_sekolah">Status</th>
+<th data-col="kecamatan">Kecamatan</th>
+<th data-col="kabupaten">Kabupaten/Kota</th>
+<th data-col="provinsi">Provinsi</th>
+<th data-col="jumlah_peserta_didik" style="text-align: right;">Siswa</th>
+<th data-col="jumlah_guru_ptk" style="text-align: right;">Guru</th>
+<th data-col="jumlah_rombel" style="text-align: right;">Rombel</th>
+<th data-col="jumlah_ruang_kelas" style="text-align: right;">R.Kelas</th>
+<th data-col="jumlah_lab" style="text-align: right;">Lab</th>
+<th data-col="jumlah_perpustakaan" style="text-align: right;">Perpus</th>
+<th data-col="sinkron_terakhir">Sinkron Terakhir</th>
+</tr></thead><tbody id="tbody"></tbody></table>
+</div>
+
+<script>
+let wilayahData = {};
+let currentData = [];
+let filtered = [];
+let sortCol = 'nama_sekolah', sortAsc = true, activeJenjang = 'ALL';
+
+const elProv = document.getElementById('filterProv');
+const elKab = document.getElementById('filterKab');
+const elKec = document.getElementById('filterKec');
+const elSearch = document.getElementById('search');
+const elStatus = document.getElementById('filterStatus');
+const elCount = document.getElementById('countInfo');
+const elLoading = document.getElementById('loadingIndicator');
+
+// 1. Fetch Hierarchy Wilayah
+fetch('/api/wilayah')
+    .then(r => r.json())
+    .then(data => {
+        wilayahData = data;
+        // Populate Provinsi
+        Object.keys(data).sort().forEach(p => {
+            elProv.insertAdjacentHTML('beforeend', `<option value="${p}">${p}</option>`);
+        });
+        
+        // Load initial data (no filter)
+        fetchData();
+    });
+
+// Event Listeners Dropdowns
+elProv.addEventListener('change', () => {
+    const prov = elProv.value;
+    elKab.innerHTML = '<option value="">Semua Kabupaten/Kota</option>';
+    elKec.innerHTML = '<option value="">Semua Kecamatan</option>';
+    
+    if(prov) {
+        elKab.disabled = false;
+        Object.keys(wilayahData[prov]).sort().forEach(k => {
+            elKab.insertAdjacentHTML('beforeend', `<option value="${k}">${k}</option>`);
+        });
+    } else {
+        elKab.disabled = true;
+        elKec.disabled = true;
+    }
+    fetchData();
+});
+
+elKab.addEventListener('change', () => {
+    const prov = elProv.value;
+    const kab = elKab.value;
+    elKec.innerHTML = '<option value="">Semua Kecamatan</option>';
+    
+    if(prov && kab) {
+        elKec.disabled = false;
+        wilayahData[prov][kab].forEach(kec => {
+            elKec.insertAdjacentHTML('beforeend', `<option value="${kec}">${kec}</option>`);
+        });
+    } else {
+        elKec.disabled = true;
+    }
+    fetchData();
+});
+
+elKec.addEventListener('change', fetchData);
+
+// 2. Fetch Data from API based on Dropdowns
+function fetchData() {
+    const prov = elProv.value;
+    const kab = elKab.value;
+    const kec = elKec.value;
+    
+    elLoading.style.display = 'block';
+    elCount.textContent = 'Memuat data...';
+    document.getElementById('tbody').innerHTML = '<tr><td colspan="15" class="no-data"><div class="loader"></div> Mengambil data...</td></tr>';
+    
+    const url = new URL(window.location.origin + '/api/sekolah');
+    if(prov) url.searchParams.append('provinsi', prov);
+    if(kab) url.searchParams.append('kabupaten', kab);
+    if(kec) url.searchParams.append('kecamatan', kec);
+    
+    fetch(url)
+        .then(r => r.json())
+        .then(res => {
+            currentData = res.data;
+            let limitedMsg = res.limited ? ` (Dibatasi 5000 baris pertama dari ${res.count.toLocaleString('id')} data untuk mencegah browser freeze)` : '';
+            elCount.dataset.baseText = `Ditemukan ${res.count.toLocaleString('id')} sekolah${limitedMsg}`;
+            applyClientFilters();
+        })
+        .finally(() => {
+            elLoading.style.display = 'none';
+        });
+}
+
+function badge(type, text) {
+  const cls = {'SD':'sd','SMP':'smp','SMA':'sma','SMK':'smk','Negeri':'negeri','Swasta':'swasta'}[text] || '';
+  return `<span class="badge badge-${cls}">${text}</span>`;
+}
+
+function updateStats() {
+  const s = document.getElementById('stats');
+  const total = filtered.length;
+  const siswa = filtered.reduce((a, b) => a + (parseInt(b.jumlah_peserta_didik)||0), 0);
+  const guru = filtered.reduce((a, b) => a + (parseInt(b.jumlah_guru_ptk)||0), 0);
+  const sd = filtered.filter(d => d.bentuk_pendidikan === 'SD').length;
+  const smp = filtered.filter(d => d.bentuk_pendidikan === 'SMP').length;
+  const sma = filtered.filter(d => d.bentuk_pendidikan === 'SMA').length;
+  const smk = filtered.filter(d => d.bentuk_pendidikan === 'SMK').length;
+  s.innerHTML = `
+  <div class="stat-card"><div class="num">${total.toLocaleString('id')}</div><div class="label">Total Ditampilkan</div></div>
+  <div class="stat-card"><div class="num">${siswa.toLocaleString('id')}</div><div class="label">Peserta Didik</div></div>
+  <div class="stat-card"><div class="num">${guru.toLocaleString('id')}</div><div class="label">Guru/PTK</div></div>
+  <div class="stat-card"><div class="num">${sd}</div><div class="label">SD</div></div>
+  <div class="stat-card"><div class="num">${smp}</div><div class="label">SMP</div></div>
+  <div class="stat-card"><div class="num">${sma}</div><div class="label">SMA</div></div>
+  <div class="stat-card"><div class="num">${smk}</div><div class="label">SMK</div></div>`;
+}
+
+function render() {
+  const tbody = document.getElementById('tbody');
+  const sorted = [...filtered].sort((a, b) => {
+    let va = a[sortCol], vb = b[sortCol];
+    if(typeof va === 'number') return sortAsc ? va - vb : vb - va;
+    va = String(va || ''); vb = String(vb || '');
+    return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+  });
+  
+  elCount.textContent = elCount.dataset.baseText + ` | Menampilkan ${filtered.length} di tabel`;
+  
+  if(!sorted.length) { tbody.innerHTML = '<tr><td colspan="15" class="no-data">Tidak ada data yang cocok dengan pencarian pencarian / filter ini.</td></tr>'; return; }
+  
+  tbody.innerHTML = sorted.map((d, i) => `<tr>
+    <td class="cell-num">${i + 1}</td>
+    <td class="cell-school" style="white-space:normal;max-width:280px">${d.nama_sekolah}</td>
+    <td style="font-family: monospace; font-size: 13px;">${d.npsn}</td>
+    <td>${badge('j', d.bentuk_pendidikan)}</td>
+    <td>${badge('s', d.status_sekolah)}</td>
+    <td>${d.kecamatan.replace('Kec. ', '')}</td>
+    <td>${d.kabupaten.replace('Kab. ', '').replace('Kota ', '')}</td>
+    <td>${d.provinsi.replace('Prov. ', '')}</td>
+    <td class="cell-num" style="color: #38bdf8;">${(parseInt(d.jumlah_peserta_didik)||0).toLocaleString('id')}</td>
+    <td class="cell-num" style="color: #a78bfa;">${(parseInt(d.jumlah_guru_ptk)||0).toLocaleString('id')}</td>
+    <td class="cell-num">${d.jumlah_rombel}</td>
+    <td class="cell-num">${d.jumlah_ruang_kelas}</td>
+    <td class="cell-num">${d.jumlah_lab}</td>
+    <td class="cell-num">${d.jumlah_perpustakaan}</td>
+    <td style="font-size:12px;color:var(--text-dim)">${d.sinkron_terakhir || '-'}</td>
+  </tr>`).join('');
+  
+  // Update sort arrows
+  document.querySelectorAll('thead th').forEach(th => {
+    const arrow = th.querySelector('.sort-arrow');
+    if(arrow) arrow.remove();
+    if(th.dataset.col === sortCol) {
+      th.insertAdjacentHTML('beforeend', `<span class="sort-arrow">${sortAsc ? '▲' : '▼'}</span>`);
+    }
+  });
+  updateStats();
+}
+
+function applyClientFilters() {
+  const q = elSearch.value.toLowerCase();
+  const status = elStatus.value;
+  
+  filtered = currentData.filter(d => {
+    if(activeJenjang !== 'ALL' && d.bentuk_pendidikan !== activeJenjang) return false;
+    if(status && d.status_sekolah !== status) return false;
+    if(q && !d.nama_sekolah.toLowerCase().includes(q) && !String(d.npsn).includes(q)) return false;
+    return true;
+  });
+  render();
+}
+
+// Client-side Event Listeners
+elSearch.addEventListener('input', applyClientFilters);
+elStatus.addEventListener('change', applyClientFilters);
+
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeJenjang = btn.dataset.jenjang;
+    applyClientFilters();
+  });
+});
+
+document.querySelectorAll('thead th[data-col]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if(col === 'no') return;
+    if(sortCol === col) sortAsc = !sortAsc;
+    else { sortCol = col; sortAsc = true; }
+    render();
+  });
+});
+
+</script>
+</body>
+</html>
