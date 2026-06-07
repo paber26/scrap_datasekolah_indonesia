@@ -10,7 +10,7 @@ Tujuan dari repositori ini adalah:
 4. Menyediakan antarmuka visual (dashboard web) yang dinamis untuk melihat, mencari, menyortir, dan mem-filter data yang sudah ditarik secara offline.
 
 ## ✨ Fitur Utama
-- **Scraper Sekolah Dapodik** (`scrape_indonesia.py`): Mengambil data dari tingkat Provinsi, Kabupaten, Kecamatan, hingga Sekolah untuk seluruh Indonesia di bawah Kemendikdasmen. Mendukung fitur *resume* apabila proses terhenti di tengah jalan.
+- **Scraper Sekolah Dapodik** (`scrape_dapodik.py`): Mengambil data dari tingkat Provinsi, Kabupaten, Kecamatan, hingga Sekolah untuk seluruh Indonesia di bawah Kemendikdasmen. Mendukung fitur *resume* apabila proses terhenti di tengah jalan.
 - **Scraper Madrasah EMIS Kemenag** (`scrape_emis.py`): Mengunduh data 5 bentuk pendidikan Islam (RA, MI, MTs, MA, MAK) secara paralel (multi-threaded dengan 5 workers per kecamatan) untuk seluruh Indonesia dengan pemetaan wilayah yang sesuai dengan data Dapodik. Mendukung *resume* otomatis dan penanganan kegagalan request yang aman (failed requests will retry/skip and can be resumed).
 - **Generator Web Dashboard** (`generate_web.py`): Bertindak sebagai *local API server* yang membaca file CSV raksasa hasil ekstraksi dengan efisien, serta menyajikan HTML dashboard yang cantik dengan styling moderen, dan langsung menjalankannya di localhost. Terdapat fitur filter berjenjang (Provinsi, Kabupaten, Kecamatan, Jenjang Pendidikan, Status) dan kolom *search*.
 
@@ -26,13 +26,13 @@ pip install requests pandas openpyxl beautifulsoup4
 Proses ini mengambil data sekolah Kemendikdasmen. Data disimpan berjenjang di folder `output_indonesia/` per provinsi dan kabupaten, serta satu CSV gabungan nasional.
 ```bash
 # Menjalankan scraping seluruh Indonesia
-python scrape_indonesia.py
+python scrape_dapodik.py
 
 # Melanjutkan scraping yang terhenti (Resume)
-python scrape_indonesia.py --resume
+python scrape_dapodik.py --resume
 
 # Scraping hanya untuk satu provinsi tertentu
-python scrape_indonesia.py --provinsi "Prov. Jawa Timur"
+python scrape_dapodik.py --provinsi "Prov. Jawa Timur"
 ```
 
 ### 2. Scraping Data Madrasah EMIS Kemenag (RA, MI, MTs, MA, MAK)
@@ -49,7 +49,7 @@ python scrape_emis.py --provinsi "Prov. Jawa Timur"
 ```
 
 ### 3. Menjalankan Dashboard Web Interaktif
-Setelah Anda memiliki data berupa file `data_sekolah_indonesia.csv` di dalam folder `output_indonesia/` (hasil dari `scrape_indonesia.py`), jalankan perintah ini untuk melihat data tersebut dalam bentuk web:
+Setelah Anda memiliki data berupa file `data_sekolah_indonesia.csv` di dalam folder `output_indonesia/` (hasil dari `scrape_dapodik.py`), jalankan perintah ini untuk melihat data tersebut dalam bentuk web:
 ```bash
 python generate_web.py
 ```

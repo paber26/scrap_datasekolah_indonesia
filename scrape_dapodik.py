@@ -17,9 +17,9 @@ Struktur Output:
   └── _progress.json
 
 Usage:
-    python3 scrape_indonesia.py
-    python3 scrape_indonesia.py --resume
-    python3 scrape_indonesia.py --provinsi "Prov. Jawa Timur"
+    python3 scrape_dapodik.py
+    python3 scrape_dapodik.py --resume
+    python3 scrape_dapodik.py --provinsi "Prov. Jawa Timur"
 """
 
 import requests, json, time, os, sys, csv, argparse, re

@@ -16,7 +16,7 @@ HTML_DIR = "output_indonesia"
 
 if not os.path.exists(CSV_PATH):
     print(f"❌ File {CSV_PATH} tidak ditemukan.")
-    print("Pastikan Anda sudah menjalankan scrape_indonesia.py terlebih dahulu.")
+    print("Pastikan Anda sudah menjalankan scrape_dapodik.py terlebih dahulu.")
     exit(1)
 
 print("⏳ Memuat data nasional (mungkin butuh waktu beberapa detik)...")
