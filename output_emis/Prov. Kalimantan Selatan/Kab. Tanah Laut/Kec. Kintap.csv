@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+DARUL ULUM,69963348,RA,SWASTA,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,
+RA MIFTAHUL ULUM,70009942,RA,SWASTA,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,
+MAS MIFTAHUL ULUM,30315144,MA,SWASTA,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,
+MIS HIDAYATUL ATHFAL,60722787,MI,SWASTA,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,
+MIS MIFTAHUL ULUM,60729534,MI,SWASTA,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,
+MIS NURUL IMAN,60722788,MI,SWASTA,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,
+NU DARUL ULUM,69963432,MI,SWASTA,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,
+MTSN 6 TANAH LAUT,30315250,MTs,NEGERI,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,
+MTSS MIFTAHUL ULUM,30315251,MTs,SWASTA,Kec. Kintap,150209,Kab. Tanah Laut,150200,Prov. Kalimantan Selatan,150000,0,0,0,0,0,0,0,0,,

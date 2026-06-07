@@ -1,0 +1,13 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+MA AL-IKHSAN,69994295,MA,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MAS  FATHUL ULUM,69881405,MA,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+RA DARUL MUSTAQIM,70036053,RA,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+RA/BA/TA RA. NURUL HIKAM,69731142,RA,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MIS HIDAYATUSSYAM,60704649,MI,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MIS NURUL HIKAM,60704637,MI,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MIS NURUL HUDA,60704650,MI,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MTS FATHUL ULUM,70034378,MTs,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MTS NURUL HIKAM,69995121,MTs,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MTSS AL-IKHSAN,69787281,MTs,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MTSS AL-MUJAHIDIN,10505117,MTs,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,
+MTSS NURUL ISLAM,10505211,MTs,SWASTA,Kec. Tebing Tinggi,100407,Kab. Tanjung Jabung Barat,100400,Prov. Jambi,100000,0,0,0,0,0,0,0,0,,

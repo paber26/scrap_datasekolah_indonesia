@@ -1,0 +1,10 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+MIN 13 ACEH UTARA,60703240,MI,NEGERI,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MIN 28 ACEH UTARA,60703236,MI,NEGERI,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MIN 36 ACEH UTARA,60703239,MI,NEGERI,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MTSS AL-MUSTAGHFIRIYYAH,60729617,MTs,SWASTA,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MTSS MUHIBBUL WATHAN,10114040,MTs,SWASTA,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MTSS NUDI,10101533,MTs,SWASTA,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+RA BABUL HUDA  AL MUNAWARAH,70044794,RA,SWASTA,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+RA/BA/TA RA.MUHIBBUL WATHAN,69728885,RA,SWASTA,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MAS MEURAH MULIA,10113732,MA,SWASTA,Kec. Meurah Mulia,060305,Kab. Aceh Utara,060300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,

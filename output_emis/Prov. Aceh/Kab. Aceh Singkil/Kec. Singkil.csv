@@ -1,0 +1,7 @@
+﻿nama_sekolah,npsn,bentuk_pendidikan,status_sekolah,kecamatan,kode_kecamatan,kabupaten,kode_kabupaten,provinsi,kode_provinsi,jumlah_guru_ptk,jumlah_pegawai,jumlah_peserta_didik,jumlah_rombel,jumlah_ruang_kelas,jumlah_lab,jumlah_perpustakaan,jumlah_kirim_sinkron,sinkron_terakhir,sekolah_id_enkrip
+MIN 1 ACEH SINGKIL,60703281,MI,NEGERI,Kec. Singkil,061302,Kab. Aceh Singkil,061300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MTSN 1 ACEH SINGKIL,10114079,MTs,NEGERI,Kec. Singkil,061302,Kab. Aceh Singkil,061300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MTSS DARUL HASANAH,10114080,MTs,SWASTA,Kec. Singkil,061302,Kab. Aceh Singkil,061300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+RA/BA/TA DWP DEPAG,69728905,RA,SWASTA,Kec. Singkil,061302,Kab. Aceh Singkil,061300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MAN ACEH SINGKIL,10113669,MA,NEGERI,Kec. Singkil,061302,Kab. Aceh Singkil,061300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
+MAS DARUL HASANAH,10113670,MA,SWASTA,Kec. Singkil,061302,Kab. Aceh Singkil,061300,Prov. Aceh,060000,0,0,0,0,0,0,0,0,,
