@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scraping Data Sekolah Indonesia (Dapodik & EMIS Kemenag)</title>
+    <meta name="description" content="Dokumentasi proyek scraper data sekolah Kemendikdasmen (Dapodik) dan Kemenag (EMIS) seluruh Indonesia dengan visualisasi modern.">
+    
+    <!-- Google Fonts & FontAwesome -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Prism.js Code Highlighting Theme -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+
+    <style>
+        :root {
+            /* Light Theme Palette (Premium Soft HSL) */
+            --bg-color: hsl(220, 30%, 97%);
+            --glass-bg: rgba(255, 255, 255, 0.7);
+            --glass-border: rgba(226, 232, 240, 0.8);
+            --text-color: hsl(222, 47%, 11%);
+            --text-muted: hsl(215, 16%, 47%);
+            --primary: hsl(250, 84%, 54%);
+            --primary-glow: rgba(99, 102, 241, 0.15);
+            --accent: hsl(330, 81%, 60%);
+            --code-bg: hsl(220, 15%, 93%);
+            --sidebar-width: 280px;
+            --shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.06);
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        [data-theme="dark"] {
+            /* Dark Theme Palette (Sleek Space HSL) */
+            --bg-color: hsl(222, 47%, 6%);
+            --glass-bg: rgba(15, 23, 42, 0.6);
+            --glass-border: rgba(51, 65, 85, 0.4);
+            --text-color: hsl(210, 40%, 98%);
+            --text-muted: hsl(215, 20%, 65%);
+            --primary: hsl(250, 95%, 70%);
+            --primary-glow: rgba(129, 140, 248, 0.15);
+            --accent: hsl(330, 95%, 70%);
+            --code-bg: hsl(222, 30%, 12%);
+            --shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: 100px;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            transition: var(--transition);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Ambient Background Decorative Blobs */
+        .ambient-glow {
+            position: fixed;
+            width: 600px;
+            height: 600px;
+            border-radius: 50%;
+            background: radial-gradient(circle, var(--primary-glow) 0%, transparent 70%);
+            z-index: -1;
+            filter: blur(80px);
+            pointer-events: none;
+            transition: var(--transition);
+        }
+
+        .blob-1 { top: -200px; left: -200px; }
+        .blob-2 { bottom: -200px; right: -200px; }
+
+        /* Navigation Header */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 70px;
+            background: var(--glass-bg);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--glass-border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 40px;
+            z-index: 100;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-weight: 700;
+            font-size: 1.25rem;
+            letter-spacing: -0.5px;
+        }
+
+        .logo-icon {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: white;
+            width: 36px;
+            height: 36px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
+        }
+
+        .logo-text span {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .nav-controls {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .theme-btn {
+            background: transparent;
+            border: 1px solid var(--glass-border);
+            color: var(--text-color);
+            width: 40px;
+            height: 40px;
+            border-radius: 12px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            transition: var(--transition);
+            text-decoration: none;
+        }
+
+        .github-btn {
+            background: transparent;
+            border: 1px solid var(--glass-border);
+            color: var(--text-color);
+            height: 40px;
+            padding: 0 16px;
+            border-radius: 12px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            font-size: 0.95rem;
+            font-weight: 500;
+            transition: var(--transition);
+            text-decoration: none;
+        }
+
+        .theme-btn:hover, .github-btn:hover {
+            background: var(--glass-border);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+
+        /* Layout Container */
+        .app-container {
+            display: flex;
+            max-width: 1400px;
+            margin: 100px auto 40px;
+            padding: 0 20px;
+            gap: 40px;
+        }
+
+        /* Sidebar navigation */
+        aside {
+            width: var(--sidebar-width);
+            position: sticky;
+            top: 100px;
+            height: calc(100vh - 140px);
+            overflow-y: auto;
+            padding-right: 15px;
+            flex-shrink: 0;
+        }
+
+        aside::-webkit-scrollbar {
+            width: 4px;
+        }
+        aside::-webkit-scrollbar-thumb {
+            background: var(--glass-border);
+            border-radius: 4px;
+        }
+
+        .sidebar-title {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--text-muted);
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+
+        #toc-content ul {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        #toc-content li {
+            font-size: 0.95rem;
+            transition: var(--transition);
+        }
+
+        #toc-content li.toc-h1 { font-weight: 600; margin-top: 10px; }
+        #toc-content li.toc-h2 { padding-left: 15px; }
+        #toc-content li.toc-h3 { padding-left: 30px; font-size: 0.85rem; color: var(--text-muted); }
+
+        #toc-content a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: var(--transition);
+            display: block;
+            padding: 4px 8px;
+            border-radius: 6px;
+            border-left: 2px solid transparent;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        #toc-content a:hover {
+            color: var(--primary);
+            background: var(--primary-glow);
+        }
+
+        #toc-content a.active {
+            color: var(--primary);
+            font-weight: 600;
+            border-left: 2px solid var(--primary);
+            background: var(--primary-glow);
+        }
+
+        /* Main Content Styling */
+        main {
+            flex-grow: 1;
+            min-width: 0; /* Prevents overflow inside flex child */
+            background: var(--glass-bg);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 50px;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+        }
+
+        /* Markdown Styling inside Main */
+        .markdown-body h1, .markdown-body h2, .markdown-body h3 {
+            color: var(--text-color);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+
+        .markdown-body h1 {
+            font-size: 2.2rem;
+            border-bottom: 2px solid var(--glass-border);
+            padding-bottom: 10px;
+            margin-top: 0;
+            background: linear-gradient(135deg, var(--text-color) 60%, var(--primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .markdown-body h2 {
+            font-size: 1.6rem;
+            border-bottom: 1px solid var(--glass-border);
+            padding-bottom: 8px;
+        }
+
+        .markdown-body h3 { font-size: 1.25rem; }
+
+        .markdown-body p {
+            margin-bottom: 1.25rem;
+            color: var(--text-color);
+            opacity: 0.9;
+        }
+
+        .markdown-body a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            border-bottom: 1px dashed var(--primary);
+            transition: var(--transition);
+        }
+
+        .markdown-body a:hover {
+            border-bottom-style: solid;
+            opacity: 0.8;
+        }
+
+        /* Codeblock Wrappers and Copy Button */
+        .code-block-wrapper {
+            position: relative;
+            margin-bottom: 1.5rem;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+
+        .markdown-body pre {
+            background-color: var(--code-bg) !important;
+            padding: 20px !important;
+            margin: 0 !important;
+            border-radius: 0 !important;
+            overflow-x: auto;
+            font-family: 'Fira Code', monospace;
+            font-size: 0.9rem;
+        }
+
+        .markdown-body code {
+            font-family: 'Fira Code', monospace;
+            font-size: 0.85em;
+            background: var(--code-bg);
+            padding: 3px 6px;
+            border-radius: 6px;
+            color: var(--accent);
+        }
+
+        .markdown-body pre code {
+            padding: 0;
+            background: transparent;
+            color: inherit;
+        }
+
+        .copy-btn {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(4px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #e2e8f0;
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.85rem;
+            transition: var(--transition);
+        }
+
+        .copy-btn:hover {
+            background: rgba(255, 255, 255, 0.25);
+            transform: scale(1.05);
+        }
+
+        .copy-btn.copied {
+            background: #10b981;
+            border-color: #10b981;
+            color: white;
+        }
+
+        /* Tables styling */
+        .markdown-body table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 1.5rem;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid var(--glass-border);
+        }
+
+        .markdown-body th, .markdown-body td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .markdown-body th {
+            background-color: var(--glass-border);
+            font-weight: 600;
+        }
+
+        .markdown-body tr:last-child td {
+            border-bottom: none;
+        }
+
+        /* Lists */
+        .markdown-body ul, .markdown-body ol {
+            margin-bottom: 1.25rem;
+            padding-left: 24px;
+        }
+
+        .markdown-body li {
+            margin-bottom: 0.5rem;
+        }
+
+        /* GitHub-style alerts */
+        .markdown-body blockquote {
+            margin: 1.5rem 0;
+            padding: 16px 20px;
+            border-left: 4px solid var(--primary);
+            background: var(--primary-glow);
+            border-radius: 0 12px 12px 0;
+        }
+
+        .markdown-body blockquote p {
+            margin-bottom: 0;
+            font-weight: 500;
+        }
+
+        /* Responsiveness */
+        @media (max-width: 992px) {
+            aside {
+                display: none;
+            }
+            main {
+                padding: 30px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            header {
+                padding: 0 20px;
+            }
+            .app-container {
+                margin-top: 90px;
+                padding: 0 10px;
+            }
+            main {
+                padding: 20px;
+                border-radius: 16px;
+            }
+            .markdown-body h1 { font-size: 1.75rem; }
+            .markdown-body h2 { font-size: 1.4rem; }
+        }
+    </style>
+</head>
+<body data-theme="light">
+
+    <!-- Ambient Blobs -->
+    <div class="ambient-glow blob-1"></div>
+    <div class="ambient-glow blob-2"></div>
+
+    <!-- Sticky Header -->
+    <header>
+        <div class="logo-container">
+            <div class="logo-icon">
+                <i class="fas fa-university"></i>
+            </div>
+            <div class="logo-text">Scraping <span>Data Sekolah</span></div>
+        </div>
+        <div class="nav-controls">
+            <button class="theme-btn" id="theme-toggle" title="Ubah Tema">
+                <i class="fas fa-moon"></i>
+            </button>
+            <a class="github-btn" href="https://github.com/paber26/scrap_datasekolah_indonesia" target="_blank" title="Buka di GitHub">
+                <i class="fab fa-github"></i>
+                <span>paber26</span>
+            </a>
+        </div>
+    </header>
+
+    <!-- App Content Layout -->
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside>
+            <div class="sidebar-title">Daftar Isi</div>
+            <nav id="toc-content">
+                <!-- TOC dynamically injected here -->
+            </nav>
+        </aside>
+
+        <!-- Main Documentation Display -->
+        <main>
+            <article class="markdown-body" id="readme-content">
+                <!-- Content dynamically injected here -->
+                <div style="text-align: center; padding: 40px; color: var(--text-muted);">
+                    <i class="fas fa-spinner fa-spin fa-2x" style="margin-bottom: 15px;"></i>
+                    <p>Memuat dokumentasi...</p>
+                </div>
+            </article>
+        </main>
+    </div>
+
+    <!-- Marked Library for parsing markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Prism Library for code syntax highlighting -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-bash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+
+    <script>
+        // Theme Toggle Logic
+        const themeToggle = document.getElementById('theme-toggle');
+        const themeIcon = themeToggle.querySelector('i');
+        
+        // Check local storage or default to light theme
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        document.body.setAttribute('data-theme', savedTheme);
+        updateThemeIcon(savedTheme);
+
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = document.body.getAttribute('data-theme');
+            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+            document.body.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateThemeIcon(newTheme);
+        });
+
+        function updateThemeIcon(theme) {
+            if (theme === 'dark') {
+                themeIcon.className = 'fas fa-sun';
+            } else {
+                themeIcon.className = 'fas fa-moon';
+            }
+        }
+
+        // Fetch and Render Markdown
+        fetch('README.md')
+            .then(res => {
+                if (!res.ok) throw new Error('Gagal memuat file README.md');
+                return res.text();
+            })
+            .then(text => {
+                // Parse markdown to HTML
+                const html = marked.parse(text);
+                document.getElementById('readme-content').innerHTML = html;
+
+                // Build Table of Contents
+                renderTOC();
+
+                // Highlight code blocks
+                Prism.highlightAll();
+
+                // Inject Copy-to-Clipboard buttons
+                addCopyButtons();
+            })
+            .catch(err => {
+                document.getElementById('readme-content').innerHTML = `
+                    <div style="text-align: center; color: #ef4444; padding: 40px;">
+                        <i class="fas fa-exclamation-triangle fa-2x" style="margin-bottom: 15px;"></i>
+                        <p style="font-weight: 600;">Gagal memuat dokumentasi</p>
+                        <p style="font-size: 0.9rem; margin-top: 5px;">${err.message}</p>
+                    </div>
+                `;
+            });
+
+        // Function to build TOC outline dynamically
+        function renderTOC() {
+            const container = document.getElementById('toc-content');
+            const headings = document.getElementById('readme-content').querySelectorAll('h1, h2, h3');
+            
+            if (headings.length === 0) {
+                container.innerHTML = '<p style="color: var(--text-muted); font-size: 0.9rem;">Tidak ada outline.</p>';
+                return;
+            }
+
+            let tocHtml = '<ul>';
+            headings.forEach((heading, idx) => {
+                const id = `doc-section-${idx}`;
+                heading.setAttribute('id', id);
+                
+                const text = heading.textContent;
+                const level = heading.tagName.toLowerCase();
+                
+                tocHtml += `<li class="toc-${level}"><a href="#${id}">${text}</a></li>`;
+            });
+            tocHtml += '</ul>';
+            container.innerHTML = tocHtml;
+
+            // TOC link scroll behavior
+            container.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const targetId = link.getAttribute('href').slice(1);
+                    const targetElement = document.getElementById(targetId);
+                    if (targetElement) {
+                        const topOffset = targetElement.getBoundingClientRect().top + window.scrollY - 90;
+                        window.scrollTo({
+                            top: topOffset,
+                            behavior: 'smooth'
+                        });
+                    }
+                });
+            });
+
+            // Scrollspy active state logic
+            const observerOptions = {
+                root: null,
+                rootMargin: '-80px 0px -60% 0px',
+                threshold: 0
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const activeId = entry.target.getAttribute('id');
+                        container.querySelectorAll('a').forEach(link => {
+                            if (link.getAttribute('href') === `#${activeId}`) {
+                                link.classList.add('active');
+                            } else {
+                                link.classList.remove('active');
+                            }
+                        });
+                    }
+                });
+            }, observerOptions);
+
+            headings.forEach(heading => observer.observe(heading));
+        }
+
+        // Add copy-to-clipboard functionality to Prism pre elements
+        function addCopyButtons() {
+            const preBlocks = document.querySelectorAll('pre');
+            preBlocks.forEach(pre => {
+                // Wrap pre in code-block-wrapper
+                const wrapper = document.createElement('div');
+                wrapper.className = 'code-block-wrapper';
+                pre.parentNode.insertBefore(wrapper, pre);
+                wrapper.appendChild(pre);
+
+                // Create copy button
+                const btn = document.createElement('button');
+                btn.className = 'copy-btn';
+                btn.innerHTML = '<i class="far fa-copy"></i>';
+                btn.title = "Salin Kode";
+                wrapper.appendChild(btn);
+
+                btn.addEventListener('click', () => {
+                    const code = pre.querySelector('code').textContent;
+                    navigator.clipboard.writeText(code).then(() => {
+                        btn.innerHTML = '<i class="fas fa-check"></i>';
+                        btn.classList.add('copied');
+                        setTimeout(() => {
+                            btn.innerHTML = '<i class="far fa-copy"></i>';
+                            btn.classList.remove('copied');
+                        }, 2000);
+                    });
+                });
+            });
+        }
+    </script>
+</body>
+</html>
